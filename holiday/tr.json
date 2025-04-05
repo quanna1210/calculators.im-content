@@ -1,0 +1,95 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Yeni Yıl",
+                "type": "official",
+                "date": "01-01",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 2,
+                "title": "Ulusal Egemenlik ve Çocuk Bayramı",
+                "type": "official",
+                "date": "04-23",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 3,
+                "title": "Emek ve Dayanışma Günü",
+                "type": "official",
+                "date": "05-01",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 4,
+                "title": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+                "type": "official",
+                "date": "05-19",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 5,
+                "title": "Demokrasi ve Millî Birlik Günü",
+                "type": "official",
+                "date": "07-15",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 6,
+                "title": "Zafer Bayramı",
+                "type": "official",
+                "date": "08-30",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 7,
+                "title": "Cumhuriyet Bayramı Arifesi",
+                "type": "official",
+                "date": "10-28",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 8,
+                "title": "Cumhuriyet Bayramı",
+                "type": "official",
+                "date": "10-29",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 9,
+                "title": "Ramazan Bayramı",
+                "type": "unofficial",
+                "date": "variable",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 10,
+                "title": "Kurban Bayramı",
+                "type": "unofficial",
+                "date": "variable",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            }
+        ],
+        "nation": []
+    }

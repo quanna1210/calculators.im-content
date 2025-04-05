@@ -1,0 +1,77 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Новый год",
+                "type": "official",
+                "date": "01-01",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 2,
+                "title": "Рождество Христово",
+                "type": "official",
+                "date": "01-07",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 3,
+                "title": "День защитника Отечества",
+                "type": "official",
+                "date": "02-23",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 4,
+                "title": "Международный женский день",
+                "type": "official",
+                "date": "03-08",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 5,
+                "title": "День Победы",
+                "type": "official",
+                "date": "05-09",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 6,
+                "title": "День России",
+                "type": "official",
+                "date": "06-12",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 7,
+                "title": "День народного единства",
+                "type": "official",
+                "date": "11-04",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 8,
+                "title": "Старый Новый год",
+                "type": "unofficial",
+                "date": "01-14",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 0
+            }
+        ],
+        "nation": []
+    }

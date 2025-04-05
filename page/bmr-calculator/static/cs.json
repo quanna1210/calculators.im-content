@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Kalkulačka BMR",
+        "Stáří",
+        "Zadejte věk",
+        "Pohlaví",
+        "Samec",
+        "Žena",
+        "Výška",
+        "Zadejte výšku",
+        "Hmotnost",
+        "Zadejte váhu",
+        "Vypočítat",
+        "Načítání",
+        "Výsledek",
+        "kalorie",
+        "den",
+        "Denní potřeby kalorií založené na úrovni aktivity",
+        "Sedavé: malé nebo žádné cvičení",
+        "Cvičení 1-3krát/týden",
+        "Cvičení 3-5krát za týden",
+        "Intenzivní cvičení 6-7krát/týden",
+        "Velmi intenzivní cvičení denně nebo fyzická práce",
+        "Cvičení",
+        "15-30 minut zvýšené aktivity srdeční frekvence",
+        "Intenzivní cvičení",
+        "45-120 minut zvýšené aktivity srdeční frekvence",
+        "Velmi intenzivní cvičení",
+        "2+ hodin zvýšené srdeční aktivity"
+    ]
+}

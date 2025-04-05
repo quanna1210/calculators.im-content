@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calculadora BMR",
+        "Idade",
+        "Entrar na idade",
+        "Gênero",
+        "Macho",
+        "Fêmea",
+        "Altura",
+        "Digite a altura",
+        "Peso",
+        "Digite peso",
+        "Calcular",
+        "Carregando",
+        "Resultado",
+        "calorias",
+        "dia",
+        "Necessidades diárias de calorias com base no nível de atividade",
+        "Sedentário: pouco ou nenhum exercício",
+        "Exercício 1-3 vezes/semana",
+        "Exercício 3-5 vezes/semana",
+        "Exercício intenso 6-7 vezes/semana",
+        "Exercício muito intenso diariamente, ou trabalho físico",
+        "Exercício",
+        "15-30 minutos de atividade de freqüência cardíaca elevada",
+        "Exercício intenso",
+        "45-120 minutos de atividade da freqüência cardíaca elevada",
+        "Exercício muito intenso",
+        "Mais de 2 horas de atividade da freqüência cardíaca elevada"
+    ]
+}

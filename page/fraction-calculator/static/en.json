@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Fraction Calculator",
+        "Calculate",
+        "Loading",
+        "Erase",
+        "Explanation",
+        "Denominator cannot be zero",
+        "Step 1",
+        "Calculate the numerator",
+        "Calculate the denominator",
+        "Multiply the numerators",
+        "Multiply the denominators",
+        "Multiply the first numerator by the second denominator",
+        "Multiply the first denominator by the second numerator",
+        "Simplify the fraction by dividing both the numerator and denominator by the greatest common divisor (GCD)",
+        "Result"
+    ]
+}

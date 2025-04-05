@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calculator BMR",
+        "Vârstă",
+        "Intră în vârstă",
+        "Gen",
+        "Bărbat",
+        "Femeie",
+        "Înălţime",
+        "Introduceți înălțimea",
+        "Greutate",
+        "Introduceți în greutate",
+        "Calcula",
+        "Încărcare",
+        "Rezultat",
+        "Calorii",
+        "zi",
+        "Nevoile zilnice de calorii în funcție de nivelul activității",
+        "Sedentar: puțin sau deloc exercițiu",
+        "Exercițiu de 1-3 ori/săptămână",
+        "Exercițiu de 3-5 ori/săptămână",
+        "Exercițiu intens de 6-7 ori/săptămână",
+        "Exercițiu foarte intens zilnic sau un loc de muncă fizic",
+        "Exercita",
+        "15-30 minute de activitate ridicată a ritmului cardiac",
+        "Exercițiu intens",
+        "45-120 minute de activitate ridicată a ritmului cardiac",
+        "Exercițiu foarte intens",
+        "2+ ore de activitate ridicată a ritmului cardiac"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Breukcalculator",
+        "Berekenen",
+        "Laden",
+        "Wissen",
+        "Uitleg",
+        "Resultaat",
+        "Stap 1: Converteer de gemengde getallen naar onechte breuken.",
+        "Eerste gemengd nummer",
+        "Onjuiste breuk",
+        "Tweede gemengd nummer",
+        "Stap 2: Voer de optelling uit.",
+        "Formule: (teller1 * noemer2) + (teller2 * noemer1)",
+        "Berekening",
+        "Stap 2: Voer aftrekken uit.",
+        "Formule: (teller1 * noemer2) - (teller2 * noemer1)",
+        "Stap 2: Voer vermenigvuldiging uit.",
+        "Formule: teller1 * teller2, noemer1 * noemer2",
+        "Stap 2: Voer deling uit.",
+        "Formule: teller1 * noemer2, noemer1 * teller2",
+        "Stap 3: Vereenvoudig het resultaat indien mogelijk.",
+        "Resultaat vóór vereenvoudiging",
+        "Grootste gemene deler (GCD)",
+        "Vereenvoudigd resultaat",
+        "Stap 4: Converteer het resultaat indien van toepassing terug naar het gemengde getalformaat.",
+        "Resultaat gemengd getal"
+    ]
+}

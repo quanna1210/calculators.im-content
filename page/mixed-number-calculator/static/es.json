@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Calculadora de fracciones",
+        "Calcular",
+        "Cargando",
+        "Borrar",
+        "Explicación",
+        "Resultado",
+        "Paso 1: convierte los números mixtos a fracciones impropias.",
+        "primer numero mixto",
+        "fracción impropia",
+        "Segundo numero mixto",
+        "Paso 2: realizar la suma.",
+        "Fórmula: (numerador1 * denominador2) + (numerador2 * denominador1)",
+        "Cálculo",
+        "Paso 2: realiza la resta.",
+        "Fórmula: (numerador1 * denominador2) - (numerador2 * denominador1)",
+        "Paso 2: Realiza la multiplicación.",
+        "Fórmula: numerador1 * numerador2, denominador1 * denominador2",
+        "Paso 2: realizar la división.",
+        "Fórmula: numerador1 * denominador2, denominador1 * numerador2",
+        "Paso 3: simplifica el resultado si es posible.",
+        "Resultado antes de la simplificación",
+        "Máximo común divisor (MCD)",
+        "Resultado simplificado",
+        "Paso 4: convierta el resultado nuevamente al formato de números mixtos, si corresponde.",
+        "Resultado de números mixtos"
+    ]
+}

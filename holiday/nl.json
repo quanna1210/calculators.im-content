@@ -1,0 +1,95 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Nieuwjaarsdag",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Goede Vrijdag",
+                "type": "official",
+                "date": "03-29",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Eerste Paasdag",
+                "type": "official",
+                "date": "03-31",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Tweede Paasdag",
+                "type": "official",
+                "date": "04-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Koningsdag",
+                "type": "official",
+                "date": "04-27",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Bevrijdingsdag",
+                "type": "official",
+                "date": "05-05",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Eerste Pinksterdag",
+                "type": "official",
+                "date": "05-19",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Tweede Pinksterdag",
+                "type": "official",
+                "date": "05-20",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Eerste Kerstdag",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Tweede Kerstdag",
+                "type": "official",
+                "date": "12-26",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

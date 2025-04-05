@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Törtszámítógép",
+        "Számítsa ki",
+        "Terhelés",
+        "Törlés",
+        "Magyarázat",
+        "A nevező nem lehet nulla",
+        "1. lépés",
+        "Számítsa ki a számlálót",
+        "Számítsa ki a nevezőt",
+        "Szorozzuk meg a számlálókat",
+        "Szorozzuk meg a nevezőket",
+        "Szorozzuk meg az első számlálót a második nevezővel",
+        "Szorozzuk meg az első nevezőt a második számlálóval",
+        "Egyszerűsítse a törtet úgy, hogy a számlálót és a nevezőt is elosztja a legnagyobb közös osztóval (GCD)",
+        "Eredmény"
+    ]
+}

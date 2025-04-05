@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Datumsrechner",
+        "Berechnen Sie die Anzahl der Tage zwischen zwei Daten",
+        "Startdatum",
+        "Enddatum",
+        "Laden",
+        "Berechnen",
+        "Ergebnis",
+        "Tage",
+        "Wochenende",
+        "Feier",
+        "Feiertage",
+        "Liste ausblenden",
+        "Liste anzeigen",
+        "Liste",
+        "Werktage",
+        "Listenfeier",
+        "Datum",
+        "Datumsname",
+        "Einstellung",
+        "Jahre",
+        "Monate",
+        "Wochen",
+        "Tage",
+        "Das eingegebene Startdatum ist falsch",
+        "Enddatum falsch eingegeben",
+        "Addieren/Subtrahieren Sie Tage von einem bestimmten Datum",
+        "Berechnungsgrenze in 1000 Jahren"
+    ]
+}

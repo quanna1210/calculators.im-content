@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Calculateur de fractions",
+        "Calculer",
+        "Chargement",
+        "Effacer",
+        "Explication",
+        "Résultat",
+        "Étape 1 : Convertissez les nombres fractionnaires en fractions impropres.",
+        "Premier numéro mixte",
+        "Fraction impropre",
+        "Deuxième numéro mixte",
+        "Étape 2 : Effectuez l'ajout.",
+        "Formule : (numérateur1 * dénominateur2) + (numérateur2 * dénominateur1)",
+        "Calcul",
+        "Étape 2 : Effectuez la soustraction.",
+        "Formule : (numérateur1 * dénominateur2) - (numérateur2 * dénominateur1)",
+        "Étape 2 : Effectuez la multiplication.",
+        "Formule : numérateur1 * numérateur2, dénominateur1 * dénominateur2",
+        "Étape 2 : Effectuez la division.",
+        "Formule : numérateur1 * dénominateur2, dénominateur1 * numérateur2",
+        "Étape 3 : Simplifiez le résultat si possible.",
+        "Résultat avant simplification",
+        "Plus grand diviseur commun (PGCD)",
+        "Résultat simplifié",
+        "Étape 4 : reconvertissez le résultat au format de nombres mixtes, le cas échéant.",
+        "Résultat nombre mixte"
+    ]
+}

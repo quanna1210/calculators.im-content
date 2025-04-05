@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Máy tính phân số",
+        "Tính toán",
+        "Đang tải",
+        "Xóa",
+        "Giải thích",
+        "Kết quả",
+        "Bước 1: Chuyển hỗn số thành phân số không chính xác.",
+        "Hỗn số đầu tiên",
+        "Phân số không chính xác",
+        "Hỗn số thứ hai",
+        "Bước 2: Thực hiện phép cộng.",
+        "Công thức: (tử số1 * mẫu số2) + (tử số2 * mẫu số1)",
+        "Tính toán",
+        "Bước 2: Thực hiện phép trừ.",
+        "Công thức: (tử số1 * mẫu số2) - (tử số2 * mẫu số1)",
+        "Bước 2: Thực hiện phép nhân.",
+        "Công thức: tử số1 * tử số2, mẫu số1 * mẫu số2",
+        "Bước 2: Thực hiện phép chia.",
+        "Công thức: tử số1 * mẫu số2, mẫu số1 * tử số2",
+        "Bước 3: Đơn giản hóa kết quả nếu có thể.",
+        "Kết quả trước khi đơn giản hóa",
+        "Ước chung lớn nhất (GCD)",
+        "Kết quả đơn giản hóa",
+        "Bước 4: Chuyển đổi kết quả về định dạng hỗn số nếu có.",
+        "Kết quả hỗn số"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kalkulator Pecahan",
+        "Kira",
+        "Memuatkan",
+        "Padam",
+        "Penjelasan",
+        "Hasilnya",
+        "Langkah 1: Tukar nombor bercampur kepada pecahan tak wajar.",
+        "Nombor bercampur pertama",
+        "Pecahan tak wajar",
+        "Nombor campuran kedua",
+        "Langkah 2: Lakukan penambahan.",
+        "Formula: (penbilang1 * penyebut2) + (penbilang2 * penyebut1)",
+        "Pengiraan",
+        "Langkah 2: Lakukan penolakan.",
+        "Formula: (penbilang1 * penyebut2) - (penbilang2 * penyebut1)",
+        "Langkah 2: Lakukan pendaraban.",
+        "Formula: pengangka1 * pengangka2, penyebut1 * penyebut2",
+        "Langkah 2: Lakukan pembahagian.",
+        "Formula: pengangka1 * penyebut2, penyebut1 * pengangka2",
+        "Langkah 3: Permudahkan hasilnya jika boleh.",
+        "Hasil sebelum penyederhanaan",
+        "Pembahagi sepunya terbesar (GCD)",
+        "Hasil yang dipermudahkan",
+        "Langkah 4: Tukarkan keputusan kembali kepada format nombor bercampur jika berkenaan.",
+        "Hasil nombor bercampur"
+    ]
+}

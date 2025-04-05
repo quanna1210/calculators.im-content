@@ -1,0 +1,26 @@
+{
+    "trans": [
+        "Generatore di password",
+        "Includi set di caratteri",
+        "Seleziona uniformemente da",
+        "Tutti i personaggi scelti",
+        "Ogni set scelto",
+        "Lunghezza della password",
+        "Immettere la lunghezza (1-50)",
+        "Selezionare almeno un set di caratteri e immettere una lunghezza valida (1-50)",
+        "Generare",
+        "Caricamento",
+        "Risultato",
+        "Password",
+        "Copia password",
+        "Impossibile copiare",
+        "Forza password",
+        "Entropia password",
+        "bit",
+        "Molto debole",
+        "Debole",
+        "Bene",
+        "Forte",
+        "Molto forte"
+    ]
+}

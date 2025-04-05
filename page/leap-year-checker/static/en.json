@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Leap Year Checker",
+        "Calculate",
+        "Check if a year is a Leap Year",
+        "Find Leap Years in a Range",
+        "Find Next Leap Year",
+        "Year",
+        "Enter year",
+        "Start Year",
+        "Input Start Year",
+        "End Year",
+        "Input End Year",
+        "The year has to be greater than 1582, the first year the Gregorean calendar was employed",
+        "is a leap year",
+        "is not a leap year",
+        "Invalid year",
+        "The end year has to be greater than the start year",
+        "Number of leap years between",
+        "and",
+        "List of leap years between",
+        "The next leap year is",
+        "Calculate",
+        "Loading",
+        "Result"
+    ]
+}

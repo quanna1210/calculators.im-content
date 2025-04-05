@@ -1,0 +1,26 @@
+{
+    "trans": [
+        "Generador de contraseña",
+        "Incluir conjuntos de personajes",
+        "Seleccione uniformemente desde",
+        "Todos los personajes elegidos",
+        "Cada conjunto elegido",
+        "Longitud de la contraseña",
+        "Ingrese la longitud (1-50)",
+        "Seleccione al menos un conjunto de caracteres e ingrese una longitud válida (1-50)",
+        "Generar",
+        "Cargando",
+        "Resultado",
+        "Contraseña",
+        "Copiar contraseña",
+        "No se pudo copiar",
+        "Fuerza de contraseña",
+        "Contropía de contraseña",
+        "brocas",
+        "Muy débil",
+        "Débil",
+        "Bien",
+        "Fuerte",
+        "Acérrimo"
+    ]
+}

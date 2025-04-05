@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Kalkulator BMR",
+        "Wiek",
+        "Wprowadź wiek",
+        "Płeć",
+        "Mężczyzna",
+        "Kobieta",
+        "Wysokość",
+        "Wprowadź wysokość",
+        "Waga",
+        "Wprowadź wagę",
+        "Obliczać",
+        "Załadunek",
+        "Wynik",
+        "kalorie",
+        "dzień",
+        "Codzienne potrzeby kalorii w oparciu o poziom aktywności",
+        "Siedzący: niewielkie lub żadne ćwiczenia",
+        "Ćwiczenie 1-3 razy w tygodniu",
+        "Ćwicz 3-5 razy w tygodniu",
+        "Intensywne ćwiczenia 6-7 razy w tygodniu",
+        "Bardzo intensywne ćwiczenia codziennie lub fizyczna praca",
+        "Ćwiczenia",
+        "15-30 minut podwyższonej aktywności tętna",
+        "Intensywne ćwiczenie",
+        "45-120 minut podwyższonej aktywności tętna",
+        "Bardzo intensywne ćwiczenie",
+        "2+ godziny podwyższonej aktywności tętna"
+    ]
+}

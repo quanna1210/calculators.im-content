@@ -1,0 +1,22 @@
+{
+    "trans": [
+        "Altersrechner",
+        "Geburtsdatum",
+        "Berechnungsdatum",
+        "Berechnen",
+        "Laden",
+        "Ergebnis",
+        "Alter",
+        "Tage",
+        "Std.",
+        "Minuten",
+        "Sekunden",
+        "bis zum nächsten Geburtstag",
+        "Eingabe des Geburtsdatums falsch",
+        "Das eingegebene Berechnungsdatum ist falsch",
+        "Berechnungsgrenze in 1000 Jahren",
+        "Jahre",
+        "Monate",
+        "Geburtsdatum auswählen"
+    ]
+}

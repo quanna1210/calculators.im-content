@@ -1,0 +1,104 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Újév napja",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Nemzeti ünnep",
+                "type": "official",
+                "date": "03-15",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Húsvét",
+                "type": "official",
+                "date": "03-31",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Húsvét hétfő",
+                "type": "official",
+                "date": "04-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "A munka ünnepe",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Pünkösd",
+                "type": "official",
+                "date": "05-19",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Pünkösd hétfő",
+                "type": "official",
+                "date": "05-20",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Szent István napja",
+                "type": "official",
+                "date": "08-20",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Október 23.",
+                "type": "official",
+                "date": "10-23",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Karácsony",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 11,
+                "title": "Karácsony másnapja",
+                "type": "official",
+                "date": "12-26",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

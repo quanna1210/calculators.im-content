@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Calculateur de superficie",
+        "Calculer l'aire d'un rectangle",
+        "Longueur du bord",
+        "Résultat",
+        "Calculer l'aire d'un carré",
+        "Calculer l'aire du triangle",
+        "Méthode 1 : en connaissant la taille de 3 côtés",
+        "Méthode 2 : basée sur la longueur de deux côtés et l'angle entre eux",
+        "Angle",
+        "Méthode 3 : basée sur la longueur et la hauteur de la base",
+        "Longueur du côté inférieur",
+        "Hauteur",
+        "Calculer l'aire d'un cercle",
+        "Rayon",
+        "Calculer l'aire d'une ellipse",
+        "Grand rayon d'arbre",
+        "Petit rayon d'arbre",
+        "Calculer l'aire du trapèze",
+        "Calculer l'aire d'un parallélogramme",
+        "Longueur du côté supérieur",
+        "degré",
+        "Longueur du côté A",
+        "Longueur du côté B",
+        "Longueur du côté C"
+    ]
+}

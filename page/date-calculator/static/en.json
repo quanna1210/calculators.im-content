@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Date Calculator",
+        "Calculate the number of days between 2 dates",
+        "Start Date",
+        "End Date",
+        "Loading",
+        "Calculate",
+        "Result",
+        "days",
+        "Weekend",
+        "Celebration",
+        "holidays",
+        "Hide list",
+        "Show list",
+        "list",
+        "Business Days",
+        "List Celebration",
+        "Date",
+        "Date Name",
+        "Adjustment",
+        "Years",
+        "Months",
+        "Weeks",
+        "Days",
+        "Input start date incorrect",
+        "Input end date incorrect",
+        "Add/Subtract Days from a Specific Date",
+        "Calculation limit in 1000 years"
+    ]
+}

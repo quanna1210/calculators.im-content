@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kalkulačka zlomků",
+        "Vypočítat",
+        "Načítání",
+        "Vymazat",
+        "Vysvětlení",
+        "Výsledek",
+        "Krok 1: Převeďte smíšená čísla na nesprávné zlomky.",
+        "První smíšené číslo",
+        "Nesprávný zlomek",
+        "Druhé smíšené číslo",
+        "Krok 2: Proveďte přidání.",
+        "Vzorec: (čitatel1 * jmenovatel2) + (čitatel2 * jmenovatel1)",
+        "Výpočet",
+        "Krok 2: Proveďte odečítání.",
+        "Vzorec: (čitatel1 * jmenovatel2) - (čitatel2 * jmenovatel1)",
+        "Krok 2: Proveďte násobení.",
+        "Vzorec: čitatel1 * čitatel2, jmenovatel1 * jmenovatel2",
+        "Krok 2: Proveďte rozdělení.",
+        "Vzorec: čitatel1 * jmenovatel2, jmenovatel1 * čitatel2",
+        "Krok 3: Pokud je to možné, zjednodušte výsledek.",
+        "Výsledek před zjednodušením",
+        "Největší společný dělitel (GCD)",
+        "Zjednodušený výsledek",
+        "Krok 4: Pokud je to možné, převeďte výsledek zpět do smíšeného číselného formátu.",
+        "Výsledek smíšeného čísla"
+    ]
+}

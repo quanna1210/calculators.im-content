@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Sprongjaarcontrole",
+        "Berekenen",
+        "Controleer of een jaar een sprongjaar is",
+        "Vind sprongjaren in een bereik",
+        "Vind het volgende sprongjaar",
+        "Jaar",
+        "Voer het jaar in",
+        "Begin jaar",
+        "Input Start Year",
+        "Eindjaar",
+        "Input eindejaar",
+        "Het jaar moet groter zijn dan 1582, het eerste jaar dat de Gregoreaanse kalender werd gebruikt",
+        "is een sprongjaar",
+        "is geen sprongjaar",
+        "Ongeldig jaar",
+        "Het eindjaar moet groter zijn dan het beginjaar",
+        "Aantal sprongjaren tussen",
+        "En",
+        "Lijst van sprongjaren tussen",
+        "Het volgende sprongjaar is",
+        "Berekenen",
+        "Laden",
+        "Berekenen",
+        "Laden",
+        "Resultaat"
+    ]
+}

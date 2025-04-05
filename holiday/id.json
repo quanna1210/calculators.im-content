@@ -1,0 +1,114 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Hari Raya Imlek",
+                "type": "official",
+                "date": "02-10",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Hari Kemerdekaan",
+                "type": "official",
+                "date": "08-17",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Hari Natal",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Hari Buruh",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Hari Valentine",
+                "type": "unofficial",
+                "date": "02-14",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Hari Perempuan Internasional",
+                "type": "unofficial",
+                "date": "03-08",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Hari Anak Sedunia",
+                "type": "unofficial",
+                "date": "11-20",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Halloween",
+                "type": "unofficial",
+                "date": "10-31",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Tahun Baru Masehi",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": [
+            {
+                "id": 1,
+                "title": "Tahun Baru Imlek",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Hari Raya Puasa",
+                "type": "official",
+                "date": "03-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Hari Raya Haji",
+                "type": "official",
+                "date": "05-10",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ]
+    }

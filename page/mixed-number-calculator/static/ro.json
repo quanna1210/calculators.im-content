@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Calculator de fracțiuni",
+        "Calcula",
+        "Încărcare",
+        "Şterge",
+        "Explicaţie",
+        "Rezultat",
+        "Pasul 1: Convertiți numerele mixte în fracții improprii.",
+        "Primul număr mixt",
+        "Fracție improprie",
+        "Al doilea număr mixt",
+        "Pasul 2: Efectuați adăugarea.",
+        "Formula: (numărător1 * numitor2) + (numărător2 * numitor1)",
+        "Calcul",
+        "Pasul 2: Efectuați scăderea.",
+        "Formula: (numărător1 * numitor2) - (numărător2 * numitor1)",
+        "Pasul 2: Efectuați înmulțirea.",
+        "Formula: numărător1 * numărător2, numitor1 * numitor2",
+        "Pasul 2: Efectuați împărțirea.",
+        "Formula: numărător1 * numitor2, numitor1 * numărător2",
+        "Pasul 3: Simplificați rezultatul dacă este posibil.",
+        "Rezultat înainte de simplificare",
+        "Cel mai mare divizor comun (GCD)",
+        "Rezultat simplificat",
+        "Pasul 4: convertiți rezultatul înapoi în format de număr mixt, dacă este cazul.",
+        "Rezultat număr mixt"
+    ]
+}

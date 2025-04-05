@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calcolatrice BMR",
+        "Età",
+        "Inserisci l'età",
+        "Genere",
+        "Maschio",
+        "Femmina",
+        "Altezza",
+        "Inserisci l'altezza",
+        "Peso",
+        "Inserisci peso",
+        "Calcolare",
+        "Caricamento",
+        "Risultato",
+        "calorie",
+        "giorno",
+        "Bisogni calorici quotidiani in base al livello di attività",
+        "Sedentario: poco o nessun esercizio",
+        "Esercizio 1-3 volte/settimana",
+        "Esercizio 3-5 volte/settimana",
+        "Esercizio intenso 6-7 volte/settimana",
+        "Esercizio molto intenso quotidianamente o lavoro fisico",
+        "Esercizio",
+        "15-30 minuti di attività di frequenza cardiaca elevata",
+        "Esercizio intenso",
+        "45-120 minuti di elevata attività di frequenza cardiaca",
+        "Esercizio molto intenso",
+        "2+ ore di attività di frequenza cardiaca elevata"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Calculateur de fractions",
+        "Calculer",
+        "Chargement",
+        "Effacer",
+        "Explication",
+        "Le dénominateur ne peut pas être nul",
+        "Étape 1",
+        "Calculer le numérateur",
+        "Calculer le dénominateur",
+        "Multipliez les numérateurs",
+        "Multipliez les dénominateurs",
+        "Multipliez le premier numérateur par le deuxième dénominateur",
+        "Multipliez le premier dénominateur par le deuxième numérateur",
+        "Simplifiez la fraction en divisant le numérateur et le dénominateur par le plus grand commun diviseur (PGCD)",
+        "Résultat"
+    ]
+}

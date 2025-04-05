@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Kalkulačka data",
+        "Vypočítejte počet dní mezi 2 daty",
+        "Datum zahájení",
+        "Datum ukončení",
+        "Načítání",
+        "Vypočítat",
+        "Výsledek",
+        "dní",
+        "Víkend",
+        "Oslava",
+        "dovolená",
+        "Skrýt seznam",
+        "Zobrazit seznam",
+        "seznam",
+        "Obchodní dny",
+        "Oslava seznamu",
+        "Datum",
+        "Datum Název",
+        "Nastavení",
+        "let",
+        "měsíce",
+        "týdny",
+        "Dny",
+        "Nesprávné zadání počátečního data",
+        "Zadejte nesprávné datum ukončení",
+        "Přidat/odečíst dny od určitého data",
+        "Limit výpočtu za 1000 let"
+    ]
+}

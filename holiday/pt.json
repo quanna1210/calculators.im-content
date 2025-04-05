@@ -1,0 +1,122 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Ano Novo",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Dia de Reis",
+                "type": "official",
+                "date": "01-06",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Páscoa",
+                "type": "official",
+                "date": "03-31",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Dia da Liberdade",
+                "type": "official",
+                "date": "04-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Dia do Trabalhador",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Dia de Portugal",
+                "type": "official",
+                "date": "06-10",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Assunção de Nossa Senhora",
+                "type": "official",
+                "date": "08-15",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Implantação da República",
+                "type": "official",
+                "date": "10-05",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Todos os Santos",
+                "type": "official",
+                "date": "11-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Dia de Finados",
+                "type": "official",
+                "date": "11-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 11,
+                "title": "Restauração da Independência",
+                "type": "official",
+                "date": "12-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 12,
+                "title": "Dia de Nossa Senhora da Conceição",
+                "type": "official",
+                "date": "12-08",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 13,
+                "title": "Natal",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

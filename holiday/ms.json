@@ -1,0 +1,141 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Merdeka Day",
+                "type": "official",
+                "date": "08-31",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Malaysia Day",
+                "type": "official",
+                "date": "09-16",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Hari Natal",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Hari Valentine",
+                "type": "unofficial",
+                "date": "02-14",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Hari Perempuan Internasional",
+                "type": "unofficial",
+                "date": "03-08",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Hari Buruh",
+                "type": "unofficial",
+                "date": "05-01",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Halloween",
+                "type": "unofficial",
+                "date": "10-31",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Hari Anak Sedunia",
+                "type": "unofficial",
+                "date": "11-20",
+                "is_rest": 0,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Hari Gawai",
+                "type": "official",
+                "date": "06-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Hari Gawai",
+                "type": "official",
+                "date": "06-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 11,
+                "title": "Tahun Baru Gregorian",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": [
+            {
+                "id": 1,
+                "title": "Hari Raya Imlek",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Hari Raya Puasa",
+                "type": "official",
+                "date": "03-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Hari Raya Haji",
+                "type": "official",
+                "date": "05-10",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Awal Muharram",
+                "type": "official",
+                "date": "05-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ]
+    }

@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Törtszámítógép",
+        "Számítsa ki",
+        "Terhelés",
+        "Törlés",
+        "Magyarázat",
+        "Eredmény",
+        "1. lépés: Alakítsa át a vegyes számokat helytelen törtté.",
+        "Első vegyes szám",
+        "Nem megfelelő tört",
+        "Második vegyes szám",
+        "2. lépés: Hajtsa végre a hozzáadást.",
+        "Képlet: (számláló1 * nevező2) + (számláló2 * nevező1)",
+        "Számítás",
+        "2. lépés: Hajtsa végre a kivonást.",
+        "Képlet: (számláló1 * nevező2) - (számláló2 * nevező1)",
+        "2. lépés: Hajtsa végre a szorzást.",
+        "Képlet: számláló1 * számláló2, nevező1 * nevező2",
+        "2. lépés: Hajtsa végre a felosztást.",
+        "Képlet: számláló1 * nevező2, nevező1 * számláló2",
+        "3. lépés: Ha lehetséges, egyszerűsítse az eredményt.",
+        "Eredmény az egyszerűsítés előtt",
+        "Legnagyobb közös osztó (GCD)",
+        "Egyszerűsített eredmény",
+        "4. lépés: Alakítsa vissza az eredményt vegyes számformátumba, ha lehetséges.",
+        "Vegyes számú eredmény"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Checker de año bisiesto",
+        "Calcular",
+        "Compruebe si un año es un año bisiesto",
+        "Encuentra años de salto en un rango",
+        "Encuentra el próximo año de salto",
+        "Año",
+        "Entrar en el año",
+        "Año inicial",
+        "Año de inicio de entrada",
+        "Año final",
+        "Año final año",
+        "El año tiene que ser mayor que 1582, el primer año que se empleó el calendario gregoriano",
+        "es un año bisiesto",
+        "no es un año bisiesto",
+        "Año no válido",
+        "El año final tiene que ser mayor que el año de inicio",
+        "Número de años bisiestos entre",
+        "y",
+        "Lista de años de salto entre",
+        "El próximo año de salto es",
+        "Calcular",
+        "Cargando",
+        "Resultado"
+    ]
+}

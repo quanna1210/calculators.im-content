@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Fraction Calculator",
+        "Calculate",
+        "Loading",
+        "Erase",
+        "Explanation",
+        "Result",
+        "Step 1: Convert the mixed numbers to improper fractions.",
+        "First mixed number",
+        "Improper fraction",
+        "Second mixed number",
+        "Step 2: Perform addition.",
+        "Formula: (numerator1 * denominator2) + (numerator2 * denominator1)",
+        "Calculation",
+        "Step 2: Perform subtraction.",
+        "Formula: (numerator1 * denominator2) - (numerator2 * denominator1)",
+        "Step 2: Perform multiplication.",
+        "Formula: numerator1 * numerator2, denominator1 * denominator2",
+        "Step 2: Perform division.",
+        "Formula: numerator1 * denominator2, denominator1 * numerator2",
+        "Step 3: Simplify the result if possible.",
+        "Result before simplification",
+        "Greatest common divisor (GCD)",
+        "Simplified result",
+        "Step 4: Convert the result back to mixed number format if applicable.",
+        "Mixed number result"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Bruchrechner",
+        "Berechnen",
+        "Laden",
+        "Löschen",
+        "Erläuterung",
+        "Ergebnis",
+        "Schritt 1: Wandeln Sie die gemischten Zahlen in unechte Brüche um.",
+        "Erste gemischte Nummer",
+        "Falscher Bruch",
+        "Zweite gemischte Nummer",
+        "Schritt 2: Addition durchführen.",
+        "Formel: (Zähler1 * Nenner2) + (Zähler2 * Nenner1)",
+        "Berechnung",
+        "Schritt 2: Subtraktion durchführen.",
+        "Formel: (Zähler1 * Nenner2) - (Zähler2 * Nenner1)",
+        "Schritt 2: Multiplikation durchführen.",
+        "Formel: Zähler1 * Zähler2, Nenner1 * Nenner2",
+        "Schritt 2: Division durchführen.",
+        "Formel: Zähler1 * Nenner2, Nenner1 * Zähler2",
+        "Schritt 3: Vereinfachen Sie das Ergebnis, wenn möglich.",
+        "Ergebnis vor der Vereinfachung",
+        "Größter gemeinsamer Teiler (GCD)",
+        "Vereinfachtes Ergebnis",
+        "Schritt 4: Konvertieren Sie das Ergebnis ggf. zurück in das gemischte Zahlenformat.",
+        "Gemischtes Zahlenergebnis"
+    ]
+}

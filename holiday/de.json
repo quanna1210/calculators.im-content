@@ -1,0 +1,95 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Neujahrstag",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Karfreitag",
+                "type": "official",
+                "date": "03-29",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Ostermontag",
+                "type": "official",
+                "date": "04-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Tag der Arbeit",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Christi Himmelfahrt",
+                "type": "official",
+                "date": "05-09",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Pfingstmontag",
+                "type": "official",
+                "date": "05-20",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Tag der Deutschen Einheit",
+                "type": "official",
+                "date": "10-03",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Reformationstag",
+                "type": "official",
+                "date": "10-31",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "1. Weihnachtstag",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "2. Weihnachtstag",
+                "type": "official",
+                "date": "12-26",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

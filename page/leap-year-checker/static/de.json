@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Schaltjahrs -Checker",
+        "Berechnen",
+        "Überprüfen Sie, ob ein Jahr ein Schaltjahr ist",
+        "Finden Sie Schaltjahre in einer Reichweite",
+        "Finden Sie das nächste Schaltjahr",
+        "Jahr",
+        "Jahr eingeben",
+        "Jahr beginnen",
+        "Input -Startjahr",
+        "Ende Jahr",
+        "Input -Endjahr",
+        "Das Jahr muss größer als 1582 sein, im ersten Jahr, in dem der Gregoran -Kalender beschäftigt war",
+        "ist ein Schaltjahr",
+        "ist kein Schaltjahr",
+        "Ungültiges Jahr",
+        "Das Endjahr muss größer sein als im Startjahr",
+        "Anzahl der Schaltjahre zwischen",
+        "Und",
+        "Liste der Schaltjahre zwischen",
+        "Das nächste Schaltjahr ist",
+        "Berechnen",
+        "Laden",
+        "Ergebnis"
+    ]
+}

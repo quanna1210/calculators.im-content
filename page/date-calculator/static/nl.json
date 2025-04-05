@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Datumcalculator",
+        "Bereken het aantal dagen tussen 2 datums",
+        "Startdatum",
+        "Einddatum",
+        "Laden",
+        "Berekenen",
+        "Resultaat",
+        "dagen",
+        "Weekend",
+        "Viering",
+        "vakantie",
+        "Lijst verbergen",
+        "Lijst tonen",
+        "lijst",
+        "Werkdagen",
+        "Lijst Viering",
+        "Datum",
+        "Datum naam",
+        "Aanpassing",
+        "Jaren",
+        "Maanden",
+        "Weken",
+        "Dagen",
+        "Invoer startdatum onjuist",
+        "Einddatum ingevoerd onjuist",
+        "Dagen optellen/aftrekken van een specifieke datum",
+        "Berekeningslimiet over 1000 jaar"
+    ]
+}

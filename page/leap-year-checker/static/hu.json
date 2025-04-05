@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Leap Year Checker",
+        "Kiszámít",
+        "Ellenőrizze, hogy egy év ugrás éven van -e",
+        "Keresse meg a ugró éveket egy tartományban",
+        "Keresse meg a következő ugró évet",
+        "Év",
+        "Írja be az évet",
+        "Kezdő év",
+        "Bemenet kezdési év",
+        "Év vége",
+        "Bemeneti év",
+        "Az évnek nagyobbnak kell lennie, mint 1582, az első évben a gregoreai naptár alkalmazása volt",
+        "egy ugró év",
+        "nem ugró év",
+        "Érvénytelen év",
+        "A végső évnek nagyobbnak kell lennie, mint a kezdőévnek",
+        "A ugró évek száma között",
+        "és",
+        "A közé tartó ugrók listája",
+        "A következő ugróév az",
+        "Kiszámít",
+        "Terhelés",
+        "Eredmény"
+    ]
+}

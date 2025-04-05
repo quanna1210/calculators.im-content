@@ -1,0 +1,86 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Πρωτοχρονιά",
+                "type": "official",
+                "date": "01-01",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 2,
+                "title": "Θεοφάνεια",
+                "type": "official",
+                "date": "01-06",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 3,
+                "title": "Καθαρά Δευτέρα",
+                "type": "official",
+                "date": "variable",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 4,
+                "title": "Ευαγγελισμός της Θεοτόκου",
+                "type": "official",
+                "date": "03-25",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 5,
+                "title": "Αναστάσιμος ημέρα",
+                "type": "official",
+                "date": "variable",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 6,
+                "title": "Κοίμηση της Θεοτόκου",
+                "type": "official",
+                "date": "08-15",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 7,
+                "title": "Εθνική Εορτή",
+                "type": "official",
+                "date": "10-28",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 8,
+                "title": "Χριστούγεννα",
+                "type": "official",
+                "date": "12-25",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 9,
+                "title": "Συνάξεις Αγίου Στεφάνου",
+                "type": "official",
+                "date": "12-26",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            }
+        ],
+        "nation": []
+    }

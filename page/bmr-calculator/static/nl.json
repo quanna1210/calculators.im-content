@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "BMR -calculator",
+        "Leeftijd",
+        "Voer de leeftijd in",
+        "Geslacht",
+        "Mannelijk",
+        "Vrouwelijk",
+        "Hoogte",
+        "Voer de hoogte in",
+        "Gewicht",
+        "Wees gewicht",
+        "Berekenen",
+        "Laden",
+        "Resultaat",
+        "calorieën",
+        "dag",
+        "Dagelijkse caloriebehoeften op basis van activiteitsniveau",
+        "Sedentair: weinig of geen oefening",
+        "Oefen 1-3 keer/week",
+        "Oefen 3-5 keer/week",
+        "Intense oefening 6-7 keer/week",
+        "Zeer intense oefening dagelijks, of fysiek werk",
+        "Oefening",
+        "15-30 minuten verhoogde hartslagactiviteit",
+        "Intense oefening",
+        "45-120 minuten verhoogde hartslagactiviteit",
+        "Zeer intense oefening",
+        "2+ uur verhoogde hartslagactiviteit"
+    ]
+}

@@ -1,0 +1,86 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Año Nuevo",
+                "date": "01-01",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 2,
+                "title": "Día de los Reyes",
+                "date": "06-01",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 4,
+                "title": "Día del Trabajador",
+                "date": "01-05",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 5,
+                "title": "Asunción de la Virgen",
+                "date": "15-08",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 6,
+                "title": "Fiesta Nacional de España",
+                "date": "12-10",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 7,
+                "title": "Día de Todos los Santos",
+                "date": "01-11",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 8,
+                "title": "Día de la Constitución",
+                "date": "06-12",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 9,
+                "title": "Inmaculada Concepción",
+                "date": "08-12",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            },
+            {
+                "id": 10,
+                "title": "Navidad",
+                "date": "25-12",
+                "type": "official",
+                "data_type": "date",
+                "data": {},
+                "is_rest": 1
+            }
+        ],
+        "nation": []
+    }

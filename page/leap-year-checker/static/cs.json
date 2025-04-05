@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Leap Year Checker",
+        "Vypočítat",
+        "Zkontrolujte, zda je rok skokem",
+        "Najděte přestupné roky v řadě",
+        "Najděte další přestupný rok",
+        "Rok",
+        "Zadejte rok",
+        "Start rok",
+        "Vstupní rok počátečního roku",
+        "Koncový rok",
+        "Vstupní konec roku",
+        "Rok musí být větší než 1582, první rok byl zaměstnán gregorejský kalendář",
+        "je skokový rok",
+        "není skokový rok",
+        "Neplatný rok",
+        "Konečný rok musí být větší než počáteční rok",
+        "Počet skokových let mezi",
+        "a",
+        "Seznam skokových let",
+        "Další skokový rok je",
+        "Vypočítat",
+        "Načítání",
+        "Výsledek"
+    ]
+}

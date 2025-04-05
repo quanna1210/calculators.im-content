@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calculateur de dates",
+        "Calculer le nombre de jours entre 2 dates",
+        "Date de début",
+        "Date de fin",
+        "Chargement",
+        "Calculer",
+        "Résultat",
+        "jours",
+        "Fin de semaine",
+        "Célébration",
+        "vacances",
+        "Masquer la liste",
+        "Afficher la liste",
+        "liste",
+        "Jours ouvrables",
+        "Célébration de la liste",
+        "Date",
+        "Date Nom",
+        "Ajustement",
+        "Années",
+        "Mois",
+        "Semaines",
+        "Jours",
+        "Date de début saisie incorrecte",
+        "Date de fin saisie incorrecte",
+        "Ajouter/soustraire des jours à partir d'une date spécifique",
+        "Limite de calcul en 1000 ans"
+    ]
+}

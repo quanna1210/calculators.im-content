@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Flächenrechner",
+        "Berechnen Sie die Fläche eines Rechtecks",
+        "Kantenlänge",
+        "Ergebnis",
+        "Berechnen Sie die Fläche eines Quadrats",
+        "Berechnen Sie die Fläche des Dreiecks",
+        "Methode 1: wenn man die Größe von 3 Seiten kennt",
+        "Methode 2: basierend auf der Länge zweier Seiten und dem Winkel zwischen ihnen",
+        "Winkel",
+        "Methode 3: basierend auf Basislänge und -höhe",
+        "Länge der Unterseite",
+        "Höhe",
+        "Berechnen Sie die Fläche eines Kreises",
+        "Radius",
+        "Berechnen Sie die Fläche einer Ellipse",
+        "Großer Schaftradius",
+        "Kleiner Schaftradius",
+        "Berechnen Sie die Fläche des Trapezes",
+        "Berechnen Sie die Fläche eines Parallelogramms",
+        "Länge der Oberseite",
+        "Grad",
+        "Länge der Seite A",
+        "Länge der Seite B",
+        "Länge der Seite C"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Verificador de ano bisselado",
+        "Calcular",
+        "Verifique se um ano é um ano bissexto",
+        "Encontre anos bissextos em um intervalo",
+        "Encontre o próximo ano bisseiro",
+        "Ano",
+        "Digite o ano",
+        "Ano de início",
+        "Ano inicial de entrada",
+        "Final de ano",
+        "END END END ANO",
+        "O ano deve ser maior que 1582, no primeiro ano em que o calendário gregoriano foi empregado",
+        "é um ano bissexto",
+        "não é um ano bissexto",
+        "Ano inválido",
+        "O ano final deve ser maior que o ano de início",
+        "Número de anos bissextos entre",
+        "e",
+        "Lista de anos bissextos entre",
+        "O próximo ano bisseiro é",
+        "Calcular",
+        "Carregando",
+        "Resultado"
+    ]
+}

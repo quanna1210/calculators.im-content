@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Area Calculator",
+        "Calculate the area of ​​a rectangle",
+        "Edge Length",
+        "Result",
+        "Calculate the area of ​​a square",
+        "Calculate the area of ​​the triangle",
+        "Method 1: when knowing the size of 3 sides",
+        "Method 2: based on the length of two sides and the angle between them",
+        "Angle",
+        "Method 3: based on base length and height",
+        "Bottom Side Length",
+        "Height",
+        "Calculate the area of ​​a circle",
+        "Radius",
+        "Calculate the area of ​​an ellipse",
+        "Large Shaft Radius",
+        "Small Shaft Radius",
+        "Calculate the area of ​​the trapezoid",
+        "Calculate the area of ​​a parallelogram",
+        "Top Side Length",
+        "deg",
+        "Length of side A",
+        "Length of side B",
+        "Length of side C"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "BMR -Taschenrechner",
+        "Alter",
+        "Alter betreten",
+        "Geschlecht",
+        "Männlich",
+        "Weiblich",
+        "Höhe",
+        "Höhe eingeben",
+        "Gewicht",
+        "Gewicht eingeben",
+        "Berechnen",
+        "Laden",
+        "Ergebnis",
+        "Kalorien",
+        "Tag",
+        "Tägliche Kalorienbedürfnisse basierend auf Aktivitätsstufe",
+        "Sitzend: wenig oder gar keine Übung",
+        "Übung 1-3 Mal pro Woche",
+        "Übung 3-5 Mal pro Woche",
+        "Intensive Übung 6-7 Mal pro Woche",
+        "Sehr intensive Bewegung täglich oder körperlicher Arbeit",
+        "Übung",
+        "15-30 Minuten erhöhter Herzfrequenzaktivität",
+        "Intensive Übung",
+        "45-120 Minuten erhöhter Herzfrequenzaktivität",
+        "Sehr intensive Übung",
+        "2+ Stunden erhöhter Herzfrequenzaktivität"
+    ]
+}

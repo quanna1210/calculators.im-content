@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kalkulator ułamków",
+        "Obliczać",
+        "Załadunek",
+        "Usuwać",
+        "Wyjaśnienie",
+        "Wynik",
+        "Krok 1: Zamień liczby mieszane na ułamki niewłaściwe.",
+        "Pierwszy numer mieszany",
+        "Niewłaściwy ułamek",
+        "Drugi numer mieszany",
+        "Krok 2: Wykonaj dodawanie.",
+        "Wzór: (licznik1 * mianownik2) + (licznik2 * mianownik1)",
+        "Obliczenie",
+        "Krok 2: Wykonaj odejmowanie.",
+        "Wzór: (licznik1 * mianownik2) - (licznik2 * mianownik1)",
+        "Krok 2: Wykonaj mnożenie.",
+        "Wzór: licznik1 * licznik2, mianownik1 * mianownik2",
+        "Krok 2: Wykonaj dzielenie.",
+        "Wzór: licznik1 * mianownik2, mianownik1 * licznik2",
+        "Krok 3: Jeśli to możliwe, uprość wynik.",
+        "Wynik przed uproszczeniem",
+        "Największy wspólny dzielnik (GCD)",
+        "Uproszczony wynik",
+        "Krok 4: Jeśli ma to zastosowanie, przekonwertuj wynik z powrotem na format liczb mieszanych.",
+        "Wynik w liczbie mieszanej"
+    ]
+}

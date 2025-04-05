@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kalkulator pecahan",
+        "Ngitung",
+        "Loading",
+        "Mbusak",
+        "Panjelasan",
+        "asil",
+        "Langkah 1: Ngonversi nomer campuran dadi pecahan sing ora bener.",
+        "Nomer campuran pisanan",
+        "Fraksi sing ora bener",
+        "Nomer campuran kapindho",
+        "Langkah 2: Nindakake tambahan.",
+        "Rumus: (numerator1 * denominator2) + (numerator2 * denominator1)",
+        "Petungan",
+        "Langkah 2: Nindakake pangurangan.",
+        "Rumus: (numerator1 * denominator2) - (numerator2 * denominator1)",
+        "Langkah 2: Nindakake multiplikasi.",
+        "Rumus: numerator1 * numerator2, denominator1 * denominator2",
+        "Langkah 2: Nindakake divisi.",
+        "Rumus: numerator1 * denominator2, denominator1 * numerator2",
+        "Langkah 3: Gampang asil yen bisa.",
+        "Asil sadurunge nyederhanakake",
+        "Pembagi umum paling gedhe (GCD)",
+        "Hasil sing disederhanakake",
+        "Langkah 4: Ngonversi asil bali menyang format nomer campuran yen ana.",
+        "Asil nomer campuran"
+    ]
+}

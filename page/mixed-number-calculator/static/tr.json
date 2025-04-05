@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kesir Hesaplayıcı",
+        "Hesaplamak",
+        "Yükleniyor",
+        "Sil",
+        "Açıklama",
+        "Sonuç",
+        "Adım 1: Karışık sayıları bileşik kesirlere dönüştürün.",
+        "İlk karışık sayı",
+        "Uygunsuz kesir",
+        "İkinci karışık sayı",
+        "Adım 2: Eklemeyi gerçekleştirin.",
+        "Formül: (pay1 * payda2) + (pay2 * payda1)",
+        "Hesaplama",
+        "Adım 2: Çıkarma işlemini gerçekleştirin.",
+        "Formül: (pay1 * payda2) - (pay2 * payda1)",
+        "Adım 2: Çarpmayı gerçekleştirin.",
+        "Formül: pay1 * pay2, payda1 * payda2",
+        "Adım 2: Bölmeyi gerçekleştirin.",
+        "Formül: pay1 * payda2, payda1 * pay2",
+        "Adım 3: Mümkünse sonucu basitleştirin.",
+        "Sadeleştirmeden önceki sonuç",
+        "En büyük ortak bölen (GCD)",
+        "Basitleştirilmiş sonuç",
+        "Adım 4: Varsa sonucu tekrar karışık sayı formatına dönüştürün.",
+        "Karışık sayı sonucu"
+    ]
+}

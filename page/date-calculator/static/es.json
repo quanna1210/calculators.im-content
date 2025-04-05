@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calculadora de fecha",
+        "Calcular el número de días entre 2 fechas.",
+        "Fecha de inicio",
+        "Fecha de finalización",
+        "Cargando",
+        "Calcular",
+        "Resultado",
+        "días",
+        "Fin de semana",
+        "Celebración",
+        "vacaciones",
+        "Ocultar lista",
+        "Mostrar lista",
+        "lista",
+        "Días hábiles",
+        "Celebración de la lista",
+        "Fecha",
+        "Fecha Nombre",
+        "Ajuste",
+        "Años",
+        "Meses",
+        "Semanas",
+        "Días",
+        "Ingrese la fecha de inicio incorrecta",
+        "Ingrese la fecha de finalización incorrecta",
+        "Sumar/Restar días de una fecha específica",
+        "Límite de cálculo en 1000 años."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Bruchrechner",
+        "Berechnen",
+        "Laden",
+        "Löschen",
+        "Erläuterung",
+        "Der Nenner darf nicht Null sein",
+        "Schritt 1",
+        "Berechnen Sie den Zähler",
+        "Berechnen Sie den Nenner",
+        "Multiplizieren Sie die Zähler",
+        "Multiplizieren Sie die Nenner",
+        "Multiplizieren Sie den ersten Zähler mit dem zweiten Nenner",
+        "Multiplizieren Sie den ersten Nenner mit dem zweiten Zähler",
+        "Vereinfachen Sie den Bruch, indem Sie Zähler und Nenner durch den größten gemeinsamen Teiler (GCD) dividieren.",
+        "Ergebnis"
+    ]
+}

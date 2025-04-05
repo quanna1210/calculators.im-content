@@ -1,0 +1,122 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Novoroční den",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Velký pátek",
+                "type": "official",
+                "date": "03-29",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Velikonoční pondělí",
+                "type": "official",
+                "date": "04-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Svátek práce",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Den vítězství",
+                "type": "official",
+                "date": "05-08",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Den svatého Cyrila a Metoděje",
+                "type": "official",
+                "date": "07-05",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Den Jana Husa",
+                "type": "official",
+                "date": "07-06",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Den státní svobody",
+                "type": "official",
+                "date": "09-28",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Den nezávislosti Československa",
+                "type": "official",
+                "date": "10-28",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Den boje za svobodu a demokracii",
+                "type": "official",
+                "date": "11-17",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 11,
+                "title": "Štědrý den",
+                "type": "official",
+                "date": "12-24",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 12,
+                "title": "První svátek vánoční",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 13,
+                "title": "Druhý svátek vánoční",
+                "type": "official",
+                "date": "12-26",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

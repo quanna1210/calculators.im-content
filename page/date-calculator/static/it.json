@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calcolatore della data",
+        "Calcola il numero di giorni tra 2 date",
+        "Data di inizio",
+        "Data di fine",
+        "Caricamento",
+        "Calcolare",
+        "Risultato",
+        "giorni",
+        "Fine settimana",
+        "Celebrazione",
+        "vacanze",
+        "Nascondi elenco",
+        "Mostra elenco",
+        "lista",
+        "Giorni lavorativi",
+        "Celebrazione dell'elenco",
+        "Data",
+        "Nome della data",
+        "Regolazione",
+        "Anni",
+        "Mesi",
+        "Settimane",
+        "Giorni",
+        "Inserisci la data di inizio errata",
+        "Inserisci la data di fine errata",
+        "Aggiungi/sottrai giorni da una data specifica",
+        "Limite di calcolo in 1000 anni"
+    ]
+}

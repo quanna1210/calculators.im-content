@@ -1,0 +1,95 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Anul Nou",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Ziua Unirii Principatelor Române",
+                "type": "official",
+                "date": "01-24",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Ziua Internațională a Femeii",
+                "type": "official",
+                "date": "03-08",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Paștele",
+                "type": "official",
+                "date": "04-28",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Ziua Muncii",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Rusaliile",
+                "type": "official",
+                "date": "06-09",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Adormirea Maicii Domnului",
+                "type": "official",
+                "date": "08-15",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Ziua Națională a României",
+                "type": "official",
+                "date": "12-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Ziua lui Moș Nicolae",
+                "type": "official",
+                "date": "12-06",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Crăciunul",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

@@ -1,0 +1,113 @@
+    {
+        "international": [
+            {
+                "id": 1,
+                "title": "Capodanno",
+                "type": "official",
+                "date": "01-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 2,
+                "title": "Epifania",
+                "type": "official",
+                "date": "01-06",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 3,
+                "title": "Lunedì dell'Angelo",
+                "type": "official",
+                "date": "04-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 4,
+                "title": "Festa della Liberazione",
+                "type": "official",
+                "date": "04-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 5,
+                "title": "Festa del Lavoro",
+                "type": "official",
+                "date": "05-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 6,
+                "title": "Festa della Repubblica",
+                "type": "official",
+                "date": "06-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 7,
+                "title": "Assunzione di Maria",
+                "type": "official",
+                "date": "08-15",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 8,
+                "title": "Tutti i Santi",
+                "type": "official",
+                "date": "11-01",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 9,
+                "title": "Giorno della Memoria",
+                "type": "official",
+                "date": "11-02",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 10,
+                "title": "Immacolata Concezione",
+                "type": "official",
+                "date": "12-08",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 11,
+                "title": "Natale",
+                "type": "official",
+                "date": "12-25",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            },
+            {
+                "id": 12,
+                "title": "Santo Stefano",
+                "type": "official",
+                "date": "12-26",
+                "is_rest": 1,
+                "data_type": "date",
+                "data": {}
+            }
+        ],
+        "nation": []
+    }

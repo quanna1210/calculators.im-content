@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Calcolatore dell'area",
+        "Calcola l'area di un rettangolo",
+        "Lunghezza del bordo",
+        "Risultato",
+        "Calcola l'area di un quadrato",
+        "Calcola l'area del triangolo",
+        "Metodo 1: quando si conosce la dimensione di 3 lati",
+        "Metodo 2: basato sulla lunghezza di due lati e sull'angolo tra di loro",
+        "Angolo",
+        "Metodo 3: basato sulla lunghezza e sull'altezza della base",
+        "Lunghezza lato inferiore",
+        "Altezza",
+        "Calcola l'area di un cerchio",
+        "Raggio",
+        "Calcola l'area di un'ellisse",
+        "Ampio raggio dell'albero",
+        "Raggio dell'albero ridotto",
+        "Calcola l'area del trapezio",
+        "Calcola l'area di un parallelogramma",
+        "Lunghezza lato superiore",
+        "grado",
+        "Lunghezza del lato A",
+        "Lunghezza del lato B",
+        "Lunghezza del lato C"
+    ]
+}

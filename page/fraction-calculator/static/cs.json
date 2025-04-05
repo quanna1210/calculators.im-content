@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Kalkulačka zlomků",
+        "Vypočítat",
+        "Načítání",
+        "Vymazat",
+        "Vysvětlení",
+        "Jmenovatel nemůže být nula",
+        "Krok 1",
+        "Vypočítejte čitatele",
+        "Vypočítejte jmenovatele",
+        "Vynásobte čitatele",
+        "Vynásobte jmenovatele",
+        "Vynásobte prvního čitatele druhým jmenovatelem",
+        "Vynásobte prvního jmenovatele druhým čitatelem",
+        "Zjednodušte zlomek tak, že čitatel i jmenovatel vydělíte největším společným dělitelem (GCD)",
+        "Výsledek"
+    ]
+}

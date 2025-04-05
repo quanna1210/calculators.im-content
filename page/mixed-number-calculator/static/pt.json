@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Calculadora de frações",
+        "Calcular",
+        "Carregando",
+        "Apagar",
+        "Explicação",
+        "Resultado",
+        "Passo 1: Converta os números mistos em frações impróprias.",
+        "Primeiro número misto",
+        "Fração imprópria",
+        "Segundo número misto",
+        "Etapa 2: execute a adição.",
+        "Fórmula: (numerador1 * denominador2) + (numerador2 * denominador1)",
+        "Cálculo",
+        "Etapa 2: execute a subtração.",
+        "Fórmula: (numerador1 * denominador2) - (numerador2 * denominador1)",
+        "Etapa 2: execute a multiplicação.",
+        "Fórmula: numerador1 * numerador2, denominador1 * denominador2",
+        "Etapa 2: execute a divisão.",
+        "Fórmula: numerador1 * denominador2, denominador1 * numerador2",
+        "Etapa 3: simplifique o resultado, se possível.",
+        "Resultado antes da simplificação",
+        "Máximo divisor comum (MDC)",
+        "Resultado simplificado",
+        "Etapa 4: converta o resultado novamente para o formato numérico misto, se aplicável.",
+        "Resultado de número misto"
+    ]
+}

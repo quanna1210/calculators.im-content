@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Terület kalkulátor",
+        "Számítsa ki egy téglalap területét",
+        "Élhossz",
+        "Eredmény",
+        "Számítsa ki egy négyzet területét",
+        "Számítsa ki a háromszög területét",
+        "1. módszer: 3 oldal méretének ismeretében",
+        "2. módszer: két oldal hossza és a köztük lévő szög alapján",
+        "Szög",
+        "3. módszer: az alap hossza és magassága alapján",
+        "Alsó oldal hossz",
+        "Magasság",
+        "Számítsa ki a kör területét",
+        "Sugár",
+        "Számítsa ki az ellipszis területét",
+        "Nagy tengelysugár",
+        "Kis tengelysugár",
+        "Számítsa ki a trapéz területét!",
+        "Számítsa ki a paralelogramma területét!",
+        "Felső oldal hossz",
+        "deg",
+        "Az A oldal hossza",
+        "B oldal hossza",
+        "C oldal hossza"
+    ]
+}

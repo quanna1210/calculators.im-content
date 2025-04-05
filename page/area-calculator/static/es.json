@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Calculadora de área",
+        "Calcular el área de un rectángulo",
+        "Longitud del borde",
+        "Resultado",
+        "Calcular el área de un cuadrado.",
+        "Calcular el área del triángulo.",
+        "Método 1: al saber el tamaño de 3 lados",
+        "Método 2: basado en la longitud de dos lados y el ángulo entre ellos",
+        "Ángulo",
+        "Método 3: basado en la longitud y la altura de la base",
+        "Longitud del lado inferior",
+        "Altura",
+        "Calcular el área de un círculo.",
+        "Radio",
+        "Calcular el área de una elipse",
+        "Radio de eje grande",
+        "Radio de eje pequeño",
+        "Calcular el área del trapezoide.",
+        "Calcular el área de un paralelogramo",
+        "Longitud del lado superior",
+        "grados",
+        "Longitud del lado A",
+        "Longitud del lado B",
+        "Longitud del lado C"
+    ]
+}

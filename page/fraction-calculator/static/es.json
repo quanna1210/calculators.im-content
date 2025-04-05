@@ -1,0 +1,19 @@
+{
+    "trans": [
+        "Calculadora de fracciones",
+        "Calcular",
+        "Cargando",
+        "Borrar",
+        "Explicación",
+        "El denominador no puede ser cero.",
+        "Paso 1",
+        "Calcular el numerador",
+        "Calcular el denominador",
+        "multiplicar los numeradores",
+        "multiplicar los denominadores",
+        "Multiplica el primer numerador por el segundo denominador.",
+        "Multiplica el primer denominador por el segundo numerador.",
+        "Simplifica la fracción dividiendo el numerador y el denominador por el máximo común divisor (MCD)",
+        "Resultado"
+    ]
+}

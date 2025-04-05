@@ -1,0 +1,28 @@
+{
+    "trans": [
+        "Calculadora de área",
+        "Calcule a área de um retângulo",
+        "Comprimento da borda",
+        "Resultado",
+        "Calcule a área de um quadrado",
+        "Calcule a área do triângulo",
+        "Método 1: sabendo o tamanho dos 3 lados",
+        "Método 2: com base no comprimento de dois lados e no ângulo entre eles",
+        "Ângulo",
+        "Método 3: com base no comprimento e altura da base",
+        "Comprimento lateral inferior",
+        "Altura",
+        "Calcule a área de um círculo",
+        "Raio",
+        "Calcule a área de uma elipse",
+        "Grande raio do eixo",
+        "Raio de eixo pequeno",
+        "Calcule a área do trapézio",
+        "Calcule a área de um paralelogramo",
+        "Comprimento lateral superior",
+        "graus",
+        "Comprimento do lado A",
+        "Comprimento do lado B",
+        "Comprimento do lado C"
+    ]
+}

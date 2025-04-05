@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Vérificateur de l'année à saut",
+        "Calculer",
+        "Vérifiez si un an est une année de saut",
+        "Trouvez des années de saut dans une gamme",
+        "Trouvez la prochaine année de saut",
+        "Année",
+        "Entrer l'année",
+        "Année de départ",
+        "Année de début d'entrée",
+        "Année de fin",
+        "Année de fin de l'entrée",
+        "L'année doit être supérieure à 1582, la première année que le calendrier grégoréen a été employé",
+        "est une année de saut",
+        "n'est pas une année de saut",
+        "Année invalide",
+        "L'année de fin doit être supérieure à l'année de début",
+        "Nombre d'années de saut entre",
+        "et",
+        "Liste des années de saut entre",
+        "La prochaine année de saut est",
+        "Calculer",
+        "Chargement",
+        "Résultat"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "trans": [
+        "Passwortgenerator",
+        "Charaktersätze einschließen",
+        "Wählen Sie gleichmäßig aus",
+        "Alle ausgewählten Zeichen",
+        "Jeder gewählte Satz",
+        "Passwortlänge",
+        "Länge eingeben (1-50)",
+        "Bitte wählen Sie mindestens einen Zeichensatz und geben Sie eine gültige Länge ein (1-50).",
+        "Erzeugen",
+        "Laden",
+        "Ergebnis",
+        "Passwort",
+        "Passwort kopieren",
+        "Nicht kopieren",
+        "Passwortstärke",
+        "Passwortentropie",
+        "Bits",
+        "Sehr schwach",
+        "Schwach",
+        "Gut",
+        "Stark",
+        "Sehr stark"
+    ]
+}

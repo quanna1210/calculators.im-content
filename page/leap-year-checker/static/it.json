@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Checker del salto",
+        "Calcolare",
+        "Controlla se un anno è un anno di salto",
+        "Trova gli anni di salto in una gamma",
+        "Trova il prossimo anno di salto",
+        "Anno",
+        "Entra in anno",
+        "Inizia l'anno",
+        "Anno di inizio input",
+        "Anno di fine",
+        "Input End Year",
+        "L'anno deve essere maggiore del 1582, il primo anno in cui è stato impiegato il calendario Gregora",
+        "è un anno di salto",
+        "non è un anno di salto",
+        "Anno non valido",
+        "L'anno finale deve essere maggiore dell'anno iniziale",
+        "Numero di anni salti tra",
+        "E",
+        "Elenco degli anni di salto tra",
+        "Il prossimo anno di salto è",
+        "Calcolare",
+        "Caricamento",
+        "Risultato"
+    ]
+}

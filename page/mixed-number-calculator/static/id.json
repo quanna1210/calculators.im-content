@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Kalkulator Pecahan",
+        "Menghitung",
+        "Memuat",
+        "Menghapus",
+        "Penjelasan",
+        "Hasil",
+        "Langkah 1: Ubah bilangan campuran menjadi pecahan biasa.",
+        "Nomor campuran pertama",
+        "Pecahan tidak wajar",
+        "Nomor campuran kedua",
+        "Langkah 2: Lakukan penambahan.",
+        "Rumus: (pembilang1 * penyebut2) + (pembilang2 * penyebut1)",
+        "Perhitungan",
+        "Langkah 2: Lakukan pengurangan.",
+        "Rumus: (pembilang1 * penyebut2) - (pembilang2 * penyebut1)",
+        "Langkah 2: Lakukan perkalian.",
+        "Rumus: pembilang1 * pembilang2, penyebut1 * penyebut2",
+        "Langkah 2: Lakukan pembagian.",
+        "Rumus: pembilang1 * penyebut2, penyebut1 * pembilang2",
+        "Langkah 3: Sederhanakan hasilnya jika memungkinkan.",
+        "Hasil sebelum penyederhanaan",
+        "Pembagi persekutuan terbesar (GCD)",
+        "Hasil yang disederhanakan",
+        "Langkah 4: Ubah hasilnya kembali ke format angka campuran jika memungkinkan.",
+        "Hasil bilangan campuran"
+    ]
+}

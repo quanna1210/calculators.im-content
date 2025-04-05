@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Kalkulator daty",
+        "Oblicz liczbę dni pomiędzy 2 datami",
+        "Data rozpoczęcia",
+        "Data zakończenia",
+        "Załadunek",
+        "Obliczać",
+        "Wynik",
+        "dni",
+        "Weekend",
+        "Uroczystość",
+        "ferie",
+        "Ukryj listę",
+        "Pokaż listę",
+        "lista",
+        "Dni robocze",
+        "Świętowanie listy",
+        "Data",
+        "Nazwa daty",
+        "Modyfikacja",
+        "Lata",
+        "Miesiące",
+        "Tygodnie",
+        "Dni",
+        "Wprowadź nieprawidłową datę rozpoczęcia",
+        "Wprowadź nieprawidłową datę końcową",
+        "Dodaj/odejmij dni od określonej daty",
+        "Limit obliczeniowy za 1000 lat"
+    ]
+}
