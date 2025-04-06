@@ -146,9 +146,9 @@
         "title": "Alan hesap makinesi",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Çeşitli şekil ve boyutlar için kolay alan hesap makinesi.",
-        "meta_description": "Alan hesap makinesi, kareler, dikdörtgenler, daireler ve üçgenler gibi şekillerin alanını hızlı bir şekilde hesaplar ve geometri görevlerini basitleştirir.",
-        "meta_keyword": "Daire alanı, alan hesap makinesi, dikdörtgen alanı, çokgen alanı, kare alanı, üçgen alanı, paralelkenar alanı, trapezoid alanı",
+        "meta_title": "Alan Hesap Makinesi: Alan hesaplamanızı basitleştirin",
+        "meta_description": "Kullanımı kolay aletimizle kareler, dikdörtgenler, daireler ve üçgenler alanını hızlı bir şekilde hesaplayın. Tüm temel geometri ihtiyaçlarınız için idealdir.",
+        "meta_keyword": "Alanın hesaplanması, daire alanı, alan hesap makinesi, dikdörtgen alanı, çokgen alanı, kare alanı, üçgen alanı, paralelkenar alanı, trapezoid alanı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

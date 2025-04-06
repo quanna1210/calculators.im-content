@@ -146,9 +146,9 @@
         "title": "Calculadora de área",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Calculadora de área fácil para várias formas e tamanhos.",
-        "meta_description": "A calculadora de área calcula rapidamente a área de formas como quadrados, retângulos, círculos e triângulos, simplificando tarefas de geometria.",
-        "meta_keyword": "Área do círculo, calculadora de área, área de retângulo, área de polígono, área da praça, área do triângulo, área de paralelograma, área de trapézio",
+        "meta_title": "Calculadora de área: simplifique seu cálculo da área",
+        "meta_description": "Calcule rapidamente a área de quadrados, retângulos, círculos e triângulos com nossa ferramenta fácil de usar. Ideal para todas as suas necessidades básicas de geometria.",
+        "meta_keyword": "Cálculo da área, área do círculo, calculadora de área, área de retângulo, área do polígono, área do quadrado, área do triângulo, área de paralelograma, área do trapézio",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

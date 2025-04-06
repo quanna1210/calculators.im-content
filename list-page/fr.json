@@ -146,9 +146,9 @@
         "title": "Calculateur de zone",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Calculatrice de zone facile pour différentes formes et tailles.",
-        "meta_description": "La calculatrice de la zone calcule rapidement la zone de formes comme les carrés, les rectangles, les cercles et les triangles, simplifiant les tâches de géométrie.",
-        "meta_keyword": "zone de cercle, calculatrice de zone, zone du rectangle, zone de polygone, zone carrée, zone du triangle, zone du parallélogramme, zone du trapézoïde",
+        "meta_title": "Calculateur de zone: simplifiez votre calcul de la zone",
+        "meta_description": "Calculez rapidement la zone des carrés, des rectangles, des cercles et des triangles avec notre outil facile à utiliser. Idéal pour tous vos besoins de géométrie de base.",
+        "meta_keyword": "Calcul de l'aire, de la zone du cercle, calculatrice de zone, zone du rectangle, zone de polygone, zone de carré, zone du triangle, zone de parallélogramme, zone du trapézoïde",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

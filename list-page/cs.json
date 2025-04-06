@@ -146,9 +146,9 @@
         "title": "Kalkulačka oblasti",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Snadná kalkulačka oblasti pro různé tvary a velikosti.",
-        "meta_description": "Kalkulačka oblasti rychle vypočítá oblast tvarů, jako jsou čtverce, obdélníky, kruhy a trojúhelníky, což zjednodušuje úkoly geometrie.",
-        "meta_keyword": "Oblast kruhu, Kalkulačka oblasti, plocha obdélníku, plocha polygonu, plocha čtverce, plocha trojúhelníku, plocha rovnoběžnosti, oblast lichoběžníku",
+        "meta_title": "Kalkulačka oblasti: Zjednodušte svůj výpočet oblasti",
+        "meta_description": "Rychle vypočítejte oblast čtverců, obdélníků, kruhů a trojúhelníků pomocí našeho snadno použitelného nástroje. Ideální pro všechny vaše základní geometrické potřeby.",
+        "meta_keyword": "Výpočet oblasti, plocha kruhu, kalkulačka oblasti, plocha obdélníku, plocha polygonu, plocha čtverce, plocha trojúhelníku, plocha rovnoběžnosti, oblast lichoběžníku",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

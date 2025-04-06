@@ -146,9 +146,9 @@
         "title": "Flächenrechner",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Einfacher Berechnungsrechner für verschiedene Formen und Größen.",
-        "meta_description": "Der Flächenrechner berechnet schnell den Bereich von Formen wie Quadrate, Rechtecke, Kreisen und Dreiecke und vereinfachte Geometrieaufgaben.",
-        "meta_keyword": "Kreisbereich, Flächenrechner, Rechteckflächen, Polygonbereich, Quadratische Fläche, Dreiecksfläche, Parallelogramm Fläche, Trapez -Fläche",
+        "meta_title": "Flächenrechner: Vereinfachen Sie Ihre Berechnung der Fläche",
+        "meta_description": "Berechnen Sie schnell den Bereich von Quadraten, Rechtecken, Kreisen und Dreiecken mit unserem benutzerfreundlichen Werkzeug. Ideal für alle Ihre grundlegenden Geometrieanforderungen.",
+        "meta_keyword": "Berechnung der Fläche, Kreisfläche, Flächenrechner, Rechteckfläche, Polygonfläche, Quadratfläche, Dreieckflächengebiet, Parallelogramm, Trapezbereich",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

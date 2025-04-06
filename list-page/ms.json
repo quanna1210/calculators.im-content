@@ -146,9 +146,9 @@
         "title": "Kalkulator Kawasan",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Kalkulator kawasan mudah untuk pelbagai bentuk dan saiz.",
-        "meta_description": "Kalkulator kawasan dengan cepat mengira kawasan bentuk seperti dataran, segi empat tepat, bulatan, dan segitiga, memudahkan tugas geometri.",
-        "meta_keyword": "Kawasan bulatan, kalkulator kawasan, kawasan segi empat tepat, kawasan poligon, kawasan persegi, kawasan segitiga, kawasan paralelogram, kawasan trapezoid",
+        "meta_title": "Kalkulator Kawasan: Memudahkan pengiraan kawasan anda",
+        "meta_description": "Cepat mengira kawasan dataran, segi empat tepat, bulatan, dan segitiga dengan alat yang mudah digunakan kami. Sesuai untuk semua keperluan geometri asas anda.",
+        "meta_keyword": "pengiraan kawasan, kawasan bulatan, kalkulator kawasan, kawasan segi empat tepat, kawasan poligon, kawasan persegi, kawasan segitiga, kawasan paralelogram, kawasan trapezoid",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

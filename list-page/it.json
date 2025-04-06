@@ -146,9 +146,9 @@
         "title": "Calcolatore dell'area",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Calcolatrice di area facile per varie forme e dimensioni.",
-        "meta_description": "Il calcolatore dell'area calcola rapidamente l'area di forme come quadrati, rettangoli, cerchi e triangoli, semplificando le attività di geometria.",
-        "meta_keyword": "Area del cerchio, calcolatore dell'area, area del rettangolo, area di poligono, area di quadrata, area di triangolo, area di parallelogramma, area del trapezoide",
+        "meta_title": "Calcolatore dell'area: semplifica il calcolo dell'area",
+        "meta_description": "Calcola rapidamente l'area di quadrati, rettangoli, cerchi e triangoli con il nostro strumento di facile utilizzo. Ideale per tutte le tue esigenze di geometria di base.",
+        "meta_keyword": "Calcolo dell'area, area del cerchio, calcolatore dell'area, area del rettangolo, area di poligono, area di quadrata, area di triangolo, area di parallelogramma, area del trapezoide",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

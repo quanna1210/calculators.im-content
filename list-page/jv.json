@@ -146,9 +146,9 @@
         "title": "Kalkulator area",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Kalkulator area gampang kanggo macem-macem bentuk lan ukuran.",
-        "meta_description": "Kalkulator wilayah kasebut cepet ngitung area bentuk kaya alun-alun, persegi, bunderan, lan segitiga, nggawe tugas geometri.",
-        "meta_keyword": "area bunder, kalkulator area, area persegi, area poligon, area alun, area segitiga, area podo, wilayah trapezoid",
+        "meta_title": "Kalkulator Area: Nggawe pitungan ing wilayah sampeyan",
+        "meta_description": "Cepet ngetung area alun-alun, persegi, bunderan, lan segitiga kanthi alat sing gampang digunakake. Cocog kanggo kabeh kabutuhan geometri dhasar sampeyan.",
+        "meta_keyword": "pitungan ing wilayah, area bunder, kalkulator area, area persegi, area poligon, area alun, area segitiga, area trapezoid, area trapezoid",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

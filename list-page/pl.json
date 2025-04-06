@@ -146,9 +146,9 @@
         "title": "Kalkulator obszaru",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Łatwy kalkulator obszaru dla różnych kształtów i rozmiarów.",
-        "meta_description": "Kalkulator obszaru szybko oblicza obszar kształtów, takich jak kwadraty, prostokąty, kółka i trójkąty, upraszczając zadania geometrii.",
-        "meta_keyword": "obszar okręgu, kalkulator powierzchni, obszar prostokąta, obszar wielokąta, obszar kwadratu, obszar trójkąta, obszar równoległoboku, obszar trapezu",
+        "meta_title": "Kalkulator obszaru: Uproszcz obliczenia obszaru",
+        "meta_description": "Szybko oblicz obszar kwadratów, prostokątów, kół i trójkątów za pomocą naszego łatwego w użyciu narzędzia. Idealny dla wszystkich podstawowych potrzeb geometrii.",
+        "meta_keyword": "Obliczanie powierzchni, powierzchni okręgu, kalkulator powierzchni, powierzchnia prostokąta, obszar wielokąta, powierzchnia kwadratu, obszar trójkąta, powierzchnia równoległoboku, obszar trapezu",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

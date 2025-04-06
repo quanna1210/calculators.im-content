@@ -146,9 +146,9 @@
         "title": "Area Calculator",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Easy Area Calculator for Various Shapes and Sizes.",
-        "meta_description": "The area calculator quickly computes the area of shapes like squares, rectangles, circles, and triangles, simplifying geometry tasks.",
-        "meta_keyword": "area of circle, area calculator, area of rectangle, area of polygon, area of square, area of triangle,area of parallelogram, area of trapezoid",
+        "meta_title": "Area Calculator: Simplify Your Calculation of Area",
+        "meta_description": "Quickly calculate the area of squares, rectangles, circles, and triangles with our easy-to-use tool. Ideal for all your basic geometry needs.",
+        "meta_keyword": "calculation of area, area of circle, area calculator, area of rectangle, area of polygon, area of square, area of triangle,area of parallelogram, area of trapezoid",
         "status": "1",
         "is_show" : "1",
         "orders" : "10000"

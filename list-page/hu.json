@@ -146,9 +146,9 @@
         "title": "Körzeti számológép",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Könnyű területszámológép különböző formákhoz és mérethez.",
-        "meta_description": "A terület számológépe gyorsan kiszámítja az alakzatok, például négyzetek, téglalapok, körök és háromszögek területét, a geometriai feladatok egyszerűsítését.",
-        "meta_keyword": "Kör területe, területi számológép, téglalap területe, sokszög területe, négyzet alakú területe, háromszög területe, párhuzamos terület, trapéz területe",
+        "meta_title": "Területszámológép: Egyszerűsítse a terület kiszámítását",
+        "meta_description": "Gyorsan kiszámítja a négyzetek, téglalapok, körök és háromszögek területét a könnyen használható szerszámunkkal. Ideális az összes alapvető geometriai igényéhez.",
+        "meta_keyword": "A terület, a kör területének kiszámítása, a terület számológép, a téglalap területe, a sokszög területe, a négyzet területe, a háromszög területe, a párhuzamosított terület, a trapéz területe",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

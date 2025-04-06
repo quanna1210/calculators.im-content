@@ -146,9 +146,9 @@
         "title": "Calculator de zonă",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Calculator ușor de zonă pentru diferite forme și dimensiuni.",
-        "meta_description": "Calculatorul zonei calculează rapid zona de forme precum pătrate, dreptunghiuri, cercuri și triunghiuri, simplificând sarcinile de geometrie.",
-        "meta_keyword": "aria cercului, calculatorul zonei, aria dreptunghiului, aria poligonului, zona pătratului, suprafața triunghiului, aria paralelogramei, aria trapezoidului",
+        "meta_title": "Calculatorul zonei: Simplificați -vă calculul zonei",
+        "meta_description": "Calculați rapid zona pătratelor, dreptunghiurilor, cercurilor și triunghiurilor cu instrumentul nostru ușor de utilizat. Ideal pentru toate nevoile tale de geometrie de bază.",
+        "meta_keyword": "Calculul zonei, aria cercului, calculatorul zonei, aria dreptunghiului, aria poligonului, aria pătratului, suprafața triunghiului, zona paralelogramei, zona trapezoidului",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

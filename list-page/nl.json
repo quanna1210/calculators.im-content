@@ -146,9 +146,9 @@
         "title": "Gebiedscalculator",
         "slug": "area-calculator",
         "parent_id": "10",
-        "meta_title": "Gemakkelijke gebiedscalculator voor verschillende vormen en maten.",
-        "meta_description": "De gebiedscalculator berekent snel het gebied van vormen zoals vierkanten, rechthoeken, cirkels en driehoeken, waardoor geometrietaken worden vereenvoudigd.",
-        "meta_keyword": "Cirkeloppervlak, gebiedscalculator, recthoek, gebied van polygoon, gebied van vierkant, driehoekige oppervlakte, oppervlakte van parallellogram, trapezoid gebied",
+        "meta_title": "Gebiedscalculator: vereenvoudig uw berekening van het gebied",
+        "meta_description": "Bereken snel het gebied van vierkanten, rechthoeken, cirkels en driehoeken met ons gemakkelijk te gebruiken gereedschap. Ideaal voor al uw basisgeometriebehoeften.",
+        "meta_keyword": "Berekening van het gebied, cirkeloppervlak, gebiedscalculator, gebied van rechthoek, gebied van polygoon, gebied van vierkant, driehoekige oppervlakte, oppervlakte van parallellogram, trapezoïde oppervlakte",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
