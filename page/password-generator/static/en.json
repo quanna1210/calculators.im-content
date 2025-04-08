@@ -1,0 +1,26 @@
+{
+    "trans": [
+        "Password Generator",
+        "Include character sets",
+        "Select evenly from",
+        "All chosen characters",
+        "Each chosen set",
+        "Password length",
+        "Enter length (1-50)",
+        "Please select at least one character set and enter a valid length (1-50)",
+        "Generate",
+        "Loading",
+        "Result",
+        "Password",
+        "Copy Password",
+        "Failed to copy",
+        "Password Strength",
+        "Password Entropy",
+        "bits",
+        "Very Weak",
+        "Weak",
+        "Good",
+        "Strong",
+        "Very Strong"
+    ]
+}
