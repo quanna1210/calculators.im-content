@@ -350,9 +350,9 @@
         "title": "TDEE számológép",
         "slug": "tdee-calculator",
         "parent_id": "22",
-        "meta_title": "TDEE számológép - Számítsa ki a napi energiaigényeit",
-        "meta_description": "Használja a TDEE számológépet a teljes napi energiafelhasználás becsléséhez, és meghatározza, hogy hány kalóriát kell fenntartania a súlyának fenntartásához.",
-        "meta_keyword": "TDEE számológép, kalória számológép, BMR számológép, napi kalóriabevitel, kalória -szükséges számológép",
+        "meta_title": "TDEE számológép - Számítsa ki a napi kalóriákat a fogyáshoz",
+        "meta_description": "Számítsa ki a napi kalóriaszükségleteket a TDEE számológépünkkel. Szerezzen személyre szabott eredményeket a fogyás, a karbantartás vagy az izomnövekedés céljainak tevékenységi szintje alapján.",
+        "meta_keyword": "TDEE calculator, daily calorie calculator, maintenance calories calculator, how to calculate TDEE for weight loss, online TDEE calculator with activity level, free TDEE calculator for fitness goals, TDEE calculator with macros breakdown, calculate maintenance calories for beginners, TDEE calculator for women, TDEE calculator for men, what is TDEE and how to use it, difference between BMR and TDEE calculator, how to adjust TDEE for Súlycélok, kiszámítják a szükséges kalóriákat az aktivitási szint alapján, a TDEE számítási képlet magyarázata, mennyire pontosak a TDEE számológépek, a TDEE számológép használatával az étkezés tervezéséhez",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

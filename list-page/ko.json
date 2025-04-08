@@ -350,9 +350,9 @@
         "title": "TDEE 계산기",
         "slug": "tdee-calculator",
         "parent_id": "22",
-        "meta_title": "TDEE 계산기 - 일일 에너지 요구를 계산하십시오",
-        "meta_description": "TDEE 계산기를 사용하여 총 일일 에너지 소비를 추정하고 체중을 유지하는 데 필요한 칼로리를 결정하십시오.",
-        "meta_keyword": "TDEE 계산기, 칼로리 계산기, BMR 계산기, 일일 칼로리 섭취, 칼로리 요구 계산기",
+        "meta_title": "TDEE 계산기 - 체중 감량을 위해 일일 칼로리를 계산하십시오",
+        "meta_description": "TDEE 계산기로 일일 칼로리 요구를 계산하십시오. 체중 감량, 유지 보수 또는 근육 얻기 목표에 대한 활동 수준에 따라 개인화 된 결과를 얻으십시오.",
+        "meta_keyword": "TDEE 계산기, 일일 칼로리 계산기, 유지 보수 칼로리 계산기, 체중 감량을위한 TDEE를 계산하는 방법, 활동 수준을위한 온라인 TDEE 계산기, 체력 목표를위한 무료 TDEE 계산기, 매크로 고장을위한 TDEE 계산기, 초보자를위한 유지 보수 칼로리 계산, 남성용 TDEE 계산기 및 TDEE의 차이, BMR 및 TDEE의 차이, TDEE 계산기 계산기 계산 체중 목표에 대한 TDEE, 활동 수준에 따라 필요한 칼로리 계산, TDEE 계산 공식 설명, 식사 계획에 TDEE 계산기를 사용하여 TDEE 계산기가 얼마나 정확한 지 설명",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
