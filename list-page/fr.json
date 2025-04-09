@@ -371,12 +371,12 @@
     },
     {
         "id": "32",
-        "title": "Calculatrice de calories",
+        "title": "Calculateur de calories",
         "slug": "calorie-calculator",
         "parent_id": "22",
-        "meta_title": "Calculatrice calorique - Calculez votre apport quotidien",
-        "meta_description": "Utilisez notre calculatrice de calories pour estimer vos besoins en calories quotidiens en fonction de l'âge, du poids, de la taille et du niveau d'activité pour une meilleure gestion de la santé.",
-        "meta_keyword": "Calculatrice calorique, calculatrice d'admission calorique, calculateur de déficit calorique, compteur calorique, combien de calories dois-je manger",
+        "meta_title": "Calculatrice calorique - en ligne gratuite et précise",
+        "meta_description": "Utilisez notre calculatrice de calories en ligne gratuite pour calculer avec précision l'apport calorique quotidien pour la perte de poids, la forme physique ou l'entretien. Essayez-le maintenant!",
+        "meta_keyword": "calculatrice de calories, calorie quotidienne, perte de poids, BMR, TDEE, fitness, santé, calculateur d'admission calorique quotidien, calculatrice de calories en ligne gratuite, apport calorique personnalisé",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
