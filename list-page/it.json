@@ -431,12 +431,12 @@
     },
     {
         "id": "37",
-        "title": "Calcolatrice della concentrazione di alcol nel sangue (BAC)",
+        "title": "Calcolatore di concentrazione di alcol nel sangue (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
-        "meta_title": "Calcolatrice BAC - Calcolatrice del contenuto di alcol nel sangue",
-        "meta_description": "Calcola la concentrazione di alcol nel sangue (BAC) in base a peso, genere, alcol consumato e tempo per stimare i livelli di compromissione.",
-        "meta_keyword": "Calcolatrice BAC, calcolatore di alcol nel sangue, calcolatore a livello di alcol, calcolatore di guida per bevande, calcolatore del consumo di alcol, calcolatore del contenuto di alcol nel sangue, come calcolare la concentrazione di alcol nel sangue (BAC), calcolatrice BAC online per i limiti di bere sicuri, stimare il tuo BEST online, bestiame di bere alcolici, alcolici di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, calcolatrice di alcol nel sangue, alcol e alcol alcolici di alcol nel sangue Formula di calcolo e limiti legali per paese.",
+        "meta_title": "Calcolatrice BAC - Calcola la concentrazione di alcol nel sangue privo di",
+        "meta_description": "Usa il nostro calcolatore BAC gratuito per stimare la concentrazione di alcol nel sangue in base a bevande, peso e tempo: poco, semplice e online!",
+        "meta_keyword": "Calcolatrice BAC, calcolatore di alcol nel sangue, calcolatrice del livello di alcol, calcolatore di guida per bevande, calcolatore del consumo di alcol, calcolatore del contenuto di alcol nel sangue, come calcolare la concentrazione di alcol nel sangue (BAC), calcolatrice BAC online per limiti di bevande alcolici, alcolici, alcol, alcolici, alcolici, alcolici per alcol, alcolici per alcool alcolici, alcolici per alcol nel sangue, alcolici di alcol nel sangue Formula di calcolo e limiti legali per paese.",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
