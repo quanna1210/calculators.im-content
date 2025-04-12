@@ -182,9 +182,9 @@
         "title": "Datumcalculator",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Datumcalculator - Gemakkelijk datumberekeningstool",
-        "meta_description": "Datumcalculator helpt u om datums en tijd nauwkeurig en snel te berekenen, waardoor werk en het dagelijkse leven wordt ondersteund",
-        "meta_keyword": "Datumcalculator, online datumcalculator, datumverschilcalculator, dagen tussen datums, datumberekening",
+        "meta_title": "Datumcalculator: dagen tussen datums en toevoeging/aftrekdatums",
+        "meta_description": "Vrije datumcalculator: bereken dagen tussen twee datums of voeg gemakkelijk datums toe/trek af. Probeer onze online datumverschilcalculator voor snelle, nauwkeurige resultaten!",
+        "meta_keyword": "Datumcalculator, bereken dagen tussen twee datums, datumverschilcalculator, dagen tussen datumscalculator, dagen tussen datums, datumcalculator toevoegen en aftrekken, toevoegen en aftrekken",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
