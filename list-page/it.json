@@ -287,12 +287,12 @@
     },
     {
         "id": "26",
-        "title": "Convertitore unitario",
+        "title": "Convertitore unità",
         "slug": "unit-converter",
         "parent_id": "10",
-        "meta_title": "Convertitore unitario - Strumento di conversione veloce e accurato",
-        "meta_description": "Il convertitore unitario è uno strumento rapido e accurato per la conversione di varie unità di misurazione, tra cui lunghezza, peso, temperatura e altro ancora.",
-        "meta_keyword": "Convertitore unità, convertitore di misurazione, unità convertite, convertitore online",
+        "meta_title": "Convertitore di unità gratuita: convertire km in miglia, da kg a libbre online",
+        "meta_description": "Convertitore di unità online gratuito per lunghezza, peso, temperatura e altro. Converti Km in miglia, da Kg a LBS, Celsius in Fahrenheit istantaneamente ai calcolatori.",
+        "meta_keyword": "Convertitore unità, convertitore metrico, convertitore di lunghezza, convertitore di peso, convertitore di temperatura, convertitore di unità online per lunghezza, metrica libera al convertitore imperiale, converti Km in miglia online, convertitore di peso Kg in libbre, Celsius a Fahrenheit Converter online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
