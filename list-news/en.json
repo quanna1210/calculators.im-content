@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "PITI Calculator: Calculate Mortgage with Taxes and Insurance Included",
+        "intro" : "Discover our free PITI calculator that helps you determine your true monthly mortgage payment including taxes and insurance. Get accurate estimates to plan your home budget with confidence.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "PITI Calculator: Calculate Mortgage with Taxes and Insurance Included",
+        "meta_description": "Use our free PITI calculator to estimate your complete mortgage payment with taxes and insurance included. Get accurate monthly payment figures for budgeting.",
+        "meta_keyword": "mortgage calculator with taxes and insurance, PITI calculator, home loan calculator with taxes and insurance, mortgage payment calculator with escrow, mortgage affordability calculator, monthly mortgage payment with taxes and insurance, house payment calculator with taxes included, complete mortgage calculator, home loan payment estimator, mortgage calculator with property tax and insurance, mortgage calculator with escrow included, real mortgage payment calculator, total monthly mortgage payment calculator, true cost of homeownership calculator, mortgage calculator with all costs",
+        "status": "1",
+        "category": "Financial",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int" : "1746074303"
+    },
+    {
         "id": "9",
         "title": "First-Time Home Buyer? Why Mortgage Calculators Matter",
         "intro" : "Stepping into the world of home buying? Mortgage calculators are essential tools that help first-time buyers understand costs, estimate payments, and determine affordability before making one of life's biggest financial commitments.",

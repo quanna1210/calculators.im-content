@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "PITI Calculator: рассчитайте ипотеку с помощью налогов и страхования, включенных",
+        "intro": "Откройте для себя наш бесплатный калькулятор PITI, который поможет вам определить ваш истинный ежемесячный ипотечный платеж, включая налоги и страхование. Получите точные оценки, чтобы спланировать свой домашний бюджет с уверенностью.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "PITI Calculator: рассчитайте ипотеку с помощью налогов и страхования, включенных",
+        "meta_description": "Используйте наш бесплатный калькулятор PITI, чтобы оценить свой полный ипотечный платеж с помощью налогов и страховки. Получите точные ежемесячные цифры оплаты для составления бюджета.",
+        "meta_keyword": "mortgage calculator with taxes and insurance, PITI calculator, home loan calculator with taxes and insurance, mortgage payment calculator with escrow, mortgage affordability calculator, monthly mortgage payment with taxes and insurance, house payment calculator with taxes included, complete mortgage calculator, home loan payment estimator, mortgage calculator with property tax and insurance, mortgage calculator with escrow included, real mortgage payment calculator, total monthly mortgage payment calculator, true cost of homeownership калькулятор, ипотечный калькулятор со всеми затратами",
+        "status": "1",
+        "category": "Финансовый",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Новый покупатель дома? Почему ипотечные калькуляторы имеют значение",
         "intro": "Вступив в мир покупки дома? Калькуляторы ипотеки являются важными инструментами, которые помогают новичкам понимать расходы, оценить платежи и определять доступность, прежде чем принять одно из самых больших финансовых обязательств в жизни.",

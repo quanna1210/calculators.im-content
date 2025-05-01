@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Calculadora Piti: Calcule a hipoteca com impostos e seguros incluídos",
+        "intro": "Descubra nossa calculadora Piti gratuita que ajuda a determinar seu verdadeiro pagamento mensal de hipoteca, incluindo impostos e seguros. Obtenha estimativas precisas para planejar seu orçamento doméstico com confiança.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Calculadora Piti: Calcule a hipoteca com impostos e seguros incluídos",
+        "meta_description": "Use nossa calculadora Piti gratuita para estimar o pagamento completo da hipoteca com impostos e seguros incluídos. Obtenha números precisos de pagamento mensal para orçamento.",
+        "meta_keyword": "mortgage calculator with taxes and insurance, PITI calculator, home loan calculator with taxes and insurance, mortgage payment calculator with escrow, mortgage affordability calculator, monthly mortgage payment with taxes and insurance, house payment calculator with taxes included, complete mortgage calculator, home loan payment estimator, mortgage calculator with property tax and insurance, mortgage calculator with escrow included, real mortgage payment calculator, total monthly mortgage payment calculator, true cost of homeownership calculadora, calculadora de hipotecas com todos os custos",
+        "status": "1",
+        "category": "Financeiro",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Comprador de casa pela primeira vez? Por que as calculadoras de hipotecas são importantes",
         "intro": "Entrando no mundo da compra de casa? As calculadoras de hipotecas são ferramentas essenciais que ajudam os compradores iniciantes a entender os custos, a estimar pagamentos e determinar a acessibilidade antes de assumir um dos maiores compromissos financeiros da vida.",

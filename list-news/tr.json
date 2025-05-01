@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "PITI Hesap Makinesi: Mortgage'yi vergi ve sigorta ile hesaplayın",
+        "intro": "Vergiler ve sigorta dahil olmak üzere aylık ipotek ödemenizi belirlemenize yardımcı olan ücretsiz PITI hesap makinemizi keşfedin. Ev bütçenizi güvenle planlamak için doğru tahminler alın.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "PITI Hesap Makinesi: Mortgage'yi vergi ve sigorta ile hesaplayın",
+        "meta_description": "Mortgage ödemenizi vergiler ve sigorta dahil tahmin etmek için ücretsiz piti hesap makinemizi kullanın. Bütçeleme için doğru aylık ödeme rakamları alın.",
+        "meta_keyword": "mortgage calculator with taxes and insurance, PITI calculator, home loan calculator with taxes and insurance, mortgage payment calculator with escrow, mortgage affordability calculator, monthly mortgage payment with taxes and insurance, house payment calculator with taxes included, complete mortgage calculator, home loan payment estimator, mortgage calculator with property tax and insurance, mortgage calculator with escrow included, real mortgage payment calculator, total monthly mortgage payment Hesap Makinesi, Ev Sahipliği Hesap Makinesi'nin Gerçek Maliyeti, Mortgage Hesap Makinesi Tüm Maliyetler",
+        "status": "1",
+        "category": "Mali",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "İlk kez ev alıcısı? İpotek hesaplayıcıları neden önemlidir?",
         "intro": "Ev satın alma dünyasına adım atıyor musunuz? İpotek hesap makineleri, alıcıların maliyetleri anlamalarına, ödemeleri tahmin etmesine ve ömür boyu en büyük finansal taahhütlerinden birini yapmadan önce uygun fiyatları belirlemelerine yardımcı olan temel araçlardır.",

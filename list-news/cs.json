@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Kalkulačka PITI: Vypočítejte hypotéku s daněmi a pojištění",
+        "intro": "Objevte naši bezplatnou kalkulačku PITI, která vám pomůže určit vaši skutečnou měsíční hypotéku včetně daní a pojištění. Získejte přesné odhady a naplánujte si domácí rozpočet s důvěrou.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Kalkulačka PITI: Vypočítejte hypotéku s daněmi a pojištění",
+        "meta_description": "Pomocí naší kalkulačky PITI pomocí bezplatného PITI odhadujte úplnou splátku hypotéky s včetně daní a pojištění. Získejte přesné měsíční údaje o platbě za rozpočtování.",
+        "meta_keyword": "Kalkulačka hypotéky s daní a pojištění, kalkulačka PITI, kalkulačka půjčky na bydlení s daněmi a pojištěním, kalkulačkami s hypotékou s úschovkou, kalkulačka dostupnosti dostupnosti hypotéky, měsíční splátka hypotéky s daněmi a pojištění, zahrnující výpočty, zahrnující částku, zahrnující plateb, zahrnuto, reálná měsíční plateb, skutečná, skutečná, skutečná reálná, skutečná, skutečná skutečná, skutečná reálná, skutečná, skutečná reálná, reálná smyšlená platební výplata, reálná s platebním majetkem, reálným měsícem, reálným měsícem, reálným měsícem, reálným měsícem, celkový počet plateb s hypotékou. Kalkulačka plateb, skutečné náklady na kalkulačku vlastnictví domu, kalkulačka hypotéky se všemi náklady",
+        "status": "1",
+        "category": "Finanční",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Poprvé kupující domů? Proč na hypotečních kalkulačkách záleží",
         "intro": "Vstoupit do světa nákupu domů? Kalkulačky hypotéky jsou základní nástroje, které pomáhají kupujícím poprvé pochopit náklady, odhadnout platby a určit dostupnost před provedením jednoho z největších finančních závazků života.",

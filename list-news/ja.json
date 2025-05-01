@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "PITI計算機：税金と保険で住宅ローンを計算します",
+        "intro": "税金や保険を含む真の毎月の住宅ローンの支払いを決定するのに役立つ無料のPITI計算機を発見してください。正確な見積もりを取得して、自信を持って家の予算を計画してください。",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "PITI計算機：税金と保険で住宅ローンを計算します",
+        "meta_description": "無料のPITI計算機を使用して、税金と保険を含む完全な住宅ローンの支払いを見積もってください。予算編成の正確な毎月の支払い数値を取得します。",
+        "meta_keyword": "税金と保険を備えた住宅ローン計算機、PITI計算機、税金と保険を備えた住宅ローン計算機、エスクロー付き住宅ローン支払い計算機、税金と保険付きの毎月の住宅ローン支払い、税金を備えた住宅ローン計算機、完全な住宅ローン計算機、住宅ローンの支払い推定器、住宅ローン税の計算機、財産税、および住宅ローンの計算機の計算機、すべての費用を伴う住宅ローン計算機",
+        "status": "1",
+        "category": "金融",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "初めての住宅購入者？なぜ住宅ローン計算機が重要なのか",
         "intro": "住宅購入の世界に足を踏み入れますか？住宅ローン計算機は、初めての買い手がコストを理解し、支払いを見積もって、人生の最大の財政的コミットメントの1つを作成する前に手頃な価格を決定するのに役立つ重要なツールです。",

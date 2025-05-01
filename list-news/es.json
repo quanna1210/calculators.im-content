@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Calculadora de piti: calcule la hipoteca con impuestos y seguros incluidos",
+        "intro": "Descubra nuestra calculadora Piti gratuita que le ayuda a determinar su verdadero pago mensual de hipotecas, incluidos impuestos y seguros. Obtenga estimaciones precisas para planificar el presupuesto de su hogar con confianza.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Calculadora de piti: calcule la hipoteca con impuestos y seguros incluidos",
+        "meta_description": "Use nuestra calculadora Piti gratuita para estimar el pago completo de su hipoteca con impuestos y seguro incluidos. Obtenga cifras de pago mensuales precisas para el presupuesto.",
+        "meta_keyword": "Calculadora de hipotecas con impuestos y seguros, calculadora de PITI, calculadora de préstamos hipotecarios con impuestos y seguros, calculadora de pago de hipotecas con custodia, calculadora de accesibilidad de la hipoteca, pago mensual de la hipoteca con impuestos y seguros, calculadora de pago de la casa con impuestos incluidos, calculador de pagos de préstamos hipotecarios de la hipoteca, calculador de la mortalidad de la mortalidad de la mortalidad de la mortalidad de la mortalidad de la mortalidad de la mortalidad de la casa, calculadora, calculadora hipotecaria con todos los costos",
+        "status": "1",
+        "category": "Financiero",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "¿Comprador de vivienda por primera vez? Por qué importan las calculadoras de la hipoteca",
         "intro": "¿Entrar en el mundo de la compra de viviendas? Las calculadoras hipotecarias son herramientas esenciales que ayudan a los compradores primerizos a comprender los costos, estimar los pagos y determinar la asequibilidad antes de hacer uno de los mayores compromisos financieros de la vida.",

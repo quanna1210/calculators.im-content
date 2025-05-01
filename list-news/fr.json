@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Calculatrice PITTI: calculer l'hypothèque avec les taxes et l'assurance incluse",
+        "intro": "Découvrez notre calculatrice PITI gratuite qui vous aide à déterminer votre véritable paiement hypothécaire mensuel, y compris les taxes et l'assurance. Obtenez des estimations précises pour planifier votre budget d'accueil en toute confiance.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Calculatrice PITTI: calculer l'hypothèque avec les taxes et l'assurance incluse",
+        "meta_description": "Utilisez notre calculatrice PITI gratuite pour estimer votre paiement hypothécaire complet avec les taxes et les assurances incluses. Obtenez des chiffres de paiement mensuels précis pour la budgétisation.",
+        "meta_keyword": "Calculateur d'hypothèque avec taxes et assurance, calculateur PITTI, calculateur de prêt immobilier avec taxes et assurance, calculateur de paiement hypothécaire avec entierceau, calculatrice de l'abordabilité hypothécaire, paiement hypothécaire mensuel avec taxes et assurance, calculatrice de paiement de la maison avec taxes incluses, calculateur hypothécaire complet, estimation du paiement des prêts immobiliers, calculateur de création de prêt hypothécaire calculatrice, calculatrice hypothécaire avec tous les coûts",
+        "status": "1",
+        "category": "Financier",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Acheteur pour la première fois? Pourquoi les calculatrices hypothécaires comptent",
         "intro": "Entrer dans le monde de l'achat d'une maison? Les calculatrices hypothécaires sont des outils essentiels qui aident les premiers acheteurs à comprendre les coûts, à estimer les paiements et à déterminer l'abordabilité avant de prendre l'un des plus grands engagements financiers de la vie.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "PITI 계산기 : 세금 및 보험 포함로 모기지를 계산합니다",
+        "intro": "세금 및 보험을 포함한 실제 월간 모기지 지불을 결정하는 데 도움이되는 무료 Piti 계산기를 발견하십시오. 자신감을 가지고 주택 예산을 계획하기 위해 정확한 추정치를 얻으십시오.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "PITI 계산기 : 세금 및 보험 포함로 모기지를 계산합니다",
+        "meta_description": "무료 PITI 계산기를 사용하여 세금 및 보험 포함 된 전체 모기지 지불을 추정하십시오. 예산 책정을 위해 정확한 월별 결제 수치를 얻으십시오.",
+        "meta_keyword": "mortgage calculator with taxes and insurance, PITI calculator, home loan calculator with taxes and insurance, mortgage payment calculator with escrow, mortgage affordability calculator, monthly mortgage payment with taxes and insurance, house payment calculator with taxes included, complete mortgage calculator, home loan payment estimator, mortgage calculator with property tax and insurance, mortgage calculator with escrow included, real mortgage payment calculator, total monthly mortgage payment calculator, true cost of homeownership 계산기, 모든 비용이 포함 된 모기지 계산기",
+        "status": "1",
+        "category": "재정적인",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "처음으로 주택 구매자? 모기지 계산기가 중요한 이유",
         "intro": "주택 구매의 세계로 들어가고 있습니까? 모기지 계산기는 생명의 가장 큰 재무 약속 중 하나를 만들기 전에 최초 구매자가 비용을 이해하고, 지불을 추정하고, 경제성을 결정하는 데 도움이되는 필수 도구입니다.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Calcolatore PITI: calcola il mutuo con le tasse e l'assicurazione incluse",
+        "intro": "Scopri il nostro calcolatore PITI gratuito che ti aiuta a determinare il pagamento del mutuo mensile vero, comprese le tasse e l'assicurazione. Ottieni stime accurate per pianificare il budget di casa con fiducia.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Calcolatore PITI: calcola il mutuo con le tasse e l'assicurazione incluse",
+        "meta_description": "Utilizzare il nostro calcolatore PITI gratuito per stimare il pagamento del mutuo completo con le tasse e l'assicurazione incluse. Ottieni dati accurati di pagamento mensile per il budget.",
+        "meta_keyword": "Calcolatore ipotecario con tasse e assicurazioni, calcolatore PITI, calcolatore del mutuo per la casa con tasse e assicurazioni, calcolatore del pagamento dei mutui con impegno, calcolatore di accessibilità dei mutui, pagamento mensile ipotecario con tasse e assicurazioni, calcolatrice di pagamenti in casa con calcolo del mutuo completo, calcolo dei mutui completi, calcolatrice di mutui completi di mutuo Calcolatrice di pagamenti, costo reale del calcolatore della proprietà della casa, calcolatore ipotecario con tutti i costi",
+        "status": "1",
+        "category": "Finanziario",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Acquirente di casa per la prima volta? Perché i calcolatori dei mutui contano",
         "intro": "Entrando nel mondo dell'acquisto di casa? I calcolatori dei mutui sono strumenti essenziali che aiutano gli acquirenti per la prima volta a comprendere i costi, stimare i pagamenti e determinare l'accessibilità prima di prendere uno dei maggiori impegni finanziari della vita.",

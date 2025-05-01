@@ -1,5 +1,20 @@
 [
     {
+        "id": "10",
+        "title": "Kalkulator Piti: Oblicz kredyt hipoteczny z podatkami i ubezpieczeniem",
+        "intro": "Odkryj nasz bezpłatny kalkulator Piti, który pomaga ustalić prawdziwą miesięczną spłatę kredytu hipotecznego, w tym podatki i ubezpieczenie. Uzyskaj dokładne szacunki, aby z pewnością zaplanować budżet domowy.",
+        "slug": "piti-calculator-calculate-mortgage-with-taxes-and-insurance-included",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/10/thumb.jpeg",
+        "meta_title": "Kalkulator Piti: Oblicz kredyt hipoteczny z podatkami i ubezpieczeniem",
+        "meta_description": "Skorzystaj z naszego bezpłatnego kalkulatora Piti, aby oszacować pełną płatność hipoteczną z podatkami i ubezpieczeniem. Uzyskaj dokładne miesięczne dane dotyczące płatności za budżetowanie.",
+        "meta_keyword": "Kalkulator kredytu hipotecznego z podatkami i ubezpieczeniem, kalkulator PITI, kalkulator pożyczki mieszkaniowej z podatkami i ubezpieczeniem, kalkulator płatności kredytu hipotecznego z depozytem, ​​kalkulator przystępności hipotecznej, miesięczna płatność hipoteczna z podatkami i ubezpieczeniem, kalkulator płatności domowych z podatkami wliczonym, kompletnym kalkulatorem kredytu hipotecznym, kalkulatorem kredytu kredytowego, kalkulator kredytu hipotecznego z podatkiem od nieruchomości i ubezpieczeniem hipotecznym z escrowem, uwzględnieniem realnego kredytu hipotecznego, kalkulatorem kredytu hipotecznego, kalkulatora na rzecz nieruchomości z nieruchomościami z podatkiem od nieruchomości z podatkiem i ubezpieczeniem. kalkulator, kalkulator kredytu hipotecznego ze wszystkimi kosztami",
+        "status": "1",
+        "category": "Budżetowy",
+        "relate_id": "5,4,6",
+        "relate_link": "/mortgage-calculator",
+        "created_date_int": "1746074303"
+    },
+    {
         "id": "9",
         "title": "Po raz pierwszy nabywca domu? Dlaczego kalkulatory kredytów hipotecznych mają znaczenie",
         "intro": "Wchodzisz do świata zakupu domu? Kalkulatory kredytów hipotecznych są niezbędnymi narzędziami, które pomagają kupującym po raz pierwszy zrozumieć koszty, oszacować płatności i określić przystępność cenową przed dokonaniem jednego z największych zobowiązań finansowych życia.",
