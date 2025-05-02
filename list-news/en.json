@@ -1,5 +1,20 @@
 [
     {
+        "id": "13",
+        "title": "Top 5 Free Online BMI Calculator Tools: Calculate Your Body Mass Index Accurately",
+        "intro" : "Looking to calculate your BMI quickly and accurately? We've reviewed the best free online BMI calculators that help you track your body mass index and assess your weight status instantly.",
+        "slug": "top-5-free-online-bmi-calculator-tools-calculate-your-body-mass-index-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/13/thumb.jpeg",
+        "meta_title": "Top 5 Free Online BMI Calculator Tools: Calculate Your Body Mass Index Accurately",
+        "meta_description": "Discover top 5 free online BMI calculators for accurate body mass index results. Calculate your BMI instantly and track health metrics with these trusted tools for adults.",
+        "meta_keyword": "bmi calculator online, free bmi calculator, body mass index calculator, calculate bmi, bmi calculator for adults, weight calculator, healthy bmi calculator, online bmi checker, accurate bmi calculator, best bmi calculator, bmi calculator with age, calculator for weight, body fat percentage calculator, bmi calculator for women, health calculator",
+        "status": "1",
+        "category": "Health",
+        "relate_id": "12,15,18",
+        "relate_link": "/bmi-calculator",
+        "created_date_int" : "1746158449"
+    },
+    {
         "id": "12",
         "title": "How to Calculate Your BMI Accurately: The Complete Guide 2025",
         "intro" : "Discover how to calculate your BMI accurately using the standard formula. Learn what your body mass index reveals about your health status and weight classification in this complete guide.",
@@ -10,7 +25,7 @@
         "meta_keyword": "bmi calculator, how to calculate bmi, body mass index calculator, calculate bmi, bmi formula, accurate bmi calculator, bmi calculation formula, healthy bmi range, what is my bmi, bmi calculator for adults, body mass index formula, bmi measurement, bmi calculator online, calculate body mass index, bmi chart, what should my bmi be, bmi calculator kg, weight to height ratio calculator, ideal bmi, bmi calculator men, bmi calculator women, calculate your bmi, body fat calculator, bmi index calculator, healthy weight calculator",
         "status": "1",
         "category": "Health",
-        "relate_id": "12,15,18",
+        "relate_id": "11,13,14",
         "relate_link": "/bmi-calculator",
         "created_date_int" : "1746146455"
     },
