@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 cosas que necesita saber sobre las calculadoras de IMC: su guía completa para el índice de masa corporal",
+        "intro": "¿Se pregunta qué significa IMC para su salud? Nuestra guía explica cómo funcionan las calculadoras de IMC, qué significan realmente sus resultados y por qué el seguimiento de su índice de masa corporal es importante. Calcule su IMC al instante con nuestra herramienta en línea gratuita.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 cosas que necesita saber sobre las calculadoras de IMC: su guía completa para el índice de masa corporal",
+        "meta_description": "Descubra todo sobre las calculadoras de IMC en nuestra guía integral. Aprenda a calcular su índice de masa corporal, comprenda los rangos de IMC saludables, interprete sus resultados y por qué monitorear su IMC es importante para la salud a largo plazo. Incluye una calculadora en línea gratuita y consejos de expertos para mantener un IMC ideal.",
+        "meta_keyword": "BMI calculator, calculate BMI, body mass index calculator, BMI chart, healthy BMI range, BMI formula, BMI calculator online, free BMI calculator, what is BMI, BMI calculator for adults, weight calculator, BMI measurement, BMI categories, BMI health risks, BMI weight status, ideal BMI, BMI interpretation, BMI weight chart, BMI index",
+        "status": "1",
+        "category": "Salud",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "Calculadora de piti: calcule la hipoteca con impuestos y seguros incluidos",
         "intro": "Descubra nuestra calculadora Piti gratuita que le ayuda a determinar su verdadero pago mensual de hipotecas, incluidos impuestos y seguros. Obtenga estimaciones precisas para planificar el presupuesto de su hogar con confianza.",

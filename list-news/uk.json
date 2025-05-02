@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 речей, які потрібно знати про калькулятори ІМТ: ваш повний посібник з індексу маси тіла",
+        "intro": "Цікаво, що означає ІМТ для вашого здоров’я? Наш посібник пояснює, як працюють калькулятори ІМТ, що насправді означають ваші результати, і чому відстеження індексу маси тіла має значення. Обчисліть свій ІМТ миттєво за допомогою нашого безкоштовного онлайн -інструменту.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 речей, які потрібно знати про калькулятори ІМТ: ваш повний посібник з індексу маси тіла",
+        "meta_description": "Відкрийте все про калькулятори ІМТ у нашому всеосяжному посібнику. Дізнайтеся, як обчислити індекс маси тіла, розуміти здорові діапазони ІМТ, інтерпретувати результати та навіщо моніторинг ваших питань ІМТ для довгострокового здоров’я. Включає безкоштовний онлайн -калькулятор та експертні поради щодо підтримки ідеального ІМТ.",
+        "meta_keyword": "BMI calculator, calculate BMI, body mass index calculator, BMI chart, healthy BMI range, BMI formula, BMI calculator online, free BMI calculator, what is BMI, BMI calculator for adults, weight calculator, BMI measurement, BMI categories, BMI health risks, BMI weight status, ideal BMI, BMI interpretation, BMI weight chart, BMI index",
+        "status": "1",
+        "category": "Здоров'я",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "Калькулятор PITI: Обчисліть іпотеку з податками та страхуванням",
         "intro": "Відкрийте для себе наш безкоштовний калькулятор PITI, який допоможе вам визначити свій справжній щомісячний іпотечний платіж, включаючи податки та страхування. Отримайте точні оцінки, щоб спланувати свій домашній бюджет з упевненістю.",

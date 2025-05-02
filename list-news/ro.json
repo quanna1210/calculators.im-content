@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 lucruri pe care trebuie să le știți despre calculatoarele IMC: Ghidul dvs. complet pentru indicele de masă corporală",
+        "intro": "Te întrebi ce înseamnă IMC pentru sănătatea ta? Ghidul nostru explică modul în care funcționează calculatoarele IMC, ce înseamnă de fapt rezultatele dvs. și de ce contează urmărirea indicelui de masă corporală. Calculați -vă IMC instantaneu cu instrumentul nostru online gratuit.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 lucruri pe care trebuie să le știți despre calculatoarele IMC: Ghidul dvs. complet pentru indicele de masă corporală",
+        "meta_description": "Descoperiți totul despre calculatoarele IMC în ghidul nostru cuprinzător. Aflați cum să vă calculați indicele de masă corporală, înțelegeți intervalele de IMC sănătoase, interpretați-vă rezultatele și de ce monitorizarea problemelor IMC pentru sănătatea pe termen lung. Include calculatorul online gratuit și sfaturi de expert pentru menținerea unui IMC ideal.",
+        "meta_keyword": "BMI calculator, calculate BMI, body mass index calculator, BMI chart, healthy BMI range, BMI formula, BMI calculator online, free BMI calculator, what is BMI, BMI calculator for adults, weight calculator, BMI measurement, BMI categories, BMI health risks, BMI weight status, ideal BMI, BMI interpretation, BMI weight chart, BMI index",
+        "status": "1",
+        "category": "Sănătate",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "Calculator PITI: calculați ipoteca cu impozitele și asigurarea inclusă",
         "intro": "Descoperiți calculatorul nostru PITI gratuit care vă ajută să determinați adevărata dvs. plată lunară ipotecară, inclusiv impozitele și asigurarea. Obțineți estimări exacte pentru a vă planifica bugetul pentru casă cu încredere.",

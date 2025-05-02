@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "BMI計算機について知っておくべき10のこと：ボディマスインデックスの完全なガイド",
+        "intro": "BMIがあなたの健康にとって何を意味するのか疑問に思いますか？ガイドでは、BMI計算機がどのように機能するか、結果が実際に何を意味するか、そしてなぜあなたのボディマス指数の追跡が重要なのかを説明しています。無料のオンラインツールでBMIを即座に計算します。",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "BMI計算機について知っておくべき10のこと：ボディマスインデックスの完全なガイド",
+        "meta_description": "包括的なガイドでBMI計算機に関するすべてを発見してください。ボディマスインデックスを計算し、健康的なBMI範囲を理解し、結果を解釈する方法、およびBMIの長期的な健康に関する監視の理由を学びます。無料のオンライン計算機と理想的なBMIを維持するためのエキスパートのヒントが含まれています。",
+        "meta_keyword": "BMI計算機、BMI、ボディマスインデックス計算機、BMIチャート、健康なBMI範囲、BMI式、BMI計算機オンライン、無料BMI計算機、大人向けのBMI、BMI計算機、BMI測定、BMIカテゴリ、BMI健康リスク、BMIの健康状態、BMI、BMI、BMIの健康",
+        "status": "1",
+        "category": "健康",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "PITI計算機：税金と保険で住宅ローンを計算します",
         "intro": "税金や保険を含む真の毎月の住宅ローンの支払いを決定するのに役立つ無料のPITI計算機を発見してください。正確な見積もりを取得して、自信を持って家の予算を計画してください。",

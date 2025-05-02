@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 coisas que você precisa saber sobre as calculadoras de IMC: seu guia completo para o índice de massa corporal",
+        "intro": "Quer saber o que o IMC significa para sua saúde? Nosso guia explica como as calculadoras do IMC funcionam, o que seus resultados realmente significam e por que o rastreamento do seu índice de massa corporal é importante. Calcule seu IMC instantaneamente com nossa ferramenta online gratuita.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 coisas que você precisa saber sobre as calculadoras de IMC: seu guia completo para o índice de massa corporal",
+        "meta_description": "Descubra tudo sobre calculadoras de IMC em nosso guia abrangente. Aprenda a calcular o índice de massa corporal, entender as faixas saudáveis ​​de IMC, interpretar seus resultados e por que monitorar seu IMC é importante para a saúde a longo prazo. Inclui calculadora on -line gratuita e dicas de especialistas para manter um IMC ideal.",
+        "meta_keyword": "Calculadora de IMC, calcule o IMC, calculadora do índice de massa corporal, gráfico de IMC, alcance saudável do IMC, fórmula do IMC, calculadora de IMC on -line, calculadora de IMC livre, o que é IMC, calculadora de IMC para adultos, calculador de peso, Medida de IMC, Categorias de IMC, BMI BMIation Riscos, Riscos de BMI, status de peso BM, status de peso BM, status de peso BM, BMI BM, BMIs BM, BMIs BM, BMIs BM, BMI",
+        "status": "1",
+        "category": "Saúde",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "Calculadora Piti: Calcule a hipoteca com impostos e seguros incluídos",
         "intro": "Descubra nossa calculadora Piti gratuita que ajuda a determinar seu verdadeiro pagamento mensal de hipoteca, incluindo impostos e seguros. Obtenha estimativas precisas para planejar seu orçamento doméstico com confiança.",

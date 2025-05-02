@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "BMI 계산기에 대해 알아야 할 10 가지 사항 : 체질량 지수에 대한 완전한 안내서",
+        "intro": "BMI가 건강에 어떤 의미가 있는지 궁금하십니까? 우리의 가이드는 BMI 계산기의 작동 방식, 결과가 실제로 무엇을 의미하는지, 신체 질량 지수를 추적하는 이유가 설명됩니다. 무료 온라인 도구로 BMI를 즉시 계산하십시오.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "BMI 계산기에 대해 알아야 할 10 가지 사항 : 체질량 지수에 대한 완전한 안내서",
+        "meta_description": "포괄적 인 가이드에서 BMI 계산기에 대한 모든 것을 발견하십시오. 체질량 지수를 계산하고, 건강한 BMI 범위를 이해하고, 결과를 해석하고, BMI를 모니터링하는 것이 장기 건강에 중요한 이유를 알아보십시오. 무료 온라인 계산기 및 이상적인 BMI를 유지하기위한 전문가 팁을 포함합니다.",
+        "meta_keyword": "BMI 계산기, BMI, 체질량 지수 계산기, BMI 차트 계산, 건강한 BMI 범위, BMI 공식, BMI 계산기 온라인, 무료 BMI 계산기, BMI, 성인용 BMI 계산기, 체중 계산기, BMI 측정, BMI 카테고리, BMI 체중 상태, BMI 해석, BMI 해석, BMI 해석, BMI 통역, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정, BMI 측정.",
+        "status": "1",
+        "category": "건강",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "PITI 계산기 : 세금 및 보험 포함로 모기지를 계산합니다",
         "intro": "세금 및 보험을 포함한 실제 월간 모기지 지불을 결정하는 데 도움이되는 무료 Piti 계산기를 발견하십시오. 자신감을 가지고 주택 예산을 계획하기 위해 정확한 추정치를 얻으십시오.",

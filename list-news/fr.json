@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 choses que vous devez savoir sur les calculatrices BMI: votre guide complet de l'indice de masse corporelle",
+        "intro": "Vous vous demandez ce que BMI signifie pour votre santé? Notre guide explique comment fonctionnent les calculatrices de l'IMC, ce que vos résultats signifient réellement et pourquoi le suivi de votre indice de masse corporelle est important. Calculez votre IMC instantanément avec notre outil en ligne gratuit.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 choses que vous devez savoir sur les calculatrices BMI: votre guide complet de l'indice de masse corporelle",
+        "meta_description": "Découvrez tout sur les calculatrices BMI dans notre guide complet. Apprenez à calculer votre indice de masse corporelle, à comprendre des gammes d'IMC saines, à interpréter vos résultats et à savoir pourquoi la surveillance de vos questions d'IMC pour une santé à long terme. Comprend une calculatrice en ligne gratuite et des conseils d'experts pour maintenir un IMC idéal.",
+        "meta_keyword": "Calculateur d'IMC, calcul de l'IMC, calculateur de l'indice de masse corporelle, graphique IMC, gamme IMC saine, formule IMC, calculatrice d'IMC en ligne, calculatrice gratuite de l'IMC, ce qui est IMC, Calculatrice d'IMC pour les adultes, calculatrice de poids, IDMI Measurement, Catégories IMC, IMC Health",
+        "status": "1",
+        "category": "Santé",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746102101"
+    },
+    {
         "id": "10",
         "title": "Calculatrice PITTI: calculer l'hypothèque avec les taxes et l'assurance incluse",
         "intro": "Découvrez notre calculatrice PITI gratuite qui vous aide à déterminer votre véritable paiement hypothécaire mensuel, y compris les taxes et l'assurance. Obtenez des estimations précises pour planifier votre budget d'accueil en toute confiance.",

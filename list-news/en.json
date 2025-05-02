@@ -1,5 +1,20 @@
 [
     {
+        "id": "11",
+        "title": "10 Things You Need to Know About BMI Calculators: Your Complete Guide to Body Mass Index",
+        "intro" : "Wondering what BMI means for your health? Our guide explains how BMI calculators work, what your results actually mean, and why tracking your body mass index matters. Calculate your BMI instantly with our free online tool.",
+        "slug": "10-things-you-need-to-know-about-bmi-calculators-your-complete-guide-to-body-mass-index",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/11/thumb.jpeg",
+        "meta_title": "10 Things You Need to Know About BMI Calculators: Your Complete Guide to Body Mass Index",
+        "meta_description": "Discover everything about BMI calculators in our comprehensive guide. Learn how to calculate your body mass index, understand healthy BMI ranges, interpret your results, and why monitoring your BMI matters for long-term health. Includes free online calculator and expert tips for maintaining an ideal BMI.",
+        "meta_keyword": "BMI calculator, calculate BMI, body mass index calculator, BMI chart, healthy BMI range, BMI formula, BMI calculator online, free BMI calculator, what is BMI, BMI calculator for adults, weight calculator, BMI measurement, BMI categories, BMI health risks, BMI weight status, ideal BMI, BMI interpretation, BMI weight chart, BMI index",
+        "status": "1",
+        "category": "Health",
+        "relate_id": "12,14,17",
+        "relate_link": "/bmi-calculator",
+        "created_date_int" : "1746102101"
+    },
+    {
         "id": "10",
         "title": "PITI Calculator: Calculate Mortgage with Taxes and Insurance Included",
         "intro" : "Discover our free PITI calculator that helps you determine your true monthly mortgage payment including taxes and insurance. Get accurate estimates to plan your home budget with confidence.",
