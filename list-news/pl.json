@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "Ograniczenia BMI i 5 alternatywnych pomiarów w celu bardziej kompleksowej oceny zdrowia",
+        "intro": "BMI nie może rozróżnić mięśni i tłuszczu, co prowadzi do niedokładnych ocen zdrowia. Odkryj 5 sprawdzonych alternatyw, które lepiej mierzą skład ciała i przewidują zagrożenia dla zdrowia.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "Kategorie BMI wyjaśniono: zrozumienie, czy masz niedowagę, normalna waga lub nadwaga",
+        "meta_description": "BMI nie może rozróżnić mięśni i tłuszczu, co prowadzi do niedokładnych ocen zdrowia. Odkryj 5 sprawdzonych alternatyw, które lepiej mierzą skład ciała i przewidują zagrożenia dla zdrowia.",
+        "meta_keyword": "Ograniczenia BMI, obwód talii, pomiar tkanki tłuszczowej, stosunek talii do wysokości, WHTR, BMI alternatywy, względna masa tłuszczowa, skład ciała, tłuszcz trzewna, stosunek talii do biodra, pomiar z fałdami, dexa, niedokładność BMI, procent tkanki tłuszczowej, bioelektryczna impedancja",
+        "status": "1",
+        "category": "Zdrowie",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "Top 5 bezpłatnych online narzędzia kalkulatora BMI: Dokładnie oblicz wskaźnik masy ciała",
         "intro": "Chcesz szybko i dokładnie obliczyć BMI? Sprawdziliśmy najlepsze bezpłatne kalkulatory BMI online, które pomagają śledzić wskaźnik masy ciała i natychmiast ocenić status wagi.",

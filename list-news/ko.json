@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "보다 포괄적 인 건강 평가를위한 BMI의 한계 및 5 개의 대체 측정",
+        "intro": "BMI는 근육과 지방을 구별 할 수 없어 건강 평가가 부정확합니다. 신체 구성을 더 잘 측정하고 건강 위험을 예측하는 5 가지 입증 된 대안을 발견하십시오.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "BMI 카테고리 설명 : 저체중, 정상 체중 또는 과체중의 이해",
+        "meta_description": "BMI는 근육과 지방을 구별 할 수 없어 건강 평가가 부정확합니다. 신체 구성을 더 잘 측정하고 건강 위험을 예측하는 5 가지 입증 된 대안을 발견하십시오.",
+        "meta_keyword": "BMI 제한, 허리 둘레, 체지방 측정, 허리-대 높이 비율, WHTR, BMI 대안, 상대 지방 질량, 신체 조성, 내장 지방, 허리-힙 비율, WHR, 피부 폴드 측정, DEXA, BMI inaccuracy, 체지방, 생물 전기 임타",
+        "status": "1",
+        "category": "건강",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "상위 5 개 무료 온라인 BMI 계산기 도구 : 신체 질량 지수를 정확하게 계산하십시오.",
         "intro": "BMI를 빠르고 정확하게 계산하려고하십니까? 우리는 체질량 지수를 추적하고 체중 상태를 즉시 평가하는 데 도움이되는 최고의 무료 온라인 BMI 계산기를 검토했습니다.",

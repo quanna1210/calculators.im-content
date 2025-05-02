@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "Omezení BMI a 5 alternativních měření pro komplexnější posouzení zdraví",
+        "intro": "BMI se nemůže rozlišit mezi svalem a tukem, což vede k nepřesným zdravotním hodnocení. Objevte 5 osvědčených alternativ, které lépe měří složení těla a předpovídají zdravotní rizika.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "Kategorie BMI vysvětleny: Pochopení, pokud máte podváhu, normální váha nebo nadváha",
+        "meta_description": "BMI se nemůže rozlišit mezi svalem a tukem, což vede k nepřesným zdravotním hodnocení. Objevte 5 osvědčených alternativ, které lépe měří složení těla a předpovídají zdravotní rizika.",
+        "meta_keyword": "Omezení BMI, obvod pasu, měření tělesného tuku, poměr pasu k výšce, WHTR, alternativy BMI, relativní tuková hmota, složení těla, viscerální tuk, poměr pasu k bodě, WHR, měření kůže, DEXA, BMI nepřesnost, tělesná tuková procenta, bioelektrická impedance",
+        "status": "1",
+        "category": "Zdraví",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "Top 5 zdarma online BMI Kalkulační nástroje: Vypočítejte svůj index tělesné hmotnosti přesně",
         "intro": "Chcete vypočítat svůj BMI rychle a přesně? Zkontrolovali jsme nejlepší bezplatné online kalkulačky BMI, které vám pomohou sledovat index vašeho tělesné hmotnosti a okamžitě posoudit stav váhy.",

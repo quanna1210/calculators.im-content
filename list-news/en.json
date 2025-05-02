@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "Limitations of BMI and 5 Alternative Measurements for More Comprehensive Health Assessment",
+        "intro" : "BMI can't differentiate between muscle and fat, leading to inaccurate health assessments. Discover 5 proven alternatives that better measure body composition and predict health risks.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "BMI Categories Explained: Understanding If You're Underweight, Normal Weight, or Overweight",
+        "meta_description": "BMI can't differentiate between muscle and fat, leading to inaccurate health assessments. Discover 5 proven alternatives that better measure body composition and predict health risks.",
+        "meta_keyword": "BMI limitations, waist circumference, body fat measurement, waist-to-height ratio, WHtR, BMI alternatives, relative fat mass, body composition, visceral fat, waist-to-hip ratio, WHR, skinfold measurement, DEXA, BMI inaccuracy, body fat percentage, bioelectrical impedance",
+        "status": "1",
+        "category": "Health",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int" : "1746158449"
+    },
+    {
         "id": "13",
         "title": "Top 5 Free Online BMI Calculator Tools: Calculate Your Body Mass Index Accurately",
         "intro" : "Looking to calculate your BMI quickly and accurately? We've reviewed the best free online BMI calculators that help you track your body mass index and assess your weight status instantly.",

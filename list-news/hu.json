@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "A BMI korlátozásai és 5 alternatív mérés az átfogóbb egészségügyi értékeléshez",
+        "intro": "A BMI nem képes megkülönböztetni az izom és a zsír között, ami pontatlan egészségügyi értékelésekhez vezet. Fedezze fel az 5 bevált alternatívát, amelyek jobban mérik a test összetételét és megjósolják az egészségügyi kockázatokat.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "A BMI kategóriák magyarázata: Megértés, ha alsó súlyú, normál súly vagy túlsúlyos",
+        "meta_description": "A BMI nem képes megkülönböztetni az izom és a zsír között, ami pontatlan egészségügyi értékelésekhez vezet. Fedezze fel az 5 bevált alternatívát, amelyek jobban mérik a test összetételét és megjósolják az egészségügyi kockázatokat.",
+        "meta_keyword": "A BMI korlátozások, a derék kerülete, a testzsír mérése, a derék-magasság arány, a WHTR, a BMI alternatívák, a relatív zsírsömeg, a test összetétele, a zsigeri zsír, a derék-csípő arány, a WHR,",
+        "status": "1",
+        "category": "Egészség",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "Az 5 legjobban ingyenes online BMI számológép eszközök: Pontosan számítsa ki a testtömeg -indexet",
         "intro": "Szeretne gyorsan és pontosan kiszámítani a BMI -t? Áttekintettük a legjobb ingyenes online BMI számológépeket, amelyek segítenek a testtömeg -index nyomon követésében és a súly állapotának azonnali értékelésében.",

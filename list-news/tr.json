@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "BMI sınırlamaları ve daha kapsamlı sağlık değerlendirmesi için 5 alternatif ölçüm",
+        "intro": "BMI kas ve yağ arasında ayrım yapamaz, bu da yanlış sağlık değerlendirmelerine yol açar. Vücut kompozisyonunu daha iyi ölçen ve sağlık risklerini tahmin eden 5 kanıtlanmış alternatifi keşfedin.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "BMI kategorileri açıklandı: zayıf, normal ağırlık veya aşırı kilolu olup olmadığınızı anlamak",
+        "meta_description": "BMI kas ve yağ arasında ayrım yapamaz, bu da yanlış sağlık değerlendirmelerine yol açar. Vücut kompozisyonunu daha iyi ölçen ve sağlık risklerini tahmin eden 5 kanıtlanmış alternatifi keşfedin.",
+        "meta_keyword": "BMI sınırlamaları, bel çevresi, vücut yağ ölçümü, bel-yükseklik oranı, WHTR, BMI alternatifleri, göreceli yağ kütlesi, vücut kompozisyonu, visseral yağ, bel-hip oranı, WHR, deri kıvrımlı ölçüm, Dexa, BMI engelsizlik, vücut yağ yüzdesi, biyoelektrik",
+        "status": "1",
+        "category": "Sağlık",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "Top 5 Ücretsiz Çevrimiçi BMI Hesap Makinesi Araçları: Vücut Kitle Endeklinizi Doğru Hesaplayın",
         "intro": "BMI'nizi hızlı ve doğru bir şekilde hesaplamak mı istiyorsunuz? Vücut kitle endeksinizi izlemenize ve ağırlık durumunuzu anında değerlendirmenize yardımcı olan en iyi ücretsiz çevrimiçi BMI hesap makinelerini inceledik.",

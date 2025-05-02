@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "Limitações do IMC e 5 medições alternativas para avaliação de saúde mais abrangente",
+        "intro": "O IMC não pode diferenciar o músculo e a gordura, levando a avaliações imprecisas de saúde. Descubra 5 alternativas comprovadas que medem melhor a composição corporal e prevêem os riscos à saúde.",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "Categorias de IMC explicadas: Entendendo se você está abaixo do peso, peso normal ou excesso de peso",
+        "meta_description": "O IMC não pode diferenciar o músculo e a gordura, levando a avaliações imprecisas de saúde. Descubra 5 alternativas comprovadas que medem melhor a composição corporal e prevêem os riscos à saúde.",
+        "meta_keyword": "Limitações de IMC, circunferência da cintura, medição de gordura corporal, relação cintura-altura, WHTR, alternativas de IMC, massa de gordura relativa, composição corporal, gordura visceral, relação cintura-quadril, WHR, medição da pele, dexa, imprecisão da IMC, porcentagem de gordura corporal, impedência bioelétrica",
+        "status": "1",
+        "category": "Saúde",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "Top 5 Ferramentas gratuitas de calculadora de IMC online: Calcule seu índice de massa corporal com precisão",
         "intro": "Procurando calcular seu IMC de maneira rápida e precisa? Analisamos as melhores calculadoras de IMC on -line gratuitas que ajudam a rastrear seu índice de massa corporal e avaliar seu status de peso instantaneamente.",

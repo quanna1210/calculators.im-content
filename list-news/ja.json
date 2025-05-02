@@ -1,5 +1,20 @@
 [
     {
+        "id": "14",
+        "title": "より包括的な健康評価のためのBMIの制限と5つの代替測定値",
+        "intro": "BMIは筋肉と脂肪を区別できず、不正確な健康評価につながります。体組成をよりよく測定し、健康リスクを予測する5つの実証済みの代替案を発見します。",
+        "slug": "limitations-of-bmi-and-5-alternative-measurements-for-more-comprehensive-health-assessment",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/14/thumb.jpeg",
+        "meta_title": "説明されているBMIカテゴリ：あなたが体重不足、通常の体重、または太りすぎの場合を理解する",
+        "meta_description": "BMIは筋肉と脂肪を区別できず、不正確な健康評価につながります。体組成をよりよく測定し、健康リスクを予測する5つの実証済みの代替案を発見します。",
+        "meta_keyword": "BMIの制限、ウエスト周囲、体脂肪測定、ウエストとハイイトの比率、WHTR、BMI代替、相対脂肪質量、体組成、内臓脂肪、ウエストとヒップの比率、WHR、スキンフォールド測定、DEXA、BMIの不正確さ、体脂肪率、生体電気インピーダンス",
+        "status": "1",
+        "category": "健康",
+        "relate_id": "14,17,19",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746158449"
+    },
+    {
         "id": "13",
         "title": "トップ5の無料オンラインBMI電卓ツール：ボディマスインデックスを正確に計算する",
         "intro": "BMIを迅速かつ正確に計算したいですか？ボディマスインデックスを追跡し、体重の状態を即座に評価するのに役立つ最高の無料オンラインBMI計算機をレビューしました。",
