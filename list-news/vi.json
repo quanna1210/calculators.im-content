@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "BMI & bệnh mãn tính: Liên kết khoa học giữa chỉ số khối cơ thể và rủi ro sức khỏe | Hướng dẫn phòng ngừa",
+        "intro": "BMI không thể phân biệt giữa cơ bắp và chất béo, dẫn đến các đánh giá sức khỏe không chính xác. Khám phá 5 giải pháp thay thế đã được chứng minh để đo lường thành phần cơ thể tốt hơn và dự đoán rủi ro sức khỏe.",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "BMI & bệnh mãn tính: Liên kết khoa học giữa chỉ số khối cơ thể và rủi ro sức khỏe | Hướng dẫn phòng ngừa",
+        "meta_description": "Khám phá mối liên hệ khoa học giữa BMI và các bệnh mãn tính bao gồm bệnh tiểu đường, bệnh tim và ung thư. Tìm hiểu các chiến lược phòng ngừa dựa trên bằng chứng và hiểu các yếu tố rủi ro sức khỏe của bạn.",
+        "meta_keyword": "Nguy cơ mắc bệnh mãn tính BMI, béo phì và bệnh tim, phòng chống bệnh tiểu đường BMI, nguy cơ sức khỏe khối lượng khối lượng cơ thể, nguy cơ ung thư béo phì, bệnh tim mạch BMI, sức khỏe vòng eo Tác động về sức khỏe béo phì, phân loại BMI, tỷ lệ vòng eo-hip, dịch bệnh béo phì, yếu tố nguy cơ mắc bệnh tiểu đường loại 2, hướng dẫn BMI, lựa chọn điều trị béo phì, thành phần cơ thể và sức khỏe, phòng chống béo phì ở trẻ em, sàng lọc sức khỏe BMI",
+        "status": "1",
+        "category": "Sức khỏe",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746241685"
+    },
+    {
         "id": "14",
         "title": "Hạn chế của BMI và 5 phép đo thay thế để đánh giá sức khỏe toàn diện hơn",
         "intro": "BMI không thể phân biệt giữa cơ bắp và chất béo, dẫn đến các đánh giá sức khỏe không chính xác. Khám phá 5 giải pháp thay thế đã được chứng minh để đo lường thành phần cơ thể tốt hơn và dự đoán rủi ro sức khỏe.",

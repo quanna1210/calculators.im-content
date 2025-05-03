@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "ІМТ та хронічні захворювання: наукові зв’язки між індексом маси тіла та ризиками для здоров'я | Посібник з профілактики",
+        "intro": "ІМТ не може розмежовувати м’язи та жир, що призводить до неточних оцінок здоров'я. Відкрийте 5 перевірених альтернатив, які краще вимірюють склад тіла та прогнозують ризики для здоров'я.",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "ІМТ та хронічні захворювання: наукові зв’язки між індексом маси тіла та ризиками для здоров'я | Посібник з профілактики",
+        "meta_description": "Вивчіть науковий зв’язок між ІМТ та хронічними захворюваннями, включаючи діабет, захворювання серця та рак. Вивчіть стратегії профілактики на основі доказів та зрозумійте фактори ризику для здоров'я.",
+        "meta_keyword": "BMI chronic disease risk, obesity and heart disease, BMI diabetes prevention, body mass index health risks, obesity cancer risk, BMI cardiovascular disease, waist circumference health, weight-related diseases, BMI mortality risk, obesity prevention strategies, metabolic syndrome, BMI hypertension link, obesity comorbidities, healthy weight management, BMI calculator, chronic disease prevention, Вплив на здоров'я ожиріння, класифікація ІМТ, співвідношення талії до гіпота, епідемія ожиріння, фактори ризику діабету 2 типу, керівні принципи ІМТ, варіанти лікування ожиріння, склад тіла та здоров'я, запобігання ожирінням у дитячому віці, обстеження ІМТ в галузі ІМТ",
+        "status": "1",
+        "category": "Здоров'я",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746241685"
+    },
+    {
         "id": "14",
         "title": "Обмеження ІМТ та 5 альтернативних вимірювань для більш всебічної оцінки здоров'я",
         "intro": "ІМТ не може розмежовувати м’язи та жир, що призводить до неточних оцінок здоров'я. Відкрийте 5 перевірених альтернатив, які краще вимірюють склад тіла та прогнозують ризики для здоров'я.",

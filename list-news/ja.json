@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "BMI＆慢性疾患：ボディマス指数と健康リスクの間の科学的リンク|予防ガイド",
+        "intro": "BMIは筋肉と脂肪を区別できず、不正確な健康評価につながります。体組成をよりよく測定し、健康リスクを予測する5つの実証済みの代替案を発見します。",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "BMI＆慢性疾患：ボディマス指数と健康リスクの間の科学的リンク|予防ガイド",
+        "meta_description": "BMIと糖尿病、心臓病、癌を含む慢性疾患の科学的つながりを探ります。エビデンスに基づいた予防戦略を学び、健康上のリスク要因を理解してください。",
+        "meta_keyword": "BMI慢性疾患のリスク、肥満と心臓病、BMI糖尿病予防、ボディマス指数の健康リスク、肥満癌リスク、BMI心血管疾患、ウエスト周囲の健康、体重関連疾患、BMI死亡リスク、肥満予防戦略、メタボリック症候群、BMI多重栄養リンク、肥満の体重次第予防、肥満の健康への影響、BMI分類、ウエストとヒップの比率、肥満の流行、2型糖尿病の危険因子、BMIガイドライン、肥満治療オプション、体組成と健康、小児肥満予防、BMI健康スクリーニング",
+        "status": "1",
+        "category": "健康",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746241685"
+    },
+    {
         "id": "14",
         "title": "より包括的な健康評価のためのBMIの制限と5つの代替測定値",
         "intro": "BMIは筋肉と脂肪を区別できず、不正確な健康評価につながります。体組成をよりよく測定し、健康リスクを予測する5つの実証済みの代替案を発見します。",

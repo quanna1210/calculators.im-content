@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "BMI & Chronic Disease: Scientific Links Between Body Mass Index and Health Risks | Prevention Guide",
+        "intro" : "BMI can't differentiate between muscle and fat, leading to inaccurate health assessments. Discover 5 proven alternatives that better measure body composition and predict health risks.",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "BMI & Chronic Disease: Scientific Links Between Body Mass Index and Health Risks | Prevention Guide",
+        "meta_description": "Explore the scientific connection between BMI and chronic diseases including diabetes, heart disease, and cancer. Learn evidence-based prevention strategies and understand your health risk factors.",
+        "meta_keyword": "BMI chronic disease risk, obesity and heart disease, BMI diabetes prevention, body mass index health risks, obesity cancer risk, BMI cardiovascular disease, waist circumference health, weight-related diseases, BMI mortality risk, obesity prevention strategies, metabolic syndrome, BMI hypertension link, obesity comorbidities, healthy weight management, BMI calculator, chronic disease prevention, obesity health impacts, BMI classification, waist-to-hip ratio, obesity epidemic, type 2 diabetes risk factors, BMI guidelines, obesity treatment options, body composition and health, childhood obesity prevention, BMI health screening",
+        "status": "1",
+        "category": "Health",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int" : "1746241685"
+    },
+    {
         "id": "14",
         "title": "Limitations of BMI and 5 Alternative Measurements for More Comprehensive Health Assessment",
         "intro" : "BMI can't differentiate between muscle and fat, leading to inaccurate health assessments. Discover 5 proven alternatives that better measure body composition and predict health risks.",

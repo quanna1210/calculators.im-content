@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "BMI 및 만성 질환 : 체질량 지수와 건강 위험 사이의 과학적 연결 | 예방 안내서",
+        "intro": "BMI는 근육과 지방을 구별 할 수 없어 건강 평가가 부정확합니다. 신체 구성을 더 잘 측정하고 건강 위험을 예측하는 5 가지 입증 된 대안을 발견하십시오.",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "BMI 및 만성 질환 : 체질량 지수와 건강 위험 사이의 과학적 연결 | 예방 안내서",
+        "meta_description": "당뇨병, 심장병 및 암을 포함한 BMI와 만성 질환 사이의 과학적 연결을 탐구하십시오. 증거 기반 예방 전략을 배우고 건강 위험 요소를 이해하십시오.",
+        "meta_keyword": "BMI 만성 질환 위험, 비만 및 심장 질환, BMI 당뇨병 예방, 체질량 지수 건강 위험, 비만 암 위험, BMI 심혈관 질환, 허리 둘레 건강, 체중 관련 질병, BMI 사망률 위험, 비만 예방 전략, 대사 증후군, BMI 고혈압 링크, 만성 체중 관리, 건강한 체중 관리, BMI 체중 관리, BMI 체중 관리, BMI 체중 관리 비만 건강 영향, BMI 분류, 허리-힙 비율, 비만 전염병, 제 2 형 당뇨병 위험 요소, BMI 지침, 비만 치료 옵션, 체성분 및 건강, 아동 비만 예방, BMI 건강 검진",
+        "status": "1",
+        "category": "건강",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746241685"
+    },
+    {
         "id": "14",
         "title": "보다 포괄적 인 건강 평가를위한 BMI의 한계 및 5 개의 대체 측정",
         "intro": "BMI는 근육과 지방을 구별 할 수 없어 건강 평가가 부정확합니다. 신체 구성을 더 잘 측정하고 건강 위험을 예측하는 5 가지 입증 된 대안을 발견하십시오.",

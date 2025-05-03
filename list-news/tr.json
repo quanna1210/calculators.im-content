@@ -1,5 +1,20 @@
 [
     {
+        "id": "15",
+        "title": "BMI ve Kronik Hastalık: Vücut kitle indeksi ve sağlık riskleri arasındaki bilimsel bağlantılar | Önleme kılavuzu",
+        "intro": "BMI kas ve yağ arasında ayrım yapamaz, bu da yanlış sağlık değerlendirmelerine yol açar. Vücut kompozisyonunu daha iyi ölçen ve sağlık risklerini tahmin eden 5 kanıtlanmış alternatifi keşfedin.",
+        "slug": "bmi-and-chronic-disease-scientific-links-between-body-mass-index-and-health-risks-prevention-guide",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/15/thumb.jpg",
+        "meta_title": "BMI ve Kronik Hastalık: Vücut kitle indeksi ve sağlık riskleri arasındaki bilimsel bağlantılar | Önleme kılavuzu",
+        "meta_description": "BMI ve diyabet, kalp hastalığı ve kanser gibi kronik hastalıklar arasındaki bilimsel bağlantıyı keşfedin. Kanıta dayalı önleme stratejilerini öğrenin ve sağlık risk faktörlerinizi anlayın.",
+        "meta_keyword": "BMI chronic disease risk, obesity and heart disease, BMI diabetes prevention, body mass index health risks, obesity cancer risk, BMI cardiovascular disease, waist circumference health, weight-related diseases, BMI mortality risk, obesity prevention strategies, metabolic syndrome, BMI hypertension link, obesity comorbidities, healthy weight management, BMI calculator, chronic disease prevention, Obezite sağlığı etkileri, BMI sınıflandırması, bel-kalça oranı, obezite salgını, tip 2 diyabet risk faktörleri, BMI kılavuzları, obezite tedavi seçenekleri, vücut kompozisyonu ve sağlık, çocukluk obezite önleme, BMI sağlık tarama",
+        "status": "1",
+        "category": "Sağlık",
+        "relate_id": "11,13,20",
+        "relate_link": "/bmi-calculator",
+        "created_date_int": "1746241685"
+    },
+    {
         "id": "14",
         "title": "BMI sınırlamaları ve daha kapsamlı sağlık değerlendirmesi için 5 alternatif ölçüm",
         "intro": "BMI kas ve yağ arasında ayrım yapamaz, bu da yanlış sağlık değerlendirmelerine yol açar. Vücut kompozisyonunu daha iyi ölçen ve sağlık risklerini tahmin eden 5 kanıtlanmış alternatifi keşfedin.",
