@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Okamžitě vyřešte problémy s oblastí pomocí matematické kalkulačky",
+        "intro": "Okamžitě vypočítejte oblast jakéhokoli geometrického tvaru pomocí našeho volného matematického nástroje. Ideální pro studenty a učitele. Získejte krok za krokem řešení, interaktivní příklady a tisknutelné listy. Usnadňuje koncepty geometrie!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Problémy s oblastí gsolve okamžitě s matematickou kalkulačkou",
+        "meta_description": "Okamžitě vypočítejte oblast jakéhokoli geometrického tvaru pomocí našeho volného matematického nástroje. Ideální pro studenty a učitele. Získejte krok za krokem řešení, interaktivní příklady a tisknutelné listy. Usnadňuje koncepty geometrie!",
+        "meta_keyword": "Kalkulačka oblasti, kalkulačka geometrie, kalkulačka matematické oblasti, výpočet oblasti online, kalkulačka oblasti pro učitele, kalkulačka vzoru oblasti, kalkulačka čtvercových záběrů, nástroje pro měření oblasti, matematické nástroje pro třídu, oblast kalkulačky, výpočty v oblasti výpočtu, výpočetní praxe, třída, třída, výpočetní praxe, výpočetní výpočty, výpočetní praxe, výpočetní praxe, výpočetní praxe, výpočetní praxe, výpočetní výuku, výpočetní praxe, výpočetní praxe v oblasti výpočtu v oblasti, výpočetní praxe, výpočetní výpočty, výpočtová oblast, výpočetní výpočty, výpočetní praxe v oblasti výpočtu v oblasti výpočtu v oblasti výpočtu v oblasti výpočtu v oblasti výpočtu v oblasti výpočtu v oblasti výpočet Kalkulačka obvodu a oblasti, nástroje pro matematiku",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Plánování zahrady je jednoduché: Použijte Kalkulačku naší oblasti pro perfektní mezery",
         "intro": "Transformujte svou zahradu pomocí naší snadno použitelné kalkulačky oblasti. Vypočítejte perfektní mezery rostlin, určete potřebné přesné množství a navrhněte efektivní rozložení zahrady během několika minut!",

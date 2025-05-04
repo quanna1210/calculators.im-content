@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Lösen Sie die Flächenprobleme sofort mit Mathematikrechner",
+        "intro": "Berechnen Sie den Bereich jeder geometrischen Form sofort mit unserem kostenlosen Mathematikwerkzeug. Perfekt für Schüler und Lehrer. Holen Sie sich Schritt-für-Schritt-Lösungen, interaktive Beispiele und druckbare Arbeitsblätter. Macht Geometriekonzepte einfach!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "GSOLVE -Bereichsprobleme sofort mit Mathematikrechner",
+        "meta_description": "Berechnen Sie den Bereich jeder geometrischen Form sofort mit unserem kostenlosen Mathematikwerkzeug. Perfekt für Schüler und Lehrer. Holen Sie sich Schritt-für-Schritt-Lösungen, interaktive Beispiele und druckbare Arbeitsblätter. Macht Geometriekonzepte einfach!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of ​​shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math Geometriewerkzeuge",
+        "status": "1",
+        "category": "Mathe",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Gartenplanung einfach gemacht: Verwenden Sie unseren Gebietsrechner für einen perfekten Abstand",
         "intro": "Verwandeln Sie Ihren Garten mit unserem benutzerfreundlichen Bereich. Berechnen Sie den perfekten Pflanzenabstand, bestimmen Sie die benötigten genauen Mengen und entwerfen Sie effiziente Gartenlayouts in Minuten!",

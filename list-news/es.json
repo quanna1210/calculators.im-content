@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Resuelva los problemas de área al instante con la calculadora de matemáticas",
+        "intro": "Calcule instantáneamente el área de cualquier forma geométrica con nuestra herramienta de matemáticas gratuitas. Perfecto para estudiantes y maestros. Obtenga soluciones paso a paso, ejemplos interactivos y hojas de trabajo imprimibles. Hace que los conceptos de geometría sean simples!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Problemas de área gsolve al instante con calculadora de matemáticas",
+        "meta_description": "Calcule instantáneamente el área de cualquier forma geométrica con nuestra herramienta de matemáticas gratuitas. Perfecto para estudiantes y maestros. Obtenga soluciones paso a paso, ejemplos interactivos y hojas de trabajo imprimibles. Hace que los conceptos de geometría sean simples!",
+        "meta_keyword": "Calculadora de área, calculadora de geometría, calculadora de área de matemáticas, calculación de área en línea, calculadora de área para maestros, calculadora de fórmula de área, calculadora de pies cuadrados, herramientas de medición de área, herramientas de matemáticas para aula, área de calculadora de formas, calculadora de áreas de formas 3D, recursos de enseñanza de matemáticas, práctica de cálculo del área, área de área de clase, problemas de área geométrica, calculator de área, alumnos, sheets de área de matemáticas, sheets internos matemáticos interactivos, calculator de área de área, área de área de área, área de área geométrica, cálculo de área de área, sh. Herramientas de geometría",
+        "status": "1",
+        "category": "Matemáticas",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Planificación del jardín Simple: use nuestra calculadora de área para un espacio perfecto",
         "intro": "Transforme su jardín con nuestra calculadora de área fácil de usar. ¡Calcule el espacio perfecto para la planta, determine las cantidades exactas necesarias y diseñe diseños de jardín eficientes en minutos!",

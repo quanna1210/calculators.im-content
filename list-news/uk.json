@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Вирішіть задачі області миттєво за допомогою математичного калькулятора",
+        "intro": "Миттєво обчисліть площу будь -якої геометричної форми за допомогою нашого безкоштовного математичного інструменту. Ідеально підходить для учнів та викладачів. Отримайте покрокові рішення, інтерактивні приклади та робочі таблиці для друку. Робить концепції геометрії простими!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Проблеми області GSOLVE миттєво з математичним калькулятором",
+        "meta_description": "Миттєво обчисліть площу будь -якої геометричної форми за допомогою нашого безкоштовного математичного інструменту. Ідеально підходить для учнів та викладачів. Отримайте покрокові рішення, інтерактивні приклади та робочі таблиці для друку. Робить концепції геометрії простими!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of ​​shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math geometry tools",
+        "status": "1",
+        "category": "Математика",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Планування саду просте: Використовуйте наш калькулятор району для ідеального відстані",
         "intro": "Перетворіть свій сад за допомогою нашого простого у користуванні калькулятора зони. Обчисліть ідеальний інтервал рослини, визначте точні необхідні кількості та проектуйте ефективні макети саду за лічені хвилини!",

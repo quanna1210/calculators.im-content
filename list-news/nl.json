@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Los gebiedsproblemen direct op met wiskundecalculator",
+        "intro": "Bereken onmiddellijk een gebied van een geometrische vorm met ons gratis wiskundetool. Perfect voor studenten en leraren. Ontvang stapsgewijze oplossingen, interactieve voorbeelden en afdrukbare werkbladen. Maakt geometrieconcepten eenvoudig!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "GSOLVE Gebiedsproblemen onmiddellijk met wiskundecalculator",
+        "meta_description": "Bereken onmiddellijk een gebied van een geometrische vorm met ons gratis wiskundetool. Perfect voor studenten en leraren. Ontvang stapsgewijze oplossingen, interactieve voorbeelden en afdrukbare werkbladen. Maakt geometrieconcepten eenvoudig!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of ​​shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math geometriehulpmiddelen",
+        "status": "1",
+        "category": "Wiskunde",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Gardenplanning Made Simpel: gebruik onze gebiedscalculator voor perfecte afstand",
         "intro": "Transformeer uw tuin met onze eenvoudig te gebruiken gebiedscalculator. Bereken perfecte plantenafstand, bepaal de benodigde hoeveelheden en ontwerpt efficiënte tuinlay -outs in minuten!",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Résolvez instantanément des problèmes de zone avec la calculatrice de mathématiques",
+        "intro": "Calculez instantanément la zone de toute forme géométrique avec notre outil mathématique gratuit. Parfait pour les étudiants et les enseignants. Obtenez des solutions étape par étape, des exemples interactifs et des feuilles de calcul imprimables. Rend les concepts de géométrie simples!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Problèmes de la région de Gsolve instantanément avec la calculatrice de mathématiques",
+        "meta_description": "Calculez instantanément la zone de toute forme géométrique avec notre outil mathématique gratuit. Parfait pour les étudiants et les enseignants. Obtenez des solutions étape par étape, des exemples interactifs et des feuilles de calcul imprimables. Rend les concepts de géométrie simples!",
+        "meta_keyword": "Calculatrice de zone, calculatrice de géométrie, calculateur de zone mathématique, calcul de la zone en ligne, calculateur de zone pour les enseignants, calculateur de formule de zone, calculatrice en pieds carrés, outils de mesure de la zone, outils mathématiques pour la salle de classe, zone de calculatrice de formes, problèmes de zone géométrique, calculatrice de zones, traits mathématiques de la zone",
+        "status": "1",
+        "category": "Mathématiques",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Planification du jardin Fais Simple: Utilisez notre calculatrice de zone pour un espacement parfait",
         "intro": "Transformez votre jardin avec notre calculatrice de zone facile à utiliser. Calculer l'espacement parfait des plantes, déterminer les quantités exactes nécessaires et concevoir des dispositions de jardin efficaces en quelques minutes!",

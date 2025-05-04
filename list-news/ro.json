@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Rezolvați problemele zonei instantaneu cu calculatorul de matematică",
+        "intro": "Calculați instantaneu zona oricărei forme geometrice cu instrumentul nostru de matematică gratuită. Perfect pentru studenți și profesori. Obțineți soluții pas cu pas, exemple interactive și foi de lucru imprimabile. Simplifică conceptele de geometrie!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Probleme de zonă GSOLVE instantaneu cu calculatorul de matematică",
+        "meta_description": "Calculați instantaneu zona oricărei forme geometrice cu instrumentul nostru de matematică gratuită. Perfect pentru studenți și profesori. Obțineți soluții pas cu pas, exemple interactive și foi de lucru imprimabile. Simplifică conceptele de geometrie!",
+        "meta_keyword": "Calculator de zonă, calculator de geometrie, calculator de zonă matematică, calcularea zonei online, calculatorul zonei pentru profesori, calculator de formulă de zonă, calculator de imagini pătrate, instrumente de măsurare a zonei, instrumente de matematică pentru clasă, calculatorul zonei de forme, Calculator de zonă 3D, Calculator de zonă, Calculator pentru matematică, Math Practice Area, Calculator Interactive Calculator, Peri instrumente",
+        "status": "1",
+        "category": "Matematică",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Planificarea grădinii simplificată: Folosiți calculatorul nostru pentru o distanțare perfectă",
         "intro": "Transformă-ți grădina cu calculatorul nostru ușor de utilizat. Calculați distanțarea perfectă a plantelor, determinați cantitățile exacte necesare și proiectați machete eficiente de grădină în câteva minute!",

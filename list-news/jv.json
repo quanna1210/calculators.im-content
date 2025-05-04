@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Ngatasi masalah wilayah kanthi kalkulator matematika",
+        "intro": "Cepet ngetung area apa wae geometris kanthi alat matematika gratis. Sampurna kanggo siswa lan guru. Entuk solusi langkah-langkah, conto interaktif, lan lembar kerja sing bisa dicithak. Ndadekake konsep geometry sing gampang!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Masalah Wilayah GSolve kanthi kalkulator matematika",
+        "meta_description": "Cepet ngetung area apa wae geometris kanthi alat matematika gratis. Sampurna kanggo siswa lan guru. Entuk solusi langkah-langkah, conto interaktif, lan lembar kerja sing bisa dicithak. Ndadekake konsep geometry sing gampang!",
+        "meta_keyword": "kalkulator area, kalkulator geometori, kalkulator area, kalkulator area kanggo guru, kalkulator wujud, alat pangumat matemat, alat pangumilah wilayah, masalah wilayah geometri, leveliter area, area interaktif kalkulator, perimeter lan kalkulator area, alat geometri matematika",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Perencanaan kebon digawe gampang: Gunakake kalkulator wilayah kanggo jarak sing sampurna",
         "intro": "Ngganti kebon kanthi kalkulator wilayah sing gampang digunakake. Ngetung jarak tanduran sing sampurna, nemtokake jumlah sing tepat, lan desain taman sing efisien ing sawetara menit!",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Matematik hesap makinesi ile alan sorunlarını anında çözün",
+        "intro": "Ücretsiz matematik aracımızla herhangi bir geometrik şeklin alanı anında hesaplayın. Öğrenciler ve öğretmenler için mükemmel. Adım adım çözümler, etkileşimli örnekler ve yazdırılabilir çalışma sayfaları alın. Geometri kavramlarını basitleştirir!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Matematik hesap makinesi ile anında gsolve alanı sorunları",
+        "meta_description": "Ücretsiz matematik aracımızla herhangi bir geometrik şeklin alanı anında hesaplayın. Öğrenciler ve öğretmenler için mükemmel. Adım adım çözümler, etkileşimli örnekler ve yazdırılabilir çalışma sayfaları alın. Geometri kavramlarını basitleştirir!",
+        "meta_keyword": "Alan Hesap Makinesi, Geometri Hesap Makinesi, Matematik Alan Hesap Makinesi, Online Alanı Hesaplama, Öğretmenler İçin Alan Hesap Makinesi, Alan Formül Hesap Makinesi, Alan Ölçüm Araçları, Sınıf için Matematik Araçları, 3D şekil alan hesaplayıcı, Matematik Öğretim Kaynakları, Alan Hesaplama Uygulama, Sınıf Alan Aktiviteleri için Matematik Alan Hatarlar, Öğrenciler için Öğrenciler için Alan Hesap Makinesi, Matematik Alan Hatalıcı, Sınıf Alan Aktiviteleri, Geometric Alan Hatalıcı çevre ve alan hesap makinesi, matematik geometri araçları",
+        "status": "1",
+        "category": "Matematik",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Bahçe Planlaması Basit Yapıldı: Mükemmel Aralık için Alan Hesap Makinemizi Kullanın",
         "intro": "Bahçenizi kullanımı kolay alan hesap makinemizle dönüştürün. Mükemmel bitki aralığını hesaplayın, gereken kesin miktarları belirleyin ve birkaç dakika içinde verimli bahçe düzenleri tasarlayın!",

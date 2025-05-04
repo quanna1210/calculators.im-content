@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Azonnal oldja meg a területi problémákat a matematikai számológéppel",
+        "intro": "Az ingyenes matematikai szerszámunkkal azonnal kiszámítja a geometriai alakok területét. Tökéletes a diákok és a tanárok számára. Szerezzen lépésről lépésre megoldásokat, interaktív példákat és nyomtatható munkalapokat. A geometriai koncepciókat egyszerűvé teszi!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "A GSolve területi problémák azonnali matematikai számológéppel",
+        "meta_description": "Az ingyenes matematikai szerszámunkkal azonnal kiszámítja a geometriai alakok területét. Tökéletes a diákok és a tanárok számára. Szerezzen lépésről lépésre megoldásokat, interaktív példákat és nyomtatható munkalapokat. A geometriai koncepciókat egyszerűvé teszi!",
+        "meta_keyword": "Területi számológép, Geometria számológép, Math Area Calculator, Online kiszámítása, a tanárok területi számológépe, a terület képletének számológépe, a négyzetméteres számológép, a területmérési eszközök, az osztálytermi matematikai eszközök, az alakzatok számológépe, a 3D alakú területi számológép, a matematikai oktatási erőforrások, az osztálytermi területi tevékenységek, az osztálytermi tevékenységek, a geometriai terület problémái, a hallgatók számára a matematikai munkák munkalékai, az interaktív területi számológép,",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "A kerttervezés egyszerűvé tette: Használja a terület számológépünket a tökéletes távolsághoz",
         "intro": "Alakítsa át kertjét a könnyen használható terület számológépünkkel. Számítsa ki a tökéletes növényi távolságot, határozza meg a pontos mennyiségeket, és tervezze meg a hatékony kerti elrendezéseket percek alatt!",

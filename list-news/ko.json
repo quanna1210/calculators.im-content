@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "수학 계산기로 영역 문제를 즉시 해결하십시오",
+        "intro": "무료 수학 도구로 기하학적 형태의 면적을 즉시 계산하십시오. 학생과 교사에게 적합합니다. 단계별 솔루션, 대화식 예제 및 인쇄 가능한 워크 시트를 구입하십시오. 지오메트리 개념을 간단하게 만듭니다!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "수학 계산기와 함께 즉시 영역 문제를 해결합니다",
+        "meta_description": "무료 수학 도구로 기하학적 형태의 면적을 즉시 계산하십시오. 학생과 교사에게 적합합니다. 단계별 솔루션, 대화식 예제 및 인쇄 가능한 워크 시트를 구입하십시오. 지오메트리 개념을 간단하게 만듭니다!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of ​​shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math 형상 도구",
+        "status": "1",
+        "category": "수학",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "간단한 정원 계획 : 완벽한 간격을 위해 지역 계산기를 사용하십시오.",
         "intro": "사용하기 쉬운 지역 계산기로 정원을 변환하십시오. 완벽한 식물 간격을 계산하고 필요한 정확한 수량을 결정하며 효율적인 정원 레이아웃을 몇 분 안에 설계하십시오!",

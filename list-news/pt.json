@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Resolva problemas de área instantaneamente com a calculadora de matemática",
+        "intro": "Calcule instantaneamente a área de qualquer forma geométrica com nossa ferramenta de matemática gratuita. Perfeito para estudantes e professores. Obtenha soluções passo a passo, exemplos interativos e planilhas imprimíveis. Simplificando os conceitos de geometria!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Problemas da área de Gsolve instantaneamente com a calculadora de matemática",
+        "meta_description": "Calcule instantaneamente a área de qualquer forma geométrica com nossa ferramenta de matemática gratuita. Perfeito para estudantes e professores. Obtenha soluções passo a passo, exemplos interativos e planilhas imprimíveis. Simplificando os conceitos de geometria!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of ​​shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math Ferramentas de geometria",
+        "status": "1",
+        "category": "Matemática",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Planejamento de jardim Simples: use nossa calculadora de área para espaçamento perfeito",
         "intro": "Transforme seu jardim com nossa calculadora de área fácil de usar. Calcule o espaçamento perfeito das plantas, determine quantidades exatas necessárias e projete layouts de jardim eficientes em minutos!",

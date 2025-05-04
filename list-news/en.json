@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Solve Area Problems Instantly with Math Calculator",
+        "intro" : "Instantly calculate area of any geometric shape with our free math tool. Perfect for students and teachers. Get step-by-step solutions, interactive examples, and printable worksheets. Makes geometry concepts simple!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "GSolve Area Problems Instantly with Math Calculator",
+        "meta_description": "Instantly calculate area of any geometric shape with our free math tool. Perfect for students and teachers. Get step-by-step solutions, interactive examples, and printable worksheets. Makes geometry concepts simple!",
+        "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math geometry tools",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int" : "1746362506"
+    },
+    {
         "id": "17",
         "title": "Garden Planning Made Simple: Use Our Area Calculator for Perfect Spacing",
         "intro" : "Transform your garden with our easy-to-use area calculator. Calculate perfect plant spacing, determine exact quantities needed, and design efficient garden layouts in minutes!",

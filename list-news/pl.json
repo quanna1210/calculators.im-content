@@ -1,5 +1,20 @@
 [
     {
+        "id": "18",
+        "title": "Rozwiąż problemy z obszarem natychmiast za pomocą kalkulatora matematycznego",
+        "intro": "Natychmiast oblicz powierzchnię dowolnego kształtu geometrycznego za pomocą naszego bezpłatnego narzędzia matematycznego. Idealny dla uczniów i nauczycieli. Uzyskaj rozwiązania krok po kroku, interaktywne przykłady i arkusze do wydruku. Ułatwia koncepcje geometrii!",
+        "slug": "solve-area-problems-instantly-with-math-calculator",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
+        "meta_title": "Problemy z obszarem GSolve natychmiast za pomocą kalkulatora matematycznego",
+        "meta_description": "Natychmiast oblicz powierzchnię dowolnego kształtu geometrycznego za pomocą naszego bezpłatnego narzędzia matematycznego. Idealny dla uczniów i nauczycieli. Uzyskaj rozwiązania krok po kroku, interaktywne przykłady i arkusze do wydruku. Ułatwia koncepcje geometrii!",
+        "meta_keyword": "Kalkulator obszaru, kalkulator geometrii, kalkulator obszaru matematyki, Oblicz obszar online, kalkulator obszaru dla nauczycieli, kalkulator formuły powierzchni, kalkulator materiału kwadratowego, narzędzia pomiarowe obszaru, narzędzia matematyczne dla kalkulatorów w klasie, kalkulator obszaru, kalkulator obszaru, perymetr, perymetr, matematyka, praktyka kalkulacyjna, geometry, dziedziniec geometr narzędzia",
+        "status": "1",
+        "category": "Matematyka",
+        "relate_id": "17,16,19",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746362506"
+    },
+    {
         "id": "17",
         "title": "Planowanie ogrodu Wykonane: użyj naszego kalkulatora obszaru, aby uzyskać idealne odstępy",
         "intro": "Przekształć swój ogród za pomocą naszego łatwego w użyciu kalkulatora. Oblicz doskonałe odstępy w roślinach, określić dokładne ilości i projektują wydajne układy ogrodowe w kilka minut!",
