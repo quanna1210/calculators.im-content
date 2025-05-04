@@ -1,5 +1,20 @@
 [
     {
+        "id": "16",
+        "title": "How to Calculate Square Feet: A Complete Guide to Area Calculators for Property and Home Projects",
+        "intro" : "Master area calculators for everyday use! Learn how to calculate square footage for home renovations, real estate valuation, and garden planning. Get accurate property measurements and room size calculations.",
+        "slug": "how-to-calculate-square-feet-a-complete-guide-to-area-calculators-for-property-and-home-projects",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/16/thumb.jpg",
+        "meta_title": "How to Calculate Square Feet: A Complete Guide to Area Calculators for Property and Home Projects",
+        "meta_description": "Master area calculators for everyday use! Learn how to calculate square footage for home renovations, real estate valuation, and garden planning. Get accurate property measurements and room size calculations.",
+        "meta_keyword": "area calculator, square footage calculator, how to calculate square feet, property area measurement, room size calculator, home area calculator, calculate square footage, area measurement tool, land area calculator, property square footage, floor area calculation, measuring house square footage, real estate area calculator, calculate room area, home renovation area calculator, floor plan area, measure property size, calculate floor space, home improvement area calculator, garden area calculator, calculate property value per square foot",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "",
+        "relate_link": "/area-calculator",
+        "created_date_int" : "1746322271"
+    },
+    {
         "id": "15",
         "title": "BMI & Chronic Disease: Scientific Links Between Body Mass Index and Health Risks | Prevention Guide",
         "intro" : "BMI can't differentiate between muscle and fat, leading to inaccurate health assessments. Discover 5 proven alternatives that better measure body composition and predict health risks.",
@@ -10,7 +25,7 @@
         "meta_keyword": "BMI chronic disease risk, obesity and heart disease, BMI diabetes prevention, body mass index health risks, obesity cancer risk, BMI cardiovascular disease, waist circumference health, weight-related diseases, BMI mortality risk, obesity prevention strategies, metabolic syndrome, BMI hypertension link, obesity comorbidities, healthy weight management, BMI calculator, chronic disease prevention, obesity health impacts, BMI classification, waist-to-hip ratio, obesity epidemic, type 2 diabetes risk factors, BMI guidelines, obesity treatment options, body composition and health, childhood obesity prevention, BMI health screening",
         "status": "1",
         "category": "Health",
-        "relate_id": "11,13,20",
+        "relate_id": "11,13,14",
         "relate_link": "/bmi-calculator",
         "created_date_int" : "1746241685"
     },
@@ -25,7 +40,7 @@
         "meta_keyword": "BMI limitations, waist circumference, body fat measurement, waist-to-height ratio, WHtR, BMI alternatives, relative fat mass, body composition, visceral fat, waist-to-hip ratio, WHR, skinfold measurement, DEXA, BMI inaccuracy, body fat percentage, bioelectrical impedance",
         "status": "1",
         "category": "Health",
-        "relate_id": "14,17,19",
+        "relate_id": "14,12,15",
         "relate_link": "/bmi-calculator",
         "created_date_int" : "1746158449"
     },
@@ -40,7 +55,7 @@
         "meta_keyword": "bmi calculator online, free bmi calculator, body mass index calculator, calculate bmi, bmi calculator for adults, weight calculator, healthy bmi calculator, online bmi checker, accurate bmi calculator, best bmi calculator, bmi calculator with age, calculator for weight, body fat percentage calculator, bmi calculator for women, health calculator",
         "status": "1",
         "category": "Health",
-        "relate_id": "12,15,18",
+        "relate_id": "12,15,13",
         "relate_link": "/bmi-calculator",
         "created_date_int" : "1746158449"
     },
@@ -70,7 +85,7 @@
         "meta_keyword": "BMI calculator, calculate BMI, body mass index calculator, BMI chart, healthy BMI range, BMI formula, BMI calculator online, free BMI calculator, what is BMI, BMI calculator for adults, weight calculator, BMI measurement, BMI categories, BMI health risks, BMI weight status, ideal BMI, BMI interpretation, BMI weight chart, BMI index",
         "status": "1",
         "category": "Health",
-        "relate_id": "12,14,17",
+        "relate_id": "12,14,15",
         "relate_link": "/bmi-calculator",
         "created_date_int" : "1746102101"
     },
