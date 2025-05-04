@@ -1,5 +1,20 @@
 [
     {
+        "id": "17",
+        "title": "Planificación del jardín Simple: use nuestra calculadora de área para un espacio perfecto",
+        "intro": "Transforme su jardín con nuestra calculadora de área fácil de usar. ¡Calcule el espacio perfecto para la planta, determine las cantidades exactas necesarias y diseñe diseños de jardín eficientes en minutos!",
+        "slug": "garden-planning-made-simple-use-our-area-calculator-for-perfect-plant-spacing",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/17/thumb.jpg",
+        "meta_title": "Planificación del jardín Simple: use nuestra calculadora de área para un espacio de plantas perfecto",
+        "meta_description": "Transforme su jardín con nuestra calculadora de área fácil de usar. ¡Calcule el espacio perfecto para la planta, determine las cantidades exactas necesarias y diseñe diseños de jardín eficientes en minutos!",
+        "meta_keyword": "Calculadora de planificación del jardín, jardinería de pies cuadrados, calculadora de área de jardín, calculadora de espacios de plantas, planificador de espacios de jardín, herramienta de diseño de jardín, calculadora de huertos, metros de jardín cuadrados, calculadora de paisajes, planificación de jardines fáciles, calculadora de cama de jardín, guía de espaciado de plantas, calculadora de plantación de jardín, herramienta de medición de jardín, calculadora de diseño de jardín, software de planificación de jardín, calculadora de espacios de jardín, calculadora de diseño de jardín cuadrados, plan de plantación de jardines, plan de plantación de jardín, plan de plantación de jardín de jardín, plan de vegetales, planificador de jardín de jardín, planificador de jardín de jardín de jardín de jardín.",
+        "status": "1",
+        "category": "Matemáticas",
+        "relate_id": "16,20,21",
+        "relate_link": "/area-calculator",
+        "created_date_int": "1746351123"
+    },
+    {
         "id": "16",
         "title": "Cómo calcular los pies cuadrados: una guía completa para las calculadoras del área para proyectos de propiedades y hogares",
         "intro": "¡Calculadoras del área maestra para el uso diario! Aprenda a calcular los pies cuadrados para las renovaciones del hogar, la valoración de bienes raíces y la planificación del jardín. Obtenga medidas de propiedad precisas y cálculos del tamaño de la habitación.",
