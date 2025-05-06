@@ -1,11 +1,26 @@
 [
     {
+        "id": "19",
+        "title": "Build a JavaScript Geometry Area Calculator | Developer Tutorial 2025",
+        "intro" : "Create an interactive polygon area calculator using JavaScript. Master geometry formulas, coordinate calculations, and web-based measurement tools for both simple and complex polygons.",
+        "slug": "build-a-javascript-geometry-area-calculator-developer-tutorial-2025",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/19/thumb.jpg",
+        "meta_title": "Build a JavaScript Geometry Area Calculator | Developer Tutorial 2025",
+        "meta_description": "Create an interactive polygon area calculator using JavaScript. Master geometry formulas, coordinate calculations, and web-based measurement tools for both simple and complex polygons.",
+        "meta_keyword": "geometry calculator, area calculator, polygon area calculator, javascript area calculator, calculate polygon area, geometry area formula, interactive geometry calculator, javascript geometry library, polygon area algorithm, area calculation tool, geometry calculation api, polygon measurement, geometry programming, javascript polygon area, geometry formulas for developers, web-based calculator, calculate area javascript, coordinate geometry calculator, developer geometry tools, google maps area calculator",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "18,20,22",
+        "relate_link": "/area-calculator",
+        "created_date_int" : "1746437510"
+    },
+    {
         "id": "18",
         "title": "Solve Area Problems Instantly with Math Calculator",
         "intro" : "Instantly calculate area of any geometric shape with our free math tool. Perfect for students and teachers. Get step-by-step solutions, interactive examples, and printable worksheets. Makes geometry concepts simple!",
         "slug": "solve-area-problems-instantly-with-math-calculator",
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/18/thumb.jpg",
-        "meta_title": "GSolve Area Problems Instantly with Math Calculator",
+        "meta_title": "Solve Area Problems Instantly with Math Calculator",
         "meta_description": "Instantly calculate area of any geometric shape with our free math tool. Perfect for students and teachers. Get step-by-step solutions, interactive examples, and printable worksheets. Makes geometry concepts simple!",
         "meta_keyword": "area calculator, geometry calculator, math area calculator, calculate area online, area calculator for teachers, area formula calculator, square footage calculator, area measurement tools, math tools for classroom, area of shapes calculator, 3D shapes area calculator, math teaching resources, area calculation practice, classroom area activities, geometric area problems, area calculator for students, math area worksheets, interactive area calculator, perimeter and area calculator, math geometry tools",
         "status": "1",
