@@ -1,5 +1,20 @@
 [
     {
+        "id": "20",
+        "title": "BComplete Guide to Accurate Land Survey Techniques & Plot Area Measurement Tools",
+        "intro" : "CrDiscover professional land survey techniques and property area measurement tools to accurately calculate your plot size. Our comprehensive guide covers digital and traditional methods for precise results.",
+        "slug": "complete-guide-to-accurate-land-survey-techniques-and-plot-area-measurement-tools",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/20/thumb.jpg",
+        "meta_title": "Complete Guide to Accurate Land Survey Techniques & Plot Area Measurement Tools",
+        "meta_description": "Discover professional land survey techniques and property area measurement tools to accurately calculate your plot size. Our comprehensive guide covers digital and traditional methods for precise results.",
+        "meta_keyword": "land survey techniques, property area measurement, plot size calculation, land measurement tools, accurate land surveying, measure property dimensions, GPS land survey, plot area calculator, property boundary measurement, digital land measurement, land survey equipment, land area measurement methods, surveying irregular plots, land survey accuracy, property survey services, DIY land measurement, plot mapping techniques, land area estimation, surveying tools for property, measuring acreage accurately, property line measurement, land survey apps, exact property dimensions, professional land surveying, plot area determination, land survey software, geodetic measurement, topographic land survey, property size verification, plot boundary demarcation",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "16,17,18",
+        "relate_link": "/area-calculator",
+        "created_date_int" : "1746535217"
+    },
+    {
         "id": "19",
         "title": "Build a JavaScript Geometry Area Calculator | Developer Tutorial 2025",
         "intro" : "Create an interactive polygon area calculator using JavaScript. Master geometry formulas, coordinate calculations, and web-based measurement tools for both simple and complex polygons.",
