@@ -1,5 +1,20 @@
 [
     {
+        "id": "21",
+        "title": "Age Calculator for School: Check Your Child's Admission Eligibility Instantly",
+        "intro" : "Our free Age Calculator for School instantly determines if your child meets admission requirements. Enter birthdate to check eligibility for all grade levels across global education systems.",
+        "slug": "age-calculator-for-school-check-your-childs-admission-eligibility-instantly",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/21/thumb.jpg",
+        "meta_title": "Age Calculator for School | Check Admission Eligibility Now",
+        "meta_description": "Our free Age Calculator for School instantly determines if your child meets admission requirements. Enter birthdate to check eligibility for all grade levels across global education systems.",
+        "meta_keyword": "age calculator, school admission age calculator, age calculator for school, school eligibility calculator, school admission requirements, kindergarten age calculator, school admission age requirements, grade eligibility calculator, primary school admission age, school entry age calculator, admission age criteria, preschool eligibility calculator, school age cutoff calculator, calculate school admission age, school admissions tool, age requirement calculator, school grade calculator by age, school age verification, academic year eligibility, school enrollment age, admission eligibility checker",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "22,23,24",
+        "relate_link": "/age-calculator",
+        "created_date_int" : "1746607262"
+    },
+    {
         "id": "20",
         "title": "Expert Land Survey Guide: Measuring & Mapping Your Property Boundaries Accurately",
         "intro" : "Discover professional land survey techniques and property area measurement tools to accurately calculate your plot size. Our comprehensive guide covers digital and traditional methods for precise results.",
@@ -25,7 +40,7 @@
         "meta_keyword": "geometry calculator, area calculator, polygon area calculator, javascript area calculator, calculate polygon area, geometry area formula, interactive geometry calculator, javascript geometry library, polygon area algorithm, area calculation tool, geometry calculation api, polygon measurement, geometry programming, javascript polygon area, geometry formulas for developers, web-based calculator, calculate area javascript, coordinate geometry calculator, developer geometry tools, google maps area calculator",
         "status": "1",
         "category": "Math",
-        "relate_id": "18,20,22",
+        "relate_id": "18,20,16",
         "relate_link": "/area-calculator",
         "created_date_int" : "1746437510"
     },
@@ -55,7 +70,7 @@
         "meta_keyword": "garden planning calculator, square foot gardening, garden area calculator, plant spacing calculator, garden space planner, garden layout tool, vegetable garden calculator, garden square footage, landscape calculator, garden planning made easy, garden bed calculator, plant spacing guide, garden planting calculator, garden measurement tool, garden design calculator, garden planning software, garden space calculator, garden layout calculator, square foot garden planner, vegetable garden planner",
         "status": "1",
         "category": "Math",
-        "relate_id": "16,20,21",
+        "relate_id": "16,20,18",
         "relate_link": "/area-calculator",
         "created_date_int" : "1746351123"
     },
@@ -70,7 +85,7 @@
         "meta_keyword": "area calculator, square footage calculator, how to calculate square feet, property area measurement, room size calculator, home area calculator, calculate square footage, area measurement tool, land area calculator, property square footage, floor area calculation, measuring house square footage, real estate area calculator, calculate room area, home renovation area calculator, floor plan area, measure property size, calculate floor space, home improvement area calculator, garden area calculator, calculate property value per square foot",
         "status": "1",
         "category": "Math",
-        "relate_id": "17,23,25",
+        "relate_id": "17,18,19",
         "relate_link": "/area-calculator",
         "created_date_int" : "1746322271"
     },

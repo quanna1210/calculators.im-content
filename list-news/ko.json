@@ -1,5 +1,20 @@
 [
     {
+        "id": "21",
+        "title": "학교 연령 계산기 : 자녀의 입학 자격을 즉시 확인하십시오.",
+        "intro": "학교의 자유 연령 계산기는 자녀가 입학 요건을 충족하는지 즉시 결정합니다. Global Education Systems의 모든 학년 수준에 대한 자격을 확인하려면 생년월일을 입력하십시오.",
+        "slug": "age-calculator-for-school-check-your-childs-admission-eligibility-instantly",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/21/thumb.jpg",
+        "meta_title": "학교의 연령 계산기 | 지금 입학 자격을 확인하십시오",
+        "meta_description": "학교의 자유 연령 계산기는 자녀가 입학 요건을 충족하는지 즉시 결정합니다. Global Education Systems의 모든 학년 수준에 대한 자격을 확인하려면 생년월일을 입력하십시오.",
+        "meta_keyword": "연령 계산기, 학교 입학 연령 계산기, 학교에 대한 연령 계산기, 학교 입학 요구 사항, 학교 입학 요구 사항, 유치원 연령 계산기, 학교 입학 연령 요구 사항, 학년 자격 계산기, 초등학교 입학 연령, 학교 입학 연령 계산기, 입학 연령 기준, 미공개 자격 계산기, 학교 연령 컷오프 연령, 학년 수석 검증 도구, 학년 수석 검증 도구, 학년의 수석 검증 도구, 학년의 학년 수석 검증 도구, 연도 자격, 학교 등록 연령, 입학 자격 검사기",
+        "status": "1",
+        "category": "수학",
+        "relate_id": "22,23,24",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746607262"
+    },
+    {
         "id": "20",
         "title": "Expert Land Survey Guide : 자산 경계 측정 및 매핑 정확하게",
         "intro": "플롯 크기를 정확하게 계산하기 위해 전문 토지 조사 기술 및 부동산 영역 측정 도구를 발견하십시오. 우리의 포괄적 인 가이드는 정확한 결과를위한 디지털 및 전통적인 방법을 다룹니다.",
