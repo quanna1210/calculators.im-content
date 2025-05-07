@@ -1,5 +1,20 @@
 [
     {
+        "id": "22",
+        "title": "退職計画のための年齢計算機：あなたの完全な退職年齢を見つけて、自信を持って保存する",
+        "intro": "無料の計画ツールで理想的な退職年齢を計算します。貯蓄のニーズを見積もり、将来のためのパーソナライズされた退職プランを作成します。",
+        "slug": "age-calculator-for-retirement-planning-find-your-perfect-retirement-age-and-save-confidently",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/22/thumb.jpg",
+        "meta_title": "退職年齢計算機|自信を持って引退する時期を計画します",
+        "meta_description": "無料の計画ツールで理想的な退職年齢を計算します。貯蓄のニーズを見積もり、将来のためのパーソナライズされた退職プランを作成します。",
+        "meta_keyword": "退職計算機、年齢計算機、退職年齢計算機、退職計画計算機、年金計算機、いつ退職できるか、社会保障計算機、退職貯蓄計算機、401k計算機、退職金計算機、退職年齢、退職年齢、年齢、退職後退会計算機、退職後の退職者の退職者計画、退職後の退職者の退職者の退職者の退職者の退職者の退職者の退職者の退職者の退職者の退職者の退職者の退職金の節約退職計算機、Roth IRA計算機",
+        "status": "1",
+        "category": "数学",
+        "relate_id": "23,24,25",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746629801"
+    },
+    {
         "id": "21",
         "title": "学校の年齢計算機：子供の入場資格を即座に確認してください",
         "intro": "学校の無料年齢計算機は、お子様が入院要件を満たしているかどうかを即座に判断します。生年月日を入力して、グローバル教育システム全体のすべての学年レベルの適格性を確認してください。",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "22",
+        "title": "Calcolatore di età per la pianificazione pensionistica: trova la tua pensione perfetta e risparmia con sicurezza",
+        "intro": "Calcola la tua età di pensionamento ideale con il nostro strumento di pianificazione gratuita. Stimare le esigenze di risparmio e creare un piano pensionistico personalizzato per il tuo futuro.",
+        "slug": "age-calculator-for-retirement-planning-find-your-perfect-retirement-age-and-save-confidently",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/22/thumb.jpg",
+        "meta_title": "Calcolatore dell'età pensionabile | Pianifica quando ritirarti con fiducia",
+        "meta_description": "Calcola la tua età di pensionamento ideale con il nostro strumento di pianificazione gratuita. Stimare le esigenze di risparmio e creare un piano pensionistico personalizzato per il tuo futuro.",
+        "meta_keyword": "Calcolatore di pensionamento, calcolatrice di età, calcolatore di età pensionabile, calcolatore di pianificazione pensionistica, calcolatore pensionistico, quando posso andare in pensione, calcolatore di sicurezza sociale, calcolatore di risparmio pensionistico, calcolatrice 401k, calcolatrice del reddito, salvo in pensione, salvataggio di pensionamento, salvataggio in pensione, pensione di pensionamento, pensionamento per la pensione, pensionamento di pensionamento, pensionamento per la pensione, pensionamento per la pensione, salvataggio in pensione, pensione di pensionamento, pensionamento per la pensione, pensione di pensionamento, pensionamento per la pensione, pensione per la pensione, salto per la pensione, salto per la pensione, pensionati per la pensione, salvataggio in pensione, pensione per la pensione, salto per la pensione, salto per la pensione, pensione per la pensione, la pensione per la pensione, la pensione per la pensione, la pensione per la pensione, la pensione per la pensione, la pensione per la pensione, la pensione di pensionumentive stimatore, calcolatore dell'obiettivo di pensionamento, calcolatrice di pensionamento precoce, calcolatrice Roth IRA",
+        "status": "1",
+        "category": "Matematica",
+        "relate_id": "23,24,25",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746629801"
+    },
+    {
         "id": "21",
         "title": "Calcolatore dell'età per la scuola: controlla istantaneamente l'ammissibilità dell'ammissione di tuo figlio",
         "intro": "Il nostro calcolatore di età gratuita per la scuola determina all'istante se tuo figlio soddisfa i requisiti di ammissione. Inserisci la data di nascita per verificare l'idoneità per tutti i livelli di livello nei sistemi di istruzione globali.",

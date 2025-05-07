@@ -1,5 +1,20 @@
 [
     {
+        "id": "22",
+        "title": "Calculateur d'âge pour la planification de la retraite: trouvez votre âge de retraite parfait et économisez en toute confiance",
+        "intro": "Calculez votre âge de retraite idéal avec notre outil de planification gratuit. Estimez les besoins d'épargne et créez un plan de retraite personnalisé pour votre avenir.",
+        "slug": "age-calculator-for-retirement-planning-find-your-perfect-retirement-age-and-save-confidently",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/22/thumb.jpg",
+        "meta_title": "Calculateur d'âge de retraite | Planifiez quand prendre sa retraite avec confiance",
+        "meta_description": "Calculez votre âge de retraite idéal avec notre outil de planification gratuit. Estimez les besoins d'épargne et créez un plan de retraite personnalisé pour votre avenir.",
+        "meta_keyword": "calculateur de retraite, calculateur d'âge, calculateur d'âge de retraite, calculateur de planification de la retraite, calculateur de retraite, quand puis-je retraite, calculateur de sécurité sociale, calculateur d'épargne-retraite, calculatrice 401k, retraite, calculatrice de revenu de retraite, planificateur de retraite, sauvegarde de la retraite, de la retraite calculatrice de retraite, calculatrice Roth IRA",
+        "status": "1",
+        "category": "Mathématiques",
+        "relate_id": "23,24,25",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746629801"
+    },
+    {
         "id": "21",
         "title": "Calculateur d'âge pour l'école: vérifiez instantanément l'admissibilité à l'admission de votre enfant",
         "intro": "Notre calculateur d'âge gratuit pour l'école détermine instantanément si votre enfant répond aux exigences d'admission. Entrez la date de naissance pour vérifier l'admissibilité à tous les niveaux à travers les systèmes éducatifs mondiaux.",

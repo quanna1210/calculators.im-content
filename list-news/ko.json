@@ -1,5 +1,20 @@
 [
     {
+        "id": "22",
+        "title": "퇴직 계획을위한 연령 계산기 : 완벽한 퇴직 연령을 찾고 자신있게 절약하십시오.",
+        "intro": "무료 계획 도구로 이상적인 퇴직 연령을 계산하십시오. 저축 요구를 추정하고 미래를위한 개인화 된 퇴직 계획을 세우십시오.",
+        "slug": "age-calculator-for-retirement-planning-find-your-perfect-retirement-age-and-save-confidently",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/22/thumb.jpg",
+        "meta_title": "퇴직 연령 계산기 | 자신감으로 은퇴 할시기를 계획하십시오",
+        "meta_description": "무료 계획 도구로 이상적인 퇴직 연령을 계산하십시오. 저축 요구를 추정하고 미래를위한 개인화 된 퇴직 계획을 세우십시오.",
+        "meta_keyword": "retirement calculator, age calculator, retirement age calculator, retirement planning calculator, pension calculator, when can I retire, social security calculator, retirement savings calculator, 401k calculator, retirement income calculator, retirement planner, retirement age by birth year, age to retire, retirement withdrawal calculator, how much to save for retirement, retirement planning tool, retirement estimator, retirement goal calculator, early 퇴직 계산기, Roth IRA 계산기",
+        "status": "1",
+        "category": "수학",
+        "relate_id": "23,24,25",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746629801"
+    },
+    {
         "id": "21",
         "title": "학교 연령 계산기 : 자녀의 입학 자격을 즉시 확인하십시오.",
         "intro": "학교의 자유 연령 계산기는 자녀가 입학 요건을 충족하는지 즉시 결정합니다. Global Education Systems의 모든 학년 수준에 대한 자격을 확인하려면 생년월일을 입력하십시오.",

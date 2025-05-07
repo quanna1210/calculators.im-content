@@ -1,5 +1,20 @@
 [
     {
+        "id": "22",
+        "title": "Age Calculator for Retirement Planning: Find Your Perfect Retirement Age and Save Confidently",
+        "intro" : "Calculate your ideal retirement age with our free planning tool. Estimate savings needs and create a personalized retirement plan for your future.",
+        "slug": "age-calculator-for-retirement-planning-find-your-perfect-retirement-age-and-save-confidently",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/22/thumb.jpg",
+        "meta_title": "Retirement Age Calculator | Plan When to Retire with Confidence",
+        "meta_description": "Calculate your ideal retirement age with our free planning tool. Estimate savings needs and create a personalized retirement plan for your future.",
+        "meta_keyword": "retirement calculator, age calculator, retirement age calculator, retirement planning calculator, pension calculator, when can I retire, social security calculator, retirement savings calculator, 401k calculator, retirement income calculator, retirement planner, retirement age by birth year, age to retire, retirement withdrawal calculator, how much to save for retirement, retirement planning tool, retirement estimator, retirement goal calculator, early retirement calculator, roth ira calculator",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "23,24,25",
+        "relate_link": "/age-calculator",
+        "created_date_int" : "1746629801"
+    },
+    {
         "id": "21",
         "title": "Age Calculator for School: Check Your Child's Admission Eligibility Instantly",
         "intro" : "Our free Age Calculator for School instantly determines if your child meets admission requirements. Enter birthdate to check eligibility for all grade levels across global education systems.",
