@@ -1,7 +1,7 @@
 {
     "trans": [
         "Nieuw berekenen",
-        "Afscheidingslening",
+        "Afschrijvingslening",
         "Uitgestelde betalingslening",
         "Vooraf bepaalde lening van het bedrag",
         "Running Pace Calculator: Fast Race Time Tracker",
@@ -10,6 +10,12 @@
         "Verbeter uw training met onze coole running tempo -berekeningstool. Gemakkelijk de afstand te meten om hardloopsucces te behalen",
         "Inhoudsopgave",
         "Laatste nieuws",
-        "Lees meer"
+        "Lees meer",
+        "Gaan naar",
+        "Volgende",
+        "Vorig",
+        "Pagina",
+        "van",
+        "Gerelateerde artikelen"
     ]
 }

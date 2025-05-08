@@ -8,8 +8,8 @@
         "meta_description": "Explore a complete collection of financial calculators to help you manage budgets, loans, investments, and more, all in one convenient tool.",
         "meta_keyword": "Mortgage Calculator, Loan Calculator, Compound Interest Calculator, Retirement Calculator, Investment Calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "1"
+        "is_show": "1",
+        "orders": "1"
     },
     {
         "id": "10",
@@ -20,8 +20,8 @@
         "meta_description": "A math calculator offers tools to solve arithmetic, algebra, calculus, and more, making complex calculations faster and easier.",
         "meta_keyword": "Online math calculator, Scientific calculator tools, Graphing calculator online, Best math calculator app, Advanced math calculator functions.",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "3"
+        "is_show": "1",
+        "orders": "3"
     },
     {
         "id": "15",
@@ -32,11 +32,12 @@
         "meta_description": "Discover a collection of other useful calculators, designed to help you solve various calculations quickly and accurately",
         "meta_keyword": "Useful calculators collection, other calculators tools, versatile calculation tools, online calculators variety, popular calculation tools",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "4"
+        "is_show": "1",
+        "orders": "4"
     },
     {
         "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Mortgage Calculator",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -44,11 +45,12 @@
         "meta_description": "Calculate monthly mortgage payments easily with our reliable mortgage calculator. Get accurate estimates for home financing and make informed decisions today.",
         "meta_keyword": "Mortgage Calculator, Loan Calculator, Mortgage Rates, Home Loans, Interest Rates, Online Mortgage Calculator, Free Mortgage Calculator, Mortgage Payment Calculator, Mortgage Loan Calculator, Free Online Mortgage Payment Calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Amortization Loan Calculator",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -56,11 +58,11 @@
         "meta_description": "Use the Amortization Loan Calculator to plan your payments and track loan progress. Get a detailed breakdown of principal and interest over time.",
         "meta_keyword": "loan amortization schedule calculator, loan amortization schedule calculation, calculate loan amortization schedule, amortization loan calculator, mortgage payment calculator, loan interest calculator, home loan calculator, auto loan calculator, amortization calculator, loan calculator, payment calculator, interest calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "3",
+        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Payment Calculator",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -68,11 +70,11 @@
         "meta_description": "The Payment Calculator helps you easily estimate monthly loan payments based on interest rate, loan amount, and term length",
         "meta_keyword": "Payment Calculator, Mortgage Calculator, EMI Calculator, Car Loan Calculator, Loan Calculator, online payment calculator for quick loan estimates, free monthly payment calculator online, easy emi calculator for loan payments, accurate loan payment calculator with interest rates, step-by-step payment calculator for loan and interest breakdown",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "4",
+        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Interest Calculator",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -80,11 +82,12 @@
         "meta_description": "Simple Interest Calculator helps you calculate interest quickly and accurately. Enter principal, rate, and time to get instant results. Easy, free, and reliable",
         "meta_keyword": "Interest Calculator, Loan Calculator, Savings Calculator, how to calculate compound interest, daily compound interest calculator, compound interest formula calculator, what is the formula for compound interest",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "11",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Deferred Payment Loan Calculator",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -92,10 +95,10 @@
         "meta_description": "Use our free deferred payment loan calculator with amortization to estimate monthly payments and interest after the deferment period",
         "meta_keyword": "deferred payment loan calculator, payment loan calculator, deferred payment calculator, loan amortization calculator, interest loan calculator, how to calculate deferred payment loan online, free deferred payment loan calculator with amortization, deferred loan calculator with interest, calculate monthly payments on a deferred loan, deferred loan repayment tool for new borrowers",
         "status": "1",
-        "is_show" : "0"
+        "is_show": "0"
     },
     {
-        "id": "12",
+        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Predetermined Amount Loan Calculator",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -103,7 +106,7 @@
         "meta_description": "Use our Predetermined Amount Loan Calculator to understand how to calculate predetermined loan payments and estimate your monthly fixed repayments easily.",
         "meta_keyword": "Predetermined Amount Loan Calculator, Predetermined loan, Loan calculator, Fixed loan calculator, Installment calculator, Loan repayment calculator, Predetermined amount loan calculator online, How to calculate predetermined loan payments, Monthly payment calculator for fixed loan amount, Free predetermined loan repayment calculator, Estimate monthly payments on a predetermined loan, Simple calculator for fixed amount loan, Amortization schedule for predetermined loan",
         "status": "1",
-        "is_show" : "0"
+        "is_show": "0"
     },
     {
         "id": "13",
@@ -114,8 +117,8 @@
         "meta_description": "Discover our free online scientific calculator for math, engineering, fractions, and logarithms. Easy to use, accurate, perfect for students!",
         "meta_keyword": "scientific calculator, online calculator, free calculator, math calculator, advanced calculator, calculator tool, fractions calculator, logarithms calculator, engineering calculator, student calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "5",
@@ -126,8 +129,8 @@
         "meta_description": "Free online percentage calculator to calculate percentages easily. Perfect for students, discounts, and grades - try our percentage increase calculator now!",
         "meta_keyword": "percentage calculator, free online percentage calculator, calculate percentages, percent calculator, percentage calculator for students, percentage calculator for discounts, percentage calculator for grades, percentage increase calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "6",
@@ -138,8 +141,8 @@
         "meta_description": "Free online perimeter calculator to calculate perimeter of shapes like rectangles and triangles. Easy tool for students—learn how to calculate perimeter now!",
         "meta_keyword": "perimeter calculator, calculate perimeter, free calculator, free online perimeter calculator, perimeter calculator for shapes, calculate perimeter of rectangle, perimeter calculator for students, perimeter calculator for triangle, easy perimeter calculator online, how to calculate perimeter",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "7",
@@ -150,8 +153,8 @@
         "meta_description": "Quickly calculate the area of squares, rectangles, circles, and triangles with our easy-to-use tool. Ideal for all your basic geometry needs.",
         "meta_keyword": "calculation of area, area of circle, area calculator, area of rectangle, area of polygon, area of square, area of triangle,area of parallelogram, area of trapezoid",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "14",
@@ -162,8 +165,8 @@
         "meta_description": "Calculate volume easily with our free online volume calculator for shapes. Perfect for students, find the volume of rectangles, cubes, and more instantly!",
         "meta_keyword": "volume calculator, calculate volume, free calculator, online calculator, free online volume calculator, volume calculator for shapes, easy volume calculator for students, calculate volume of rectangle online, how to calculate volume of a cube",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "16",
@@ -174,8 +177,8 @@
         "meta_description": "Free age calculator online to calculate age by date of birth. Try our how old am I calculator or days calculator between two dates. Fast & accurate!",
         "meta_keyword": "age calculator, calculate age, free age calculator online, calculate age by date of birth, how old am I calculator, age calculator from birth date, days calculator between two dates",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "17",
@@ -186,8 +189,8 @@
         "meta_description": "Free Date Calculator: Calculate days between two dates or add/subtract dates easily. Try our online date difference calculator for fast, accurate results!",
         "meta_keyword": "Date Calculator, Calculate days between two dates, Date difference calculator, Days between dates calculator, Days between dates, date calculator add and subtract, add and subtract date",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "18",
@@ -198,8 +201,8 @@
         "meta_description": "Free time calculator to calculate time between dates, add and subtract time, or convert time online. Fast, easy tool for all time calculations!",
         "meta_keyword": "Time Calculator, Free Time Calculator, Time Difference Calculator, Time Calculator, Time Converter, Time calculator online, Calculate time between two dates, Add and subtract time",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "19",
@@ -210,8 +213,8 @@
         "meta_description": "Use our free Hours Calculator to easily calculate work hours, payroll, or time duration online. Track hours accurately with Calculators.im!",
         "meta_keyword": "Hours calculator, free hours calculator, calculate hours online, hours worked calculator, payroll hours calculator, time duration calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "20",
@@ -222,8 +225,8 @@
         "meta_description": "Fraction calculator online! Add, subtract, multiply, divide, and simplify fractions easily. Convert decimals to fractions with our math calculator",
         "meta_keyword": "Fraction calculator, Math calculator, Add fractions calculator, Subtract fractions calculator, Divide fractions calculator, Multiply fractions calculator, Simplify fractions calculator, Free fraction calculator online, Add and subtract fractions, decimal to fraction calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "21",
@@ -234,8 +237,8 @@
         "meta_description": "A mixed number calculator that supports addition, subtraction, multiplication, division with detailed step-by-step results and conversions.",
         "meta_keyword": "Mixed number calculator, fraction calculator, free mixed number calculator online, convert mixed number to decimal calculator, mixed number to improper fraction calculator, online mixed fraction calculator tool, mixed number to fraction converter, add and subtract mixed numbers calculator, multiply and divide mixed fractions calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "22",
@@ -246,11 +249,11 @@
         "meta_description": "Calculate your health stats and track your progress using our simple, accurate Health & Fitness Calculation Tools today",
         "meta_keyword": "BMI Calculator, Calorie Counter, Body Fat Calculator, Fitness Tracker Tools, Health Metrics Calculator",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "2"
+        "is_show": "1",
+        "orders": "2"
     },
     {
-        "id": "23",
+        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI Calculator",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -258,11 +261,11 @@
         "meta_description": "Easily calculate your body mass index online with our free tool. Quick, accurate results for effective weight management.",
         "meta_keyword": "BMI, BMI Calculator, Calculate BMI, Body Mass Index, How to calculate BMI accurately online, free BMI calculator for men and women, easy BMI calculator for weight loss, step-by-step BMI calculation guide, BMI calculator for healthy weight range, online BMI calculator with height and weight inputs",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "24",
+        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR Calculator",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -270,11 +273,11 @@
         "meta_description": "Use our BMR calculator with activity level to find out how many calories you should eat based on BMR and optimize your weight loss or diet plan",
         "meta_keyword": "BMR calculator, Basal metabolic rate, Calculate BMR, BMR formula, BMR and calories, Best BMR calculator for weight loss, How to calculate BMR accurately, BMR calculator with activity level, BMR vs TDEE difference explained, What is my BMR and how to use it?, BMR calculation formula for men and women, How many calories should I eat based on BMR?, BMR calculator with age, weight, and height, How to increase your BMR naturally, Using BMR to set daily calorie intake",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "25",
+        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Body Fat Percentage Calculator",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -282,8 +285,8 @@
         "meta_description": "Calculate your body fat percentage easily with our accurate tool. Get insights into your fitness level and health in just a few clicks",
         "meta_keyword": "Body Fat Calculator, Body Fat Percentage, Fat Percentage Calculator, Body Fat Measurement, Fitness Calculator, Best Online Body Fat Percentage Calculator, Body Fat Percentage Calculator with Age and Gender, How to Calculate Body Fat Percentage at Home, Body Fat Percentage vs BMI",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "26",
@@ -294,8 +297,8 @@
         "meta_description": "Free online unit converter for length, weight, temperature, and more. Convert km to miles, kg to lbs, Celsius to Fahrenheit instantly at calculators.im!",
         "meta_keyword": "unit converter, metric converter, length converter, weight converter, temperature converter, online unit converter for length, free metric to imperial converter, convert km to miles online, weight converter kg to lbs, celsius to fahrenheit converter online",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "27",
@@ -306,8 +309,8 @@
         "meta_description": "Prime Number Calculator: check, find, and calculate prime numbers up to 100 instantly. How to find prime numbers with our easy online prime number checker tool!",
         "meta_keyword": "Prime number calculator, Calculate prime numbers, Prime number checker, Prime number finder, Check if a number is prime, Prime numbers up to 100, How to find prime numbers",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "28",
@@ -318,11 +321,11 @@
         "meta_description": "Create a free countdown timer online at [host_name]. Simple, customizable, mobile-friendly, with sound alerts—perfect for events, productivity, and more!",
         "meta_keyword": "countdown timer, online timer, free countdown timer online, stopwatch online, timer online, countdown timer with sound alert, stopwatch timer",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "29",
+        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Password Generator",
         "slug": "password-generator",
         "parent_id": "15",
@@ -330,11 +333,11 @@
         "meta_description": "Create strong passwords with our free online password generator. Instantly generate random, secure passwords for all your accounts with ease and safety!",
         "meta_keyword": "Password Generator, Random Password, Strong Password, Strong Password Generator, Random Password Generator, Create Password Online, Free Password Generator Online, Create Strong Password",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "29",
+        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Running Pace Calculator",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -342,8 +345,8 @@
         "meta_description": "Learn how to calculate running pace accurately & convert running speed to pace easily with our best running pace calculator for training!",
         "meta_keyword": "Running Pace Calculator, Pace Calculator, Marathon Pace Calculator, Race Pace Calculator, Running Speed Calculator, Calculate running pace accurately, Best running pace calculator for training, Convert speed to pace easily, Running pace chart for different distances, Find your optimal running pace",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "30",
@@ -354,8 +357,8 @@
         "meta_description": "Calculate your daily calorie needs with our TDEE Calculator. Get personalized results based on activity level for weight loss, maintenance, or muscle gain goals.",
         "meta_keyword": "TDEE calculator, daily calorie calculator, maintenance calories calculator, how to calculate TDEE for weight loss, online TDEE calculator with activity level, free TDEE calculator for fitness goals, TDEE calculator with macros breakdown, calculate maintenance calories for beginners, TDEE calculator for women, TDEE calculator for men, what is TDEE and how to use it, difference between BMR and TDEE calculator, how to adjust TDEE for weight goals, calculate calories needed based on activity level, TDEE calculation formula explained, how accurate are TDEE calculators, using TDEE calculator for meal planning",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "31",
@@ -366,8 +369,8 @@
         "meta_description": "Free data converter for GB to MB, byte to MB conversions online. Fast, accurate convert GB to MB calculator simplifies cloud storage, media, and tech tasks!",
         "meta_keyword": "data converter, convert GB to MB calculator, free storage size converter, online byte to MB conversion, storage converter, byte converter, GB to MB",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "32",
@@ -378,11 +381,11 @@
         "meta_description": "Use our free online Calorie Calculator to accurately calculate daily calorie intake for weight loss, fitness, or maintenance. Try it now!",
         "meta_keyword": "calorie calculator, daily calorie, weight loss, BMR, TDEE, fitness, health, daily calorie intake calculator, free online calorie calculator, personalized calorie intake",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
-        "id": "33",
+       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Currency Converter",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -390,8 +393,8 @@
         "meta_description": "Convert currencies easily with our free currency converter. Check real-time exchange rates and convert USD to EUR instantly online with accurate results.",
         "meta_keyword": "currency converter, convert currency, exchange rates, money converter, online currency converter, best online currency converter for travelers, free currency exchange calculator, convert USD to EUR instantly online, accurate currency converter with charts, easy-to-use currency calculator tool",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "34",
@@ -402,8 +405,8 @@
         "meta_description": "Quickly check if a year is a leap year with our Leap Year Checker. Simple, fast, and accurate tool to determine leap years instantly!",
         "meta_keyword": "leap year, next leap year, when is the next leap year, what is a leap year, is 2025 a leap year",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "35",
@@ -414,8 +417,8 @@
         "meta_description": "The Weather Channel provides accurate forecasts, live radar, climate news, and severe weather alerts anytime, anywhere.",
         "meta_keyword": "weather channel, current weather, weather forecast, weather today, bbc weather, weather tomorrow, nation weather service, weather underground",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "36",
@@ -426,8 +429,8 @@
         "meta_description": "Easily calculate your baby's due date based on the last menstrual period or conception date with our Pregnancy Due Date Calculator.",
         "meta_keyword": "Pregnancy due date calculator, Due date calculator, Baby due date, Free pregnancy due date calculator, How to calculate baby due date, Pregnancy calculator by conception date",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     },
     {
         "id": "37",
@@ -438,7 +441,7 @@
         "meta_description": "Use our free BAC calculator to estimate your blood alcohol concentration based on drinks, weight, and time—quick, simple, and online!",
         "meta_keyword": "BAC Calculator, Blood Alcohol Calculator, Alcohol Level Calculator, Drink Driving Calculator, Alcohol Consumption Calculator, Blood Alcohol Content Calculator, How to calculate Blood Alcohol Concentration (BAC), Online BAC Calculator for safe drinking limits, Estimate your BAC based on weight and drinks, Blood Alcohol Level Calculator for DUI risk, How long does alcohol stay in your system, Calculate BAC after drinking beer, wine, and whiskey, Best free online Blood Alcohol Calculator, BAC calculation formula and legal limits by country.",
         "status": "1",
-        "is_show" : "1",
-        "orders" : "10000"
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
