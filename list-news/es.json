@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Cómo los desarrolladores usan calculadoras de edad en aplicaciones web: guía completa e implementación",
+        "intro": "Aprenda a crear calculadoras de edad para aplicaciones web. Obtenga código JavaScript, consejos API y soluciones de diseño receptivas para cálculos de edad precisos.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Cómo los desarrolladores usan calculadoras de edad en aplicaciones web | Guía de código y API",
+        "meta_description": "Aprenda a crear calculadoras de edad para aplicaciones web. Obtenga código JavaScript, consejos API y soluciones de diseño receptivas para cálculos de edad precisos.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Calculadora de edad en años meses en días, calculadora de edad exacta, implementación de calculadora de edad, aplicación web de calculadora de edad, script de calculadora de edad, calcular la edad entre las fechas, la calculadora de edad en línea gratuita, la calculadora de edad móvil, la calculadora de edad fácil de usar",
+        "status": "1",
+        "category": "Matemáticas",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Calculadora de edad para la planificación de la jubilación: encuentre su edad de jubilación perfecta y ahorre con confianza",
         "intro": "Calcule su edad de jubilación ideal con nuestra herramienta de planificación gratuita. Estime las necesidades de ahorro y cree un plan de jubilación personalizado para su futuro.",

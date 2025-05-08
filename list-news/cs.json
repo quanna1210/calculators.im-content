@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Jak vývojáři používají ve webových aplikacích kalkulačky věku: Kompletní průvodce a implementace",
+        "intro": "Naučte se, jak vytvářet kalkulačky věku pro webové aplikace. Získejte kód JavaScript, tipy API a responzivní návrhová řešení pro přesné výpočty věku.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Jak vývojáři používají věkové kalkulačky ve webových aplikacích | Průvodce kódem a API",
+        "meta_description": "Naučte se, jak vytvářet kalkulačky věku pro webové aplikace. Získejte kód JavaScript, tipy API a responzivní návrhová řešení pro přesné výpočty věku.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, Jak vypočítat věk od data narození, kalkulačka věku pro webové stránky, kalkulačka věku v letech měsíce, přesná kalkulačka věku, implementace kalkulačky věku, věk webová aplikace, skript kalkulačky věku, vypočítat věk mezi daty, Kalkulačka online věku, kalkulačka mobilního věku, uživatelsky přívětivá kalkulačka věku věku",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Kalkulačka věku pro plánování odchodu do důchodu: Najděte svůj perfektní věk odchodu do důchodu a sebevědomě zachraňte",
         "intro": "Vypočítejte svůj ideální věk odchodu do důchodu pomocí našeho bezplatného plánovacího nástroje. Odhadte potřeby úspor a vytvořte pro vaši budoucnost personalizovaný penzijní plán.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "How Developers Use Age Calculators in Web Applications: Complete Guide & Implementation",
+        "intro" : "Learn how to build age calculators for web apps. Get JavaScript code, API tips and responsive design solutions for accurate age calculations.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "How Developers Use Age Calculators in Web Apps | Code & API Guide",
+        "meta_description": "Learn how to build age calculators for web apps. Get JavaScript code, API tips and responsive design solutions for accurate age calculations.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, age calculator in years months days, exact age calculator, implement age calculator, age calculator web application, age calculator script, calculate age between dates, free online age calculator, mobile age calculator, user-friendly age calculator",
+        "status": "1",
+        "category": "Math",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int" : "1746676339"
+    },
+    {
         "id": "22",
         "title": "Age Calculator for Retirement Planning: Find Your Perfect Retirement Age and Save Confidently",
         "intro" : "Calculate your ideal retirement age with our free planning tool. Estimate savings needs and create a personalized retirement plan for your future.",

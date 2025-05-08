@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Comment les développeurs utilisent les calculatrices d'âge dans les applications Web: guide complet et implémentation",
+        "intro": "Apprenez à créer des calculatrices d'âge pour les applications Web. Obtenez du code JavaScript, des conseils API et des solutions de conception réactives pour des calculs précis d'âge.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Comment les développeurs utilisent des calculatrices d'âge dans les applications Web | Code et guide API",
+        "meta_description": "Apprenez à créer des calculatrices d'âge pour les applications Web. Obtenez du code JavaScript, des conseils API et des solutions de conception réactives pour des calculs précis d'âge.",
+        "meta_keyword": "L'âge, calculateur d'âge en ligne, outil de calculatrice d'âge, calculatrice d'anniversaire, calculatrice de différence d'âge, quel âge ai-je, calcul de mon âge, application Web de calculatrice d'âge, formule de calcul d'âge, calculatrice de la date de naissance, calculateur d'âge du développeur, calculatrice d'âge API, calculatrice d'âge Javascrip Calculateur d'âge dans les mois de mois, calculateur d'âge exact, implémentation de la calculatrice d'âge, application Web de calculatrice d'âge, script de calculatrice d'âge, calcul de l'âge entre les dates, calculateur d'âge en ligne gratuit, calculateur d'âge mobile, calculateur d'âge convivial",
+        "status": "1",
+        "category": "Mathématiques",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Calculateur d'âge pour la planification de la retraite: trouvez votre âge de retraite parfait et économisez en toute confiance",
         "intro": "Calculez votre âge de retraite idéal avec notre outil de planification gratuit. Estimez les besoins d'épargne et créez un plan de retraite personnalisé pour votre avenir.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Bagaimana Pengembang Menggunakan Kalkulator Usia dalam Aplikasi Web: Panduan & Implementasi Lengkap",
+        "intro": "Pelajari cara membangun kalkulator usia untuk aplikasi web. Dapatkan kode JavaScript, tips API, dan solusi desain responsif untuk perhitungan usia yang akurat.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Bagaimana Pengembang Menggunakan Kalkulator Usia di Aplikasi Web | Panduan Kode & API",
+        "meta_description": "Pelajari cara membangun kalkulator usia untuk aplikasi web. Dapatkan kode JavaScript, tips API, dan solusi desain responsif untuk perhitungan usia yang akurat.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Kalkulator Usia Dalam beberapa tahun berbulan-bulan, kalkulator usia yang tepat, mengimplementasikan kalkulator usia, aplikasi web kalkulator usia, skrip kalkulator usia, menghitung usia antara tanggal, kalkulator usia online gratis, kalkulator usia seluler, kalkulator usia yang ramah pengguna",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Kalkulator Usia untuk Perencanaan Pensiun: Temukan usia pensiun yang sempurna dan simpan dengan percaya diri",
         "intro": "Hitung usia pensiun ideal Anda dengan alat perencanaan gratis kami. Perkirakan kebutuhan tabungan dan buat rencana pensiun yang dipersonalisasi untuk masa depan Anda.",

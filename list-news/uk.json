@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Як розробники використовують вікові калькулятори у веб -додатках: Повне керівництво та впровадження",
+        "intro": "Дізнайтеся, як будувати вікові калькулятори для веб -додатків. Отримайте код JavaScript, поради API та реагування дизайнерських рішень для точних вікових розрахунків.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Як розробники використовують вікові калькулятори у веб -додатках | Код та посібник API",
+        "meta_description": "Дізнайтеся, як будувати вікові калькулятори для веб -додатків. Отримайте код JavaScript, поради API та реагування дизайнерських рішень для точних вікових розрахунків.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Віковий калькулятор у роки місяці, точний віковий калькулятор, впровадження вікового калькулятора, Веб-додаток для калькулятора вікового калькулятора, віковий калькулятор, обчисліть вік між датами, безкоштовний калькулятор віку в Інтернеті, калькулятор віку мобільного, зручний для користувача віковий калькулятор",
+        "status": "1",
+        "category": "Математика",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Віковий калькулятор для пенсійного планування: Знайдіть свій ідеальний пенсійний вік і впевнено врятуйте",
         "intro": "Обчисліть свій ідеальний пенсійний вік за допомогою нашого інструменту безкоштовного планування. Оцініть потреби заощаджень та створення персоналізованого пенсійного плану для вашого майбутнього.",

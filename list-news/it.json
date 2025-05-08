@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Come gli sviluppatori utilizzano i calcolatori dell'età nelle applicazioni Web: guida completa e implementazione",
+        "intro": "Scopri come creare calcolatori di età per le app Web. Ottieni codice JavaScript, suggerimenti API e soluzioni di progettazione reattive per calcoli di età accurati.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Come gli sviluppatori usano i calcolatori di età nelle app Web | Codice e guida API",
+        "meta_description": "Scopri come creare calcolatori di età per le app Web. Ottieni codice JavaScript, suggerimenti API e soluzioni di progettazione reattive per calcoli di età accurati.",
+        "meta_keyword": "Calcolatrice di età, calcolatore di età online, strumento di calcolatore dell'età, calcolatore di compleanno, calcolatore della differenza di età, quanti anni sono I, calcola la mia età, app di calcolatrice di età, formula di calcolo dell'età, data del calcolatore delle nascite, calcolatore dell'età sviluppatore, calcolatore di età API, best di età del calcolo del calcolo del calcolo dell'età, calcolo del calcolo del calcolo dell'età di età, al calcolo del calcolo del calcolo dell'età di età, al calcolo del calcolo del calcolo dell'età di età Come calcolare l'età dalla data di nascita, calcolatore di età per il sito Web, calcolatore di età negli anni mesi giorni, calcolatore di età esatta, calcolatore di età di implementazione, applicazione Web di calcolatrice del calcolatore dell'età, script calcolatore di età, calcola l'età tra date, calcolatore di età online gratuita, calcolatore di età mobile, calcolatore di età intuitiva",
+        "status": "1",
+        "category": "Matematica",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Calcolatore di età per la pianificazione pensionistica: trova la tua pensione perfetta e risparmia con sicurezza",
         "intro": "Calcola la tua età di pensionamento ideale con il nostro strumento di pianificazione gratuita. Stimare le esigenze di risparmio e creare un piano pensionistico personalizzato per il tuo futuro.",

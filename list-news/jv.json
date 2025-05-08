@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Cacat Pangembang Umur ing Aplikasi Web: Pandhuan & Implementasi Lengkap",
+        "intro": "Sinau babagan carane mbangun Kalkulator umur kanggo aplikasi web. Entuk kode JavaScript, tips API lan solusi desain responsif kanggo petungan umur sing akurat.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Cara Pangembang Nggunakake Kalkulator Umur ing Aplikasi Web | Pandhuan Kode & API",
+        "meta_description": "Sinau babagan carane mbangun Kalkulator umur kanggo aplikasi web. Entuk kode JavaScript, tips API lan solusi desain responsif kanggo petungan umur sing akurat.",
+        "meta_keyword": "Kalkulator Age, Kalkulator umur online, kalkulator umur, kalkulator bedane umur, Kalkulator umur, Kalkulator umur, Kalkulator umur, Kalkulator umur, Cara ngetung umur wiwit lair, Kalkulator umur kanggo situs web, Kalkulator umur, Kalkulator umur, Kalkulator umur, Kalkulator umur mobile, Kalkulator umur sing ramah",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Kalkulator Age kanggo Perencanaan Pensiun: Temokake umur pensiun sing sampurna lan simpen kanthi yakin",
         "intro": "Hitung umur pensiun sing cocog karo alat perencanaan gratis. Prakiraan Persediaan lan nggawe rencana pensiun pribadi kanggo masa depan sampeyan.",

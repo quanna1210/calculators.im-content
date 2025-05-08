@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Como os desenvolvedores usam calculadoras de idade em aplicativos da Web: Guia e implementação completos",
+        "intro": "Aprenda a criar calculadoras de idade para aplicativos da Web. Obtenha código JavaScript, dicas de API e soluções de design responsivo para cálculos de idade precisos.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Como os desenvolvedores usam calculadoras de idade em aplicativos da web | Código e guia da API",
+        "meta_description": "Aprenda a criar calculadoras de idade para aplicativos da Web. Obtenha código JavaScript, dicas de API e soluções de design responsivo para cálculos de idade precisos.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Calculadora de idade em anos anos dias, calculadora exata de idade, calculadora de idade de implementar, calculadora de idade Aplicativo da web, script de calculadora de idade, calcular a idade entre datas, calculadora de idade on-line gratuita, calculadora de idade móvel, calculadora de idade amigável",
+        "status": "1",
+        "category": "Matemática",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Calculadora de idade para planejamento de aposentadoria: encontre sua idade de aposentadoria perfeita e economize com confiança",
         "intro": "Calcule sua idade de aposentadoria ideal com nossa ferramenta de planejamento gratuita. Estime as necessidades de poupança e crie um plano de aposentadoria personalizado para o seu futuro.",

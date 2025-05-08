@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Geliştiriciler Web Uygulamalarında Yaş Hesap Makinelerini Nasıl Kullanıyor: Tam Kılavuz ve Uygulama",
+        "intro": "Web uygulamaları için yaş hesap makinelerini nasıl oluşturacağınızı öğrenin. Doğru yaş hesaplamaları için JavaScript kodu, API ipuçları ve duyarlı tasarım çözümleri alın.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Geliştiriciler Web Uygulamalarında Yaş Hesap Makinelerini Nasıl Kullanıyor | Kod ve API Kılavuzu",
+        "meta_description": "Web uygulamaları için yaş hesap makinelerini nasıl oluşturacağınızı öğrenin. Doğru yaş hesaplamaları için JavaScript kodu, API ipuçları ve duyarlı tasarım çözümleri alın.",
+        "meta_keyword": "Yaş Hesap Makinesi, Çevrimiçi Yaş Hesap Makinesi, Yaş Hesap Makinesi, Yaş Farkı Hesap Makinesi, Kaç Yaşım, Yaş Hesap Makinesi Web Uygulaması, Yaş Hesaplama Formülü, Doğum Hesap Makinesi, Geliştirici Yaş Hesap Makinesi, Yaş Hesaplayıcı API, Javascript Yaş Hesaplayıcısı, Yaş Hesaplayıcı Kodu, Yaş Hesaplayıcı Kod, Ya Yaş Hesaplayıcı, Yardım, En İyi Hesap Kodu, En İyi Yaş Hesaplayıcısı, En İyi Hesap Kodu, En İyi Hesap Kodu, En İyi Hesaplayıcı, Giriş, Yaş Hesaplayıcı Doğum tarihinden itibaren yaş nasıl hesaplanması, Web sitesi için yaş hesap makinesi, yaş hesap makinesi, tam yaş hesap makinesi, yaş hesap makinesi, yaş hesap makinesi web uygulaması, yaş hesap makinesi senaryosu, tarihler arasındaki yaşı hesaplayın, ücretsiz çevrimiçi yaş hesap makinesi, mobil yaş hesap makinesi, kullanıcı dostu yaş hesap makinesi",
+        "status": "1",
+        "category": "Matematik",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Emeklilik Planlaması için Yaş Hesap Makinesi: Mükemmel emeklilik yaşınızı bulun ve güvenle tasarruf edin",
         "intro": "Ücretsiz planlama aracımızla ideal emeklilik yaşınızı hesaplayın. Tasarruf ihtiyaçlarını tahmin edin ve geleceğiniz için kişiselleştirilmiş bir emeklilik planı oluşturun.",

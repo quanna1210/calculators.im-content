@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "開発者がWebアプリケーションで年齢計算機を使用する方法：完全なガイドと実装",
+        "intro": "Webアプリの年齢計算機を構築する方法を学びます。正確な年齢計算のためのJavaScriptコード、APIのヒント、レスポンシブ設計ソリューションを取得します。",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "開発者がWebアプリで年齢計算機を使用する方法|コード＆APIガイド",
+        "meta_description": "Webアプリの年齢計算機を構築する方法を学びます。正確な年齢計算のためのJavaScriptコード、APIのヒント、レスポンシブ設計ソリューションを取得します。",
+        "meta_keyword": "年齢計算機、オンライン年齢計算機、年齢計算ツール、誕生日計算機、年齢差計算機、私は何歳、私の年齢、年齢計算機、年齢計算式、生年月日計算機、開発者年齢計算機、年齢計算機、年齢計算機、年齢計算コード、年齢計算機ウェブサイト、年齢計算機は年齢計算機、カスタム年齢計算機、最優秀年齢計算年齢計算数日の数日、正確な年齢計算機、年齢計算機の実装、年齢計算機ウェブアプリケーション、年齢計算機スクリプト、日付間の年齢、無料のオンライン年齢計算機、モバイル年齢計算機、ユーザーフレンドリー年齢計算機",
+        "status": "1",
+        "category": "数学",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "退職計画のための年齢計算機：あなたの完全な退職年齢を見つけて、自信を持って保存する",
         "intro": "無料の計画ツールで理想的な退職年齢を計算します。貯蓄のニーズを見積もり、将来のためのパーソナライズされた退職プランを作成します。",

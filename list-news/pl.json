@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Jak programiści używają kalkulatorów wiekowych w aplikacjach internetowych: Kompletny przewodnik i implementacja",
+        "intro": "Dowiedz się, jak budować kalkulatory wiekowe dla aplikacji internetowych. Uzyskaj kod JavaScript, wskazówki API i responsywne rozwiązania projektowe dla dokładnych obliczeń wieku.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Jak programiści używają kalkulatorów wiekowych w aplikacjach internetowych | Podręcznik kodu i API",
+        "meta_description": "Dowiedz się, jak budować kalkulatory wiekowe dla aplikacji internetowych. Uzyskaj kod JavaScript, wskazówki API i responsywne rozwiązania projektowe dla dokładnych obliczeń wieku.",
+        "meta_keyword": "Kalkulator wiekowy, online kalkulator wiekowy, narzędzie kalkulatora wieku, kalkulator urodzin, kalkulator różnicy wieku, jak mam lat, oblicz mój wiek, kalkulator wiekowy aplikacja internetowa, formuła obliczeń wiekowych, data kalkulatora urodzeń, kalkulator wiekowy deweloperów, kalkulator wiekowy API, kalkulator wiekowy JavaScript, kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy, funkcja wiekowa, niestandardowe kalkulatwo wiekowe, responsywne kalkulator wiekowy, najlepszy kalkulator wiekowy, do kalkulatora wiekowego, kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy. Kalkulator wiekowy w ciągu kilku lat, dokładny kalkulator wiekowy, kalkulator wiekowy, kalkulator wiekowy aplikacja internetowa, skrypt kalkulatora wieku, oblicz wiek między datami, bezpłatny kalkulator wieku online, mobilny kalkulator wieku, kalkulator wiekowy przyjazny dla użytkownika",
+        "status": "1",
+        "category": "Matematyka",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Kalkulator wiekowy do planowania emerytalnego: Znajdź swój doskonały wiek emerytalny i oszczędzaj z pewnością",
         "intro": "Oblicz swój idealny wiek emerytalny za pomocą naszego bezpłatnego narzędzia do planowania. Oszacuj potrzeby oszczędnościowe i stwórz spersonalizowany plan emerytalny na swoją przyszłość.",

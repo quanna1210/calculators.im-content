@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Wie Entwickler Alterrechner in Webanwendungen verwenden: Vollständige Anleitung und Implementierung",
+        "intro": "Erfahren Sie, wie Sie Altersrechner für Web -Apps erstellen. Holen Sie sich JavaScript -Code, API -Tipps und reaktionsschnelle Designlösungen für genaue Altersberechnungen.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Wie Entwickler Altersrechner in Web -Apps verwenden | Code & API -Handbuch",
+        "meta_description": "Erfahren Sie, wie Sie Altersrechner für Web -Apps erstellen. Holen Sie sich JavaScript -Code, API -Tipps und reaktionsschnelle Designlösungen für genaue Altersberechnungen.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Altersrechner in Tagen in Monaten, genaues Altersrechner, Altersrechner, Altersrechner-Webanwendung, Altersrechnerskript, Berechnung des Alters zwischen Daten, kostenloser Online-Altersrechner, Mobile Altersrechner, benutzerfreundlicher Altersrechner",
+        "status": "1",
+        "category": "Mathe",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Altersrechner für die Pensionsplanung: Finden Sie Ihr perfektes Rentenalter und sparen Sie zuversichtlich",
         "intro": "Berechnen Sie Ihr ideales Rentenalter mit unserem kostenlosen Planungstool. Schätzen Sie die Einsparungen und erstellen Sie einen personalisierten Pensionsplan für Ihre Zukunft.",

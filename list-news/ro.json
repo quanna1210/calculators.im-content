@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Modul în care dezvoltatorii folosesc calculatoarele de vârstă în aplicațiile web: Ghid complet și implementare",
+        "intro": "Aflați cum să construiți calculatoare de vârstă pentru aplicații web. Obțineți cod JavaScript, sfaturi API și soluții de proiectare receptive pentru calcule exacte de vârstă.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Modul în care dezvoltatorii folosesc calculatoare de vârstă în aplicațiile web | Ghid de cod și API",
+        "meta_description": "Aflați cum să construiți calculatoare de vârstă pentru aplicații web. Obțineți cod JavaScript, sfaturi API și soluții de proiectare receptive pentru calcule exacte de vârstă.",
+        "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, Calculator de vârstă în zile de ani, calculator de vârstă exactă, implementați calculatorul de vârstă, aplicația web a calculatorului de vârstă, scriptul calculatorului de vârstă, calcularea vârstei între date, calculatorul de vârstă online gratuit, calculatorul de vârstă mobilă, calculatorul de vârstă ușor de utilizat",
+        "status": "1",
+        "category": "Matematică",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Calculator de vârstă pentru planificarea pensionării: găsiți vârsta de pensionare perfectă și economisiți cu încredere",
         "intro": "Calculați -vă vârsta de pensionare ideală cu instrumentul nostru de planificare gratuită. Estimați nevoile de economii și creați un plan de pensionare personalizat pentru viitorul dvs.",

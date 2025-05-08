@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "Hoe ontwikkelaars leeftijdscalculators gebruiken in webtoepassingen: volledige gids en implementatie",
+        "intro": "Leer hoe u leeftijdscalculators kunt bouwen voor web -apps. Ontvang JavaScript -code, API -tips en responsieve ontwerpoplossingen voor nauwkeurige leeftijdberekeningen.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "Hoe ontwikkelaars leeftijdscalculators gebruiken in web -apps | Code & API -gids",
+        "meta_description": "Leer hoe u leeftijdscalculators kunt bouwen voor web -apps. Ontvang JavaScript -code, API -tips en responsieve ontwerpoplossingen voor nauwkeurige leeftijdberekeningen.",
+        "meta_keyword": "Leeftijdscalculator, online leeftijdscalculator, leeftijdscalculator, verjaardagscalculator, calculator van leeftijdsverschil, hoe oud ben ik, bereken mijn leeftijd, leeftijd calculator web -app, leeftijdsberekeningsformule, datum van geboortecalculator, ontwikkelaar Leeftijdscalculator, leeftijd calculator API, JavaScript -calculator, leeftijd calculator code, leeftijd calculator -calculator, leeftijd calculator, benaderen in leeftijd van de leeftijd Leeftijdscalculator in jaren maanden, exacte leeftijdscalculator, implementeer leeftijdscalculator, leeftijdscalculator webtoepassing, leeftijdscalculatorscript, bereken de leeftijd tussen datums, gratis online leeftijdscalculator, mobiele leeftijdscalculator, gebruiksvriendelijke leeftijdscalculator",
+        "status": "1",
+        "category": "Wiskunde",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "Leeftijdscalculator voor pensioenplanning: zoek uw perfecte pensioengerechtigde leeftijd en bespaar vol vertrouwen",
         "intro": "Bereken uw ideale pensioenleeftijd met onze gratis planningstool. Schat spaarbehoeften en maak een gepersonaliseerd pensioenplan voor uw toekomst.",

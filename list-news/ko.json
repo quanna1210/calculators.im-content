@@ -1,5 +1,20 @@
 [
     {
+        "id": "23",
+        "title": "개발자가 웹 응용 프로그램에서 연령 계산기를 사용하는 방법 : 완전한 안내서 및 구현",
+        "intro": "웹 앱의 연령 계산기를 구축하는 방법을 배우십시오. 정확한 연령 계산을 위해 JavaScript 코드, API 팁 및 반응 형 디자인 솔루션을 가져옵니다.",
+        "slug": "how-developers-use-age-calculators-in-web-applications-complete-guide-and-implementation",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/23/thumb.jpg",
+        "meta_title": "개발자가 웹 앱에서 연령 계산기를 사용하는 방법 | 코드 및 API 가이드",
+        "meta_description": "웹 앱의 연령 계산기를 구축하는 방법을 배우십시오. 정확한 연령 계산을 위해 JavaScript 코드, API 팁 및 반응 형 디자인 솔루션을 가져옵니다.",
+        "meta_keyword": "연령 계산기, 온라인 연령 계산기, 연령 계산기 도구, 생일 계산기, 연령 차이 계산기, 나이, 나이 계산, 연령 계산기 웹 앱, 연령 계산 공식, 생년월일 계산기, 개발자 연령 계산기, 연령 계산기 API, JavaScript 연령 계산기, 연령 계산기 코드, 연령 연령 계산기, 해산 연령 계산기, 계산 연령 계산기, 최상의 연령 계산기, 최상의 연령 계산기, 최상의 연령 계산기 연령 계산기, 정확한 연령 계산기, 연령 계산기 구현, 연령 계산기 웹 응용 프로그램, 연령 계산기 스크립트, 날짜 사이의 연령 계산, 무료 온라인 연령 계산기, 모바일 연령 계산기, 사용자 친화적 인 연령 계산기",
+        "status": "1",
+        "category": "수학",
+        "relate_id": "19,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746676339"
+    },
+    {
         "id": "22",
         "title": "퇴직 계획을위한 연령 계산기 : 완벽한 퇴직 연령을 찾고 자신있게 절약하십시오.",
         "intro": "무료 계획 도구로 이상적인 퇴직 연령을 계산하십시오. 저축 요구를 추정하고 미래를위한 개인화 된 퇴직 계획을 세우십시오.",
