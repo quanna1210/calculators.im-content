@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Come utilizzare un calcolatore di età per le cartelle cliniche e sanitarie: calcola accuratamente l'età biologica",
+        "intro": "Scopri come il nostro calcolatore di età medica determina accuratamente l'età del paziente per le cartelle cliniche. Gli operatori sanitari si fidano del nostro strumento per il calcolo dell'età cronologica e una gestione efficiente dei dati dei pazienti.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Calcolatore di età per medico e salute | Calcola lo strumento dell'età biologica",
+        "meta_description": "Scopri come il nostro calcolatore di età medica determina accuratamente l'età del paziente per le cartelle cliniche. Gli operatori sanitari si fidano del nostro strumento per il calcolo dell'età cronologica e una gestione efficiente dei dati dei pazienti.",
+        "meta_keyword": "Registrazione sanitaria del calcolatore dell'età, calcolatore di età medica, calcolo biologico dell'età, calcolatore dell'età della salute, calcolatore dell'età del paziente, cartelle cliniche calcoli di età, calcolatore di età cronologica, record di salute elettronica, strumento di età, calcolo dell'età per la storia medica, calcolatrice dell'età per i professionisti della salute, calcolazioni mediche per il calcolo del paziente, calcolazioni mediche per il calcolo della salute, calcolazioni mediche per il calcolo della salute, calcolazioni mediche per l'età, calcolazioni mediche per la salute, calcolazioni mediche per l'età, calcolazioni mediche per l'età medica. Gestione dell'età, calcolo dell'età in EHR, strumento di calcolo dell'età medica, calcolatore di verifica dell'età sanitaria",
+        "status": "1",
+        "category": "Matematica",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Come gli sviluppatori utilizzano i calcolatori dell'età nelle applicazioni Web: guida completa e implementazione",
         "intro": "Scopri come creare calcolatori di età per le app Web. Ottieni codice JavaScript, suggerimenti API e soluzioni di progettazione reattive per calcoli di età accurati.",

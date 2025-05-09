@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Comment utiliser une calculatrice d'âge pour les dossiers médicaux et de santé: calculer l'âge biologique avec précision",
+        "intro": "Découvrez comment notre calculateur d'âge médical détermine avec précision l'âge des patients pour les dossiers de santé. Les professionnels de la santé font confiance à notre outil de calcul de l'âge chronologique et de gestion efficace des données des patients.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Calculatrice d'âge pour médical et santé | Calculer l'outil d'âge biologique",
+        "meta_description": "Découvrez comment notre calculateur d'âge médical détermine avec précision l'âge des patients pour les dossiers de santé. Les professionnels de la santé font confiance à notre outil de calcul de l'âge chronologique et de gestion efficace des données des patients.",
+        "meta_keyword": "Calculatlateur d'âge Dossiers de santé, calculateur d'âge médical, calcul de l'âge biologique, calculateur d'âge de santé, calculateur d'âge du patient, dossiers médicaux Calcul de l'âge, calculateur d'âge chronologique, outil d'âge de la santé électronique, calcul de l'âge pour les dossiers de santé, calculatrice de l'âge pour les professionnels de la santé, calculatrice de l'âge, calcul de l'âge de la santé, calcul de l'âge du calcul de l'âge pour les essais médicaux. DSE, outil de calcul de l'âge médical, calculateur de vérification de l'âge des soins de santé",
+        "status": "1",
+        "category": "Mathématiques",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Comment les développeurs utilisent les calculatrices d'âge dans les applications Web: guide complet et implémentation",
         "intro": "Apprenez à créer des calculatrices d'âge pour les applications Web. Obtenez du code JavaScript, des conseils API et des solutions de conception réactives pour des calculs précis d'âge.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Cum se folosește un calculator de vârstă pentru registrele medicale și de sănătate: calculați cu exactitate vârsta biologică",
+        "intro": "Descoperiți cum calculatorul nostru de vârstă medicală determină cu exactitate vârsta pacientului pentru registrele de sănătate. Profesioniștii din domeniul sănătății au încredere în instrumentul nostru pentru calculul vârstei cronologice și gestionarea eficientă a datelor pacienților.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Calculator de vârstă pentru medical și sănătate | Calculați instrumentul de vârstă biologică",
+        "meta_description": "Descoperiți cum calculatorul nostru de vârstă medicală determină cu exactitate vârsta pacientului pentru registrele de sănătate. Profesioniștii din domeniul sănătății au încredere în instrumentul nostru pentru calculul vârstei cronologice și gestionarea eficientă a datelor pacienților.",
+        "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record age management, age calculation in EHR, Instrument de calcul de vârstă Medical, Calculator de verificare a vârstei de asistență medicală",
+        "status": "1",
+        "category": "Matematică",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Modul în care dezvoltatorii folosesc calculatoarele de vârstă în aplicațiile web: Ghid complet și implementare",
         "intro": "Aflați cum să construiți calculatoare de vârstă pentru aplicații web. Obțineți cod JavaScript, sfaturi API și soluții de proiectare receptive pentru calcule exacte de vârstă.",

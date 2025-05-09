@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Cara nggunakake Kalkulator umur kanggo cathetan medis lan kesehatan: Hitung umur biologis kanthi akurat",
+        "intro": "Temokake kepiye kalkulator umur medical kita nemtokake umur pasien kanggo cathetan kesehatan. Profesional kesehatan dipercaya dipercaya alat kita kanggo ngitung umur kronologis lan manajemen data pasien sing efisien.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Kalkulator Age kanggo Kesehatan & Kesehatan | Hitung alat umur biologis",
+        "meta_description": "Temokake kepiye kalkulator umur medical kita nemtokake umur pasien kanggo cathetan kesehatan. Profesional kesehatan dipercaya dipercaya alat kita kanggo ngitung umur kronologis lan manajemen data pasien sing efisien.",
+        "meta_keyword": "Rekam Kesehatan Kalkulator, Kalkulator Medical Umur, Kalkulator Umur Kesehatan, Kalkulator Umur Kedokteran, Kalkulator Kesehatan Kanggo Perawatan Kesehatan, Tanggal Perawatan Kesehatan, Tanggal Umur Kesehatan, Jaman Kesehatan, Jaman Kesehatan Manajemen, pitungan umur ing EHR, Alat Pengitum Pengétang Medis, Kalkulator Verifikasi Age Agen Age",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Cacat Pangembang Umur ing Aplikasi Web: Pandhuan & Implementasi Lengkap",
         "intro": "Sinau babagan carane mbangun Kalkulator umur kanggo aplikasi web. Entuk kode JavaScript, tips API lan solusi desain responsif kanggo petungan umur sing akurat.",

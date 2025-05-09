@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Jak użyć kalkulatora wiekowego do dokumentacji medycznej i medycznej: dokładnie oblicz wiek biologiczny",
+        "intro": "Odkryj, w jaki sposób nasz kalkulator wieku medycznego dokładnie określa wiek pacjenta w dokumentacji medycznej. Pracownicy służby zdrowia ufają naszemu narzędziem do obliczeń wieku chronologicznego i skutecznego zarządzania danymi pacjentów.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Kalkulator wiekowy dla medycyny i zdrowia | Oblicz narzędzie biologiczne",
+        "meta_description": "Odkryj, w jaki sposób nasz kalkulator wieku medycznego dokładnie określa wiek pacjenta w dokumentacji medycznej. Pracownicy służby zdrowia ufają naszemu narzędziem do obliczeń wieku chronologicznego i skutecznego zarządzania danymi pacjentów.",
+        "meta_keyword": "Kalkulator wiekowy dokumentacja zdrowotna, kalkulator wieku medycznego, oblicz wiek biologiczny, kalkulator wieku zdrowotnego, kalkulator wieku pacjenta, obliczenie wieku, kalkulacja wieku chronologicznego, elektroniczna dokumentacja zdrowia narzędzie wiek, obliczenia wiekowe dla historii medycznej, kalkulator wiekowy dla pracowników służby zdrowia, w jaki sposób obliczyć wiek pacjenta, weryfikacja wieku w dokumentacji zdrowotnej, data porodowa kalkulatora porodu dla użytku medycznego, kalkulację wiekową, dokładne obliczenia wiekowe dla dokumentacji medycznej, wiek medyczny, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, wiek, w zakresie wieków, wiek, w zakresie wieków wiekowych. EHR, Kalkulator weryfikacji wieku medycznego, narzędzie wiekowy, opieka zdrowotna",
+        "status": "1",
+        "category": "Matematyka",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Jak programiści używają kalkulatorów wiekowych w aplikacjach internetowych: Kompletny przewodnik i implementacja",
         "intro": "Dowiedz się, jak budować kalkulatory wiekowe dla aplikacji internetowych. Uzyskaj kod JavaScript, wskazówki API i responsywne rozwiązania projektowe dla dokładnych obliczeń wieku.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "So verwenden Sie einen Altersrechner für medizinische und medizinische Aufzeichnungen: Berechnen Sie das biologische Alter genau",
+        "intro": "Entdecken Sie, wie unser Medizinerrechner das Patientenalter für Gesundheitsakten genau bestimmt. Angehörige der Gesundheitsberufe vertrauen unserem Tool für chronologische Altersberechnung und effizientes Patientendatenmanagement.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Altersrechner für Medizin und Gesundheit | Berechnen Sie das Werkzeug des biologischen Alters",
+        "meta_description": "Entdecken Sie, wie unser Medizinerrechner das Patientenalter für Gesundheitsakten genau bestimmt. Angehörige der Gesundheitsberufe vertrauen unserem Tool für chronologische Altersberechnung und effizientes Patientendatenmanagement.",
+        "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record age management, age calculation in EHR, Altersberechnungsinstrument Medizinischer, Gesundheitswechsel -Verifizierungsrechner des Gesundheitswesens",
+        "status": "1",
+        "category": "Mathe",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Wie Entwickler Alterrechner in Webanwendungen verwenden: Vollständige Anleitung und Implementierung",
         "intro": "Erfahren Sie, wie Sie Altersrechner für Web -Apps erstellen. Holen Sie sich JavaScript -Code, API -Tipps und reaktionsschnelle Designlösungen für genaue Altersberechnungen.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Tıbbi ve Sağlık Kayıtları İçin Bir Yaş Hesap Makinesi Nasıl Kullanılır: Biyolojik Yaşı Doğru Hesaplayın",
+        "intro": "Tıbbi yaş hesap makinemizin sağlık kayıtları için hasta yaşını nasıl doğru bir şekilde belirlediğini keşfedin. Sağlık uzmanları, kronolojik yaş hesaplaması ve verimli hasta veri yönetimi için aracımıza güvenmektedir.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Tıbbi ve Sağlık için Yaş Hesap Makinesi | Biyolojik yaş aracını hesaplayın",
+        "meta_description": "Tıbbi yaş hesap makinemizin sağlık kayıtları için hasta yaşını nasıl doğru bir şekilde belirlediğini keşfedin. Sağlık uzmanları, kronolojik yaş hesaplaması ve verimli hasta veri yönetimi için aracımıza güvenmektedir.",
+        "meta_keyword": "Yaş Hesap Makinesi Sağlık Kayıtları, Tıbbi Yaş Hesap Makinesi, Biyolojik Yaş, Sağlık Yaş Hesap Makinesi, Hasta Yaş Hesap Makinesi, Tıbbi Kayıtlar Yaş Hesaplama, Kronolojik Yaş Hesap Makinesi, Elektronik Sağlık Kayıtları Yaş Aracı, Sağlık Geçmişi için Yaş Hesaplama, Tıbbi Hesap Makinesi, Tıbbi Hesap Makinesi, Tıbbi Yaşa Hesaplama, Sağlık Kayıtlarında Yaş Hesaplama Tarihi, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıt, Tıbbi Kayıtlar, yaş yönetimi, EHR'de yaş hesaplaması, yaş hesaplama aracı tıbbi, sağlık, yaş doğrulama hesaplayıcısı",
+        "status": "1",
+        "category": "Matematik",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Geliştiriciler Web Uygulamalarında Yaş Hesap Makinelerini Nasıl Kullanıyor: Tam Kılavuz ve Uygulama",
         "intro": "Web uygulamaları için yaş hesap makinelerini nasıl oluşturacağınızı öğrenin. Doğru yaş hesaplamaları için JavaScript kodu, API ipuçları ve duyarlı tasarım çözümleri alın.",

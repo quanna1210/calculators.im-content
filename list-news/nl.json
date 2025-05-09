@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Hoe u een leeftijdscalculator kunt gebruiken voor medische en gezondheidsdossiers: bereken de biologische leeftijd nauwkeurig",
+        "intro": "Ontdek hoe onze medische leeftijdscalculator de leeftijd van de patiënt nauwkeurig bepaalt voor gezondheidsdossiers. Professionals in de gezondheidszorg vertrouwen op ons hulpmiddel voor chronologische leeftijdberekening en efficiënt patiëntgegevensbeheer.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Leeftijdscalculator voor medische en gezondheid | Bereken het gereedschap Biologische leeftijd",
+        "meta_description": "Ontdek hoe onze medische leeftijdscalculator de leeftijd van de patiënt nauwkeurig bepaalt voor gezondheidsdossiers. Professionals in de gezondheidszorg vertrouwen op ons hulpmiddel voor chronologische leeftijdberekening en efficiënt patiëntgegevensbeheer.",
+        "meta_keyword": "leeftijd calculator gezondheidsdossiers, medische leeftijd calculator, bereken biologische leeftijd, gezondheidsleeftijdcalculator, patiëntleeftijdcalculator, medische gegevens leeftijd berekening, chronologische leeftijdscalculator, elektronische gezondheidsdossiers leeftijdsinstrument, leeftijdberekening voor medische geschiedenis, leeftijdscalculator voor gezondheidszorgprofessionals, het berekenen van de patiënt leeftijdsvergoeding in de gezondheid van de gezondheidszorg, medische leeftijd in de gezondheidszorg, medisch EHR, Age Computation Tool Medical, Healthcare Age Verification Calculator",
+        "status": "1",
+        "category": "Wiskunde",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Hoe ontwikkelaars leeftijdscalculators gebruiken in webtoepassingen: volledige gids en implementatie",
         "intro": "Leer hoe u leeftijdscalculators kunt bouwen voor web -apps. Ontvang JavaScript -code, API -tips en responsieve ontwerpoplossingen voor nauwkeurige leeftijdberekeningen.",

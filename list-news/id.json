@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Cara menggunakan kalkulator usia untuk catatan medis dan kesehatan: menghitung usia biologis secara akurat",
+        "intro": "Temukan bagaimana kalkulator usia medis kami secara akurat menentukan usia pasien untuk catatan kesehatan. Profesional Kesehatan mempercayai alat kami untuk perhitungan usia kronologis dan manajemen data pasien yang efisien.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Kalkulator Usia untuk Medis & Kesehatan | Hitung Alat Usia Biologis",
+        "meta_description": "Temukan bagaimana kalkulator usia medis kami secara akurat menentukan usia pasien untuk catatan kesehatan. Profesional Kesehatan mempercayai alat kami untuk perhitungan usia kronologis dan manajemen data pasien yang efisien.",
+        "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record age management, age calculation in EHR, Alat Komputasi Usia Medis, Kalkulator Verifikasi Usia Kesehatan",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Bagaimana Pengembang Menggunakan Kalkulator Usia dalam Aplikasi Web: Panduan & Implementasi Lengkap",
         "intro": "Pelajari cara membangun kalkulator usia untuk aplikasi web. Dapatkan kode JavaScript, tips API, dan solusi desain responsif untuk perhitungan usia yang akurat.",

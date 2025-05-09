@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Cách sử dụng máy tính tuổi cho hồ sơ y tế và sức khỏe: Tính tuổi sinh học chính xác",
+        "intro": "Khám phá cách máy tính tuổi y tế của chúng tôi xác định chính xác tuổi bệnh nhân cho hồ sơ sức khỏe. Các chuyên gia chăm sóc sức khỏe tin tưởng công cụ của chúng tôi để tính toán tuổi theo thời gian và quản lý dữ liệu bệnh nhân hiệu quả.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Máy tính tuổi cho y tế & sức khỏe | Tính toán công cụ tuổi sinh học",
+        "meta_description": "Khám phá cách máy tính tuổi y tế của chúng tôi xác định chính xác tuổi bệnh nhân cho hồ sơ sức khỏe. Các chuyên gia chăm sóc sức khỏe tin tưởng công cụ của chúng tôi để tính toán tuổi theo thời gian và quản lý dữ liệu bệnh nhân hiệu quả.",
+        "meta_keyword": "Hồ sơ sức khỏe của máy tính tuổi, máy tính tuổi y tế, tính toán tuổi sinh học, máy tính tuổi sức khỏe, máy tính tuổi bệnh nhân, hồ sơ y tế tính toán tuổi, máy tính tuổi theo thời gian, công cụ hồ sơ sức khỏe điện tử EHR, Công cụ tính toán tuổi y tế, Máy tính xác minh tuổi chăm sóc sức khỏe",
+        "status": "1",
+        "category": "Toán học",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Cách các nhà phát triển sử dụng máy tính tuổi trong các ứng dụng web: Hướng dẫn và triển khai đầy đủ",
         "intro": "Tìm hiểu cách xây dựng máy tính tuổi cho các ứng dụng web. Nhận mã JavaScript, Mẹo API và các giải pháp thiết kế đáp ứng để tính toán tuổi chính xác.",

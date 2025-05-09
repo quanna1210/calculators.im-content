@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "의료 및 건강 기록에 연령 계산기 사용 방법 : 생물학적 연령을 정확하게 계산하십시오.",
+        "intro": "의료 연령 계산기가 건강 기록의 환자 연령을 정확하게 결정하는 방법을 알아보십시오. 의료 전문가는 연대기 연령 계산 및 효율적인 환자 데이터 관리 도구를 신뢰합니다.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "의료 및 건강을위한 연령 계산기 | 생물학적 연령 도구를 계산합니다",
+        "meta_description": "의료 연령 계산기가 건강 기록의 환자 연령을 정확하게 결정하는 방법을 알아보십시오. 의료 전문가는 연대기 연령 계산 및 효율적인 환자 데이터 관리 도구를 신뢰합니다.",
+        "meta_keyword": "연령 계산기 건강 기록, 의료 연령 계산기, 생물학적 연령 계산, 건강 연령 계산기, 환자 연령 계산기, 의료 기록 연령 계산, 연대기 연령 계산기, 전자 건강 기록 연령 도구, 의료 병력에 대한 연령 계산, 건강 관리 전문가를위한 연령 계산, 건강 기록에서의 연령 검증, 의학적 사용 날짜, 연령 계산 연령, 의료 기록 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의학적 계산, 의료기 계산, 의학적 계산 계산 EHR, 연령 계산 도구 의료, 건강 관리 연령 검증 계산기",
+        "status": "1",
+        "category": "수학",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "개발자가 웹 응용 프로그램에서 연령 계산기를 사용하는 방법 : 완전한 안내서 및 구현",
         "intro": "웹 앱의 연령 계산기를 구축하는 방법을 배우십시오. 정확한 연령 계산을 위해 JavaScript 코드, API 팁 및 반응 형 디자인 솔루션을 가져옵니다.",

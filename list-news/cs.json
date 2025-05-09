@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Jak používat kalkulačku věku pro lékařské a zdravotní záznamy: přesně vypočítat biologický věk",
+        "intro": "Objevte, jak naše kalkulačka lékařského věku přesně určuje věk pacienta pro zdravotní záznamy. Zdravotničtí odborníci důvěřují našemu nástroji pro výpočet chronologického věku a efektivní řízení údajů o pacientech.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Kalkulačka věku pro lékařské a zdraví Vypočítejte nástroj biologického věku",
+        "meta_description": "Objevte, jak naše kalkulačka lékařského věku přesně určuje věk pacienta pro zdravotní záznamy. Zdravotničtí odborníci důvěřují našemu nástroji pro výpočet chronologického věku a efektivní řízení údajů o pacientech.",
+        "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record Řízení věku, výpočet věku v EHR, výpočtový nástroj pro věk, zdravotní ověření ve věku zdravotní péče",
+        "status": "1",
+        "category": "Matematika",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Jak vývojáři používají ve webových aplikacích kalkulačky věku: Kompletní průvodce a implementace",
         "intro": "Naučte se, jak vytvářet kalkulačky věku pro webové aplikace. Získejte kód JavaScript, tipy API a responzivní návrhová řešení pro přesné výpočty věku.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Cómo usar una calculadora de edad para registros médicos y de salud: calcule la edad biológica con precisión",
+        "intro": "Descubra cómo nuestra calculadora de edad médica determina con precisión la edad del paciente para los registros de salud. Los profesionales de la salud confían en nuestra herramienta para el cálculo de la edad cronológica y el manejo eficiente de los datos del paciente.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Calculadora de edad para medicina y salud | Calcular la herramienta de edad biológica",
+        "meta_description": "Descubra cómo nuestra calculadora de edad médica determina con precisión la edad del paciente para los registros de salud. Los profesionales de la salud confían en nuestra herramienta para el cálculo de la edad cronológica y el manejo eficiente de los datos del paciente.",
+        "meta_keyword": "Calculadora de edad registros de salud, calculadora de edad médica, calcula la edad biológica, la calculadora de edad de la salud, la calculadora de edad del paciente, los registros médicos Cálculo de edad, la calculadora de edad cronológica, la herramienta de edad de los registros de salud electrónicos, el cálculo de la edad para el historial médico, la calculadora de edad para los profesionales de la salud, cómo calcular la edad del paciente, la verificación de la edad en la edad, la fecha del calculador de nacimiento para el uso médico de la edad, el calculador de edad, el cuidado de la salud de la edad, el cálculo de la edad de la edad para la edad del paciente, el seguimiento de la edad de la edad, el registro de la edad, el control de la edad de la edad, el control de la edad, el control de la edad de la edad, el control de la edad de la edad de la edad, el control de la edad de la edad. EHR, herramienta de cálculo de edad médica, calculadora de verificación de edad de atención médica",
+        "status": "1",
+        "category": "Matemáticas",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Cómo los desarrolladores usan calculadoras de edad en aplicaciones web: guía completa e implementación",
         "intro": "Aprenda a crear calculadoras de edad para aplicaciones web. Obtenga código JavaScript, consejos API y soluciones de diseño receptivas para cálculos de edad precisos.",

@@ -1,5 +1,20 @@
 [
     {
+        "id": "24",
+        "title": "Como usar uma calculadora de idade para registros médicos e de saúde: Calcule a idade biológica com precisão",
+        "intro": "Descubra como nossa calculadora de era médica determina com precisão a idade do paciente para os registros de saúde. Os profissionais de saúde confiam em nossa ferramenta para cálculo da idade cronológica e gerenciamento de dados eficientes dos pacientes.",
+        "slug": "how-to-use-an-age-calculator-for-medical-and-health-records-calculate-biological-age-accurately",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/24/thumb.jpg",
+        "meta_title": "Calculadora de idade para médico e saúde | Calcule a ferramenta de idade biológica",
+        "meta_description": "Descubra como nossa calculadora de era médica determina com precisão a idade do paciente para os registros de saúde. Os profissionais de saúde confiam em nossa ferramenta para cálculo da idade cronológica e gerenciamento de dados eficientes dos pacientes.",
+        "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record age management, age calculation in EHR, Ferramenta de computação de idade, calculadora de verificação da idade de saúde, calculadora",
+        "status": "1",
+        "category": "Matemática",
+        "relate_id": "20,22,21",
+        "relate_link": "/age-calculator",
+        "created_date_int": "1746764315"
+    },
+    {
         "id": "23",
         "title": "Como os desenvolvedores usam calculadoras de idade em aplicativos da Web: Guia e implementação completos",
         "intro": "Aprenda a criar calculadoras de idade para aplicativos da Web. Obtenha código JavaScript, dicas de API e soluções de design responsivo para cálculos de idade precisos.",
