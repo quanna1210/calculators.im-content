@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Hypothekenrechner",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Amortisationsdarlehenrechner",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Zahlungsrechner",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Zinsrechner",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Aufgeschobener Zahlungskreditrechner",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Vorgegebener Betragsbetriebsrechner",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI -Taschenrechner",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR -Taschenrechner",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Körperfett -Prozentrechner",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Passwortgenerator",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Auslauf -Pace -Rechner",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Währungswandler",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "BAC -Rechner - Berechnen Sie Ihre Blutalkoholkonzentration frei",
         "meta_description": "Verwenden Sie unseren kostenlosen BAC -Taschenrechner, um Ihre Blutalkoholkonzentration auf der Grundlage von Getränken, Gewicht und Zeit zu schätzen - Quick, einfach und online!",
         "meta_keyword": "BAC -Rechner, Blutalkoholrechner, Alkoholspiegelrechner, Getränke -Antriebsrechner, Alkoholkonsumrechner, Blutalkoholgehaltsrechner, wie man Blutalkoholkonzentration (BAC), Online -BAC -Taschenrechner für sichere Trinkgrenzen, Ihre BAC schätzen, basierend auf Gewicht und Getränken, Blutalkoholspiegel für DUI -Risiko, bestes freies Blui -Rechnungsrisiko.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Tierkreisrechner",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Tierkreiszeichenrechner | Entdecken Sie, was Ihre Geburtsdiagramm enthüllt",
+        "meta_description": "Entdecken Sie, was Ihr Tierkreiszeichen über Sie zeigt. Unser Taschenrechner bietet genaue Messwerte mit Einsichten über Ihren Charakter, Ihre Beziehungen und Ihr Schicksal.",
+        "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, vedic birth chart Taschenrechner, astrologische Geburtsdiagramm, Zodiac -Finder, Berechnung des Tierkreiszeichens, Geburtstagskreisgottesschild, freies Geburtshilfe -Taschenrechner, Vollgeburtsdiagramm, Astrologie -Tabellenrechner, Tierkreiszeichen nach Geburtsdatum, Big Three Calculator, genaue Geburtsdiagramm",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

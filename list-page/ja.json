@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "住宅ローン計算機",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "償却ローン計算機",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "支払い計算機",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "関心計算機",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "延期された支払いローン計算機",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "所定の金額ローン計算機",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI計算機",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR計算機",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "体脂肪率計算機",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "パスワードジェネレーター",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "実行ペース計算機",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "通貨コンバーター",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "BAC CALCULAR-血中アルコール濃度を自由に計算します",
         "meta_description": "無料のBAC計算機を使用して、飲み物、体重、時間に基づいて血中アルコール濃度を推定します。",
         "meta_keyword": "BAC計算機、血中アルコール計算機、アルコールレベル計算機、飲酒運転計算機、アルコール消費計算機、血中アルコール含有量計算機、血中アルコール濃度（BAC）の計算方法、安全な飲酒制限のためのオンラインBACカルテレーター、飲料、飲酒、DUIリスクの血中アルコールレベルの計算機を推定します。",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "ゾディアック計算機",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Zodiac Sign Calculator |あなたの出生チャートが明らかにしていることを発見してください",
+        "meta_description": "あなたの星座があなたについて明らかにしていることを発見してください。私たちの計算機は、あなたのキャラクター、人間関係、運命についての洞察を得て、正確な測定値を提供します。",
+        "meta_keyword": "ゾディアックサイン計算機、出生チャート計算機、私のゾディアックサイン、占星術の出生チャート、無料出生チャート、ナタールチャート計算機、ライジングサイン計算機、月標識計算機、ゾディアックサイン、星座計算機、出生チャート読書、占星術計算機、サンムーンライジング計算機、アサディアックハースチャート、ゾディアックハートチャート、中国出生チャート計算機、占星術の出生チャート、ゾディアックファインダー、ゾディアックサイン、誕生日ゾディアック、無料ナタールチャート、出生時間計算機、満期標準チャート、占星術チャート計算機、生年月日、星座、ビッグ3カルテーター、正確な出生チャートの計算",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

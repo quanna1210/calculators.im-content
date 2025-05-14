@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Calculadora hipotecaria",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Calculadora de préstamos de amortización",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Calculadora de pagos",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Calculadora de intereses",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Calculadora de préstamos de pago diferido",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Calculadora de préstamos de monto predeterminado",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "Calculadora de IMC",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "Calculadora de BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Calculadora porcentual de grasa corporal",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Generador de contraseña",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Calculadora de ritmo de funcionamiento",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Convertidor de divisas",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "Calculadora de BAC: calcule la concentración de alcohol en la sangre sin",
         "meta_description": "Use nuestra calculadora BAC gratuita para estimar su concentración de alcohol en la sangre según las bebidas, el peso y el tiempo: ¡descarado, simple y en línea!",
         "meta_keyword": "Calculadora de BAC, calculadora de alcohol en sangre, calculadora a nivel de alcohol, calculadora de conducción de bebidas, calculadora de consumo de alcohol, calculadora de contenido de alcohol en sangre, cómo calcular la concentración de alcohol en sangre (BAC), la calculadora de BAC en línea para los límites seguros para beber, estimar su BAC en base a peso y bebidas, calculadora de nivel de alcohol en la sangre para el riesgo de DUI, cómo se mantiene en el sistema de alcohol en su sistema, calcula el alcohol, los cálculos de BAC, el vino, el vino y el whishing, el mejor calculatoria de la sangre, el cálculo de la sangre, el cálculo de la sangre, el cálculo de la sangre.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Calculadora del zodiaco",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Calculadora de signo del zodiaco | Descubre lo que revela su tabla de nacimiento",
+        "meta_description": "Descubra lo que revela su signo del zodiaco sobre usted. Nuestra calculadora proporciona lecturas precisas con ideas sobre su carácter, relaciones y destino.",
+        "meta_keyword": "Calculadora de signos de zodiaco, calculadora de gráficos nacionales, cuál es mi signo del zodiaco, tabla de nacimiento de la astrología, tabla de nacimiento libre, calculadora de gráficos natal, calculadora de signos ascendentes, calculadora de signos lunares, encontrar mi signo zodiaco, calculadora de compatibilidad zodiacal, lectura de la tabla de natalidad, calculador de calculator del horófope de la luna solar, calculador ascendente, cazmulador de natalidad zodiac, cartón de cártulas de natalidad, calculator de la tabla de natalidad, calculator del horizonte del horizonte de la luna, el calculador ascendente, el cartel natal de Zodiac, el calculador de la tabla del sider del sideral, el calculador del calculador del sideral del sider, el calculador del horizonte de la luna. Calculadora de gráficos nacionales védicos, gráfico de natalidad astrológica, buscador de zodiacos, calcule el signo del zodiaco, zodiaco de cumpleaños, gráfico natal libre, calculadora de tiempo de nacimiento, tabla de natal",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

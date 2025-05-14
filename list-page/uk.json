@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Іпотечний калькулятор",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Калькулятор позики на амортизацію",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Калькулятор платежу",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Калькулятор інтересів",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Відкладений калькулятор платіжної позики",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Заздалегідь визначений калькулятор позики",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "Калькулятор ІМТ",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "Калькулятор BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Калькулятор відсотка жиру в організмі",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Генератор паролів",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Запуск калькулятора темпу",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Перетворювач валюти",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "Калькулятор BAC - обчисліть концентрацію алкоголю в крові",
         "meta_description": "Використовуйте наш безкоштовний калькулятор BAC, щоб оцінити концентрацію алкоголю в крові на основі напоїв, ваги та часу - швидкий, простий та в Інтернеті!",
         "meta_keyword": "Калькулятор BAC, калькулятор алкоголю в крові, калькулятор рівня алкоголю, калькулятор водіння напоїв, калькулятор споживання алкоголю, калькулятор вмісту алкоголю в крові, як обчислити концентрацію алкоголю в крові (BAC), онлайн -калькулятор BAC для безпечного пиття, оцінити свою BAC на основі ваги та напоїв, калькулятора рівня алкоголю в крові для DUI, як довго залишається алкоголь у вашій системі, підрахунку BAC після пиття пива, винного вину та штату, найкращого онлайн -калькулятора алкоголю.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Калькулятор Зодіаку",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Калькулятор знаку Зодіаку | Дізнайтеся, що виявляє ваша діаграма народження",
+        "meta_description": "Дізнайтеся, що про вас розкриває ваш знак зодіаку. Наш калькулятор забезпечує точні читання з розумінням вашого персонажа, стосунків та долі.",
+        "meta_keyword": "Калькулятор знаку Зодіаку, калькулятор народження діаграми, який мій знак зодіаку, графік народження астрології, безкоштовна діаграма народження, калькулятор натального діаграми, калькулятор знакових значень, знайдіть мій знак зодіаку, калькулятор сумісності Zodiac, читання діаграми народження, калькулятор астрології, калькулятор калькулятора, калькулятор, калькулятор вітрила, калькулятор вітрила, калькулятор вітрила, калькулятор віконного вітрила Астрологічна діаграма народження, зодіак -пошук, обчислення знаку зодіаку, зодіаку на день народження, вільна натальна діаграма, калькулятор часу народження, повна діаграма народження, калькулятор астрології, знак зодіаку за датою, великі три калькулятор, точна діаграма народження",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

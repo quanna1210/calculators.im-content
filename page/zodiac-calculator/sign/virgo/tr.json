@@ -1,0 +1,335 @@
+{
+    "sign": "Virgo",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/virgo.svg",
+    "local_name": "Başak",
+    "date_range": "23 Ağustos - 22 Eylül",
+    "element": "Toprak",
+    "ruling_planet": "Merkür",
+    "symbol": "Bakire veya Kızlık",
+    "lucky_numbers": [
+        "3",
+        "6",
+        "9",
+        "12",
+        "27"
+    ],
+    "lucky_colors": [
+        "Yeşil",
+        "Kahverengi",
+        "Lacivert"
+    ],
+    "lucky_days": [
+        "Çarşamba",
+        "Cuma"
+    ],
+    "lucky_stones": [
+        "Safir",
+        "Yeşim",
+        "Peridot"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Analitik",
+            "Pratik",
+            "Güvenilir",
+            "Detay odaklı",
+            "Metodik",
+            "Gayretli",
+            "Mütevazı"
+        ],
+        "weaknesses": [
+            "Eleştirel",
+            "Mükemmeliyetçi",
+            "Aşırı temkinli",
+            "Endişe verici",
+            "Telaşlı",
+            "Esnek olmayan",
+            "Aşırı analitik"
+        ]
+    },
+    "personality": {
+        "overview": "Başak, hassasiyet, hizmet ve iyileştirmeyi simgeleyen zodyakın altıncı işaretidir.Başak bireyleri analitik zihinleri, detaylara gösterilen dikkat ve yaşam için pratik yaklaşımla bilinir.Onlar, dikkatli analiz ve özel hizmet yoluyla kendilerini ve çevrelerini geliştirme arzusuyla zodyak mükemmeliyetçileridir.",
+        "detailed_traits": [
+            "Detay ve organizasyona titiz bir dikkat",
+            "Pratik problem çözme yetenekleri",
+            "Bir durumun tüm yönlerini inceleyen analitik zihin",
+            "Mükemmelliğe adanmışlık ile güçlü iş ahlakı",
+            "İyileştirme için kusurları ve alanları tanımlamak için doğal yetenek",
+            "Yardımcı olmak için gerçek bir arzu ile hizmet odaklı",
+            "Başarıları sık sık gören mütevazı tavır",
+            "Karar almaya mantıklı yaklaşım",
+            "Sağlığa ilgi duyan sağlık bilincine sahip",
+            "Kesin dil ile yetenekli iletişim"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Başak bireyleri, pratik hizmet eylemleri ile sevgi gösteren ve eşlerinin ihtiyaçlarına dikkat eden düşünceli, özenli ortaklardır.Büyük romantik jestlerden ziyade güvenilirlik, düşünceli ve sessiz destek yoluyla özveri ifade ederler.",
+        "compatibility": {
+            "most_compatible": [
+                "Boğa burcu",
+                "Oğlak",
+                "Kanser",
+                "Akrep"
+            ],
+            "least_compatible": [
+                "İkizler burcu",
+                "Yay",
+                "Balık"
+            ]
+        },
+        "relationship_advice": "Başak bireyleri, kusurların kabulü ile gelişme eğilimlerini dengelemelidir.Sadece hizmet eylemleri yoluyla değil, sözlü olarak ifade edin ve iyi niyetli olsa bile eleştirilerin duygulara zarar verebileceğini hatırlayın.Romantik ilişkilerde dikkatli bir planlama ile birlikte kendiliğindenliğe yer açın.",
+        "love_style": [
+            "Pratik hizmet eylemleriyle sevgiyi gösterir",
+            "Partnerin ihtiyaçlarına ve tercihlerine özenli",
+            "Bir ortak seçtiklerinde sadık ve kararlı",
+            "Duyguları ifade etmek için ayrılabilir",
+            "Fiziksel cazibe ile birlikte entelektüel bağlantıya değer",
+            "İstikrarlı, güvenilir ortaklıklar yaratır",
+            "İlişkilerde kusurları kabul etmek için çalışması gerekebilir"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Başak bireyleri detaylara, analitik düşünmeye ve pratik problem çözmeye dikkat gerektiren kariyerlerde mükemmeldir.Sistemleri ve prosedürleri iyileştirmek için doğal bir yetenekleri vardır ve hassasiyetlerinin ve hizmetlerinin değerlendiği rollerde gelişirler.",
+        "suitable_careers": [
+            "Sağlık ve Tıp",
+            "Araştırma ve analiz",
+            "Düzenleme ve yazma",
+            "Muhasebe ve finansal analiz",
+            "Proje yönetimi",
+            "Kalite kontrolü ve muayenesi",
+            "Beslenme ve diyetetik",
+            "İdari yönetim",
+            "Veri Bilimi ve İstatistikleri",
+            "Çevre Bilimi"
+        ],
+        "financial_habits": "Başak bireyleri genellikle para yönetimine dikkatli, metodik yaklaşımlara sahiptir.Bütçelemede, masrafları izleme ve pratik finansal planlar yaparken mükemmeldirler.Tipik olarak yatırımları olan risk alan kişiler olmasa da, tutarlı, iyi araştırılmış finansal kararlarla güvenlik oluştururlar.",
+        "work_style": [
+            "Görevlere metodik ve organize yaklaşım",
+            "Detay ve kaliteye mükemmel dikkat",
+            "Son tarihleri ​​ve taahhütleri karşılamada güvenilir",
+            "İş süreçlerinde sürekli iyileştirme çabaları",
+            "Temiz, organize çalışma ortamlarını tercih eder",
+            "Değerler Verimlilik ve Pratik Çözümler",
+            "Her şeyi almak yerine daha fazla delege etmesi gerekebilir"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Başak sindirim sistemini, bağırsakları ve sinir sistemini yönetir.Başak bireyleri genellikle sağlık, beslenme ve zindeliğe doğal bir ilgiye sahiptir, ancak endişeden sindirim duyarlılığına ve sinir gerginliğine eğilimli olabilirler.",
+        "common_health_issues": [
+            "Sindirim bozuklukları ve gıda hassasiyetleri",
+            "Sinir gerginliği ve kaygı",
+            "Stresle ilgili rahatsızlıklar",
+            "Bağırsak sorunları",
+            "Aşırı çalışmak tükenmeye yol açıyor",
+            "Akıl sağlığını etkileyen mükemmeliyetçilik",
+            "Hipokondri veya sağlık konusunda aşırı endişe"
+        ],
+        "wellness_advice": "Aktif zihninizi ve sinir sisteminizi sakinleştiren zihin-beden uygulamalarını geliştirin.Doğru beslenme ve stres yönetimi yoluyla bağırsak sağlığına özel dikkat edin.Düzenli gevşeme süresi planlayın - sonradan düşünmek yerine rutininizin bir parçası yapın.",
+        "exercise_preferences": [
+            "Net ilerleme ile kesin, yapılandırılmış antrenmanlar",
+            "Zihin-beden bağlantısı için yoga ve pilates",
+            "Doğal ortamlarda yürümek",
+            "Ölçülebilir iyileştirmelerle faaliyetler",
+            "Pratik faydalarla işlevsel uygunluk"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025, Başak için bir yıllık rafine odaklanma ve kişisel gelişimdir.Analitik becerileriniz yenilikçi projelere uygulandığında yeni zirvelere ulaşır.Ayrıntılara titiz dikkat ve daha geniş görüş arasındaki denge dikkate değer başarılar getirir.",
+            "love": "İlişkiler dürüst iletişim ve düşünceli jestlerle gelişir.Tek Virgos, entelektüel veya hizmet odaklı faaliyetler yoluyla umut verici bağlantılar bulabilir.Pratik destek duygusal anlayışla uyumlu olduğunda mevcut ortaklıklar güçlenir.",
+            "career": "Profesyonel ilerleme, eşsiz organizasyon yetenekleriniz ve problem çözme becerilerinizden gelir.Yıl ortası, hassas ve sistematik düşünme gerektiren projelere liderlik etme fırsatları getirir.Güvenilirlik konusundaki itibarınız, etkili bağlantılara kapıları açar.",
+            "health": "Dikkatli yeme ve stres yönetimi yoluyla sindirim sağlığına odaklanın.Zihinsel netlik, hem fiziksel hem de dijital alanların düzenli organizasyonu ile gelişir.Daha yoğun dönemlerde sağlıklı rutinleri korumaya özel dikkat edin.",
+            "finances": "Dikkatli planlama ve yatırımlara analitik yaklaşım istikrarlı kazançlar sağlar.Hem güvenlik hem de ara sıra hoşgörülere izin veren ayrıntılı bütçeler oluşturmayı düşünün.Finansal okuryazarlık eğitimi değerli uzun vadeli faydalar sağlar."
+        },
+        "2026": {
+            "overall": "2026, başkalarına hizmet ile Başak için kişisel gelişim arasındaki dengeyi vurgular.Pratik becerileriniz topluluğunuzda somut iyileştirmeler yaratır.Eleştirel analiz ve şefkatli kabul arasında uyum bulmak tatmin olur.",
+            "love": "İlişkiler ortak pratik hedefler ve karşılıklı destek yoluyla derinleşir.Ortaklar, ihtiyaçlarına ve büyümesine olan düşüncelerinizi takdir ediyorlar.Tek Virgos, yararlı doğaları ve sessiz güçlerinin otantik ifadesiyle bağlantılar çeker.",
+            "career": "Sağlık, eğitim veya örgütsel iyileştirme sektörlerindeki fırsatlar beklenmedik bir şekilde ortaya çıkmaktadır.Verimli sistemler oluşturma yeteneğiniz liderlikten tanınır.Analitik becerileri mentorluk veya öğretim bileşenleriyle birleştiren rolleri düşünün.",
+            "health": "Bağırsak beyin bağlantısı, probiyotik açısından zengin gıdalar ve stres azaltma teknikleri ile özel dikkati hak eder.Hem zihinsel hem de fiziksel bileşenleri içeren düzenli rutinler dikkate değer faydalar sağlar.Küçük semptomları reddetmek yerine ince sağlık sinyallerine dikkat edin.",
+            "finances": "Finansal istikrar, gereksiz masrafların tutarlı tasarrufu ve düşünceli budaması yoluyla gelişir.Finansal yönetim için otomatik sistemler oluşturmayı düşünün.Küçük, düzenli yatırımlar yıl sonuna kadar şaşırtıcı kümülatif sonuçlar verir."
+        },
+        "2027": {
+            "overall": "2027, Başak için önemli ilişki gelişmeleri ve ortaklık fırsatları getiriyor.İşbirlikçi çabalarda uyumlu denge yaratma yeteneğiniz, dikkate değer başarılara yol açar.Standartlarınızı korurken başkalarının bakış açılarını anlamak kalıcı bağlantılar yaratır.",
+            "love": "Romantik ilişkiler yeni anlayış derinliklerine ve karşılıklı büyümeye ulaşır.Ortaklar değişmez desteğinize ve pratik sevgi ifadelerinize değer verir.Tek Virgos, iş işbirlikleri veya paylaşılan entelektüel arayışlar yoluyla anlamlı bağlantılar bulabilir.",
+            "career": "Profesyonel ortaklıklar veya işbirlikçi girişimler özel vaat göstermektedir.Sözleşme ayrıntılarına ve adil anlaşmalara dikkat etmeniz, ilgili tüm taraflara fayda sağlar.Analitik güçlü yönlerinizi başkalarının tamamlayıcı becerileriyle birleştiren ortak girişimleri düşünün.",
+            "health": "Günlük rutinlerdeki denge ve uyum, belirgin sağlık iyileştirmeleri getirir.Hem fiziksel semptomları hem de altta yatan nedenleri ele alan bütünsel yaklaşımları düşünün.Uygun hidrasyon ve stres yönetimi yoluyla böbrek ve adrenal sağlığa özel dikkat edin.",
+            "finances": "Paylaşılan finansal girişimler veya güvenilir ortaklarla yapılan yatırımlar olumlu getiri sağlar.Finansal kararlara analitik yaklaşımınız ortak projelere fayda sağlar.Büyümeye izin verirken tüm tarafları koruyan açık anlaşmalar yapmayı düşünün."
+        },
+        "2028": {
+            "overall": "2028, Başak için derin bir dönüşüm ve rejenerasyon dönemini işaret ediyor.Kişisel büyümeye uygulanan analitik yetenekleriniz dikkate değer bir evrim yaratır.Eski sistemleri veya inançları serbest bırakma isteği, güçlü yeni başlangıçlara yer açar.",
+            "love": "Samimi ilişkiler daha derin güven ve güvenlik açığı seviyelerine ulaşır.Ortaklar, yüzey pratikliklerinin ötesinde duygusal derinliğe katılma isteğinizi takdir ederler.Tek Virgos, otantik kendini ifade etme ve duygusal cesaretle dönüştürücü bağlantılar çeker.",
+            "career": "Kariyer yeniden icat veya önemli ilerleme fırsatları beklenmedik bir şekilde ortaya çıkıyor.Karmaşık zorluklara uygulanan problem çözme yetenekleriniz profesyonel tanıma getirir.Araştırma, soruşturma veya örgütsel dönüşüm içeren rolleri düşünün.",
+            "health": "Detoksifikasyon ve rejeneratif uygulamalar dikkate değer faydalar sağlar.Doğru beslenme ve stres yönetimi yoluyla üreme ve ortadan kaldırıcı sistemlere dikkat edin.Psikolojik refah, mükemmeliyetçi eğilimleri serbest bırakarak gelişir.",
+            "finances": "Finansal dönüşüm, modası geçmiş kalıpların para etrafında yayınlanmasından kaynaklanmaktadır.Rejeneratif veya dönüştürücü teknolojilere yapılan yatırımları düşünün.Sigorta, emlak planlaması veya paylaşılan kaynaklar dikkatle dikkat gerektirir ve beklenmedik faydalar sağlayabilir."
+        },
+        "2029": {
+            "overall": "2029 entelektüel ufuklarınızı ve felsefi anlayışınızı, Başak'ı genişletir.Analitik zihniniz, daha yüksek bilgi ve daha geniş perspektifleri keşfetmede memnuniyet bulur.Ayrıntılı analiz ve geniş düşünme arasındaki denge bilgeliğe yol açar.",
+            "love": "İlişkiler ortak öğrenme ve felsefi keşif yoluyla büyür.Ortaklar, düşünceli görüşlerinizi ve farklı bakış açılarını dikkate alma isteğinizi takdir ederler.Tek Virgos, eğitim arayışları veya seyahat deneyimleri yoluyla anlamlı bağlantılar bulabilir.",
+            "career": "Eğitim, yayıncılık veya uluslararası girişimlerdeki fırsatlar özel vaat göstermektedir.Karmaşık bilgileri iletme yeteneğiniz, profesyonel ilerlemeyi açıkça getirir.Öğrenmeye devam ederken bilginizi paylaşmanıza izin veren rolleri düşünün.",
+            "health": "Karaciğer ve kalça esnekliği, doğru beslenme ve hareketlilik uygulamaları ile özel ilgiyi hak eder.Zihinsel refah, tanıdık düşünce kalıplarının ötesine genişleyerek gelişir.Bilimsel kanıtları geleneksel bilgelikle birleştiren sağlıklı yaşam yaklaşımlarını düşünün.",
+            "finances": "Eğitim yatırımları hem entelektüel hem de finansal getiri sağlar.Uluslararası veya kültürlerarası finansal fırsatları düşünün.Sözleşmeler veya fikri mülkiyet ile ilgili yasal konular, kaynaklarınızı beklenmedik bir şekilde artırabilir."
+        },
+        "2030": {
+            "overall": "2030 profesyonel başarı ve Başak için halkın tanınmasına odaklanmaktadır.Uzun vadeli hedeflere metodik yaklaşımınız somut sonuçlar verir.Kariyer hırsları ile kişisel refah arasında denge bulmak sürdürülebilir bir başarı yaratır.",
+            "love": "İlişkiler, ortaklar birbirlerinin mesleki hedeflerini desteklediğinde gelişir.Kamuoyunun tanınması veya paylaşılan başarılar tahvilleri güçlendirir.Tek Virgos, profesyonel ağlar veya endüstri etkinlikleri aracılığıyla umut verici bağlantılar bulabilir.",
+            "career": "Örgütsel mükemmellik vizyonunuzu uygulamanıza izin veren liderlik fırsatları ortaya çıkar.Dürüstlük ve hassasiyet konusundaki itibarınız, etkili pozisyonlara kapıları açar.Sistem düzeyinde iyileştirmeler oluşturmanıza izin veren rolleri düşünün.",
+            "health": "İskelet sağlığı ve duruşu, uygun ergonomi ve destekleyici egzersizler yoluyla dikkati hak ediyor.Sorumluluklar arttıkça stres yönetimi zorunlu hale gelir.Profesyonel özveri ve kişisel restorasyon arasındaki denge sürdürülebilir enerji yaratır.",
+            "finances": "Profesyonel ilerleme, gelişmiş finansal istikrar getiriyor.Sektör uzmanlığınız veya itibarınızla ilgili yatırımları düşünün.Kariyer büyümesi ile uyumlu mülk veya uzun vadeli yatırımlar özel vaat göstermektedir."
+        },
+        "2031": {
+            "overall": "2031, Topluluk Bağlantısı ve Başak için gelecekteki vizyonu vurgular.İnsani kaygılara uygulanan analitik becerileriniz anlamlı bir etki yaratır.Pratik uygulama ve idealist hedefler arasında denge bulmak dikkate değer katkılara yol açar.",
+            "love": "İlişkiler, daha iyi bir gelecek için paylaşılan değerler ve vizyon ile derinleşir.Ortaklar, idealist kaygılara yönelik pratik yaklaşımlarınızı takdir ederler.Tek Virgos, toplum katılımı veya neden odaklı faaliyetler yoluyla benzer fikirli bağlantılar çeker.",
+            "career": "Kâr amacı gütmeyen sektörlerdeki fırsatlar, sosyal iyilik için teknoloji veya toplumun iyileştirilmesi beklenmedik bir şekilde ortaya çıkmaktadır.İdealist hedefler için fonksiyonel sistemler oluşturma yeteneğiniz profesyonel tanınırlık getirir.Hem analitik hem de insani yönleri ifade etmenizi sağlayan rolleri düşünün.",
+            "health": "Dolaşım ve elektrolit dengesi, uygun hidrasyon ve hareket yoluyla özel ilgiyi hak eder.Zihinsel refah, kişisel alışkanlıkları daha geniş bir anlamla birleştirerek gelişir.Hem bireysel hem de kolektif sağlığa fayda sağlayan sağlık uygulamalarını düşünün.",
+            "finances": "Sürdürülebilir teknolojilere veya toplum odaklı girişimlere yapılan yatırımlar vaat etmektedir.Paylaşılan değerlerle yatırım gruplarına katılmayı veya oluşturmayı düşünün.Beklenmedik finansal fırsatlar ağ bağlantıları veya grup ilişkileri yoluyla ortaya çıkar."
+        },
+        "2032": {
+            "overall": "2032 Başak için manevi içgörü ve iç iyileşme getirir.Analitik zihniniz, ince enerjik kalıpları anlamada memnuniyet bulur.Pratik rutinler ve manevi uygulamalar arasındaki denge derin kişisel dönüşüm yaratır.",
+            "love": "İlişkiler daha derin manevi veya sezgisel bağlantılar geliştirir.Ortaklar şefkatli anlayışınızı ve sessiz bilgeliğinizi takdir eder.Tek Virgos, otantik manevi ifade veya iyileşme odaklı aktivitelerle anlamlı bağlantılar çeker.",
+            "career": "Sağlık hizmetleri, danışmanlık veya manevi hizmetteki fırsatlar beklenmedik bir şekilde ortaya çıkmaktadır.Detaylara olan dikkatiniz şefkatli varlık ile birleştiğinde profesyonel tanınırlık getiriyor.Başkalarının iyileştirme veya büyüme süreçlerini desteklemenize olanak tanıyan rolleri düşünün.",
+            "health": "Bağışıklık sistemi ve lenfatik sağlık, uygun dinlenme ve ince detoksifikasyon uygulamaları ile özel dikkati hak eder.Zihinsel refah, meditasyon veya düşünceli uygulamalar yoluyla gelişir.Topraklama faaliyetleri yoluyla ayaklara ve ince enerji sistemlerine dikkat edin.",
+            "finances": "Beklenmedik finansal destek daha önce görünmez kanallardan gelir.Sağlık teknolojilerine veya hizmetlerine yapılan yatırımları düşünün.Yardımseverlik verme veya anlamlı nedenler paradoksal olarak bolluğunuzu artırır."
+        },
+        "2033": {
+            "overall": "2033, Başak için önemli bir yenileme döngüsünün başlangıcını işaret ediyor.Yenilikçi fikirleriniz disiplinli uygulama yoluyla pratik ifade bulur.Vizyoner düşünme ve metodik eylem arasında denge bulmak kalıcı etki yaratır.",
+            "love": "İlişkiler yenilenen bağlılık ve tanıdık kalıplara yeni yaklaşımlarla gelişir.Ortaklar, temel değerleri korurken gelişme isteğinizi takdir ederler.Tek Virgos, otantik kendini ifade etme ve kişisel güven yoluyla canlı bağlantılar çeker.",
+            "career": "Yenilikçi yaklaşımlarla kariyer gelişimi için fırsatlar beklenmedik bir şekilde ortaya çıkmaktadır.Yeni perspektifle yerleşik sistemleri geliştirme yeteneğiniz profesyonel tanınırlık getiriyor.Gelişen kuruluşlarda girişimci girişimleri veya liderlik rollerini düşünün.",
+            "health": "Altta yatan kalıpları ele alan bütünsel yaklaşımlarla canlılık gelişir.Düzenli yenileme uygulamaları yoluyla adrenal sağlık ve stres yönetimine dikkat edin.Öz bakım rutinleri tutarlı olduğunda fiziksel görünüm iç refahı yansıtır.",
+            "finances": "Yeni finansal başlangıçlar, geçmiş kalıpların dikkatli analizine dayandığında özel bir umut vaat ediyor.Gelişmekte olan endüstrilere veya teknolojilere yapılan yatırımları düşünün.Yerleşik ürünlerin veya hizmetlerin iyileştirilmesine dayanan girişimci girişimler olumlu getiri sağlar."
+        },
+        "2034": {
+            "overall": "2034 Başak için Maddi Güvenlik ve Kaynak Yönetimi'ni vurgular.Değer yaratmaya yönelik analitik yaklaşımınız somut sonuçlar verir.Konfor ve sadelik arasında denge bulmak gerçek bolluğa yol açar.",
+            "love": "İlişkiler, maddi güvenlik ve konfor etrafında paylaşılan değerler ile derinleşir.Ortaklar, pratik bakım ve bağlılık ifadelerinizi takdir ederler.Tek Virgos, gösterilen güvenilirlik ve sessiz güvenle istikrarlı bağlantılar çeker.",
+            "career": "Finans sektörlerindeki fırsatlar, kaynak yönetimi veya değer odaklı girişimler vaat ediyor.Değer yaratma veya koruma konusundaki detaylara dikkat etmeniz profesyonel ilerleme sağlar.Analitik becerilerinizi somut üretimle hizalayan rolleri düşünün.",
+            "health": "Vokal ve boğaz sağlığı, uygun hidrasyon ve ifade uygulamaları ile özel ilgiyi hak eder.Yüksek kaliteli deneyimlerin duyusal keyfi, dikkate değer refah faydaları getirir.İş verimliliği ve duyusal zevk arasındaki denge sürdürülebilir enerji yaratır.",
+            "finances": "Finansal istikrar, alımlarda ve yatırımlarda gerçek değerin dikkatli bir şekilde değerlendirilmesi yoluyla gelişir.Kalıcı değere sahip somut varlıklar oluşturmayı veya edinmeyi düşünün.Bankacılık, tasarruf stratejileri veya finansal güvenlik sistemleri optimizasyon için kapsamlı bir inceleme gerektirir."
+        },
+        "2035": {
+            "overall": "2035, Başak için entelektüel stimülasyon ve iletişim atılımları getiriyor.Analitik zihniniz yeni bilgi teknolojilerine veya yöntemlerine hakim olma konusunda memnuniyet bulur.Ayrıntılı gerçekler ve etkili iletişim arasındaki denge dikkate değer bir etki yaratır.",
+            "love": "İlişkiler gelişmiş iletişim ve entelektüel bağlantı yoluyla gelişir.Ortaklar düşünceli değişimlerinizi ve özenli dinlemenizi takdir eder.Tek Virgos, yazılı ifade veya bilgi paylaşım faaliyetleri yoluyla uyarıcı bağlantılar çeker.",
+            "career": "İletişim, eğitim veya bilgi yönetiminde fırsatlar beklenmedik bir şekilde ortaya çıkmaktadır.Karmaşık bilgileri organize etme ve sunma yeteneğiniz, profesyonel tanıma getiriyor.Analitik hassasiyeti öğretim veya yazma bileşenleriyle birleştiren rolleri düşünün.",
+            "health": "Solunum ve Sinir Sistemi Sağlığı, uygun solunum teknikleri ve stres yönetimi ile özel ilgiyi hak etmektedir.Zihinsel refah, bilgi ortamlarını organize ederek ve dijital dağınıklığı azaltarak iyileşir.El ve kol esnekliği uygun ergonomi ve gerilmeden yararlanır.",
+            "finances": "İletişim teknolojilerine veya eğitim platformlarına yapılan yatırımlar umut vaat ediyor.Bilginizden veya analitik becerilerinizi kurslar, yazma veya danışmanlık yoluyla para kazanmayı düşünün.Beklenmedik finansal fırsatlar ağ veya bilgi alışverişi yoluyla ortaya çıkar."
+        }
+    },
+    "famous": [
+        {
+            "name": "Beyoncé",
+            "birth_date": "4 Eylül 1981",
+            "description": "Ayrıntılara, iş ahlakına ve mükemmeliyetçiliğe titiz dikkati Başak özelliklerini en iyi şekilde örnekleyen ikonik şarkıcı, sanatçı ve iş kadını"
+        },
+        {
+            "name": "Keanu Reeves",
+            "birth_date": "2 Eylül 1964",
+            "description": "Mütevazi, hizmet odaklı doğası ve zanaatına olan bağlılığı ile bilinen ve Başak'ın mütevazı mükemmelliğini somutlaştıran aktör"
+        },
+        {
+            "name": "Anne Teresa",
+            "birth_date": "26 Ağustos 1910",
+            "description": "Hizmet hayatı, başkalarının ihtiyaçlarına dikkat ve pratik merhamet Başak'ın en yüksek ifadesini temsil eden insani yardım"
+        },
+        {
+            "name": "Tim Burton",
+            "birth_date": "25 Ağustos 1958",
+            "description": "Görsel detaylara titiz ilgisi ve mükemmel yürütülen fantezi dünyaları yaratma yeteneği, Başak'ın hassasiyetini ve hayal gücünü yansıtır"
+        },
+        {
+            "name": "Michael Jackson",
+            "birth_date": "29 Ağustos 1958",
+            "description": "Mükemmeliyetçiliği, zanaatındaki her ayrıntıya dikkat çeken sanatçı ve acımasız çalışma ahlakı klasik başak özelliklerini gösterir"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Bugün, neyin geliştirilebileceğini fark etmek yerine başkalarının çabalarını takdir etmeye odaklanın.Sevdiklerinizin yaptığı küçük şeyler için minnettarlığı ifade edin.",
+        "career": "Örgütsel becerileriniz bugün parlıyor.Hassasiyet gerektiren ayrıntılı görevlerle mücadele edin, ancak ilerlemenizi başkalarına iletmeyi unutmayın.",
+        "health": "Zihinsel durumunuz ve sindirim arasındaki bağlantıya dikkat edin.Gün boyunca zihninizi rahatlatmak için kısa mola verin.",
+        "general": "Bugün daha büyük resim için takdirle doğal dikkatinizi detaylara dengeleyin.Mükemmel genellikle yeterince iyi düşmandır."
+    },
+    "tarot_associations": {
+        "major_arcana": "Münzevi",
+        "explanation": "Münzevi, dikkatli bir inceleme ile içgözlem, analiz ve iç bilgelik arayışını temsil eder - Başak'ın analitik doğası ve iyileştirme arayışı ile yankılanan nitelikler.Bu kart, ayırt etme, ayrıntılı gözlem ve pratik bilgelik yoluyla mükemmelliğe doğru yolculuğu somutlaştırır."
+    },
+    "compatibility_details": {
+        "aries": "Başak ve Koç, tamamlayıcı güçlü yönler getiriyor, ancak farklı yaklaşımlarla zorluklarla karşı karşıya - Başak'ın Koç'un dürtüselliğine karşı uyarısı.Bu farklılıkları takdir ettiklerinde birbirlerini dengeleyebilirler.",
+        "taurus": "Başak ve Boğa, paylaşılan pratik değerler ve kalite için takdirle uyumlu bir toprak işareti eşleşmesi yaratır.Her ikisi de güvenilir ve güvenlik fikirlidir, istikrarlı bir ortaklık yaratır.",
+        "gemini": "Başak ve İkizler Merkür hükümdarlığını paylaşıyor, ancak farklı şekilde ifade ediyor.Bu, zihinsel bağlantı kurar, ancak Başak'ın hassasiyeti ile İkizler'in çeşitlilik arayan doğası arasında potansiyel sürtünme yaratır.",
+        "cancer": "Başak ve kanser, tamamlayıcı besleme stilleriyle destekleyici bir eşleşme oluşturur.Başak pratik yardım sunarken kanser duygusal destek sağlar ve dengeli bir ilişki yaratır.",
+        "leo": "Başak ve Leo hayata oldukça farklı yaklaşıyor - Başak dikkatli analizle ve dramatik yeteneklerle Leo.Leo, Başak'ın yardımseverliğini takdir ederse ve Başak Leo'nun yaratıcılığını kabul ederse birbirlerini tamamlayabilirler.",
+        "virgo": "İki Virgos, iyileştirme ve hassasiyet arzusunun karşılıklı anlayışına dayanan bir ilişki yaratır.Pratik konularda birlikte iyi çalışırlar, ancak daha fazla kendiliğindenlik geliştirmesi gerekebilir.",
+        "libra": "Başak ve Terazi farklı bakış açıları getiriyor - Başak'ın pratikliği ve Terazi'nin idealizmi.Bu, etkili iletişim kurduklarında dengeli bakış açılarıyla büyüme potansiyeli yaratır.",
+        "scorpio": "Başak ve Akrep, ayrıntı odaklı bir yaklaşımı ve değer özgünlüğünü paylaşır.Her ikisi de gözlemcidir ve derinliği takdir eder, karşılıklı saygı ve anlayışla bir ilişki yaratır.",
+        "sagittarius": "Başak ve Yay, farklı dünya görüşleriyle zorluklarla karşı karşıya - Başak'ın Yay'ın geniş perspektifine karşı hassasiyeti.Farklı yaklaşımlarını kapatmak için önemli çaba gerekmektedir.",
+        "capricorn": "Başak ve Oğlak Paylaşılan Pratik Değerler ve Çalışma Etiği ile Mükemmel Bir Dünya İşareti Maçı oluşturur.Birbirlerinin metodik yaklaşımını anlıyorlar ve üretken ortaklıklar yaratıyorlar.",
+        "aquarius": "Başak ve Kova'nın her ikisi de analitik zihinlere sahiptir, ancak onları farklı şekilde uygulayın - Başak pratik konulara ve Kova kavramlarına Kova.Bu ilginç konuşmalar yaratır, ancak potansiyel yaşam tarzı çatışmaları yaratır.",
+        "pisces": "Başak ve Balık, tamamlayıcı nitelikler yoluyla büyüme potansiyeli ile zıt işaretler oluşturur.Başak, Balık hayalleri için pratik temellilik sağlarken, Pisces Başak'ın analizine duygusal derinlik sunar."
+    },
+    "astrological_influences": {
+        "sun_in": "Başaktaki Sun analitik düşünce, detaylara dikkat ve hizmet yönelimi getirir.Hayata pratik hassasiyet ve kendinizi ve ortamınızı geliştirme arzusu ile yaklaşıyorsunuz.",
+        "moon_in": "Başaktaki Ay, düzen, yararlılık ve iyileştirme etrafında merkezlenmiş duygusal ihtiyaçlar yaratır.Duygularınız analitik olarak işlenir ve pratik problem çözme yoluyla duygusal güvenlik bulursunuz.",
+        "rising": "Başak Rising size tevazu, zeka ve yetkinlik görünümü verir.Diğerleri sizi ayrıntılı, yararlı ve seçici olarak görür, genellikle pratik tavsiyelerinizi arar."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Mükemmeliyetçiliği ve Kendi Kritmeyi Yönetmek",
+            "Analizi kabul ile dengelemek",
+            "Duyguları daha açık bir şekilde ifade etmek",
+            "Değişikliklerle daha fazla esneklik geliştirmek",
+            "Tüm ayrıntıları kontrol etmek yerine delege etmeyi öğrenmek"
+        ],
+        "growth_opportunities": [
+            "Anlamlı sorunları çözmek için analitik becerileri kullanma",
+            "Önemli ayrıntıları önemsiz olanlardan ayıran ayırt etme geliştirmek",
+            "Hizmet yönünü değerli nedenlere yönlendirme",
+            "Sadece kusurlara odaklanmak yerine iyileştirme sürecinde sevinç bulmak",
+            "Başkalarının gelişmesine yardımcı olan pratik sistemler oluşturmak"
+        ],
+        "affirmations": [
+            "Kendimi ve başkalarını mükemmel kusurlu olarak kabul ediyorum",
+            "Detaylı analizi şefkatli anlayışla dengeliyorum",
+            "Pratik becerilerim anlamlı iyileştirmeler yaratıyor",
+            "Kendi ihtiyaçlarımı onurlandırırken başkalarına hizmet ediyorum",
+            "İyileşme için çalışırken şimdiki zamanda barış buluyorum"
+        ]
+    },
+    "life_path": {
+        "purpose": "Başak bireyleri genellikle geliştirme, rafine etme ve pratik hizmete sahip olma misyonuna sahiptir.Amaçları, kaosa düzen getirmeyi, verimliliği artırmayı ve pratik analiz ve özel çalışmalar yoluyla başkalarına yardım etmeyi içerir.",
+        "life_lessons": [
+            "Gelişmeyi kabul ile dengelemeyi öğrenmek",
+            "Yararlı analiz ve zararlı eleştiriler arasındaki farkı tanımak",
+            "Mantıksal analizin yanı sıra sezgiye güven geliştirmek",
+            "Verimlilik ve yararlılığın ötesinde öz-değer bulmak",
+            "Kendi iyiliği için mükemmellik yerine anlamlı amaçlara hizmet eden sistemler yaratmak"
+        ],
+        "spiritual_growth": "Başak için manevi gelişim, ayırt edilmesini sürdürürken mükemmeliyetçiliği aşmayı içerir.Analitik zihni manevi bilgelik, eleştiriden ziyade şefkatten gelen ve günlük detaylarda kutsal olanı bulmak manevi evrime katkıda bulunan uygulamalar."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Başak çocukları genellikle erken yaşlardan itibaren gözlemli, organize ve detay odaklıdır.Genellikle sipariş için endişe gösterirler, belirli sorular sorarlar ve rutinler, yiyecek ve temizlik konusunda özellikle olabilirler.",
+            "parenting_advice": "Hatalar ve öğrenme için yer izin verirken yapı ve açık açıklamalar sağlayın.Mükemmel sonuçlardan ziyade çabayı ve ilerlemeyi övün.Kusurun sağlıklı kabulünü öğretirken doğal analitik yeteneklerine güven duymalarına yardımcı olun."
+        },
+        "in_friendship": {
+            "friendship_style": "Başak arkadaşları güvenilir, düşünceli ve pratik olarak destekleyicidir.Yararlı eylemler, önemli ayrıntıları hatırlayarak ve sorulduğunda dikkatle düşünülen tavsiyeler sunarak özen gösteriyorlar.",
+            "ideal_friends": "Başak, yararlanmadan pratik doğalarını ve yardımseverliklerini takdir eden arkadaşlarla gelişir.Dürüst, düşük drama arkadaşlıklarına net beklentiler ve sınırlara karşılıklı saygı ile değer veriyorlar."
+        },
+        "shadow_side": {
+            "potential_issues": "Dengesiz olduğunda, Başak hiperbritik, endişeli veya takıntılı bir şekilde mükemmeliyetçi olabilir.İyileşme arzusu arıza bulmaya dönüşebilir ve hizmet yönelimi şehitliğe veya sınır sorunlarına yol açabilir.",
+            "growth_path": "Başak için kişisel gelişim, hangi detayların önemli olduğu konusunda anlaşılmayı geliştirmeyi, mükemmellik talep etmek yerine ilerlemeyi takdir etmeyi öğrenmeyi ve analitik düşünceyi insan kusuruna şefkatle dengelemeyi içerir."
+        }
+    },
+    "seasonal_influences": {
+        "harvest_energy": "Geleneksel hasat mevsimi boyunca doğan Başak, dikkatli bir şekilde sıralama, buğdayı samandan ayırma ve geleceğe hazırlanma enerjisini somutlaştırır.Bu zamanlama, Başak'ı doğal ayırt etme, pratiklik ve beslenme için neyin gerekli olduğuna dikkat eder.",
+        "mutable_quality": "Değişken bir işaret olarak Başak, yaz düşmeye geçtikçe uyarlanabilirliği ve arıtmayı temsil eder.Bu pozisyon onlara sistemleri iyileştirmede esneklik, değişen detaylara dikkat ve gerçekte neyin önemli olduğunu bulmak için karmaşıklığı sıralama yeteneği verir."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "Dünya elemanı, Başak'a karakteristik pratiklik, topraklama ve fiziksel gerçeklikle bağlantılarını verir.Dünya, maddi tezahürü, verimliliği ve fikirlerin pratik uygulamasını temsil eder.",
+        "earth_balance": "Dengeli Dünya pratiklik, güvenilirlik ve üretken hizmet getirir.Aşırı dünya mükemmeliyetçiliğe, eleştiriye ve sertliğe yol açabilirken, eksik dünya kaygı, fiziksel ihtiyaçlardan kopukluğa veya pratik olmayan idealizme neden olabilir."
+    },
+    "planetary_rulership": {
+        "mercury_influence": "Merkür, İletişim, Analiz ve İşleme Gezegeni, Başak Kuralları.İkizler'deki ifadesinden farklı olarak, Başaktaki Merkür, kesin iletişim, ayrıntılı analiz ve pratik problem çözme olarak kendini gösterir.",
+        "mercury_aspects": "Bir bireyin doğum tablosundaki cıva konumu ve yönleri, Başak enerjisinin ifade edildiğini önemli ölçüde etkiler.Güçlü Merkür Boyutları analitik yetenekleri ve iletişim becerilerini geliştirir, ancak endişe veya aşırı analiz eğilimlerini de artırabilir."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Günümüzün bilgi ağır ekonomisinde Başak, veri analizi, kalite güvencesi, teknik yazma, dijital organizasyon ve teknolojik sistemlerde detaylara dikkat gerektiren alanlarda mükemmeldir.",
+        "relationship_in_modern_context": "Modern ilişkiler, genellikle kaotik bir dünyada Başak'ın netliğinden ve pratik desteğinden yararlanır.Ayrıntılı planlama ile yetenekleri, karmaşık modern yaşamda gezinmeye yardımcı olur, ancak dijital dönemin sürekli değişiklikleriyle rahatlık geliştirmeleri gerekebilir."
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "sign": "Gemini",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/gemini.svg",
+    "local_name": "Gémeaux",
+    "date_range": "21 mai - 20 juin",
+    "element": "Air",
+    "ruling_planet": "Mercure",
+    "symbol": "Jumeaux",
+    "lucky_numbers": [
+        "3",
+        "5",
+        "8",
+        "12",
+        "23"
+    ],
+    "lucky_colors": [
+        "Jaune",
+        "Bleu clair",
+        "Vert"
+    ],
+    "lucky_days": [
+        "Mercredi",
+        "Vendredi"
+    ],
+    "lucky_stones": [
+        "Agate",
+        "Citrine",
+        "Œil de tigre"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Adaptable",
+            "Sortant",
+            "Intelligent",
+            "Curieux",
+            "Polyvalent",
+            "À l'esprit rapide",
+            "Communicatif"
+        ],
+        "weaknesses": [
+            "Incompatible",
+            "Indécis",
+            "Agité",
+            "Superficiel",
+            "Facilement ennuyé",
+            "Énergie nerveuse",
+            "Focus dispersé"
+        ]
+    },
+    "personality": {
+        "overview": "Les Gémeaux sont le troisième signe du zodiaque, représentant la dualité, la polyvalence et la communication.Les individus des Gémeaux sont connus pour leur esprit rapide, leur adaptabilité et leur nature sociale.Ce sont les communicateurs du zodiaque, rassemblant et partageant constamment des informations, établissant des liens entre les idées et les gens.",
+        "detailed_traits": [
+            "Mentalement agile avec des processus de réflexion rapides",
+            "Excellentes compétences en communication verbale et écrite",
+            "Adaptable à de nouvelles situations et environnements",
+            "Curieux d'un large éventail de sujets",
+            "Habile au multitâche et jongle avec différents intérêts",
+            "Charmant et socialement adepte dans divers cercles",
+            "Énergie juvénile quel que soit l'âge",
+            "Approche intellectuelle pour comprendre le monde",
+            "A besoin d'une stimulation mentale pour éviter l'ennui",
+            "Possède une double nature qui peut montrer différentes côtés à différentes personnes"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Les individus des Gémeaux sont des partenaires ludiques et intellectuellement stimulants qui apprécient la connexion mentale et la conversation animée dans les relations.Ils ont besoin de variété, de liberté et de stimulation mentale pour rester engagés, exprimant souvent de l'affection à travers des mots et des échanges pleins d'esprit.",
+        "compatibility": {
+            "most_compatible": [
+                "Balance",
+                "Verseau",
+                "Bélier",
+                "Lion"
+            ],
+            "least_compatible": [
+                "Vierge",
+                "Poissons",
+                "Capricorne"
+            ]
+        },
+        "relationship_advice": "Les individus des Gémeaux doivent développer une profondeur émotionnelle et une cohérence dans les relations.Travaillez à suivre les engagements et à être présent au lieu de toujours penser à la prochaine chose.Écoutez plus profondément les sentiments de votre partenaire plutôt que ses mots.",
+        "love_style": [
+            "Valeurs la connexion intellectuelle et la conversation stimulante",
+            "Approche ludique et jeune de la romance",
+            "A besoin de variété et de spontanéité pour rester engagé",
+            "Peut avoir du mal à exprimer des émotions plus profondes",
+            "Communique l'amour à travers des mots et des gestes intelligents",
+            "Apprécie les partenaires qui leur donnent la liberté",
+            "Peut avoir des difficultés avec un engagement à long terme si elle s'ennuie"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Les Gémeaux excellent dans des carrières qui offrent une variété, une stimulation intellectuelle et des opportunités de communication.Ils ont des compétences polyvalentes et peuvent s'adapter rapidement aux circonstances changeantes, bien qu'ils puissent changer de carrière plusieurs fois.",
+        "suitable_careers": [
+            "Journalisme et écriture",
+            "Ventes et marketing",
+            "Enseignement et éducation",
+            "Relations publiques",
+            "Médias et communications",
+            "Gestion des médias sociaux",
+            "Industrie du voyage",
+            "Traduction et langues",
+            "Technologie et développement de logiciels",
+            "Diffusion et podcasting"
+        ],
+        "financial_habits": "Les Gémeaux ont souvent des schémas financiers variables, économisant parfois judicieusement et d'autres fois, dépenser impulsivement.Ils peuvent avoir plusieurs sources de revenus, mais devraient travailler sur la cohérence de la planification financière et éviter les approches dispersées de l'argent.",
+        "work_style": [
+            "Prospère dans des environnements dynamiques et changeants",
+            "Excellent pour brainstorming et génération d'idées",
+            "Préfère la variété de tâches sur un travail répétitif",
+            "Communique clairement et convaincue les idées",
+            "Fonctionne bien dans les paramètres collaboratifs",
+            "Peut perdre tout intérêt pour les projets à long terme",
+            "S'adapte rapidement aux nouvelles technologies et méthodes"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Les Gémeaux gouvernent les poumons, les épaules, les bras, les mains et le système nerveux.Généralement béni avec une énergie rapide et une bonne coordination, les geminites ont tendance à être actives mais peuvent être sujets à des tensions nerveuses et des problèmes respiratoires.",
+        "common_health_issues": [
+            "Problèmes respiratoires (asthme, bronchite)",
+            "Tension nerveuse et anxiété",
+            "Problèmes avec les mains, les bras et les épaules",
+            "Difficultés de parole",
+            "Énergie dispersée conduisant à l'épuisement",
+            "Insomnie de l'esprit hyperactif"
+        ],
+        "wellness_advice": "Entraînez-vous à des exercices de respiration axés pour calmer votre système nerveux et renforcer vos poumons.Établissez des modèles de sommeil cohérents pour reposer votre esprit actif.Équilibrez l'activité mentale avec un mouvement physique pour libérer l'énergie nerveuse.",
+        "exercise_preferences": [
+            "Activités qui combinent des compétences mentales et physiques (tennis, danse)",
+            "Des routines d'entraînement variées pour éviter l'ennui",
+            "Sports d'équipe avec interaction sociale",
+            "Faire du vélo et de la course",
+            "Exercice qui permet d'écouter des podcasts ou des livres audio"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 apporte la croissance intellectuelle et les canaux de communication élargis pour les individus des Gémeaux.Votre curiosité naturelle et votre polyvalence vous aident à vous adapter à des circonstances en évolution rapide.Équilibrez la stimulation mentale avec des liens émotionnels pour le développement harmonieux.",
+            "love": "Les relations prospèrent à travers une conversation spirituelle et des relations intellectuelles.Les geminis uniques peuvent rencontrer des partenaires potentiels grâce à des activités éducatives ou à des plateformes de communication.Les relations existantes se renforcent lorsque vous pratiquez une communication cohérente et transparente.",
+            "career": "L'avancement professionnel provient de la présentation de vos compétences en communication et de votre adaptabilité.Votre réflexion rapide aide à résoudre des problèmes complexes au milieu de l'année.Des opportunités se présentent dans les domaines nécessitant une polyvalence et une capacité à traduire des idées complexes pour divers publics.",
+            "health": "Concentrez-vous sur la santé respiratoire grâce à des techniques de respiration appropriées et à une activité aérobie régulière.Le bien-être mental s'améliore lorsque vous équilibrez l'apport d'informations avec les pratiques de pleine conscience.Portez une attention particulière aux soins du système nerveux grâce à un repos adéquat entre les activités stimulantes.",
+            "finances": "Les fluctuations financières nécessitent des stratégies de gestion de l'argent adaptables.Envisagez de diversifier les sources de revenus grâce à des compétences que vous possédez déjà.Les opportunités à court terme équilibrées avec la planification à long terme créent une stabilité malgré des circonstances changeantes."
+        },
+        "2026": {
+            "overall": "2026 met en évidence les fondations à domicile et émotionnelles pour les Gémeaux.Votre capacité à harmoniser différentes perspectives crée des environnements domestiques paisibles.Trouver l'équilibre entre votre besoin de variété et l'établissement de racines apporte l'accomplissement et la sécurité.",
+            "love": "La profondeur émotionnelle améliore les connexions romantiques cette année.Les partenaires apprécient vos efforts pour créer des relations stables mais stimulantes intellectuellement.Les Geminis célibataires attirent des partenaires qui apprécient à la fois votre esprit ludique et votre capacité à une conversation significative.",
+            "career": "Travailler à domicile ou créer des arrangements de travail flexibles apporte une satisfaction professionnelle.Votre capacité à connecter des idées disparates conduit à des solutions innovantes pour les défis en milieu de travail.Considérez les rôles qui combinent la communication avec la création d'environnements confortables.",
+            "health": "Les avantages digestifs pour la santé des routines de repas cohérentes malgré les horaires chargés.La santé mentale s'améliore en établissant des pratiques de relaxation à domicile.Équilibrez l'interaction sociale avec une réflexion silencieuse pour le fonctionnement optimal du système nerveux.",
+            "finances": "Les investissements immobiliers ou les entreprises à domicile sont prometteurs.Envisagez d'établir des fonds d'urgence pour une plus grande sécurité.La planification financière familiale ou les ressources partagées créent une stabilité sans sacrifier la flexibilité."
+        },
+        "2027": {
+            "overall": "2027 met l'accent sur l'expression créative et les activités joyeuses pour les Gémeaux.Votre esprit naturel trouve des points de vente parfaits à travers divers médias.L'équilibre entre l'exploration ludique et le développement ciblé des talents conduit à une satisfaction personnelle remarquable.",
+            "love": "Les relations amoureuses prospèrent lorsqu'elles sont imprégnées de créativité et de espièglerie.Les partenaires apprécient votre enthousiasme enfantin et vos nouvelles perspectives.Les geminis uniques attirent des liens par une authentique expression de soi dans des contextes artistiques ou récréatifs.",
+            "career": "Les projets créatifs gagnent en reconnaissance et au soutien.Votre capacité à divertir tout en informant vous donne un avantage dans des environnements compétitifs.Envisagez de développer des domaines spécialisés qui présentent votre style de communication unique.",
+            "health": "Le cœur et la circulation s'améliorent à travers des activités qui apportent une véritable joie.La santé mentale profite de l'expression et du jeu créatifs.Équilibrez les activités intellectuelles avec un mouvement physique qui semble agréable plutôt qu'obligatoire.",
+            "finances": "Les entreprises créatives ou les projets secondaires génèrent des revenus inattendus.Considérez les investissements dans les outils artistiques, de divertissement ou éducatifs.Les entreprises spéculatives sont prometteuses lorsqu'elles sont recherchées en profondeur et limitées à des parties raisonnables de votre portefeuille."
+        },
+        "2028": {
+            "overall": "2028 se concentre sur les routines pratiques et l'optimisation de la santé pour les Gémeaux.Votre esprit analytique aide à créer des systèmes efficaces pour la vie quotidienne.Trouver l'équilibre entre la variété et la cohérence conduit à des améliorations remarquables de la productivité et du bien-être.",
+            "love": "Les relations se renforcent grâce à un soutien pratique et partageaient des rituels quotidiens.Les partenaires apprécient votre attention sur les petits détails qui améliorent la qualité de vie.Les geminis uniques attirent des connexions de soutien fondées sur des communautés de bien-être ou des interactions en milieu de travail.",
+            "career": "Les rôles ou postes organisationnels nécessitant une attention aux détails apportent une reconnaissance.Votre capacité à améliorer les systèmes tout en maintenant des environnements engageants vous donne un avantage dans l'évolution des lieux de travail.Considérez les rôles dans la communication en santé ou le conseil en efficacité.",
+            "health": "La santé digestive et du système nerveux montre une amélioration marquée par des routines cohérentes.La clarté mentale augmente avec une bonne nutrition et une hygiène du sommeil.Les pratiques de santé préventives établies cette année créent des avantages durables.",
+            "finances": "La budgétisation et le suivi des dépenses apportent une liberté financière surprenante.Considérez les investissements dans les technologies de santé ou les outils d'efficacité.De petites contributions d'épargne cohérentes se composent considérablement au fil du temps."
+        },
+        "2029": {
+            "overall": "2029 met en évidence les partenariats et les entreprises collaboratives pour les Gémeaux.Votre communication diplomatique facilite les accords importants.Trouver l'équilibre entre l'indépendance et la coopération conduit à des opportunités élargies et à la croissance personnelle.",
+            "love": "Les relations engagées atteignent de nouveaux niveaux de compréhension mutuelle.Les partenaires apprécient votre volonté de faire des compromis sans perdre votre nature essentielle.Les geminis célibataires attirent des partenariats équilibrés grâce à une expression claire des objectifs relationnels.",
+            "career": "Les partenariats commerciaux ou les projets collaboratifs apportent des progrès professionnels.Votre capacité à négocier des solutions gagnant-gagnant vous donne un avantage dans les discussions contractuelles.Envisagez des rôles consultatifs qui vous permettent de construire des ponts entre diverses parties prenantes.",
+            "health": "Les reins et la santé surrénaliens bénéficient d'une activité équilibrée et d'une gestion du stress.Le bien-être mental s'améliore à travers de saines frontières relationnelles.Les activités partenaires comme le tennis ou la danse apportent à la fois des avantages physiques et un renforcement des relations.",
+            "finances": "Les coentreprises ou les investissements partagés sont prometteurs.Envisagez d'établir des accords clairs par écrit lorsque les finances impliquent d'autres.La recherche de conseils financiers experts avant les engagements majeurs apporte une sécurité à long terme."
+        },
+        "2030": {
+            "overall": "2030 apporte la transformation et la régénération des Gémeaux.Votre adaptabilité naturelle aide à naviguer dans des changements de vie importants.Trouver l'équilibre entre embrasser le nouveau et honorer les traditions valorisées conduit à une profonde évolution personnelle.",
+            "love": "Les relations intimes s'approfondissent par une conversation honnête sur les désirs et les frontières.Les partenaires apprécient votre volonté d'évoluer ensemble à travers des défis.Les geminis uniques attirent des connexions puissantes grâce à une vulnérabilité authentique.",
+            "career": "Les possibilités de recherche ou les postes impliquant une enquête apportent une réalisation professionnelle.Votre capacité à découvrir des informations cachées vous donne un avantage dans des situations complexes.Considérez les rôles impliquant une perspicacité psychologique ou une gestion des ressources.",
+            "health": "Les systèmes de reproduction et d'élimination bénéficient des pratiques de désintoxication.La résilience mentale se renforce en confrontant et en libérant de vieux modèles.Les pratiques régénératives comme le repos et les aliments riches en nutriments apportent des améliorations notables de vitalité.",
+            "finances": "La restructuration des investissements ou les examens d'assurance apportent une sécurité accrue.Envisagez d'établir des fiducies ou des plans hérités.Des ressources financières inattendues peuvent émerger par des héritages ou des avantages auparavant négligés."
+        },
+        "2031": {
+            "overall": "2031 met l'accent sur l'expansion et l'enseignement supérieur pour les Gémeaux.Votre curiosité intellectuelle trouve l'accomplissement par le biais d'études ou de voyages.Trouver l'équilibre entre l'élargissement des horizons et l'application pratique conduit à un développement significatif de la philosophie personnelle.",
+            "love": "Les relations se développent à travers des aventures d'apprentissage partagées.Les partenaires apprécient votre profondeur philosophique et votre curiosité culturelle.Les geminis célibataires attirent des liens intellectuellement stimulants grâce à des activités éducatives ou des expériences de voyage.",
+            "career": "Les opportunités académiques ou de publication émergent de manière inattendue.Votre capacité à synthétiser et à communiquer des informations complexes apporte une reconnaissance professionnelle.Considérez les rôles qui impliquent l'enseignement, l'écriture ou la communication interculturelle.",
+            "health": "La flexibilité de la hanche et de la cuisse s'améliore à travers les pratiques de mouvement à partir de diverses traditions.Les perspectives mentales s'éclaircissent par l'exposition à diverses perspectives.Équilibrez l'exploration intellectuelle avec la mise à la terre des activités physiques pour un bien-être optimal.",
+            "finances": "Les investissements pédagogiques produisent des rendements intellectuels et financiers.Considérez les marchés étrangers ou les entreprises internationales pour la diversification du portefeuille.Des opportunités financières inattendues surviennent grâce à des plateformes de publication ou de partage des connaissances."
+        },
+        "2032": {
+            "overall": "2032 se concentre sur la réussite professionnelle et la reconnaissance du public pour les Gémeaux.Vos compétences en communication brillent dans des contextes de leadership.Trouver l'équilibre entre l'avancement de carrière et l'accomplissement personnel conduit à un succès et à une satisfaction durables.",
+            "love": "Les relations bénéficient de discussions claires sur les objectifs à long terme.Les partenaires apprécient votre soutien à leurs aspirations professionnelles.Les geminis uniques attirent des liens par le biais d'événements de l'industrie ou de réseaux professionnels.",
+            "career": "Les possibilités de leadership ou les projets à haute visibilité apportent des progrès.Votre capacité à présenter des idées complexes vous donne clairement un avantage dans des environnements compétitifs.Considérez les rôles qui vous permettent de façonner la communication organisationnelle ou le récit public.",
+            "health": "La santé squelettique, en particulier les genoux et les articulations, nécessite des soins appropriés pendant les activités ambitieuses.La résilience mentale se renforce en équilibrant l'orientation de la réussite à la compassion de soi.La gestion du stress devient essentielle pendant l'intensité professionnelle.",
+            "finances": "L'avancement professionnel apporte une augmentation du potentiel de revenu.Envisagez d'établir des comptes de retraite ou des stratégies d'investissement pour une sécurité à long terme.Les investissements professionnels d'identification donnent des rendements importants."
+        },
+        "2033": {
+            "overall": "2033 met en évidence les liens sociaux et la participation communautaire pour les Gémeaux.Vos capacités de réseautage créent de précieuses initiatives collectives.Trouver l'équilibre entre l'engagement social et l'authenticité personnelle conduit à une contribution significative et à l'appartenance.",
+            "love": "Les relations prospèrent lorsqu'elles sont intégrées à des cercles sociaux plus larges.Les partenaires apprécient votre loyauté envers les valeurs partagées et les engagements communautaires.Les geminis uniques attirent des liens par des activités humanitaires ou des activités de groupe alignées sur les valeurs personnelles.",
+            "career": "Un travail à but non lucratif ou axé sur la communauté apporte une épanouissement professionnel.Votre capacité à unir diverses individus autour d'objectifs communs vous donne un avantage dans les environnements d'équipe.Considérez les rôles impliquant la facilitation du groupe ou l'organisation communautaire.",
+            "health": "La circulation s'améliore par la marche ou le mouvement réguliers en milieu naturel.Le bien-être mental se renforce grâce à un lien social significatif.L'équilibre entre la solitude et l'engagement communautaire crée une régulation optimale du système nerveux.",
+            "finances": "Les entreprises financières collaboratives sont prometteuses.Considérez les investissements éthiques alignés sur les valeurs personnelles.Des opportunités financières inattendues surviennent grâce à des liens communautaires ou à des initiatives économiques partagées."
+        },
+        "2034": {
+            "overall": "2034 apporte une perspicacité spirituelle et un développement intérieur pour les Gémeaux.Votre curiosité naturelle se tourne vers des questions existentielles et des dimensions subtiles.Trouver l'équilibre entre l'analyse intellectuelle et la connaissance intuitive conduit à une sagesse personnelle remarquable.",
+            "love": "Les relations s'approfondissent par la connexion spirituelle ou philosophique.Les partenaires apprécient votre empathie accrue et votre intelligence émotionnelle.Les geminis célibataires attirent les connexions au niveau de l'âme grâce à des activités impliquant une croissance personnelle ou une expression créative.",
+            "career": "Les rôles de conseil ou de conseil apportent une satisfaction professionnelle.Votre capacité à détecter les modèles sous-jacents vous donne un avantage dans des systèmes humains complexes.Considérez les rôles qui vous permettent de servir le développement des autres tout en poursuivant votre propre évolution.",
+            "health": "Les systèmes immunitaires et lymphatiques se renforcent par des pratiques de repos et de détoxification adéquates.La clarté mentale s'améliore par la méditation ou les pratiques contemplatives.L'équilibre entre l'activité et la retraite crée des résultats de santé optimaux.",
+            "finances": "Des décisions financières intuitives donnent des avantages inattendus.Envisagez d'établir des flux de revenus passifs qui permettent plus de temps pour le développement personnel.Les dons caritatifs augmentent paradoxalement l'abondance globale."
+        },
+        "2035": {
+            "overall": "2035 marque le début d'un cycle de renouvellement important pour les Gémeaux.Votre polyvalence naturelle vous aide à éliminer les identités obsolètes et à adopter de nouveaux débuts.Trouver l'équilibre entre l'auto-réinvention et l'honneur de l'essence fondamentale conduit à une évolution authentique.",
+            "love": "Les relations se transforment par une communication honnête sur l'évolution des besoins.Les partenaires apprécient votre volonté de grandir ensemble tout en préservant les fondations relationnelles.Les geminis uniques attirent des connexions significatives par une authentique expression de soi.",
+            "career": "De nouvelles directions professionnelles ou des entreprises entrepreneuriales apportent la réalisation.Votre capacité à transférer des compétences dans les contextes vous donne un avantage dans l'évolution des marchés.Considérez les rôles qui permettent une autonomie créative tout en s'appuyant sur une expertise établie.",
+            "health": "La vitalité globale s'améliore par la simplification et la gestion de l'énergie ciblée.La clarté mentale se renforce en libérant des engagements inutiles.L'équilibre entre l'activité et le repos adéquat crée des schémas énergétiques durables.",
+            "finances": "L'examen financier et la restructuration crée une plus grande efficacité.Envisagez d'éliminer les dépenses inutiles tout en augmentant les investissements dans des zones élevées.De nouveaux flux de revenus émergent en appliquant des compétences existantes dans de nouveaux contextes."
+        }
+    },
+    "famous": [
+        {
+            "name": "Angelina Jolie",
+            "birth_date": "4 juin 1975",
+            "description": "Actrice, cinéaste et humanitaire, illustrant la polyvalence, l'intelligence et la capacité des Gémeaux à maîtriser plusieurs domaines"
+        },
+        {
+            "name": "Morgan Freeman",
+            "birth_date": "1er juin 1937",
+            "description": "Acteur avec une voix distinctive, démontrant les compétences de communication des Gémeaux et la capacité à habiter de nombreux personnages différents"
+        },
+        {
+            "name": "Marilyn Monroe",
+            "birth_date": "1er juin 1926",
+            "description": "Actrice emblématique montrant la dualité des Gémeaux, le charme et la nature complexe sous un extérieur apparemment léger"
+        },
+        {
+            "name": "Johnny Depp",
+            "birth_date": "9 juin 1963",
+            "description": "Acteur polyvalent connu pour représenter des personnages éclectiques, incarnant l'adaptabilité de Gemini et la personnalité à plusieurs facettes"
+        },
+        {
+            "name": "Kanye West",
+            "birth_date": "8 juin 1977",
+            "description": "Musicien, producteur et concepteur qui représente les multiples talents de Gemini, le style de communication franc et les intérêts en constante évolution"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Aujourd'hui, concentrez-vous sur le fait d'être pleinement présent dans vos conversations.Écoutez pour comprendre plutôt que d'attendre simplement que votre tour parle.",
+        "career": "Vos compétences en communication brillent aujourd'hui.Partagez vos idées en toute confiance, mais faites également de la place pour que les autres contribuent.",
+        "health": "Pratiquez une respiration consciente pour calmer votre système nerveux.Faites des pauses des appareils numériques pour vous reposer.",
+        "general": "Votre curiosité conduit à de précieuses découvertes aujourd'hui.Suivez vos intérêts tout en maintenant suffisamment d'attention pour compléter ce que vous commencez."
+    },
+    "tarot_associations": {
+        "major_arcana": "Les amoureux",
+        "explanation": "Les amoureux représentent les choix, les relations et la dualité - des thèmes qui résonnent profondément avec la nature jumelle de Gemini.Cette carte incarne la nécessité d'intégrer différents aspects de soi et de faire des choix conscients qui s'alignent sur ses valeurs les plus élevées."
+    },
+    "compatibility_details": {
+        "aries": "Les Gémeaux et le Bélier créent une relation dynamique et intellectuellement stimulante.Les deux signes sont curieux et énergiques, profitant de nouvelles expériences ensemble tout en se donnant l'espace nécessaire.",
+        "taurus": "Les Gémeaux et le Taureau sont confrontés à des défis avec différentes approches de la vie.Le Taureau varie de la stabilité et de la routine tandis que les Gémeaux soient désireux de varier et de changer, nécessitant un compromis significatif.",
+        "gemini": "Deux geminis créent ensemble une relation pleine de conversation fascinante et de stimulation mentale.Ils comprennent le besoin de liberté de chacun mais peuvent manquer de profondeur ou de stabilité émotionnelle.",
+        "cancer": "Les Gémeaux et le cancer peuvent lutter avec les styles de communication - les Gémeaux sont intellectuels et le cancer est émotionnel.Avec l'effort, ils peuvent équilibrer et se compléter les approches de chacun.",
+        "leo": "Gemini et Leo forment un match compatible plein de plaisir et de créativité.La chaleur et la confiance de Leo s'associent bien à l'esprit et à l'adaptabilité de Gemini, créant un partenariat stimulant.",
+        "virgo": "Les Gémeaux et la Vierge partagent la dirigeant de Mercury mais l'expriment différemment.Les deux sont intellectuels mais peuvent s'affronter entre la précision de la Vierge et la flexibilité des Gémeaux, nécessitant un respect mutuel.",
+        "libra": "Les Gémeaux et la Balance partagent une excellente compatibilité en tant que signes aériens.La communication, la communication, les connexions sociales et la stimulation mentale, créent à la fois, créant des relations harmonieuses et équilibrées.",
+        "scorpio": "Les Gémeaux et le Scorpion sont confrontés à des défis avec différentes profondeurs émotionnelles.L'approche légère de Gemini contraste avec l'intensité de Scorpion, nécessitant un ajustement significatif des deux.",
+        "sagittarius": "Les Gémeaux et le Sagittaire partagent un amour de la liberté, de la connaissance et de l'exploration.Ce match compatible jouit ensemble de discussions intellectuelles et d'aventures.",
+        "capricorn": "Les Gémeaux et le Capricorne luttent avec des différences fondamentales d'approche.La nature sérieuse et méthodique du Capricorne contraste avec la polyvalence ludique des Gémeaux.",
+        "aquarius": "Les Gémeaux et le Verseau partagent d'excellentes relations mentales comme signes aériens.Les deux apprécient l'échange intellectuel, l'innovation et l'indépendance, créant des relations stimulantes et amicales.",
+        "pisces": "Les Gémeaux et les Poissons abordent la vie tout à fait différemment - les Gémeaux à travers la logique et les Poissons par l'intuition.Ils peuvent se compléter mais doivent combler des lacunes de communication importantes."
+    },
+    "astrological_influences": {
+        "sun_in": "Le soleil dans les Gémeaux apporte une polyvalence, une curiosité et d'excellentes compétences en communication.Vous abordez la vie avec un intérêt intellectuel et vous vous adaptez rapidement à de nouvelles situations.",
+        "moon_in": "La lune dans les Gémeaux crée une agitation émotionnelle et un besoin de stimulation mentale.Vos sentiments sont traités intellectuellement et vous recherchez une variété dans des expériences émotionnelles.",
+        "rising": "Gemini Rising vous donne une apparence de jeunesse, de curiosité et de sociabilité.D'autres vous considèrent comme plein d'esprit, bavard et orienté intellectuellement."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Développer la concentration et le suivi sur les projets",
+            "Cultiver la profondeur émotionnelle au-delà de la compréhension intellectuelle",
+            "Gérer l'énergie nerveuse et la surstimulation mentale",
+            "Construire la cohérence dans les relations et les engagements",
+            "Mise à la terre des idées dispersées en application pratique"
+        ],
+        "growth_opportunities": [
+            "Utiliser des compétences en communication pour combler la compréhension entre différentes perspectives",
+            "Appliquer une polyvalence pour résoudre des problèmes complexes",
+            "Développer une expertise tout en maintenant l'étendue des connaissances",
+            "Trouver des moyens de satisfaire la curiosité tout en accomplissant les tâches nécessaires",
+            "En utilisant l'humour et l'esprit pour diffuser les situations tendues"
+        ],
+        "affirmations": [
+            "Je concentre mon énergie et je termine ce que je commence",
+            "Je communique avec clarté et but",
+            "Je me connecte avec mes émotions ainsi que mes pensées",
+            "Je suis présent et engagé dans mes relations",
+            "Ma polyvalence me permet de m'adapter à n'importe quelle situation"
+        ]
+    },
+    "life_path": {
+        "purpose": "Les Gémeaux ont souvent pour mission de rassembler et de partager des connaissances, de faciliter la communication et de relier les personnes et les idées.Leur objectif consiste à apporter une clarté mentale et à voir de multiples perspectives dans n'importe quelle situation.",
+        "life_lessons": [
+            "Apprendre à intégrer les différents aspects de votre personnalité",
+            "Développer de la profondeur à côté de l'étendue des connaissances",
+            "Trouver un sens dans les informations et les modèles",
+            "Utilisation de la communication comme outil pour un changement positif",
+            "Équilibrer l'activité mentale et la conscience émotionnelle"
+        ],
+        "spiritual_growth": "Le développement spirituel des Gémeaux implique de combler l'écart entre l'intellect et l'intuition.Les pratiques de pleine conscience qui calculent l'esprit occupé, les activités qui intègrent l'esprit et le corps, et l'utilisation de compétences en communication pour une meilleure compréhension contribuent à l'évolution spirituelle."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Les enfants Gemini sont généralement curieux, bavards et rapides à apprendre dès le plus jeune âge.Ils montrent souvent les premières compétences verbales, posent de nombreuses questions et manifestent de l'intérêt pour une grande variété de sujets et d'activités.",
+            "parenting_advice": "Fournir beaucoup de stimulation mentale à travers des livres, des jeux éducatifs et des expériences variées.Aidez-les à développer la concentration et le suivi en encourageant la fin des projets.Répondez patiemment à leurs nombreuses questions et engagez-les dans des conversations significatives."
+        },
+        "in_friendship": {
+            "friendship_style": "Les amis des Gémeaux sont divertissants, socialement adaptables et excellents.Ils jouissent d'un large cercle de connaissances, rassemblent les gens et gardent des amitiés vivantes avec leur esprit et leur curiosité.",
+            "ideal_friends": "Les Gémeaux prospèrent avec des amis qui aiment l'échange intellectuel et peuvent suivre leur rythme mental rapide.Ils apprécient les amitiés qui offrent à la fois une conversation stimulante et de nouvelles expériences, avec suffisamment d'espace pour l'indépendance."
+        },
+        "shadow_side": {
+            "potential_issues": "Lorsqu'ils sont déséquilibrés, les Gémeaux peuvent devenir dispersés, superficiels ou peu fiables.Leur tendance à la dualité peut se manifester comme une incohérence ou même une tromperie, et leur amour de la communication peut devenir des ragots ou une manipulation d'informations.",
+            "growth_path": "La croissance personnelle des Gémeaux consiste à développer une concentration, une profondeur émotionnelle et une intégrité dans les mots et l'action.Apprendre à s'engager pleinement plutôt qu'à parcourir la surface des expériences aide à intégrer la double nature dans un ensemble plus cohérent."
+        }
+    },
+    "seasonal_influences": {
+        "late_spring_energy": "Né à la fin du printemps approchant l'été, Gemini incarne la lumière, l'activité et l'échange croissants de la saison.Ce timing imprègne les Gémeaux de curiosité naturelle, de sociabilité et d'agilité mentale à mesure que la nature devient plus diversifiée et interactive.",
+        "mutable_quality": "En tant que signe mutable, les Gémeaux représentent l'adaptabilité et la transition entre les saisons.Cette position leur accorde une flexibilité, une polyvalence remarquable et la capacité de combler différents mondes et perspectives."
+    },
+    "elemental_analysis": {
+        "air_element_influence": "L'élément aérien donne aux Gémeaux leur approche intellectuelle caractéristique, leurs compétences en communication et leur nature sociale.L'air représente la pensée, la connexion et l'échange d'idées à travers diverses formes d'expression.",
+        "air_balance": "L'air équilibré apporte une réflexion claire, une communication efficace et des liens sociaux sains.L'air excessif peut entraîner une réflexion sur la consommation, l'anxiété et le détachement des émotions, tandis que l'air déficient peut entraîner des difficultés de communication et une stagnation mentale."
+    },
+    "planetary_rulership": {
+        "mercury_influence": "Mercure, la planète de la communication, de l'intellect et du mouvement, règne les Gémeaux.Cette influence planétaire explique la pensée rapide du signe, l'agilité verbale et le besoin constant de stimulation mentale et d'échange d'informations.",
+        "mercury_aspects": "La position et les aspects du mercure dans le tableau de naissance d'un individu ont un impact significatif sur la façon dont l'énergie des Gémeaux est exprimée.De forts aspects de mercure améliorent les compétences en communication et l'agilité mentale, mais peuvent également augmenter les tendances à la nervosité ou à la concentration dispersée."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Dans l'économie actuelle basée sur l'information, Gemini excelle dans la communication numérique, la création de contenu, la gestion des médias sociaux et les domaines nécessitant une adaptation rapide aux technologies et aux tendances changeantes.",
+        "relationship_in_modern_context": "Les relations modernes bénéficient des compétences de flexibilité et de communication des Gémeaux à une époque de connexion numérique.Leur adaptabilité les sert bien avec des relations de rencontres en ligne et de longue distance, bien qu'ils puissent avoir besoin de développer une connexion plus profonde au-delà de l'interaction virtuelle."
+    }
+}

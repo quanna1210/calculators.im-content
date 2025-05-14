@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Jelzálogkölcsön -számológép",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Amortizációs hitel számológép",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Fizetési számológép",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Kamatszámológép",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Halasztott fizetési hitel számológép",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Előre meghatározott összegű hitelszámológép",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI számológép",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR számológép",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Testzsír -százalékos számológép",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Jelszógenerátor",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Futó ütemű számológép",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Valutaváltó",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "BAC számológép - Számítsa ki a vér alkoholkoncentrációját",
         "meta_description": "Használja az ingyenes BAC számológépünket a vér alkohol -koncentrációjának becslésére italok, súly és idő alapján - Quick, egyszerű és online!",
         "meta_keyword": "A BAC számológép, a vér alkohol számológép, az alkoholszint kalkulátor, az ital -vezetési számológép, az alkoholfogyasztási számológép, a vér alkoholtartalom -kalkulátor, a vér -alkoholkoncentráció (BAC) kiszámítása, az online BAC -kalkulátor a biztonságos alkoholfogyasztási határértékekhez, a BAC -t a súly és az italok, a vér alkoholszint -számológép DUI kockázatának, a BAC -számításnak, a BAC -számításnak, a BAC -számításnak, a BAC -számításnak, a BAC -számításnak, a BAC -féle számológépnek, a BAC -tól és a BAC -tól, a BAC -tól és a BAC -tól, a BAC -tól, a BAC -tól és a WHISKY -tól.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Állatöv számológép",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Zodiac jel számológép | Fedezze fel, mit fed fel a születési táblázata",
+        "meta_description": "Fedezze fel, amit a zodiákus jele feltár rólad. Számolónk pontos leolvasást nyújt a karakteredről, a kapcsolatokról és a sorsodról.",
+        "meta_keyword": "Zodiac jel számológép, születési diagram -kalkulátor, mi a zodiac jel, asztrológia születési diagram, ingyenes születési táblázat, natal diagram -kalkulátor, emelkedő jel számológép, holdjel -számológép, keresése a zodiac jelem, a zodiac kompatibilitási számológép, a születési diagram leolvasása, az asztrológia számológép, a naphold -számológép, az Ascendant kalkulátor, a Zodiac születési diagram, a kínai zodiac számológép, a Sidereals Dragulator, a Horroly Caloszkóp, a Horoszkóp számológép, Számológép, asztrológiai születési diagram, állatöv -kereső, Zodiac jel kiszámítása, születésnapi zodiac, ingyenes szülési diagram, születési idő kalkulátor, teljes születési diagram, asztrológiai diagram -kalkulátor, állatöv jel születési dátum szerint, nagy három számológép, pontos születési diagram",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

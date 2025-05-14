@@ -1,0 +1,335 @@
+{
+    "sign": "Leo",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/leo.svg",
+    "local_name": "Lev",
+    "date_range": "23. července - 22. srpna",
+    "element": "Oheň",
+    "ruling_planet": "Slunce",
+    "symbol": "Lev",
+    "lucky_numbers": [
+        "1",
+        "5",
+        "9",
+        "10",
+        "19"
+    ],
+    "lucky_colors": [
+        "Zlato",
+        "Pomerančový",
+        "Červený"
+    ],
+    "lucky_days": [
+        "neděle",
+        "úterý"
+    ],
+    "lucky_stones": [
+        "Rubín",
+        "Jantar",
+        "Tigerovo oko"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Sebevědomý",
+            "Štědrý",
+            "Loajální",
+            "Tvůrčí",
+            "Charismatický",
+            "Srdečný",
+            "Vedení"
+        ],
+        "weaknesses": [
+            "Arogantní",
+            "Tvrdohlavý",
+            "Seberealizované",
+            "Dominantní",
+            "Nepružný",
+            "Hledání pozornosti",
+            "Hrdý"
+        ]
+    },
+    "personality": {
+        "overview": "Leo je pátým znamením zvěrokruhu, symbolizující sebevyjádření, kreativitu a vedení.Jednotlivci Leo jsou známí svou charismatickou přítomností, přirozenou důvěrou a srdečnou štědrostí.Jsou to přirozené hvězdy zvěrokruhu, vyzařující energii a inspirují ostatní prostřednictvím své tvůrčí vize a bujného přístupu k životu.",
+        "detailed_traits": [
+            "Přirozené vůdčí schopnosti s velící přítomností",
+            "Velkorysý a velkorysý s blízkými",
+            "Kreativní výraz v různých formách",
+            "Silný pocit osobní důstojnosti a hrdosti",
+            "Neochvějná loajalita k přátelům a rodině",
+            "Dramatický vkus a láska k divadelnosti",
+            "Vyzařuje teplo a pozitivní energii",
+            "Touží po uznání a uznání",
+            "Přirozená schopnost inspirovat a motivovat ostatní",
+            "Hravý duch s dětským nadšením"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Jednotlivci Leo jsou vášniví, oddaní a expresivní partneři, kteří si ve vztazích cení loajality a obdivu.Ukazují lásku prostřednictvím velkých gest, vášnivých projevů náklonnosti a neochvějného závazku vůči svému vybranému partnerovi.",
+        "compatibility": {
+            "most_compatible": [
+                "Aries",
+                "Střelec",
+                "Blíženci",
+                "Váhy"
+            ],
+            "least_compatible": [
+                "Býk",
+                "Štír",
+                "Vodnář"
+            ]
+        },
+        "relationship_advice": "Jednotlivci Leo musí vyrovnat svou touhu po pozornosti se skutečným zájmem o potřeby jejich partnera.Pracujte na poslechu stejně, jak mluvíte, a pamatujte si, že zdravé vztahy vyžadují vzájemné obdiv, nejen pro vás chválu.Sdílejte reflektor a uvědomte si, že zranitelnost spíše posiluje než oslabuje vaše vztahy.",
+        "love_style": [
+            "Vášnivý a výrazný s pocity",
+            "Romantické s velkými gesty a překvapeními",
+            "Loajální a oddané jednou spáchané",
+            "Touží obdivovat a uznání od partnera",
+            "Ochranné pro milované",
+            "Rád je být středem pozornosti svého partnera",
+            "Velkorysý s náklonností a dary"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Jednotlivci Leo vynikají v kariéře, které jim umožňují vyjádřit jejich kreativitu, cvičit vedení a přijímat uznání za jejich příspěvky.Mají přirozenou schopnost inspirovat ostatní a prosperovat na pozicích, které je staví do centra pozornosti.",
+        "suitable_careers": [
+            "Zábava a divadelní umění",
+            "Výkonné vedení a řízení",
+            "Politika a veřejná služba",
+            "Marketing a public relations",
+            "Výuka a vzdělávání",
+            "Plánování a pohostinnost událostí",
+            "Kreativní směr a design",
+            "Prodej a motivační mluvení",
+            "Podnikání",
+            "Koučování a mentoring"
+        ],
+        "financial_habits": "Jednotlivci Leo mají často složitý vztah s penězi, oceňují kvalitu a někdy luxus a zároveň jsou také velkorysí s ostatními.Mohou utratit bohatě na věci, které přinášejí radost nebo postavení, ale mohou být překvapivě dobré ve finančním řízení, když jsou motivovány dlouhodobými cíli.",
+        "work_style": [
+            "Převezme iniciativu a přirozenou vedoucí roli",
+            "Přináší projektům nadšení a pozitivní energii",
+            "Vyniká v prostředí spolupráce, kde mohou svítit",
+            "Preferuje uznání za příspěvky",
+            "Loajální organizacím, které oceňují jejich talent",
+            "Kreativní řešení problémů s výraznými nápady",
+            "Může bojovat s podrobnými nebo zákulisními prací"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Leo ovládá srdce, páteř a horní část zad.Jednotlivci Leo mají obvykle silnou vitalitu a rychle se zotavují z nemoci, když jsou v dobrém duchu.Jejich zdraví je často spojeno s jejich emocionální pohodou a smyslem pro účel.",
+        "common_health_issues": [
+            "Problémy s srdcem a oběhem",
+            "Problémy s zpět a páteří",
+            "Vysoký krevní tlak",
+            "Podmínky související s stresem",
+            "Problémy s napětím očí nebo vidění",
+            "Citlivost na tepla",
+            "Zánět"
+        ],
+        "wellness_advice": "Vyrovnejte svou přirozenou jednotku s adekvátním odpočíkem a relaxací.Procvičujte techniky snižování stresu k ochraně zdraví srdce.Pravidelné mírné cvičení, zejména venku v přírodě, ale chráněné před nadměrným sluncem, pomáhá udržovat vaši vitalitu.",
+        "exercise_preferences": [
+            "Týmové sporty, kde září vůdčích dovedností",
+            "Dance a Performing Arts",
+            "Třídy s vysokou energií",
+            "Outdoorové aktivity se sociálními prvky",
+            "Silový trénink zaměřený na jádro a záda"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 přináší příležitosti pro kreativní sebevyjádření a vedení pro jednotlivce Leo.Vaše přirozená charisma přitahuje obdiv a nové spolupráce.Rovnováha mezi osobními ambicemi a skutečným spojením s ostatními vede k udržitelnému úspěchu.",
+            "love": "Vztahy vzkvétají prostřednictvím upřímného výrazu a vzájemného obdivu.Single Leos může přilákat partnery, kteří oceňují jejich autentickou vášeň a štědrost.Stávající vztahy se prohlubují prostřednictvím sdílených tvůrčích aktivit a skutečného uznání.",
+            "career": "Profesionální uznání přichází prostřednictvím odvážných iniciativ a kreativního vedení.Vaše schopnost inspirovat ostatní přináší možnosti pokroku v polovině roku.Zvažte role, které umožňují viditelnost a smysluplný dopad na organizační kulturu.",
+            "health": "Zvláštní pozornost si zaslouží zdraví srdce a páteře.Hladiny energie se zlepšují pravidelnou kardiovaskulární aktivitou vyváženou adekvátním odpočinkem.Kreativní výraz slouží jako cenná úleva od stresu a emoční regulace.",
+            "finances": "Investice do kreativních podniků nebo osobních značek ukazují slib.Zvažte vyvážený přístup mezi luxusní péčí o sebe a dlouhodobou bezpečností.Neočekávané finanční příležitosti mohou nastat prostřednictvím výkonu nebo vůdčích rolí."
+        },
+        "2026": {
+            "overall": "2026 zdůrazňuje osobní pravost a kreativní obnovení pro Leo.Vaše skutečná sebevyjádření rezonuje hluboce s vlivným publikem.Nalezení harmonie mezi vaším dramatickým vkusem a praktickým následkem přináší pozoruhodné úspěchy.",
+            "love": "Romantické vztahy prosperují o vzájemném obdivu a tvůrčí inspiraci.Partneři oceňují vaši sílu i zranitelnost.Single Leos přitahuje smysluplné spojení prostřednictvím uměleckých pronásledování nebo komunitního vedení.",
+            "career": "V tvůrčích nebo vzdělávacích odvětvích se objevují příležitosti vůdců.Vaše schopnost motivovat ostatní prostřednictvím osobního příkladu přináší profesionální pokrok.Zvažte vývoj přístupů podpisu, které zdůrazňují vaše jedinečné talenty a perspektivu.",
+            "health": "Vitalita se zlepšuje prostřednictvím radostných pohybových praktik.Věnujte pozornost zdraví srdce prostřednictvím emocionální i fyzické péče.Zkoumání výkonnostního umění nebo cvičení založeného na expresu přináší pozoruhodné výhody.",
+            "finances": "Kreativní podniky nebo osobní vývoj značky výnos.Zvažte investice, které kombinují vášeň s praktičností.Neočekávaná finanční podpora přichází prostřednictvím obdivovatelů vaší práce nebo vedení."
+        },
+        "2027": {
+            "overall": "2027 zdůrazňuje rodinné spojení a domácí nadace pro Leo.Vytváření prostorů, které odrážejí váš velkorysý duch, se stává důležitým.Rovnováha mezi uznáním veřejnosti a soukromým výchovem přináší naplnění a emoční bezpečnost.",
+            "love": "Domácí harmonie se stává prioritou ve vztazích.Partneři oceňují vaše úsilí o vytvoření vřelých a příjemných sdílených prostorů.Jeden Leos může najít smysluplná spojení prostřednictvím rodinných shromáždění nebo domácích komunit.",
+            "career": "Profesionální projekty týkající se dědictví, tradice nebo rodinných podniků ukazují slibné.Vaše schopnost vytvářet loajální rodinné týmy přináší organizační výhody.Zvažte vůdčí role, které vám umožní mentorovat ostatní a zároveň předvádět vaše silné stránky.",
+            "health": "Zdraví trávicího systému si zaslouží pozornost.Výživa, která podporuje jak vitalitu, tak emocionální pohodu, přináší pozoruhodné výhody.Domácí wellness praktiky vytvářejí důležité základy pro dlouhodobé zdraví.",
+            "finances": "Investice do nemovitostí nebo vylepšení domů přinášejí dlouhodobou hodnotu.Zvažte zřízení rodinných finančních dědictví nebo vzdělávacích fondů.Neočekávané zdroje mohou přicházet prostřednictvím rodinných spojení nebo dědictví."
+        },
+        "2028": {
+            "overall": "2028 přivede Leo do období kreativní komunikace a expresivního průlomu.Vaše přirozené schopnosti vyprávění vyprávění oslovují širší publikum.Vyvážení odvážného sebevyjádření s pozorným nasloucháním vede k vlivným spojením.",
+            "love": "Romantická komunikace se ve vztazích dostává do centra pozornosti.Partneři oceňují vaše upřímné výrazy a skutečný zájem.Jeden Leos přitahuje pozornost charismatickou komunikací a autentickou sebevyjádření.",
+            "career": "Neočekávaně se objevují veřejné mluvení, média nebo vzdělávací příležitosti.Vaše schopnost inspirovat prostřednictvím komunikace přináší profesionální uznání.Zvažte vývoj podpisových přístupů k prezentaci nápadů, které předvádějí vaši jedinečnou osobnost.",
+            "health": "Vokální zdraví a respirační systém vyžadují pozornost.Rovnováha energetického výrazu s adekvátním odpočíkem pro optimální pohodu.Kreativní psaní nebo mluvení slouží jako cenné emoční zpracování.",
+            "finances": "Komunikační projekty, publikace nebo mediální podniky generují příjem.Zvažte investování do komunikačních technologií nebo platforem.Neočekávané finanční příležitosti vyvstávají díky vaší schopnosti artikulovat cenné perspektivy."
+        },
+        "2029": {
+            "overall": "2029 se zaměřuje na zabezpečení budov materiálů a správu zdrojů pro LEO.Vaše štědrá povaha najde výraz prostřednictvím promyšlené hojnosti.Nalezení rovnováhy mezi luxusními zkušenostmi a praktickými investicemi přináší trvalou stabilitu.",
+            "love": "Sdílené hodnoty kolem pohodlí a štědrosti posilují vztahy.Partneři oceňují vaše praktické demonstrace náklonnosti.Single Leos přitahuje stabilitu, ale vřele srdce potenciálních partnerů.",
+            "career": "Finanční sektory nebo role správy zdrojů nabízejí možnosti postupu.Vaše schopnost vytvářet nadšení kolem praktických cílů přináší úspěch týmu.Zvažte role, které kombinují kreativní vedení s optimalizací zdrojů.",
+            "health": "Oblasti krku a krku si zaslouží zvláštní péči.Zkoumání spojení mezi emocionálním výrazem a fyzickou pohodou přináší cenné poznatky.Luxusní, ale efektivní postupy péče o sebe navazují důležité nadace.",
+            "finances": "Investice do kvalitních zkušeností a zboží přináší spokojenost.Zvažte vytvoření více toků příjmů, které využívají vaše kreativní talenty.Neočekávané finanční příležitosti vyvstávají prostřednictvím dříve přehlížených zdrojů."
+        },
+        "2030": {
+            "overall": "2030 označuje pro Leo významnou osobní znovuobjevení.Vaše autentická sebevyjádření se vyvíjí na nové úrovně zdokonalení a dopadu.Rovnováha mezi dramatickou prezentací a skutečnou látkou vytváří trvalý vliv v důležitých kruzích.",
+            "love": "Vztahy se prohlubují prostřednictvím vzájemného růstu a kreativního vývoje.Partneři oceňují vaši obnovenou důvěru a jasnost účelu.Single Leos přitahují spojení, která rozpoznávají a oslavují jejich skutečnou podstatu.",
+            "career": "Objeví se příležitosti vůdcovství, které vám umožní vyjádřit vaši vyvinutou vizi.Váš jedinečný přístup k motivaci a budování týmů získává uznání z vlivných postav.Zvažte role, které předvádějí vaši schopnost inspirovat autentický výkon u ostatních.",
+            "health": "Celková vitalita se zlepšuje prostřednictvím integrovaných přístupů k pohodu.Věnujte pozornost zarovnání srdce a páteře prostřednictvím správného pohybu a držení těla.Kreativní výraz slouží jako základní emocionální a duchovní výživa.",
+            "finances": "Osobní branding nebo podpisové podniky ukazují finanční slib.Zvažte investice, které odrážejí vaše vyvinuté hodnoty a estetiku.Neočekávané finanční příležitosti vznikají prostřednictvím obdivovatelů autentického sebevyjádření."
+        },
+        "2031": {
+            "overall": "2031 zdůrazňuje smysluplná partnerství a spolupráce pro Leo.Vaše přirozené vedení najde perfektní rovnováhu se skutečnou spoluprací.Nalezení harmonie mezi nezávislostí a vzájemnou závislostí přináší pozoruhodné úspěchy.",
+            "love": "Romantická partnerství dosáhnou nových úrovní vzájemné podpory a obdivu.Zavedené vztahy těží z obřadů obnovených závazků nebo sdílených cílů.Single Leos přitahuje vyvážená partnerství založená na vzájemném respektu a obdivu.",
+            "career": "Vedoucí pozice pro spolupráci přinášejí profesionální naplnění.Vaše schopnost svítit při povýšení ostatních vytváří jedinečnou dynamiku týmu.Zvažte společné podniky, které kombinují doplňkové silné stránky pro maximální dopad.",
+            "health": "Rovnováha a koordinace se zlepšují prostřednictvím činností založených na partnerech.Věnujte pozornost ledvinám a dolní části zad prostřednictvím správné hydratace a podpůrných postupů.Vztahovací harmonie významně přispívá k celkovému pohodu.",
+            "finances": "Společné podniky nebo sdílené investice ukazují slib.Zvažte stanovení jasných dohod, že ctí sdílené i individuální finanční cíle.Neočekávané finanční příležitosti vznikají prostřednictvím obchodních partnerství nebo právních vypořádání."
+        },
+        "2032": {
+            "overall": "2032 přivede Leo do období transformace a regenerace.Vaše odvaha čelit stínovým aspektům vytváří pozoruhodnou osobní sílu.Rovnováha mezi udržováním záření podpisu a přijetí změny vede k hlubokému osobnímu vývoji.",
+            "love": "Intimní vztahy se prohlubují prostřednictvím emoční poctivosti a zranitelnosti.Partneři oceňují vaši odvahu v autentickém spojení.Single Leos přitahují transformační vztahy, které ctí jak sílu, tak citlivost.",
+            "career": "Role zaměřené na výzkum, výzkum nebo transformaci ukazují slib.Vaše schopnost vést ostatní prostřednictvím náročných přechodů přináší profesionální uznání.Zvažte pozice, které vám umožní usnadnit smysluplný organizační vývoj.",
+            "health": "Reprodukční a eliminační systémy vyžadují pozornost.Detoxikační postupy přinášejí pozoruhodná zlepšení energie.Zkoumání spojení mezi emocionálním zpracováním a fyzickou regenerací poskytuje cenné poznatky.",
+            "finances": "Společné zdroje nebo sdílené investice přinášejí výnosy.Zvažte finanční strategie zahrnující transformaci aktiv nebo zdrojů.Neočekávaná finanční podpora může dojít prostřednictvím dědictví nebo pojištění."
+        },
+        "2033": {
+            "overall": "2033 zdůrazňuje expanzi a filozofický růst pro Leo.Vaše přirozená moudrost najde výraz prostřednictvím výuky nebo mentorství.Rovnováha mezi sebevědomým sdílením znalostí a pokračujícím učením přináší naplnění a intelektuální vitalitu.",
+            "love": "Vztahy se rozšiřují prostřednictvím sdíleného učení a dobrodružství.Partneři oceňují vaše nadšení pro růstové zkušenosti.Single Leos přitahuje spojení prostřednictvím vzdělávacích pronásledování nebo cestovních dobrodružství.",
+            "career": "Vzdělávací vedení nebo příležitosti k publikování se nečekaně objevují.Vaše schopnost inspirovat optimismus a víru v možnosti přináší organizační výhody.Zvažte role, které vám umožní sdílet moudrost a zároveň pokračovat v rozšiřování obzorů.",
+            "health": "Flexibilita kyčle a zdraví jater si zaslouží pozornost.Cestovní nebo venkovní dobrodružství přinášejí fyzické i mentální výhody.Zkoumání filozofických nebo duchovních tradic přispívá k emocionálnímu pohodu.",
+            "finances": "Vzdělávací investice nebo publikování podniků přinášejí výnosy.Zvažte diverzifikaci investic napříč různými kulturními nebo geografickými kontexty.Neočekávané finanční příležitosti vznikají prostřednictvím zahraničních souvislostí nebo dlouhodobých podniků."
+        },
+        "2034": {
+            "overall": "2034 přináší profesionální vyvrcholení a veřejné uznání pro Leo.Vaše roky autentického vedení vytvářejí trvalé dědictví.Rovnováha mezi kariérním úspěchem a osobním naplněním vede k udržitelnému úspěchu a smysluplnému příspěvku.",
+            "love": "Vztahy těží ze vzájemného respektu k profesionálním závazkům.Partneři oceňují vaše odhodlání vytvářet smysluplný dopad.Single Leos přitahuje spojení, kteří obdivují své ambice a zároveň nabízejí emoční podporu.",
+            "career": "Vedení na nejvyšší organizační úrovni je možné.Vaše schopnost představit a implementovat rozsáhlé iniciativy přináší profesionální uznání.Zvažte role, které vám umožní utvářet organizační kulturu a zároveň předvádět vaše silné stránky.",
+            "health": "Kosterní systém a klouby vyžadují pozornost.Rovnováha mezi odbornou činností a adekvátním odpočíkem zajišťuje trvalou energii.Postupy péče o postavení v vhodné status vytvářejí důležité základy pro dlouhodobý pohodu.",
+            "finances": "Profesionální úspěchy vytvářejí významné odměny.Zvažte vytvoření dědictví orientovaných finančních struktur nebo filantropických základů.Reputace se stává cennou měnou při finančních jednáních."
+        },
+        "2035": {
+            "overall": "2035 zdůrazňuje projekty pro připojení komunity a vizionáře pro Leo.Vaše vedení inspiruje kolektivní akci k smysluplným cílům.Rovnováha mezi individuálním rozpoznáváním a skupinovým příspěvkem vytváří trvalý dopad na důležité příčiny.",
+            "love": "Vztahy se daří prostřednictvím sdílených ideálů a zapojení komunity.Partneři oceňují váš velkorysý příspěvek ke kolektivnímu pohodu.Single Leos přitahuje spojení prostřednictvím humanitárních aktivit nebo vedení komunit.",
+            "career": "Neziskové odvětví nebo komunitní role nabízejí splnění.Vaše schopnost inspirovat kolektivní akci přináší organizační úspěch.Zvažte pozice, které vám umožňují vést při podávání důležitých sociálních příčin.",
+            "health": "Pozornost si zaslouží oběh a dolní končetiny.Komunitní wellness aktivity přinášejí fyzické i sociální výhody.Nalezení rovnováhy mezi sociální angažovaností a osobním obnovením vytváří udržitelné energetické vzorce.",
+            "finances": "Komunitní investice nebo sociální podniky ukazují slib.Zvažte vytvoření systémů sdílených zdrojů nebo finančních prostředků na podporu komunit.Neočekávané finanční příležitosti vznikají prostřednictvím síťových připojení nebo skupinových podniků."
+        }
+    },
+    "famous": [
+        {
+            "name": "Barack Obama",
+            "birth_date": "4. srpna 1961",
+            "description": "Bývalý americký prezident, jehož charismatické vedení, důstojná přítomnost a mocné oratory dokládají Leovy přirozené vůdčí schopnosti"
+        },
+        {
+            "name": "Jennifer Lopez",
+            "birth_date": "24. července 1969",
+            "description": "Multi-talentovaný umělec, který ztělesňuje kvalitu hvězd Leo, kreativní všestrannost a ambiciózní pohon pro středovou scénu"
+        },
+        {
+            "name": "Jason Momoa",
+            "birth_date": "1. srpna 1979",
+            "description": "Herec, jehož silná přítomnost, lví podobná hříva a věrná oddanost rodině odrážejí klasické rysy Leo"
+        },
+        {
+            "name": "Daniel Radcliffe",
+            "birth_date": "23. července 1989",
+            "description": "Herec, který vyrostl v centru pozornosti, přesto udržoval Leovo skutečné teplo a prostřednictvím svých představení vytvořil trvalý odkaz"
+        },
+        {
+            "name": "madona",
+            "birth_date": "16. srpna 1958",
+            "description": "Kultovní umělec, jehož znovuobjevení, kreativní vize a sebevyjádření tlačící hranice Definují Leovu hvězdnou sílu a uměleckou odvahu"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dnes vyrovnejte svou přirozenou touhu vést při poslechu perspektiv ostatních.Vaše teplo vytváří prostor pro autentické připojení.",
+        "career": "Vaše kreativní nápady dnes inspirují kolegy.Sdílejte svou vizi a přitom zůstaňte otevřeni kolaborativnímu zdokonalení.",
+        "health": "Věnujte pozornost držení těla a zarovnání.Krátké protahovací přestávky podporují vaše zdraví páteře po celý den.",
+        "general": "Vaše přirozená důvěra pomáhá ostatním dnes věřit.Pomocí svého vlivu povzbuzujte lidi kolem vás."
+    },
+    "tarot_associations": {
+        "major_arcana": "Pevnost",
+        "explanation": "Karta síly představuje odvahu, vnitřní sílu a triumf soucitu nad syrovou silou - vlastnosti, které rezonují s Leovým přirozeným vedením a silou zaměřenou na srdce.Tato karta také ztělesňuje rovnováhu mezi mocí a jemností, která vyvinula Master Leos."
+    },
+    "compatibility_details": {
+        "aries": "Leo a Aries vytvářejí vášnivý, dynamický vztah plný energie a sdíleného nadšení.Obě ohnivé znaky si navzájem oceňují důvěru a nadšení pro život a vytvářejí mocné partnerství.",
+        "taurus": "Leo a Taurus mohou bojovat s různými potřebami - Leo si přeje obdiv, zatímco Taurus hledá stabilitu.Oba jsou pevné znaky se silnými vůlemi, které vyžadují vzájemný respekt a kompromis.",
+        "gemini": "Leo a Gemini tvoří stimulační, hravé partnerství.Geminiho vtip a zvědavost doplňuje Leovu kreativitu a teplo a vytváří vztah plný činnosti a angažovanosti.",
+        "cancer": "Leo a rakovina se mohou navzájem vyrovnat, když rozumí jejich různým emocionálním stylům.Rakovina poskytuje péči o Leovy sny, zatímco Leo přináší teplo a povzbuzení do života Cancer.",
+        "leo": "Dva Leos vytvářejí vztah plný vášně, kreativity a vzájemného obdivu.Chápují navzájem potřebu uznání, i když mohou soutěžit o pozornost bez pečlivé rovnováhy.",
+        "virgo": "Leo a Panna přistupují k životu zcela odlišně - Leo s dramatickým vkusem a Pannou s pečlivou analýzou.Mohou se navzájem doplnit, pokud Leo oceňuje praktičnost Panny a Panna uznává Leovu kreativitu.",
+        "libra": "Leo a Libra sdílejí ocenění za krásu, romantiku a sociální harmonii.Tato kompatibilní zápas vyvažuje Leovo vedení s Libra diplomacií a vytváří vztah vzájemného obdivu.",
+        "scorpio": "Leo a Scorpio jsou vášnivé i intenzivní pevné znaky, které vytvářejí silný, ale potenciálně náročný vztah.Moc boje se mohou objevit, pokud se oba nerozvinou hlubokou úctu k jejich různým silným stránkám.",
+        "sagittarius": "Leo a Sagittarius sdílejí vynikající kompatibilitu jako požární značky.Oba hodnota svobody, optimismu a dobrodružství, vytváření rozsáhlého a nadšeného partnerství plného růstu.",
+        "capricorn": "Leo a Kozoroh představují různé přístupy k životu - Leovo expresivní teplo versus Capricorn je vyhrazená praktičnost.Mohou vytvořit vyvážené partnerství oceněním těchto doplňkových vlastností.",
+        "aquarius": "Leo a Aquarius tvoří opačné značky s fascinující atrakcí.Osobní kreativita Leo doplňuje Aquariusovu inovativní vizi, i když jejich přístupy k uznání a pozornosti se výrazně liší.",
+        "pisces": "Leo a Ryby mohou vytvořit inspirovaný a kreativní vztah, když překlenují své různé styly.Sebevědomé vedení Leo poskytuje směr pro sny Pisces, zatímco Pisces nabízí emocionální hloubku Leo."
+    },
+    "astrological_influences": {
+        "sun_in": "Slunce v Leo, jeho vládnoucí postavení, přináší vitalitu, sebevyjádření a přirozené vedení.Přistupujete k životu s důvěrou a kreativní energií a přirozeně přidáte ostatní k vašemu teplu a vizi.",
+        "moon_in": "Měsíc v Leo vytváří emocionální potřeby soustředěné na uznání, kreativitu a upřímný výraz.Vaše pocity jsou dramatické a autentické a potřebujete skutečné uznání, abyste se cítili emocionálně bezpečně.",
+        "rising": "Leo Rising vám dává velící přítomnost, přirozený charisma a zářivý první dojem.Jiní vás vidí jako sebevědomí, teplé a schopné vést, ještě předtím, než promluvíte."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Vyvážení důvěry s pokorou",
+            "Rozvíjení trpělivosti s méně dramatickými osobnostmi",
+            "Naučit se sdílet reflektor a uznání",
+            "Přijímání kritiky bez zraněné hrdosti",
+            "Uznání potřeb ostatních pro pozornost a chválu"
+        ],
+        "growth_opportunities": [
+            "Používání charisma a vedení pro pozitivní změnu",
+            "Inspiruje ostatní k objevování svých vlastních talentů",
+            "Rozvoj kreativní vize, která zahrnuje ostatní",
+            "Vytváření tepla a radosti v jakémkoli prostředí",
+            "Vedení s autentickou odvahou zaměřenou na srdce"
+        ],
+        "affirmations": [
+            "Vyvažuji sebevědomě sebevyjádření se skutečným zájmem o ostatní",
+            "Vedu jak s odvahou i soucitem",
+            "Moje kreativita slouží účelu mimo osobní uznání",
+            "Svítí své světlo způsobem, který osvětluje ostatní",
+            "Moje srdce vede mé činy štědrostí a teplem"
+        ]
+    },
+    "life_path": {
+        "purpose": "Jednotlivci Leo mají často poslání inspirovat ostatní prostřednictvím kreativního sebevyjádření, odvážného vedení a jednání zaměřených na srdce.Jejich účel zahrnuje přinést radost, teplo a autentické sebevyjádření do světa, který potřebuje více světla.",
+        "life_lessons": [
+            "Naučit se vést spíše inspirací než nadvládou",
+            "Nalezení autentické sebevyjádření mimo připevnění ega",
+            "Rozvíjet štědrost, která skutečně slouží potřebám druhých",
+            "Vyvažování obdivu s přijímáním skutečného uznání",
+            "Objevení, že zranitelnost zvyšuje spíše než snižuje sílu"
+        ],
+        "spiritual_growth": "Duchovní vývoj pro Leo zahrnuje přesahující ego při zachování autentického sebevyjádření.Naučit se nasměrovat tvůrčí energii ve službě něčemu většímu než osobní uznání, rozvíjení povědomí zaměřeného na srdce a použití charismy jako síly pro pozitivní změnu, to vše přispívá k duchovnímu vývoji."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Leo děti jsou obvykle expresivní, dramatické a přirozené umělci od raného věku.Často projevují tendence vedení, kreativní talenty a touhu po uznání a chvále za jejich úspěchy.",
+            "parenting_advice": "Poskytněte spoustu příležitostí pro kreativní výraz a pozitivní pozornost.Rovnováha chvály s výukou empatie a úvahy pro ostatní.Pomozte jim nasměrovat jejich přirozené vůdčí schopnosti v pozitivních směrech prostřednictvím týmových aktivit."
+        },
+        "in_friendship": {
+            "friendship_style": "Přátelé Leo jsou loajální, velkorysí a zábavní.Organizují shromáždění, pamatují si zvláštní příležitosti s Flairem a přinášejí přátelství a nadšení.Hodnotí obdivu, ale na oplátku nabízejí skutečnou náklonnost a ochranu.",
+            "ideal_friends": "Leo se daří s přáteli, kteří oceňují jejich teplo a energii a zároveň jsou dostatečně bezpečné, aby sdíleli reflektor.Užívají si přátelství, která zahrnují sdílené kreativní aktivity, sociální výlety a vzájemný obdiv."
+        },
+        "shadow_side": {
+            "potential_issues": "Když je Leo nevyvážený, může se stát egotistickým, dominantním nebo příliš hrdým.Jejich potřeba uznání se může projevit jako chování při hledání pozornosti, posedlost statusu nebo neschopnost spolupracovat jako rovné.",
+            "growth_path": "Osobní růst pro LEO zahrnuje spíše schopnosti přirozeného vedení vůči službě než na stav, rozvíjení uznání pro jedinečné vlastnosti ostatních a nalezení vlastní hodnoty zevnitř než externí validace."
+        }
+    },
+    "seasonal_influences": {
+        "midsummer_energy": "Leo se narodil ve výšce léta a ztělesnil plnost, teplo a zářivou energii.Toto načasování naplňuje Leo s přirozenou vitalitou, kreativní silou a rozsáhlými velkorysými vlastnostmi v jeho zenitu.",
+        "fixed_quality": "Jako pevné znamení představuje Leo stabilizaci a vyjádření letní energie.Tato pozice jim poskytuje ohromnou kreativní sílu setrvání, loajalitu k jejich vizi a schopnost udržet teplo a nadšení díky měnícím se okolnostem."
+    },
+    "elemental_analysis": {
+        "fire_element_influence": "Fire Element dává Leovi jejich charakteristické teplo, vášeň a kreativní energii.Oheň představuje inspiraci, transformaci a životně důležitou jiskru samotné životní síly.",
+        "fire_balance": "Vyvážený oheň přináší nadšení, kreativní inspiraci a vřelé vedení.Nadměrný oheň může vést k nadvládě, aroganci a chování při hledání pozornosti, zatímco nedostatečný oheň může vést k nedostatku důvěry a tvůrčích bloků."
+    },
+    "planetary_rulership": {
+        "sun_influence": "Slunce, střed naší sluneční soustavy a zdroj světla a života, pravidla Leo.Tento planetární vliv vysvětluje přirozenou ústřednost, záře a životně důležitou energii, která přitahuje ostatní na jejich oběžnou dráhu.",
+        "sun_aspects": "Pozice a aspekty Slunce v žebříčku narození jednotlivce významně ovlivňují to, jak je vyjádřena Leo Energy.Silné aspekty Slunce zvyšují vůdčí schopnosti a kreativní výraz, ale mohou také zvýšit tendence vůči hrdosti nebo dominanci."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "V dnešní ekonomice tvůrce vyniká Leo v osobním značce, vlivu sociálních médií, kreativní směr a vedoucí role, které kombinují technologii s lidským spojením a inspirací.",
+        "relationship_in_modern_context": "Moderní vztahy těží z loajality Leo a expresivního tepla v éře digitálního spojení.Jejich schopnost vytvářet smysluplné oslavy a momenty radosti přináší zásadní lidské spojení se vztahy prováděnými částečně prostřednictvím technologie."
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "sign": "Leo",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/leo.svg",
+    "local_name": "Lew",
+    "date_range": "23 lipca - 22 sierpnia",
+    "element": "Ogień",
+    "ruling_planet": "Słoneczny",
+    "symbol": "Lew",
+    "lucky_numbers": [
+        "1",
+        "5",
+        "9",
+        "10",
+        "19"
+    ],
+    "lucky_colors": [
+        "Złoto",
+        "Pomarańczowy",
+        "Czerwony"
+    ],
+    "lucky_days": [
+        "Niedziela",
+        "Wtorek"
+    ],
+    "lucky_stones": [
+        "Rubin",
+        "Bursztyn",
+        "Oko Tygrysa"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Pewny siebie",
+            "Hojny",
+            "Wierny",
+            "Twórczy",
+            "Charyzmatyczny",
+            "Serdeczne",
+            "Przywództwo"
+        ],
+        "weaknesses": [
+            "Arogancki",
+            "Uparty",
+            "Egocentrycznie",
+            "Apodyktyczny",
+            "Nieelastyczny",
+            "Ubieganie się o uwagę",
+            "Dumny"
+        ]
+    },
+    "personality": {
+        "overview": "Leo jest piątym znakiem zodiaku, symbolizujące wyrażanie siebie, kreatywność i przywództwo.Osoby Leo znane są ze swojej charyzmatycznej obecności, naturalnej pewności siebie i serdecznej hojności.Są naturalnymi gwiazdami zodiaku, promieniujące energią i inspirując innych poprzez ich twórczą wizję i żywiołowe podejście do życia.",
+        "detailed_traits": [
+            "Naturalne zdolności przywódcze z dowodzącej obecnością",
+            "Hojne i wielkie z bliskimi",
+            "Kreatywna ekspresja w różnych formach",
+            "Silne poczucie osobistej godności i dumy",
+            "Niezachwiana lojalność wobec przyjaciół i rodziny",
+            "Dramatyczny styl i miłość do teatralności",
+            "Promieniuje ciepłem i pozytywną energią",
+            "Pragnie uznania i uznania",
+            "Naturalna zdolność inspirowania i motywowania innych",
+            "Zabawny duch z dziecięcym entuzjazmem"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Osoby Leo są pasjonatami, oddani i ekspresyjni partnerzy, którzy cenią lojalność i podziw w związkach.Okazują się miłością poprzez wielkie gesty, namiętne przejawy uczuć i niezachwiane zaangażowanie w wybranego partnera.",
+        "compatibility": {
+            "most_compatible": [
+                "Baran",
+                "Strzelec",
+                "Bliźnięta",
+                "Libra"
+            ],
+            "least_compatible": [
+                "Byk",
+                "Skorpion",
+                "Wodnik"
+            ]
+        },
+        "relationship_advice": "Osoby Leo muszą zrównoważyć pragnienie uwagi z prawdziwym zainteresowaniem potrzebami partnera.Pracuj nad słuchaniem tak samo, jak mówisz, i pamiętaj, że zdrowe relacje wymagają wzajemnego podziwu, a nie tylko pochwały.Podziel się światłem reflektorów i zdaj sobie sprawę, że podatność wzmacnia się, a nie osłabia twoje relacje.",
+        "love_style": [
+            "Namiętny i ekspresyjny z uczuciami",
+            "Romantyczny z wielkimi gestami i niespodziankami",
+            "Lojalny i oddany raz zaangażowany",
+            "Pragnie podziwu i uznania ze strony partnera",
+            "Ochrona bliskich",
+            "Lubi być centrum uwagi partnera",
+            "Hojne z uczuciami i prezentami"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Leo jednostki przodują w karierze, które pozwalają im wyrażać swoją kreatywność, ćwiczyć przywództwo i otrzymywać uznanie za ich wkład.Mają naturalną zdolność inspirowania innych i rozwijać się w pozycjach, które umieszczają ich w centrum uwagi.",
+        "suitable_careers": [
+            "Rozrywka i sztuka sceniczna",
+            "Kierownictwo i zarządzanie kierownictwem",
+            "Polityka i służba publiczna",
+            "Marketing i public relations",
+            "Nauczanie i edukacja",
+            "Planowanie wydarzeń i gościnność",
+            "Kreatywny kierunek i design",
+            "Sprzedaż i mówienie motywacyjne",
+            "Przedsiębiorczość",
+            "Coaching i mentoring"
+        ],
+        "financial_habits": "Osoby LEO często mają złożone relacje z pieniędzmi, doceniając jakość, a czasem luksus, jednocześnie hojne wobec innych.Mogą lawoowo wydawać na rzeczy, które przynoszą radość lub status, ale mogą być zaskakująco dobre w zarządzaniu finansami, gdy są motywowani długoterminowymi celami.",
+        "work_style": [
+            "Podejmuje inicjatywę i naturalną rolę przywódczą",
+            "Wnosi entuzjazm i pozytywną energię do projektów",
+            "Wyróżnia się w środowiskach współpracy, w których mogą świecić",
+            "Woli rozpoznać wkład",
+            "Lojalny wobec organizacji, które doceniają ich talenty",
+            "Kreatywny problem z odważnymi pomysłami",
+            "Może zmagać się ze szczegółową lub zakulisową pracą"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Leo rządzi serce, kręgosłup i górną część pleców.Osoby LEO zazwyczaj mają silną witalność i szybko wracają do zdrowia po chorobie, gdy jest w dobrym nastroju.Ich zdrowie jest często związane z ich samopoczuciem emocjonalnym i poczuciem celu.",
+        "common_health_issues": [
+            "Problemy z sercem i krążeniem",
+            "Problemy z powrotem i kręgosłupa",
+            "Wysokie ciśnienie krwi",
+            "Warunki związane ze stresem",
+            "Problemy z obciążeniem oka lub widzenia",
+            "Wrażliwość na ciepło",
+            "Zapalenie"
+        ],
+        "wellness_advice": "Zrównoważyć naturalną jazdę z odpowiednim odpoczynkiem i relaksacją.Ćwicz techniki redukcji stresu, aby chronić zdrowie serca.Regularne umiarkowane ćwiczenia, szczególnie na zewnątrz w przyrodzie, ale chronione przed nadmiernym słońcem, pomagają utrzymać witalność.",
+        "exercise_preferences": [
+            "Sporty zespołowe, w którym świecą umiejętności przywódcze",
+            "Taniec i sztuka sceniczna",
+            "Zajęcia fitness o wysokiej energii",
+            "Zajęcia na świeżym powietrzu z elementami społecznymi",
+            "Trening siłowy koncentruje się na rdzeniu i plecach"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 zapewnia możliwości twórczego wyrażania siebie i przywództwa dla osób Leo.Twoja naturalna charyzma przyciąga podziw i nowe przedsięwzięcia współpracujące.Równowaga między osobistymi ambicjami a prawdziwym połączeniem z innymi prowadzi do zrównoważonego sukcesu.",
+            "love": "Relacje kwitną poprzez szczerą ekspresję i wzajemne podziw.Single Leos może przyciągnąć partnerów, którzy doceniają swoją autentyczną pasję i hojność.Istniejące relacje pogłębiają się poprzez wspólne działania twórcze i prawdziwe uznanie.",
+            "career": "Profesjonalne uznanie pochodzi z odważnych inicjatyw i kreatywnego przywództwa.Twoja zdolność inspirowania innych przynosi możliwości awansu w połowie roku.Rozważ role, które pozwalają zarówno na widoczność, jak i znaczący wpływ na kulturę organizacyjną.",
+            "health": "Zdrowie serca i kręgosłupa zasługują na szczególną uwagę.Poziomy energii poprawiają się dzięki regularnej aktywności sercowo -naczyniowej zrównoważonej z odpowiednim odpoczynkiem.Twórcza ekspresja służy jako cenna ulga stresu i regulacja emocjonalna.",
+            "finances": "Inwestycje w kreatywne przedsięwzięcia lub osobiste branding pokazują obietnicę.Rozważ zrównoważone podejście między luksusową samoopieką a długoterminowym bezpieczeństwem.Nieoczekiwane możliwości finansowe mogą pojawić się poprzez role wydajności lub przywódcze."
+        },
+        "2026": {
+            "overall": "2026 podkreśla osobistą autentyczność i kreatywne odnowienie LEO.Twoja prawdziwa wyraża się wyraża głęboko z wpływową publicznością.Znalezienie harmonii między twoją dramatyczną stylami a praktyczną obserwacją przynosi niezwykłe osiągnięcia.",
+            "love": "Romantyczne relacje rozwijają się na wzajemnym podziwu i twórczej inspiracji.Partnerzy doceniają zarówno twoją siłę, jak i wrażliwość.Pojedyncze LEO przyciągają znaczące powiązania poprzez artystyczne dążenia lub przywództwo społeczności.",
+            "career": "Możliwości przywódcze pojawiają się w sektorach kreatywnych lub edukacyjnych.Twoja zdolność do motywowania innych za pomocą osobistego przykładu przynosi profesjonalny postęp.Rozważ opracowanie podpisów, które podkreślają twoje unikalne talenty i perspektywa.",
+            "health": "Witalność poprawia się poprzez radosne praktyki ruchu.Zwróć uwagę na zdrowie serca poprzez procedury opieki emocjonalnej i fizycznej.Badanie sztuk wydajności lub ćwiczenia oparte na ekspresji przynosi znaczące korzyści.",
+            "finances": "Zwróć się na kreatywne przedsięwzięcia lub rozwój marki osobistej.Rozważ inwestycje, które łączą pasję z praktycznością.Nieoczekiwane wsparcie finansowe pochodzi przez wielbicieli twojej pracy lub przywództwa."
+        },
+        "2027": {
+            "overall": "2027 podkreśla powiązania rodzinne i domowe fundament LEO.Ważne staje się tworzenie przestrzeni, które odzwierciedlają twój hojny duch.Równowaga między rozpoznawaniem publicznym a prywatnym pielęgnowaniem przynosi spełnienie i bezpieczeństwo emocjonalne.",
+            "love": "Harmonia krajowa staje się priorytetem w relacjach.Partnerzy doceniają twoje wysiłki na rzecz tworzenia ciepłych, powitających wspólnych przestrzeni.Pojedyncze LEO mogą znaleźć znaczące powiązania poprzez spotkania rodzinne lub społeczności domowe.",
+            "career": "Profesjonalne projekty dotyczące dziedzictwa, tradycji lub firm rodzinnych są obiecujące.Twoja zdolność do tworzenia lojalnych, rodzinnych zespołów przynosi korzyści organizacyjne.Rozważ role przywódcze, które pozwalają mentorować innych, pokazując swoje mocne strony.",
+            "health": "Zdrowie układu trawiennego zasługuje na uwagę.Odżywianie, które wspiera zarówno witalność, jak i samopoczucie emocjonalne przynosi znaczące korzyści.Praktyki wellness oparte na domu ustanawiają ważne fundamenty dla długoterminowego zdrowia.",
+            "finances": "Inwestycje nieruchomości lub ulepszenia domu dają długoterminową wartość.Rozważmy ustanowienie spuścizny finansowej rodziny lub funduszy edukacyjnych.Nieoczekiwane zasoby mogą wynikać z rodzinnych powiązań lub dziedzictwa."
+        },
+        "2028": {
+            "overall": "2028 wprowadza Leo do okresu kreatywnej komunikacji i ekspresyjnego przełomu.Twoje naturalne zdolności opowiadania historii docierają do szerszej publiczności.Równoważenie odważnego wyrażania siebie z uważnym słuchaniem prowadzi do wpływowych połączeń.",
+            "love": "Komunikacja romantyczna zajmuje centralne miejsce w związkach.Partnerzy doceniają twoje szczere wyrażenia i prawdziwe zainteresowanie.Pojedyncze LEO przyciągają uwagę poprzez charyzmatyczną komunikację i autentyczną ekspresję siebie.",
+            "career": "Wystąpienia publiczne, media lub możliwości edukacyjne pojawiają się nieoczekiwanie.Twoja zdolność do inspirowania komunikacji przynosi profesjonalne uznanie.Rozważ opracowanie podpisów do prezentacji pomysłów, które prezentują twoją unikalną osobowość.",
+            "health": "Zdrowie wokalne i układ oddechowy wymagają uwagi.Bilans Energetyczny ekspresja z odpowiednim odpoczynkiem dla optymalnego samopoczucia.Kreatywne pisanie lub mówienie stanowi cenne przetwarzanie emocjonalne.",
+            "finances": "Projekty komunikacyjne, publikacje lub przedsięwzięcia medialne generują dochód.Rozważ inwestowanie w technologie lub platformy komunikacyjne.Nieoczekiwane możliwości finansowe powstają dzięki zdolności do sformułowania cennych perspektyw."
+        },
+        "2029": {
+            "overall": "2029 koncentruje się na budownictwie bezpieczeństwa materiałów i zarządzania zasobami dla LEO.Twoja hojna natura znajduje wyraz poprzez przemyślaną obfitość.Znalezienie równowagi między luksusowymi doświadczeniami a praktycznymi inwestycjami przynosi trwałą stabilność.",
+            "love": "Wspólne wartości wokół komfortu i hojności wzmacniają relacje.Partnerzy doceniają twoje praktyczne demonstracje przywiązania.Pojedyncze LEO przyciągają stabilność, ale serdeczne potencjalne partnerzy.",
+            "career": "Sektory finansowe lub role zarządzania zasobami oferują możliwości awansu.Twoja zdolność do generowania entuzjazmu wokół praktycznych celów przynosi sukces zespołu.Rozważ role, które łączą kreatywne przywództwo z optymalizacją zasobów.",
+            "health": "Obszary gardła i szyi zasługują na szczególną opiekę.Badanie związku między ekspresją emocjonalną a dobrostanem fizycznym przynosi cenne spostrzeżenia.Luksusowe, ale skuteczne praktyki samoopieki ustanawiają ważne fundamenty.",
+            "finances": "Inwestycje w wysokiej jakości doświadczenia i towary zapewnia satysfakcję.Rozważ ustanowienie wielu strumieni dochodów, które wykorzystują talenty twórcze.Nieoczekiwane możliwości finansowe pojawiają się poprzez wcześniej pomijane zasoby."
+        },
+        "2030": {
+            "overall": "2030 oznacza znaczącą osobistą reinvention dla LEO.Twoja autentyczna ekspresja siebie ewoluuje na nowe poziomy udoskonalania i wpływu.Równowaga między dramatyczną prezentacją a prawdziwą substancją powoduje trwały wpływ w ważnych kręgach.",
+            "love": "Relacje pogłębiają się poprzez wzajemny wzrost i twórczą ewolucję.Partnerzy doceniają twoją ponowną pewność siebie i jasność celu.Single Leos przyciąga połączenia, które rozpoznają i celebrują ich prawdziwą esencję.",
+            "career": "Pojawiają się możliwości przywództwa, które pozwalają wyrazić swoją rozwiniętą wizję.Twoje unikalne podejście do motywacji i budowania zespołu zyskuje rozpoznawanie wpływowych postaci.Rozważ role, które prezentują twoją zdolność inspirowania autentycznej wydajności u innych.",
+            "health": "Ogólna witalność poprawia się poprzez zintegrowane podejścia do samopoczucia.Zwróć uwagę na wyrównanie serca i kręgosłupa poprzez odpowiedni ruch i postawę.Twórcze ekspresja stanowi niezbędne pokarm emocjonalny i duchowy.",
+            "finances": "Osobiste marki lub podpisane przedsięwzięcia wykazują obietnicę finansową.Rozważ inwestycje, które odzwierciedlają twoje rozwinięte wartości i estetykę.Nieoczekiwane możliwości finansowe powstają przez wielbicieli twojego autentycznego wyrażania siebie."
+        },
+        "2031": {
+            "overall": "2031 podkreśla znaczące partnerstwa i wspólne przedsięwzięcia dla Leo.Twoje naturalne przywództwo znajduje doskonałą równowagę z prawdziwą współpracą.Znalezienie harmonii między niezależnością a współzależnością przynosi niezwykłe osiągnięcia.",
+            "love": "Romantyczne partnerstwa osiągają nowy poziom wzajemnego wsparcia i podziwu.Ustalone relacje korzystają z ponownych ceremonii zaangażowania lub wspólnych celów.Pojedyncze LEO przyciągają zrównoważone partnerstwa oparte na wzajemnym szacunku i podziwu.",
+            "career": "Wspólne stanowiska kierownicze przynoszą profesjonalne spełnienie.Twoja zdolność do błyszczenia podczas podnoszenia innych tworzy unikalną dynamikę zespołu.Rozważ wspólne przedsięwzięcia, które łączą uzupełniające mocne strony dla maksymalnego wpływu.",
+            "health": "Równowaga i koordynacja poprawiają się dzięki działaniom opartym na partnerze.Zwróć uwagę na nerki i opuść odpowiednie nawodnienie i praktyki wspierające.Harmonia relacji znacząco przyczynia się do ogólnego samopoczucia.",
+            "finances": "Wspólne przedsięwzięcia lub wspólne inwestycje są obiecujące.Rozważ ustanowienie jasnych umów, które honorowe zarówno wspólne, jak i indywidualne cele finansowe.Nieoczekiwane możliwości finansowe pojawiają się poprzez partnerstwa biznesowe lub ugody prawne."
+        },
+        "2032": {
+            "overall": "2032 wprowadza LEO do okresu transformacji i regeneracji.Twoja odwaga w stawianiu czoła aspektom cienia tworzy niezwykłą osobistą moc.Równowaga między utrzymaniem sygnatury blasku przy jednoczesnym przyjęciu zmiany prowadzi do głębokiej osobistej ewolucji.",
+            "love": "Intymne relacje pogłębiają się poprzez emocjonalną uczciwość i wrażliwość.Partnerzy doceniają twoją odwagę w autentycznym połączeniu.Pojedyncze LEO przyciągają relacje transformacyjne, które honorują zarówno siłę, jak i wrażliwość.",
+            "career": "Role badawcze, badania lub transformacyjne są obiecujące.Twoja zdolność do prowadzenia innych poprzez trudne przejścia zapewnia profesjonalne uznanie.Rozważ pozycje, które pozwalają ułatwić znaczącą ewolucję organizacyjną.",
+            "health": "Systemy reprodukcyjne i eliminatywne wymagają uwagi.Praktyki detoksykacji zapewniają znaczącą poprawę energii.Badanie związku między przetwarzaniem emocjonalnym a regeneracją fizyczną daje cenne spostrzeżenia.",
+            "finances": "Wspólne zasoby lub wspólne inwestycje zyskową.Rozważ strategie finansowe obejmujące transformację aktywów lub zasobów.Nieoczekiwane wsparcie finansowe może nadejść w sprawach spadkowych lub ubezpieczeniowych."
+        },
+        "2033": {
+            "overall": "2033 podkreśla ekspansję i rozwój filozoficzny LEO.Twoja naturalna mądrość znajduje wyraz poprzez nauczanie lub mentoring.Równowaga między pewnym siebie dzieleniem się wiedzą a dalszym uczeniem się przynosi spełnienie i witalność intelektualną.",
+            "love": "Relacje rozszerzają się poprzez wspólną uczenie się i przygodę.Partnerzy doceniają twój entuzjazm dla doświadczeń wzrostu.Pojedyncze LEO przyciągają powiązania poprzez edukacyjne zajęcia lub przygody podróży.",
+            "career": "Nieoczekiwanie pojawiają się przywództwo edukacyjne lub możliwości publikacji.Twoja zdolność do inspirowania optymizmu i wiary w możliwości przynosi korzyści organizacyjne.Rozważ role, które pozwalają dzielić mądrość, jednocześnie rozwijając horyzonty.",
+            "health": "Elastyczność bioder i zdrowie wątroby zasługują na uwagę.Przygody podróży lub na świeżym powietrzu przynoszą zarówno korzyści fizyczne, jak i psychiczne.Badanie tradycji filozoficznych lub duchowych przyczynia się do samopoczucia emocjonalnego.",
+            "finances": "Inwestycje edukacyjne lub wydawanie przedsięwzięć zysków.Rozważ dywersyfikację inwestycji w różnych kontekstach kulturowych lub geograficznych.Nieoczekiwane możliwości finansowe powstają poprzez zagraniczne powiązania lub przedsięwzięcia na duże odległości."
+        },
+        "2034": {
+            "overall": "2034 zapewnia profesjonalne kulminację i rozpoznawanie publiczne dla Leo.Twoje lata autentycznego przywództwa tworzą trwałe dziedzictwo.Równowaga między osiągnięciami kariery a osobistym spełnieniem prowadzi do zrównoważonego sukcesu i znaczącego wkładu.",
+            "love": "Relacje korzystają z wzajemnego szacunku dla zobowiązań zawodowych.Partnerzy doceniają twoje zaangażowanie w wywarcie znaczącego wpływu.Single Leos przyciąga połączenia, które podziwiają swoje ambicje, oferując wsparcie emocjonalne.",
+            "career": "Możliwe staje się przywództwo na najwyższych poziomach organizacyjnych.Twoja zdolność do wyobrażania sobie i wdrażania inicjatyw na dużą skalę zapewnia profesjonalne uznanie.Rozważ role, które pozwalają kształtować kulturę organizacyjną, jednocześnie prezentując swoje mocne strony.",
+            "health": "Układ szkieletowy i stawy wymagają uwagi.Równowaga między działalnością zawodową a odpowiednim odpoczynkiem zapewnia trwałą energię.Praktyki odpowiednie do statusu dbania o samodzielne samopoczucie ustalają ważne fundamenty dla długoterminowego samopoczucia.",
+            "finances": "Osiągnięcia zawodowe generują znaczące nagrody.Rozważ ustanowienie starszych struktur finansowych lub filantropijnych fundamentów.Reputacja staje się cenną walutą w negocjacjach finansowych."
+        },
+        "2035": {
+            "overall": "2035 podkreśla połączenie społeczności i wizjonerskie projekty dla LEO.Twoje przywództwo inspiruje zbiorowe działanie do znaczących celów.Równowaga między rozpoznawaniem indywidualnym a wkładem grupy powoduje trwały wpływ na ważne przyczyny.",
+            "love": "Relacje rozwijają się poprzez wspólne ideały i zaangażowanie społeczności.Partnerzy doceniają twój hojny wkład w zbiorowe samopoczucie.Pojedyncze LEO przyciągają powiązania poprzez działania humanitarne lub przywództwo społeczności.",
+            "career": "Sektory non-profit lub role zorientowane na społeczność oferują realizację.Twoja zdolność do inspirowania zbiorowego działania przynosi sukces organizacyjny.Rozważ pozycje, które pozwalają prowadzić podczas służby ważnych przyczyn społecznych.",
+            "health": "Krążenie i kończyny dolne zasługują na uwagę.Społeczne działania wellness przynoszą zarówno korzyści fizyczne, jak i społeczne.Znalezienie równowagi między zaangażowaniem społecznym a odnową osobistą ustala wzorce zrównoważonych energii.",
+            "finances": "Inwestycje zorientowane na społeczność lub przedsiębiorstwa społeczne są obiecujące.Rozważ ustanowienie wspólnych systemów zasobów lub funduszy wsparcia społeczności.Nieoczekiwane możliwości finansowe powstają poprzez połączenia sieciowe lub przedsięwzięcia grupowe."
+        }
+    },
+    "famous": [
+        {
+            "name": "Barack Obama",
+            "birth_date": "4 sierpnia 1961 r",
+            "description": "Były prezydent USA, którego charyzmatyczne przywództwo, godna obecność i potężne oratorium są przykładem naturalnych zdolności przywódczych Leo"
+        },
+        {
+            "name": "Jennifer Lopez",
+            "birth_date": "24 lipca 1969 r",
+            "description": "Multi-utalentowany wykonawca, który ucieleśnia jakość gwiazdy Leo, twórczą wszechstronność i ambitną jazdę na scenę środkową"
+        },
+        {
+            "name": "Jason Momoa",
+            "birth_date": "1 sierpnia 1979 r",
+            "description": "Aktor, którego potężna obecność, lwa przypominające lwa i lojalne oddanie dla rodziny odzwierciedlają klasyczne cechy LEO"
+        },
+        {
+            "name": "Daniel Radcliffe",
+            "birth_date": "23 lipca 1989 r",
+            "description": "Aktor, który dorastał w centrum uwagi, ale utrzymał prawdziwe ciepło Leo i stworzył trwałe dziedzictwo dzięki swoim występom"
+        },
+        {
+            "name": "Madonna",
+            "birth_date": "16 sierpnia 1958 r",
+            "description": "Kultowy wykonawca, którego ponowna renowacja, kreatywna wizja i wyrażanie siebie wyrażające granice definiują gwiazdorską moc i odwagę artystyczną"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dzisiaj zrównoważyć swoje naturalne pragnienie prowadzenia w słuchaniu perspektyw innych.Twoje ciepło tworzy przestrzeń do autentycznego połączenia.",
+        "career": "Twoje kreatywne pomysły inspirują dziś kolegów.Podziel się swoją wizją, pozostając otwarty na wspólnie udoskonalanie.",
+        "health": "Zwróć uwagę na dopasowanie pozycji i wstecz.Krótkie przerwy na rozciąganie wspierają zdrowie kręgosłupa przez cały dzień.",
+        "general": "Twoja naturalna pewność siebie pomaga innym wierzyć w siebie dzisiaj.Wykorzystaj swoje wpływy, aby podnieść otaczające cię ludzi."
+    },
+    "tarot_associations": {
+        "major_arcana": "Wytrzymałość",
+        "explanation": "Karta siły reprezentuje odwagę, władzę wewnętrzną i triumf współczucia nad surową siłą - cechy, które rezonują z naturalnym przywództwem Leo i siłą skoncentrowaną na sercu.Ta karta uosabia również równowagę między władzą a łagodnością, która ewoluowała Master Leos."
+    },
+    "compatibility_details": {
+        "aries": "Leo i Baran tworzą namiętny, dynamiczny związek pełen energii i wspólnego entuzjazmu.Oba znaki ognia doceniają się nawzajem zaufanie i zapalenie na całe życie, tworząc potężne partnerstwo.",
+        "taurus": "Leo i Byk mogą zmagać się z różnymi potrzebami - Leo pragnie podziwu, podczas gdy Byk szuka stabilności.Oba są ustalonymi znakami o silnych testamentach, wymagających wzajemnego szacunku i kompromisu.",
+        "gemini": "Leo i Gemini tworzą stymulujące, zabawne partnerstwo.Dowcip i ciekawość Gemini uzupełniają kreatywność i ciepło Leo, tworząc związek pełen aktywności i zaangażowania.",
+        "cancer": "Leo i rak mogą się równoważyć, gdy rozumieją różne style emocjonalne.Rak zapewnia pielęgnowanie marzeń Leo, podczas gdy Leo wnosi ciepło i zachętę do życia raka.",
+        "leo": "Dwa leos tworzą związek pełen pasji, kreatywności i wzajemnego podziwu.Rozumieją nawzajem potrzebę uznania, choć mogą konkurować o uwagę bez starannej równowagi.",
+        "virgo": "Leo i Panna zbliżają się do życia zupełnie inaczej - Leo z dramatycznym stylem i Panną z dokładną analizą.Mogą się uzupełniać, jeśli Leo docenia praktyczność Panny, a Panna uznaje kreatywność Leo.",
+        "libra": "Leo i Libra są uznawane za piękno, romans i harmonię społeczną.Ten kompatybilny mecz równoważy przywództwo Leo z dyplomacją Wagi, tworząc związek wzajemnego podziwu.",
+        "scorpio": "Leo i Scorpio są zarówno namiętnymi, jak i intensywnymi ustalonymi znakami, tworząc potężny, ale potencjalnie trudny związek.Walki władzy mogą pojawić się, chyba że oba odniosą głęboki szacunek dla swoich różnych mocnych stron.",
+        "sagittarius": "Leo i Strzelec mają doskonałą zgodność jako znaki pożarowe.Zarówno cenią wolność, optymizm i przygodę, tworząc ekspansywne, entuzjastyczne partnerstwo pełne wzrostu.",
+        "capricorn": "Leo i Koziorożce reprezentują różne podejścia do życia - ekspresyjne ciepło Leo w porównaniu z zarezerwowaną praktycznością Koziorożca.Mogą stworzyć zrównoważone partnerstwo, doceniając te uzupełniające się cechy.",
+        "aquarius": "Leo i Wodnik tworzą przeciwne znaki z fascynującą atrakcją.Osobista kreatywność Leo uzupełnia innowacyjną wizję Wodnika, choć ich podejście do rozpoznawania i uwagi różnią się znacznie.",
+        "pisces": "Leo i Ryby mogą stworzyć inspirowane, kreatywne relacje, gdy wypełniają swoje różne style.Pewne przywództwo Leo stanowi kierunek snów Ryb, a Rybia oferuje głębię emocjonalną Leo."
+    },
+    "astrological_influences": {
+        "sun_in": "Słońce w Leo, jego pozycja rządząca, przynosi witalność, wyrażanie siebie i naturalne przywództwo.Podchodzisz do życia z pewnością siebie i twórczą energią, naturalnie przyciągając innych do twojego ciepła i wizji.",
+        "moon_in": "Księżyc w Leo tworzy potrzeby emocjonalne, koncentrujące się na rozpoznawaniu, kreatywności i szczerej ekspresji.Twoje uczucia są dramatyczne i autentyczne i potrzebujesz prawdziwego uznania, aby czuć się bezpiecznie emocjonalnie.",
+        "rising": "Leo Rising daje dowodzącą obecność, naturalną charyzmę i promieniujące pierwsze wrażenie.Inni uważają cię za pewność siebie, ciepłe i zdolne do prowadzenia, nawet przed mówieniem."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Równoważenie zaufania z pokorą",
+            "Rozwijanie cierpliwości z mniej dramatycznymi osobowościami",
+            "Nauka dzielenia się światłem i uznaniem",
+            "Przyjmowanie krytyki bez zranionej dumy",
+            "Rozpoznanie potrzeb innych na uwagę i pochwałę"
+        ],
+        "growth_opportunities": [
+            "Wykorzystanie charyzmy i przywództwa dla pozytywnych zmian",
+            "Inspirując innych do odkrywania własnych talentów",
+            "Rozwijanie kreatywnej wizji, która obejmuje innych",
+            "Tworzenie ciepła i radości w każdym środowisku",
+            "Prowadzenie z autentyczną odwagą skoncentrowaną na sercu"
+        ],
+        "affirmations": [
+            "Zrównoważę pewną siebie wyrażanie siebie z prawdziwym zainteresowaniem innych",
+            "Prowadzę zarówno odwagę, jak i współczucie",
+            "Moja kreatywność służy celowi poza osobistym uznaniem",
+            "Świeć swoje światło w sposób, który oświetla innych",
+            "Moje serce prowadzi moje działania hojnością i ciepłem"
+        ]
+    },
+    "life_path": {
+        "purpose": "Osoby LEO często mają misję inspirowania innych poprzez twórczą ekspresję, odważne przywództwo i akcje skoncentrowane na sercu.Ich cel polega na przyniesieniu radości, ciepła i autentycznego wyrażania siebie do świata, który potrzebuje więcej światła.",
+        "life_lessons": [
+            "Nauka prowadzenia przez inspirację, a nie dominację",
+            "Znalezienie autentycznego wyrażania siebie poza przywiązaniem ego",
+            "Rozwijanie hojności, która naprawdę zaspokaja potrzeby innych",
+            "Bilansowanie podziwu z prawdziwym uznaniem",
+            "Odkrywanie, że podatność zwiększa się, a nie zmniejsza siłę"
+        ],
+        "spiritual_growth": "Rozwój duchowy dla LEO obejmuje przekroczenie ego przy jednoczesnym zachowaniu autentycznego wyrażania siebie.Uczenie się, aby kierować kreatywną energią w służbie czegoś większego niż osobiste uznanie, rozwijanie świadomości skoncentrowanej na sercu i wykorzystanie charyzmy jako siły pozytywnej zmiany przyczyniają się do duchowej ewolucji."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Dzieci Leo są zazwyczaj ekspresyjni, dramatyczni i naturalni od najmłodszych lat.Często pokazują tendencje przywódcze, talenty twórcze oraz chęć uznania i pochwały za swoje osiągnięcia.",
+            "parenting_advice": "Zapewnij wiele możliwości twórczej ekspresji i pozytywnej uwagi.Zrównoważyć chwalę z empatią nauczania i rozważaniem dla innych.Pomóż im kierować ich naturalnymi zdolnościami przywódczymi w pozytywnych kierunkach poprzez działania zespołowe."
+        },
+        "in_friendship": {
+            "friendship_style": "Przyjaciele Leo są lojalni, hojni i zabawni.Organizują spotkania, pamiętają szczególne okazje z talentem i wnoszą ciepło i entuzjazm przyjaźni.Calują podziw, ale w zamian oferują prawdziwe przywiązanie i ochronę.",
+            "ideal_friends": "Leo rozwija się z przyjaciółmi, którzy doceniają ich ciepło i energię, jednocześnie są wystarczająco bezpieczne, aby podzielić się światłem reflektorów.Lubią przyjaźnie, które obejmują wspólne działania twórcze, wycieczki społeczne i wzajemne podziw."
+        },
+        "shadow_side": {
+            "potential_issues": "Po niezrównoważonym Leo może stać się egoistyczne, dominujące lub nadmiernie dumne.Ich potrzeba rozpoznawania może objawiać się jako zachowanie uwzględniające uwagę, obsesję na punkcie statusu lub niemożność współpracy jako równa się.",
+            "growth_path": "Osobisty rozwój LEO obejmuje skierowanie naturalnych zdolności przywódczych w kierunku usług, a nie status, uznanie dla unikalnych cech innych i znalezienie własnej wartości od wewnątrz, a nie zewnętrznej walidacji."
+        }
+    },
+    "seasonal_influences": {
+        "midsummer_energy": "Urodzony na szczycie lata, Leo ucieleśnia pełnię sezonu, ciepło i promienną energię.Ten czas nasyca LEO naturalną witalnością, twórczą siłą i ekspansywnymi, hojnymi cechami Słońca w Zenicie.",
+        "fixed_quality": "Jako ustalony znak, Leo reprezentuje stabilizację i ekspresję energii letniej.Ta pozycja zapewnia im ogromną twórczą siłę pozostającą, lojalność wobec ich wizji i zdolność do utrzymywania ciepła i entuzjazmu poprzez zmieniające się okoliczności."
+    },
+    "elemental_analysis": {
+        "fire_element_influence": "Element ognia nadaje Leo charakterystyczne ciepło, pasję i kreatywną energię.Ogień reprezentuje inspirację, transformację i istotną iskrę samej siły życiowej.",
+        "fire_balance": "Zrównoważony pożar przynosi entuzjazm, twórczą inspirację i ciepłe przywództwo.Nadmierny ogień może prowadzić do dominacji, arogancji i zachowań związanych z uwzględnieniem uwagi, podczas gdy niedobór pożaru może spowodować brak zaufania i kreatywnych bloków."
+    },
+    "planetary_rulership": {
+        "sun_influence": "Słońce, centrum naszego Układu Słonecznego oraz źródło światła i życia, rządzi Leo.Ten wpływ planetarny tłumaczy naturalną centralność, blasku i energii witalnej, która wciąga innych na ich orbitę.",
+        "sun_aspects": "Pozycja i aspekty Słońca na wykresie urodzeń jednostki znacząco wpływa na sposób wyrażania energii LEO.Silne aspekty słońca zwiększają zdolności przywódcze i kreatywne ekspresję, ale mogą również zwiększać tendencje do dumy lub dominacji."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "W dzisiejszej gospodarce twórcy Leo wyróżnia się marką osobistą, wpływami mediów społecznościowych, twórczych kierunków i ról przywódczych, które łączą technologię z ludzkimi połączeniem i inspiracją.",
+        "relationship_in_modern_context": "Współczesne relacje korzystają z lojalności Leo i ekspresyjnego ciepła w erze cyfrowego połączenia.Ich zdolność do tworzenia znaczących uroczystości i chwil radości przynosi istotne powiązania ludzi z relacjami przeprowadzonymi częściowo poprzez technologię."
+    }
+}

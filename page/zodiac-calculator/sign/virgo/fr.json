@@ -1,0 +1,335 @@
+{
+    "sign": "Virgo",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/virgo.svg",
+    "local_name": "Vierge",
+    "date_range": "23 août - 22 septembre",
+    "element": "Terre",
+    "ruling_planet": "Mercure",
+    "symbol": "La vierge ou la jeune fille",
+    "lucky_numbers": [
+        "3",
+        "6",
+        "9",
+        "12",
+        "27"
+    ],
+    "lucky_colors": [
+        "Vert",
+        "Brun",
+        "Bleu marine"
+    ],
+    "lucky_days": [
+        "Mercredi",
+        "Vendredi"
+    ],
+    "lucky_stones": [
+        "Saphir",
+        "Jade",
+        "Péridot"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Analytique",
+            "Pratique",
+            "Fiable",
+            "Orienté vers le détail",
+            "Méthodique",
+            "Diligent",
+            "Modeste"
+        ],
+        "weaknesses": [
+            "Critique",
+            "Perfectionniste",
+            "Trop prudent",
+            "Inquiétant",
+            "Difficile",
+            "Inflexible",
+            "Trop analytique"
+        ]
+    },
+    "personality": {
+        "overview": "La Vierge est le sixième signe du zodiaque, symbolisant la précision, le service et le raffinement.Les individus de la Vierge sont connus pour leur esprit analytique, leur attention aux détails et leur approche pratique de la vie.Ce sont les perfectionnistes du zodiaque, tirés par le désir de s'améliorer eux-mêmes et leur environnement par une analyse minutieuse et un service dédié.",
+        "detailed_traits": [
+            "Attention méticuleuse aux détails et à l'organisation",
+            "Capacités pratiques de résolution de problèmes",
+            "L'esprit analytique qui examine tous les aspects d'une situation",
+            "Forte éthique de travail avec dévouement à l'excellence",
+            "Capacité naturelle à identifier les défauts et les zones d'amélioration",
+            "Axé sur le service avec un véritable désir d'être utile",
+            "Comportement modeste qui sous-estime souvent les réalisations",
+            "Approche logique de la prise de décision",
+            "Soucieux de leur intérêt pour le bien-être",
+            "Communication qualifiée avec un langage précis"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Les individus Virgo sont des partenaires réfléchis et attentifs qui montrent l'amour à travers des actes pratiques de service et une attention particulière aux besoins de leur partenaire.Ils expriment la dévotion par la fiabilité, la réflexion et le soutien tranquille plutôt que de grands gestes romantiques.",
+        "compatibility": {
+            "most_compatible": [
+                "Taureau",
+                "Capricorne",
+                "Cancer",
+                "Scorpion"
+            ],
+            "least_compatible": [
+                "Gémeaux",
+                "Sagittaire",
+                "Poissons"
+            ]
+        },
+        "relationship_advice": "Les personnes Vierges doivent équilibrer leur tendance à s'améliorer avec l'acceptation des imperfections.Exprimez la reconnaissance verbalement, pas seulement par des actes de service, et rappelez-vous que la critique, même lorsqu'elle est bien intentionnée, peut nuire aux sentiments.Faites de la place pour la spontanéité aux côtés de planification minutieuse dans les relations amoureuses.",
+        "love_style": [
+            "Montre l'amour à travers des actes de service pratiques",
+            "Attentif aux besoins et aux préférences du partenaire",
+            "Loyal et engagé lorsqu'ils choisissent un partenaire",
+            "Peut être réservé pour exprimer les émotions",
+            "Valeurs la connexion intellectuelle aux côtés de l'attraction physique",
+            "Crée des partenariats stables et fiables",
+            "Peut avoir besoin de travailler à accepter les imperfections dans les relations"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Les individus de la Vierge excellent dans les carrières qui nécessitent une attention aux détails, la pensée analytique et la résolution pratique des problèmes.Ils ont un talent naturel pour améliorer les systèmes et les procédures et prospérer dans les rôles où leur précision et leur service sont valorisés.",
+        "suitable_careers": [
+            "Soins de santé et de médecine",
+            "Recherche et analyse",
+            "Édition et écriture",
+            "Comptabilité et analyse financière",
+            "Gestion de projet",
+            "Contrôle et inspection de la qualité",
+            "Nutrition et diététique",
+            "Gestion administrative",
+            "Science des données et statistiques",
+            "Sciences de l'environnement"
+        ],
+        "financial_habits": "Les individus de la Vierge ont généralement des approches prudentes et méthodiques de la gestion de l'argent.Ils excellent dans la budgétisation, le suivi des dépenses et la fabrication de plans financiers pratiques.Bien qu'ils ne soient généralement pas des preneurs à risque avec les investissements, ils renforcent la sécurité grâce à des décisions financières cohérentes et bien documentées.",
+        "work_style": [
+            "Approche méthodique et organisée des tâches",
+            "Excellente attention aux détails et à la qualité",
+            "Fiable pour respecter les délais et les engagements",
+            "S'efforce d'une amélioration continue des processus de travail",
+            "Préfère les environnements de travail propres et organisés",
+            "Valeurs efficacité et solutions pratiques",
+            "Peut avoir besoin de déléguer plus plutôt que de tout prendre"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Virgo gouverne le système digestif, les intestins et le système nerveux.Les personnes Vierges ont souvent un intérêt naturel pour la santé, la nutrition et le bien-être, bien qu'elles puissent être sujettes à la sensibilité digestive et à la tension nerveuse de l'inquiétude.",
+        "common_health_issues": [
+            "Troubles digestifs et sensibilités alimentaires",
+            "Tension nerveuse et anxiété",
+            "Mases liées au stress",
+            "Problèmes intestinaux",
+            "Sur le travail conduisant à l'épuisement",
+            "Le perfectionnisme affectant la santé mentale",
+            "Hypochondrie ou inquiétude excessive pour la santé"
+        ],
+        "wellness_advice": "Développer des pratiques de corps mental qui calment votre esprit actif et votre système nerveux.Portez une attention particulière à la santé intestinale grâce à une bonne nutrition et à la gestion du stress.Planifiez un temps de relaxation régulier - faites-le partie de votre routine plutôt qu'une réflexion après coup.",
+        "exercise_preferences": [
+            "Des entraînements précis et structurés avec une progression claire",
+            "Yoga et Pilates pour la connexion corps-corps",
+            "Marcher dans des environnements naturels",
+            "Activités avec des améliorations mesurables",
+            "Formation fonctionnelle avec des avantages pratiques"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 représente une année de concentration raffinée et de croissance personnelle pour la Vierge.Vos compétences analytiques atteignent de nouveaux sommets lorsqu'ils sont appliqués à des projets innovants.L'équilibre entre l'attention méticuleuse aux détails et la vision plus large apporte des réalisations remarquables.",
+            "love": "Les relations prospèrent à travers une communication honnête et des gestes réfléchis.Les Virgos célibataires peuvent trouver des liens prometteurs par le biais d'activités intellectuelles ou axées sur le service.Les partenariats existants se renforcent lorsque le soutien pratique s'aligne sur la compréhension émotionnelle.",
+            "career": "L'avancement professionnel provient de vos capacités organisationnelles inégalées et de vos compétences en résolution de problèmes.Le milieu de l'année offre des opportunités de diriger des projets nécessitant une précision de précision et systématique.Votre réputation de fiabilité ouvre des portes aux connexions influentes.",
+            "health": "Concentrez-vous sur le bien-être digestif grâce à la gestion de l'alimentation et de la gestion du stress.La clarté mentale s'améliore avec l'organisation régulière des espaces physiques et numériques.Portez une attention particulière au maintien de routines saines pendant les périodes plus occupées.",
+            "finances": "Une planification minutieuse et une approche analytique des investissements donnent des gains stables.Pensez à créer des budgets détaillés qui permettent à la fois des indulgences de sécurité et occasionnelles.L'éducation en littératie financière apporte de précieux avantages à long terme."
+        },
+        "2026": {
+            "overall": "2026 met en évidence l'équilibre entre le service aux autres et le développement personnel de la Vierge.Vos compétences pratiques créent des améliorations tangibles dans votre communauté.La recherche d'harmonie entre l'analyse critique et l'acceptation compatissante apporte un accomplissement.",
+            "love": "Les relations s'approfondissent par des objectifs pratiques partagés et un soutien mutuel.Les partenaires apprécient votre attention réfléchie sur leurs besoins et leur croissance.Les Virgos célibataires attirent des liens grâce à une expression authentique de leur nature utile et de leur force silencieuse.",
+            "career": "Les opportunités dans les secteurs de la santé, de l'éducation ou de l'amélioration de l'organisation émergent de manière inattendue.Votre capacité à créer des systèmes efficaces entraîne la reconnaissance du leadership.Considérez les rôles qui combinent des compétences analytiques avec des composantes de mentorat ou d'enseignement.",
+            "health": "La connexion du cerveau intestinal mérite une attention particulière à travers les aliments riches en probiotiques et les techniques de réduction du stress.Les routines régulières qui intègrent à la fois des composantes mentales et physiques apportent des avantages notables.Faites attention aux signaux de santé subtils plutôt que de rejeter les symptômes mineurs.",
+            "finances": "La stabilité financière s'améliore par une économie cohérente et une taille réfléchie des dépenses inutiles.Pensez à créer des systèmes automatisés pour la gestion financière.De petits investissements réguliers donnent des résultats cumulatifs surprenants d'ici la fin de l'année."
+        },
+        "2027": {
+            "overall": "2027 apporte des développements relationnels significatifs et des opportunités de partenariat pour Virgo.Votre capacité à créer un équilibre harmonieux dans les efforts de collaboration conduit à des réalisations remarquables.Comprendre les perspectives des autres tout en maintenant vos normes crée des connexions durables.",
+            "love": "Les relations amoureuses atteignent de nouvelles profondeurs de compréhension et de croissance mutuelle.Les partenaires apprécient votre soutien inébranlable et vos expressions pratiques d'amour.Les Virgos célibataires peuvent trouver des liens significatifs grâce à des collaborations commerciales ou des activités intellectuelles partagées.",
+            "career": "Des partenariats professionnels ou des entreprises collaboratives montrent une promesse particulière.Votre attention aux détails contractuels et aux accords équitables profite à toutes les parties concernées.Considérez les coentreprises qui combinent vos forces analytiques avec les compétences complémentaires des autres.",
+            "health": "L'équilibre et l'harmonie dans les routines quotidiennes apportent des améliorations notables pour la santé.Considérez les approches holistiques qui traitent à la fois des symptômes physiques et des causes sous-jacentes.Portez une attention particulière à la santé rénale et surrénale par une bonne hydratation et une gestion du stress.",
+            "finances": "Les entreprises financières ou les investissements partagés avec des partenaires de confiance donnent des rendements positifs.Votre approche analytique des décisions financières profite aux projets collaboratifs.Envisagez d'établir des accords clairs qui protègent toutes les parties tout en permettant la croissance."
+        },
+        "2028": {
+            "overall": "2028 marque une période de transformation et de régénération profondes pour la Vierge.Vos capacités analytiques appliquées à la croissance personnelle créent une évolution remarquable.La volonté de libérer des systèmes ou des croyances obsolètes fait de la place pour de nouveaux débuts puissants.",
+            "love": "Les relations intimes atteignent des niveaux de confiance et de vulnérabilité plus profonds.Les partenaires apprécient votre volonté de vous engager dans la profondeur émotionnelle au-delà des pratiques de surface.Les Virgos célibataires attirent des connexions transformatrices grâce à une authentique expression de soi et à un courage émotionnel.",
+            "career": "Les possibilités de réinvention de carrière ou de progrès significatives émergent de manière inattendue.Vos capacités de résolution de problèmes appliquées à des défis complexes apportent une reconnaissance professionnelle.Considérez les rôles impliquant la recherche, l'enquête ou la transformation organisationnelle.",
+            "health": "La détoxification et les pratiques de régénération apportent des avantages notables.Faites attention aux systèmes reproductifs et éliminatoires grâce à une bonne nutrition et à la gestion du stress.Le bien-être psychologique s'améliore en libérant des tendances perfectionnistes.",
+            "finances": "La transformation financière vient de la libération de modèles obsolètes autour de l'argent.Considérez les investissements dans les technologies régénératives ou transformatrices.L'assurance, la planification successorale ou les ressources partagées nécessitent une attention particulière et peuvent provoquer des avantages inattendus."
+        },
+        "2029": {
+            "overall": "2029 élargit vos horizons intellectuels et votre compréhension philosophique, Virgo.Votre esprit analytique trouve sa satisfaction dans l'exploration de connaissances plus élevées et de perspectives plus larges.L'équilibre entre l'analyse détaillée et la réflexion expansive mène à la sagesse.",
+            "love": "Les relations se développent grâce à l'apprentissage partagé et à l'exploration philosophique.Les partenaires apprécient vos idées réfléchies et votre volonté de considérer différents points de vue.Les Virgos célibataires peuvent trouver des liens significatifs grâce à des activités éducatives ou des expériences de voyage.",
+            "career": "Les opportunités dans l'éducation, l'édition ou les entreprises internationales montrent une promesse particulière.Votre capacité à communiquer des informations complexes apporte clairement un progrès professionnel.Tenez compte des rôles qui vous permettent de partager vos connaissances tout en continuant à apprendre.",
+            "health": "La flexibilité du foie et de la hanche mérite une attention particulière grâce à des pratiques appropriées de nutrition et de mobilité.Le bien-être mental s'améliore en se développant au-delà des modèles de pensée familières.Considérez les approches de bien-être qui combinent des preuves scientifiques avec la sagesse traditionnelle.",
+            "finances": "Les investissements pédagogiques produisent des rendements intellectuels et financiers.Considérez les opportunités financières internationales ou interculturelles.Les questions juridiques liées aux contrats ou à la propriété intellectuelle peuvent augmenter de façon inattendue vos ressources."
+        },
+        "2030": {
+            "overall": "2030 se concentre sur la réussite professionnelle et la reconnaissance du public pour la Vierge.Votre approche méthodique des objectifs à long terme donne des résultats tangibles.Trouver l'équilibre entre les ambitions de carrière et le bien-être personnel crée un succès durable.",
+            "love": "Les relations prospèrent lorsque les partenaires soutiennent les objectifs professionnels de l'autre.La reconnaissance publique ou les réalisations partagées renforcent les obligations.Les Virgos célibataires peuvent trouver des liens prometteurs par le biais de réseaux professionnels ou d'événements de l'industrie.",
+            "career": "Les possibilités de leadership émergent qui vous permettent de mettre en œuvre votre vision de l'excellence organisationnelle.Votre réputation d'intégrité et de précision ouvre des portes à des positions influentes.Considérez les rôles qui vous permettent de créer des améliorations au niveau des systèmes.",
+            "health": "La santé et la posture squelettiques méritent l'attention grâce à l'ergonomie appropriée et aux exercices de soutien.La gestion du stress devient essentielle à mesure que les responsabilités augmentent.L'équilibre entre le dévouement professionnel et la restauration personnelle crée une énergie durable.",
+            "finances": "L'avancement professionnel apporte une amélioration de la stabilité financière.Considérez les investissements liés à l'expertise ou à la réputation de votre industrie.Les investissements immobiliers ou à long terme alignés sur la croissance de carrière présentent une promesse particulière."
+        },
+        "2031": {
+            "overall": "2031 met en évidence la connexion communautaire et la vision future de la Vierge.Vos compétences analytiques appliquées aux préoccupations humanitaires créent un impact significatif.Trouver l'équilibre entre la mise en œuvre pratique et les objectifs idéalistes conduit à des contributions remarquables.",
+            "love": "Les relations s'approfondissent par les valeurs partagées et la vision d'un avenir meilleur.Les partenaires apprécient vos approches pratiques des préoccupations idéalistes.Les Virgos célibataires attirent les liens partageant les mêmes idées grâce à une implication communautaire ou à des activités axées sur les causes.",
+            "career": "Les opportunités dans les secteurs à but non lucratif, la technologie du bien social ou l'amélioration de la communauté émergent de manière inattendue.Votre capacité à créer des systèmes fonctionnels pour des objectifs idéalistes apporte une reconnaissance professionnelle.Considérez les rôles qui vous permettent d'exprimer à la fois des aspects analytiques et humanitaires.",
+            "health": "La circulation et l'équilibre électrolytique méritent une attention particulière par une hydratation et un mouvement appropriés.Le bien-être mental s'améliore en connectant les habitudes personnelles avec un sens plus large.Envisagez des pratiques de santé qui profitent à la fois à la fois le bien-être individuel et collectif.",
+            "finances": "Les investissements dans des technologies durables ou des entreprises axées sur la communauté sont prometteuses.Envisagez de rejoindre ou de former des groupes d'investissement avec des valeurs partagées.Des opportunités financières inattendues émergent par le biais de connexions réseau ou d'affiliations de groupe."
+        },
+        "2032": {
+            "overall": "2032 apporte une perspicacité spirituelle et une guérison intérieure pour la Vierge.Votre esprit analytique trouve sa satisfaction dans la compréhension des modèles énergétiques subtils.L'équilibre entre les routines pratiques et les pratiques spirituelles crée une transformation personnelle profonde.",
+            "love": "Les relations développent des connexions spirituelles ou intuitives plus profondes.Les partenaires apprécient votre compréhension compatissante et votre sagesse silencieuse.Les Virgos célibataires attirent des liens significatifs par l'expression spirituelle authentique ou les activités axées sur la guérison.",
+            "career": "Les opportunités de soins de santé, de conseil ou de service spirituel émergent de façon inattendue.Votre attention aux détails combinée à une présence compatissante apporte une reconnaissance professionnelle.Tenez compte des rôles qui vous permettent de soutenir les processus de guérison ou de croissance des autres.",
+            "health": "Le système immunitaire et la santé lymphatique méritent une attention particulière grâce à un repos approprié et à des pratiques de détoxication subtiles.Le bien-être mental s'améliore par la méditation ou les pratiques contemplatives.Faites attention aux pieds et aux systèmes énergétiques subtils grâce à des activités de mise à la terre.",
+            "finances": "Un soutien financier inattendu arrive par le biais de canaux précédemment invisibles.Considérez les investissements dans les technologies ou les services de bien-être.Les dons de bienfaisance ou le soutien à des causes significatives augmentent paradoxalement votre abondance."
+        },
+        "2033": {
+            "overall": "2033 marque le début d'un cycle de renouvellement important pour la Vierge.Vos idées innovantes trouvent une expression pratique par la mise en œuvre disciplinée.Trouver l'équilibre entre la pensée visionnaire et l'action méthodique donne un impact durable.",
+            "love": "Les relations prospèrent grâce à un engagement renouvelé et à de nouvelles approches pour les modèles familiers.Les partenaires apprécient votre volonté d'évoluer tout en maintenant les valeurs fondamentales.Les Virgos uniques attirent des connexions vibrantes grâce à une auto-expression authentique et à la confiance personnelle.",
+            "career": "Les opportunités d'avancement professionnel à travers des approches innovantes apparaissent de manière inattendue.Votre capacité à améliorer les systèmes établis avec une nouvelle perspective apporte une reconnaissance professionnelle.Considérez les entreprises entrepreneuriales ou les rôles de leadership dans l'évolution des organisations.",
+            "health": "La vitalité s'améliore à travers des approches holistiques qui traitent des modèles sous-jacents.Faites attention à la santé surrénale et à la gestion du stress grâce à des pratiques de renouvellement régulières.L'apparence physique reflète le bien-être intérieur lorsque les routines d'autosoins sont cohérentes.",
+            "finances": "Les nouveaux débuts financiers montrent une promesse particulière lorsqu'ils sont construits sur une analyse minutieuse des modèles passés.Considérez les investissements dans les industries ou technologies émergentes.Les entreprises entrepreneuriales basées sur l'amélioration des produits ou services établis donnent des rendements positifs."
+        },
+        "2034": {
+            "overall": "2034 met en évidence la sécurité des documents et la gestion des ressources pour la Vierge.Votre approche analytique de la création de valeur donne des résultats tangibles.Trouver l'équilibre entre le confort et la simplicité conduit à une véritable abondance.",
+            "love": "Les relations s'approfondissent par des valeurs partagées autour de la sécurité des matériaux et du confort.Les partenaires apprécient vos expressions pratiques de soins et d'engagement.Les Virgos célibataires attirent des connexions stables grâce à la fiabilité démontrée et à la confiance tranquille.",
+            "career": "Les opportunités dans les secteurs financiers, la gestion des ressources ou les entreprises axées sur la valeur sont prometteuses.Votre attention aux détails dans la création ou la préservation de la valeur apporte un progrès professionnel.Considérez les rôles qui alignent vos compétences analytiques sur la production tangible.",
+            "health": "La santé vocale et gorge mérite une attention particulière grâce à des pratiques appropriées d'hydratation et d'expression.Le plaisir sensoriel d'expériences de haute qualité apporte des avantages de bien-être notables.L'équilibre entre la productivité du travail et le plaisir sensoriel crée une énergie durable.",
+            "finances": "La stabilité financière s'améliore grâce à une évaluation minutieuse de la valeur réelle dans les achats et les investissements.Envisagez de créer ou d'acquérir des actifs tangibles avec une valeur durable.Les bancaires, les stratégies d'épargne ou les systèmes de sécurité financière nécessitent un examen approfondi pour l'optimisation."
+        },
+        "2035": {
+            "overall": "2035 apporte des percées de stimulation intellectuelle et de communication pour la Vierge.Votre esprit analytique trouve sa satisfaction dans la maîtrise de nouvelles technologies ou méthodes d'information.L'équilibre entre les faits détaillés et la communication efficace crée une influence notable.",
+            "love": "Les relations prospèrent grâce à une meilleure communication et à une connexion intellectuelle.Les partenaires apprécient vos échanges réfléchis et votre écoute attentive.Les Virgos célibataires attirent des connexions stimulantes par l'expression écrite ou les activités de partage des connaissances.",
+            "career": "Les opportunités de communications, d'éducation ou de gestion de l'information émergent de manière inattendue.Votre capacité à organiser et à présenter des informations complexes apporte clairement une reconnaissance professionnelle.Considérez les rôles qui combinent une précision analytique avec les composants d'enseignement ou d'écriture.",
+            "health": "La santé du système respiratoire et nerveux mérite une attention particulière grâce à des techniques de respiration appropriées et à la gestion du stress.Le bien-être mental s'améliore en organisant les environnements d'information et en réduisant l'encombrement numérique.La flexibilité des mains et des bras bénéficiez de l'ergonomie et des étirements appropriés.",
+            "finances": "Les investissements dans les technologies de communication ou les plateformes éducatives sont prometteuses.Envisagez de monétiser vos connaissances ou vos compétences analytiques grâce à des cours, à l'écriture ou à la consultation.Des opportunités financières inattendues émergent par le réseautage ou l'échange d'informations."
+        }
+    },
+    "famous": [
+        {
+            "name": "Beyoncé",
+            "birth_date": "4 septembre 1981",
+            "description": "Chanteur, interprète et femme d'affaires emblématiques dont l'attention méticuleuse aux détails, l'éthique de travail et le perfectionnisme illustrent les traits Virgo à leur meilleur"
+        },
+        {
+            "name": "Keanu Reeves",
+            "birth_date": "2 septembre 1964",
+            "description": "Acteur connu pour sa nature humble et orientée vers le service à l'artisanat, incarnant la modeste excellence de la Vierge"
+        },
+        {
+            "name": "Mère Teresa",
+            "birth_date": "26 août 1910",
+            "description": "Humanitaire dont la vie de service, l'attention aux besoins des autres et la compassion pratique représentent la plus grande expression de la Vierge"
+        },
+        {
+            "name": "Tim Burton",
+            "birth_date": "25 août 1958",
+            "description": "Le cinéaste dont l'attention méticuleuse aux détails visuels et la capacité à créer des mondes fantastiques parfaitement exécutés reflète la précision et l'imagination de la Vierge"
+        },
+        {
+            "name": "Michael Jackson",
+            "birth_date": "29 août 1958",
+            "description": "L'interprète dont le perfectionnisme, l'attention à chaque détail de son métier et l'éthique de travail implacable démontrent des traits Vierge classiques"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Aujourd'hui, concentrez-vous sur l'appréciation des efforts des autres plutôt que de remarquer ce qui pourrait être amélioré.Exprimer votre gratitude pour les petites choses que vos proches font.",
+        "career": "Vos compétences organisationnelles brillent aujourd'hui.S'attaquer aux tâches détaillées nécessitant une précision, mais n'oubliez pas de communiquer vos progrès aux autres.",
+        "health": "Faites attention au lien entre votre état mental et la digestion.Faites de courtes pauses pour détendre votre esprit tout au long de la journée.",
+        "general": "Équilibrez votre attention naturelle aux détails avec appréciation pour la situation dans son ensemble aujourd'hui.Parfait est souvent l'ennemi du bon."
+    },
+    "tarot_associations": {
+        "major_arcana": "L'ermite",
+        "explanation": "L'ermite représente l'introspection, l'analyse et la quête de la sagesse intérieure par un examen minutieux - des qualités qui résonnent avec la nature analytique de la Vierge et la poursuite de l'amélioration.Cette carte incarne le voyage vers la perfection par le discernement, l'observation détaillée et la sagesse pratique."
+    },
+    "compatibility_details": {
+        "aries": "La Virgo et le Bélier apportent des forces complémentaires mais font face à des défis avec différentes approches - la prudence de la Vierge contre l'impulsivité de Bélier.Ils peuvent s'équilibrer lorsqu'ils apprécient ces différences.",
+        "taurus": "La Vierge et le Taureau créent une correspondance de signes terrestres harmonieuse avec des valeurs pratiques partagées et une appréciation de la qualité.Les deux sont fiables et à l'esprit de la sécurité, créant un partenariat stable.",
+        "gemini": "La Vierge et les Gémeaux partagent la dirigeant de Mercury mais l'expriment différemment.Cela crée un lien mental mais une friction potentielle entre la précision de la Vierge et la nature de recherche de variétés de Gémeaux.",
+        "cancer": "La Vierge et le cancer constituent une correspondance de soutien avec les styles de développement complémentaires.Virgo offre une assistance pratique tandis que le cancer fournit un soutien émotionnel, créant une relation équilibrée.",
+        "leo": "La Vierge et le LEO abordent la vie de manière très différente - Virgo avec une analyse minutieuse et LEO avec un flair dramatique.Ils peuvent se compléter mutuellement si Leo apprécie l'utilité de Virgo et que Virgo reconnaît la créativité de Leo.",
+        "virgo": "Deux Virgos créent une relation basée sur la compréhension mutuelle du désir d'amélioration et de précision.Ils travaillent bien ensemble sur des questions pratiques mais peuvent avoir besoin de cultiver plus de spontanéité.",
+        "libra": "La Vierge et la Balance apportent différentes perspectives - la pratique de la Vierge et l'idéalisme de la Balance.Cela crée un potentiel de croissance grâce à des points de vue équilibrés lorsqu'ils communiquent efficacement.",
+        "scorpio": "La Vierge et le Scorpion partagent une approche orientée vers le détail et l'authenticité de la valeur.Les deux sont attentifs et apprécient la profondeur, créant une relation avec le respect mutuel et la compréhension.",
+        "sagittarius": "La Vierge et le Sagittaire sont confrontés à des défis avec différentes visions du monde - la précision de la Vierge contre la large perspective de Sagittaire.Des efforts importants sont nécessaires pour combler leurs différentes approches.",
+        "capricorn": "La Vierge et le Capricorne forment une excellente correspondance de signes terrestres avec des valeurs pratiques partagées et l'éthique de travail.Ils comprennent l'approche méthodique de l'autre et créent des partenariats productifs.",
+        "aquarius": "La Vierge et le Verseau ont tous deux des esprits analytiques mais les appliquent différemment - Virgo aux questions pratiques et au Verseau aux concepts abstraits.Cela crée des conversations intéressantes mais des conflits de style de vie potentiels.",
+        "pisces": "La Vierge et les Poissons forment des signes opposés avec un potentiel de croissance grâce à des qualités complémentaires.La Vierge fournit une mise à la terre pratique aux rêves des Poissons, tandis que les Poissons offre une profondeur émotionnelle à l'analyse de la Vierge."
+    },
+    "astrological_influences": {
+        "sun_in": "Le soleil en Vierge apporte une pensée analytique, une attention aux détails et l'orientation des services.Vous abordez la vie avec une précision pratique et un désir de vous améliorer et votre environnement.",
+        "moon_in": "Moon in Virgo crée des besoins émotionnels centrés sur l'ordre, l'utilité et l'amélioration.Vos sentiments sont traités analytiquement et vous trouvez la sécurité émotionnelle grâce à la résolution pratique des problèmes.",
+        "rising": "Virgo Rising vous donne une apparence de modestie, d'intelligence et de compétence.D'autres vous voient comme détaillés, utiles et exigeants, recherchent souvent vos conseils pratiques."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Gérer le perfectionnisme et l'autocritique",
+            "Équilibrer l'analyse avec l'acceptation",
+            "Exprimer des émotions plus ouvertement",
+            "Développer une plus grande flexibilité avec les changements",
+            "Apprendre à déléguer plutôt que de contrôler tous les détails"
+        ],
+        "growth_opportunities": [
+            "Utiliser des compétences analytiques pour résoudre des problèmes significatifs",
+            "Développement de discernement qui distingue les détails importants de ceux triviaux",
+            "Canalisation de l'orientation du service vers des causes louables",
+            "Trouver de la joie dans le processus d'amélioration plutôt que de se concentrer uniquement sur les défauts",
+            "Créer des systèmes pratiques qui aident les autres à prospérer"
+        ],
+        "affirmations": [
+            "J'accepte moi-même et les autres comme parfaitement imparfaits",
+            "J'équilibre une analyse détaillée avec une compréhension compatissante",
+            "Mes compétences pratiques créent des améliorations significatives",
+            "Je sert les autres tout en honorant mes propres besoins",
+            "Je trouve la paix dans le moment présent tout en travaillant à l'amélioration"
+        ]
+    },
+    "life_path": {
+        "purpose": "Les individus de la Vierge ont souvent pour mission d'améliorer, d'affiner et d'être un service pratique.Leur objectif consiste à apporter l'ordre au chaos, à augmenter l'efficacité et à aider les autres à travers une analyse pratique et un travail dédié.",
+        "life_lessons": [
+            "Apprendre à équilibrer l'amélioration avec acceptation",
+            "Reconnaître la différence entre l'analyse utile et les critiques nuisibles",
+            "Développer la confiance dans l'intuition aux côtés de l'analyse logique",
+            "Trouver l'estime de soi au-delà de la productivité et de l'utilité",
+            "Création de systèmes qui servent des fins significatives plutôt que la perfection pour lui-même"
+        ],
+        "spiritual_growth": "Le développement spirituel de la Vierge implique le transcesement du perfectionnisme tout en maintenant le discernement.Les pratiques qui relient l'esprit analytique à la sagesse spirituelle, le service qui vient de la compassion plutôt que de la critique, et trouver le sacré dans les détails quotidiens contribuent tous à l'évolution spirituelle."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Les enfants de la Vierge sont généralement attentifs, organisés et orientés vers le détail dès le plus jeune âge.Ils font souvent preuve de préoccupation pour l'ordre, posent des questions spécifiques et peuvent être particuliers sur les routines, la nourriture et la propreté.",
+            "parenting_advice": "Fournir une structure et des explications claires tout en autorisant la place pour les erreurs et l'apprentissage.Louez l'effort et les progrès plutôt que de simples résultats parfaits.Aidez-les à développer la confiance dans leurs capacités analytiques naturelles tout en enseignant une saine acceptation de l'imperfection."
+        },
+        "in_friendship": {
+            "friendship_style": "Les amis de la Vierge sont fiables, réfléchis et pratiquement favorables.Ils montrent des soins à travers des actions utiles, se souvenant des détails importants et offrant des conseils soigneusement considérés lorsqu'on leur a demandé.",
+            "ideal_friends": "Virgo prospère avec des amis qui apprécient leur nature pratique et leur utilité sans en profiter.Ils apprécient les amitiés honnêtes et basses avec des attentes claires et le respect mutuel des frontières."
+        },
+        "shadow_side": {
+            "potential_issues": "Lorsqu'elle est déséquilibrée, la Vierge peut devenir hypercritique, anxieuse ou obsessionnellement perfectionniste.Leur désir de s'améliorer peut se transformer en une recherche de failles et leur orientation de service peut conduire à des problèmes de martyre ou de limites.",
+            "growth_path": "La croissance personnelle de la Vierge consiste à développer un discernement sur les détails importants, à apprendre à apprécier les progrès plutôt qu'à exiger la perfection et à équilibrer la pensée analytique et à compassion pour l'imperfection humaine."
+        }
+    },
+    "seasonal_influences": {
+        "harvest_energy": "Né pendant la saison traditionnelle des récoltes, Virgo incarne l'énergie du tri minutieux, de la séparation du blé de la balle et de la préparation de l'avenir.Ce timing imprègne la Vierge avec le discernement naturel, le praticité et l'attention sur ce qui est essentiel pour la subsistance.",
+        "mutable_quality": "En tant que signe mutable, la Vierge représente l'adaptabilité et le raffinement en tant que transitions estivales à l'automne.Cette position leur accorde une flexibilité dans l'amélioration des systèmes, l'attention sur les détails changeants et la capacité de trier la complexité pour trouver ce qui compte vraiment."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "L'élément de la Terre donne à Virgo leur pratique caractéristique, leur fonderie et leur connexion avec la réalité physique.La Terre représente la manifestation matérielle, la productivité et l'application pratique des idées.",
+        "earth_balance": "La Terre équilibrée apporte l'aspect pratique, la fiabilité et le service productif.La Terre excessive peut entraîner le perfectionnisme, la critique et la rigidité, tandis que la Terre déficiente peut entraîner l'anxiété, la déconnexion des besoins physiques ou l'idéalisme peu pratique."
+    },
+    "planetary_rulership": {
+        "mercury_influence": "Mercure, la planète des informations de communication, d'analyse et de traitement, règle la Vierge.Contrairement à son expression dans les Gémeaux, le mercure dans la Vierge se manifeste comme une communication précise, une analyse détaillée et une résolution pratique des problèmes.",
+        "mercury_aspects": "La position et les aspects du mercure dans le tableau de naissance d'un individu ont un impact significatif sur la façon dont l'énergie de la Vierge est exprimée.De forts aspects de mercure améliorent les capacités analytiques et les compétences en communication, mais peuvent également augmenter les tendances à l'inquiétude ou à la sur-analyse."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Dans l'économie actuelle de l'information, la Vierge excelle dans l'analyse des données, l'assurance qualité, l'écriture technique, l'organisation numérique et les domaines nécessitant une attention aux détails dans les systèmes technologiques.",
+        "relationship_in_modern_context": "Les relations modernes bénéficient de la clarté de la Vierge et du soutien pratique dans un monde souvent chaotique.Leur compétence avec une planification détaillée aide à naviguer dans la vie moderne complexe, bien qu'ils puissent avoir besoin de développer un confort avec les changements constants de l'ère numérique."
+    }
+}

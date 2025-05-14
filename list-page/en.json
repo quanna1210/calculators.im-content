@@ -62,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Payment Calculator",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -74,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Interest Calculator",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -98,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Predetermined Amount Loan Calculator",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -253,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI Calculator",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -265,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR Calculator",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -277,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Body Fat Percentage Calculator",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -325,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Password Generator",
         "slug": "password-generator",
         "parent_id": "15",
@@ -337,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Running Pace Calculator",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -385,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Currency Converter",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -440,6 +449,19 @@
         "meta_title": "BAC Calculator - Calculate Your Blood Alcohol Concentration Free",
         "meta_description": "Use our free BAC calculator to estimate your blood alcohol concentration based on drinks, weight, and time—quick, simple, and online!",
         "meta_keyword": "BAC Calculator, Blood Alcohol Calculator, Alcohol Level Calculator, Drink Driving Calculator, Alcohol Consumption Calculator, Blood Alcohol Content Calculator, How to calculate Blood Alcohol Concentration (BAC), Online BAC Calculator for safe drinking limits, Estimate your BAC based on weight and drinks, Blood Alcohol Level Calculator for DUI risk, How long does alcohol stay in your system, Calculate BAC after drinking beer, wine, and whiskey, Best free online Blood Alcohol Calculator, BAC calculation formula and legal limits by country.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Zodiac Calculator",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Zodiac Sign Calculator | Discover What Your Birth Chart Reveals",
+        "meta_description": "Discover what your zodiac sign reveals about you. Our calculator provides accurate readings with insights about your character, relationships, and destiny.",
+        "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, vedic birth chart calculator, astrological birth chart, zodiac finder, calculate zodiac sign, birthday zodiac, free natal chart, birth time calculator, full birth chart, astrology chart calculator, zodiac sign by date of birth, big three calculator, accurate birth chart",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

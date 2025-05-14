@@ -1,0 +1,335 @@
+{
+    "sign": "Sagittarius",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/sagittarius.svg",
+    "local_name": "Střelec",
+    "date_range": "22. listopadu - 21. prosince",
+    "element": "Oheň",
+    "ruling_planet": "Jupiter",
+    "symbol": "Archer",
+    "lucky_numbers": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "21"
+    ],
+    "lucky_colors": [
+        "Modrý",
+        "Fialová",
+        "Tmavě zelená"
+    ],
+    "lucky_days": [
+        "čtvrtek",
+        "sobota"
+    ],
+    "lucky_stones": [
+        "Tyrkysový",
+        "Topas",
+        "Ametyst"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Optimistický",
+            "Milující svobodu",
+            "Intelektuální",
+            "Dobrodružný",
+            "Přímý",
+            "Filozofický",
+            "Štědrý"
+        ],
+        "weaknesses": [
+            "Netaktní",
+            "Neklidný",
+            "Nekonzistentní",
+            "Příliš sebevědomé",
+            "Nezodpovědný",
+            "Sliby více, než může dodat",
+            "Otálení"
+        ]
+    },
+    "personality": {
+        "overview": "Sagittarius je devátý znak zvěrokruhu, symbolizující expanzi, průzkum a vyšší porozumění.Jednotlivci Sagittarius jsou známí svým optimistickým výhledem, láskou ke svobodě a hledáním znalostí a pravdy.Jsou to filozofové a dobrodruzi zvěrokruhu, kteří se neustále snaží rozšířit své obzory prostřednictvím cestování, vzdělávání a rozmanitých zkušeností.",
+        "detailed_traits": [
+            "Přirozený optimismus a nadšení pro život",
+            "Láska k cestování a zkoumání různých kultur",
+            "Filosofické myšlení hledající vyšší význam",
+            "Přímý a čestný styl komunikace",
+            "Velkorysý duch s přáteli i cizími lidmi",
+            "Nezávislá povaha, která odolává omezení",
+            "Vizionářské myšlení s perspektivou velkého obrazu",
+            "Přizpůsobitelné novým situacím a prostředím",
+            "Intelektuálně zvědavé s různými zájmy",
+            "Přirozeně štěstí se schopností najít příležitosti"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Jednotlivci Střelců jsou nadšení partneři milující svobodu, kteří si cení poctivosti a sdílení dobrodružství ve vztazích.Vyjadřují lásku vytvářením vzrušujících zážitků, zapojení do filozofických diskusí a udržování autentické a přímé komunikace.",
+        "compatibility": {
+            "most_compatible": [
+                "Aries",
+                "Lev",
+                "Váhy",
+                "Vodnář"
+            ],
+            "least_compatible": [
+                "Panna",
+                "Ryby",
+                "Býk"
+            ]
+        },
+        "relationship_advice": "Jednotlivci Sagittarius musí vyrovnat svobodu se závazkem ve vztazích.Pracujte na tom, aby sledovali sliby a zvažte, jak by vaše tupá slova mohou ovlivnit citlivá partnery.Pamatujte, že hloubka může být stejně prospěšná jako šířka zážitku v lásce.",
+        "love_style": [
+            "Hodnotí svobodu a nezávislost ve vztazích",
+            "Nadšený a dobrodružný romantický partner",
+            "Přímé a čestné pocity a očekávání",
+            "Nemá rád vlastnictví nebo emocionální potřebnost",
+            "Hledá intelektuální a filozofické spojení",
+            "Preferuje vztahy, které umožňují osobní růst",
+            "Může bojovat s dlouhodobým závazkem, pokud se cítíme omezený"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Jednotlivci Střelců vynikají v kariéře, které nabízejí rozmanitost, intelektuální stimulaci a příležitosti pro růst a průzkum.Mají přirozený talent, aby viděli velký obraz a inspirovali ostatní svou vizí a nadšením.",
+        "suitable_careers": [
+            "Cestování a cestovní ruch",
+            "Vysokoškolské vzdělání a výuka",
+            "Publikování a psaní",
+            "Mezinárodní podnikání",
+            "Zákon a etika",
+            "Filozofie a náboženství",
+            "Venkovní a dobrodružné sporty",
+            "Podnikání",
+            "Motivační mluvení",
+            "Mezikulturní poradenství"
+        ],
+        "financial_habits": "Jednotlivci Střelců mají často optimistický, někdy šťastný přístup k financím, s obdobím hojnosti následované spontánními výdaji.Těží z stanovení flexibilních finančních plánů, které vyhovují jejich potřebě svobody při vytváření dlouhodobé bezpečnosti.",
+        "work_style": [
+            "Prospívá v dynamickém, měnícím se prostředí",
+            "Přináší nadšení a optimismus do projektů",
+            "Preferuje nezávislost a minimální dohled",
+            "Vynikající v tom, že vidíte velký obraz a možnosti",
+            "Může bojovat s detaily a následovat",
+            "Hodnotí etická, smysluplná práce",
+            "Funguje dobře s různými týmy a kulturami"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Střelec vládne bok, stehna, jaterní a krevní oběh.Jednotlivci Střelců mají obvykle dobrou výdrž a přirozený atleticismus, ale mohou být náchylní k otázkám souvisejícím s boky, stehny a játry, když jsou mimo rovnováhu.",
+        "common_health_issues": [
+            "Problémy s kyčlem a stehnem",
+            "Sitává bolest",
+            "Problémy jater z nadměrné dohody",
+            "Drobná zranění ze sportu nebo dobrodružství",
+            "Neklid a nervové napětí",
+            "Trávicí problémy z bohatého jídla",
+            "Respirační problémy ovlivňující svobodu pohybu"
+        ],
+        "wellness_advice": "Vyrovnejte svou lásku k dobrodružství s adekvátním odpočinkem a zotavením.Věnujte pozornost zdraví jater prostřednictvím moderování potravin a alkoholu.Udržujte flexibilitu a zdraví kloubů prostřednictvím pravidelného protahování a správných rozcviček před fyzickými aktivitami.",
+        "exercise_preferences": [
+            "Outdoorové aktivity a sport",
+            "Běh na dlouhou vzdálenost",
+            "Pěší turistika a horolezectví",
+            "Cestovní dobrodružství",
+            "Týmové sporty, které zahrnují strategii"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 přináší vzrušující příležitosti pro expanzi a dobrodružství pro jednotlivce Střelce.Váš přirozený optimismus přitahuje příznivé okolnosti a otevírá dveře novým zážitkům.Vyrovnávejte své hledání znalostí s praktickou aplikací pro maximální růst.",
+            "love": "Romantická spojení vzkvétají prostřednictvím sdílených dobrodružství a filozofických diskusí.Jednotliví Sagittarians se mohou setkat s potenciálními partnery při cestování nebo sledování vzdělávacích zájmů.Stávající vztahy těží z obnoveného vzrušení a sdílených cílů.",
+            "career": "Profesionální horizonty se rozšiřují prostřednictvím mezinárodních spojení nebo pronásledování vysokoškolského vzdělávání.Vaše vizionářské nápady inspirují kolegy i nadřízené.Ve druhé polovině roku se objevují příležitosti pro výuku nebo publikování vašich odborných znalostí.",
+            "health": "Zaměřte se na sílu kyčle a stehna prostřednictvím aktivit, které kombinují dobrodružství s fitness.Duševní pohoda se zlepšuje s pravidelným časem stráveným v přírodě.Vyrovnejte svou nadšenou energii s adekvátním odpočinkem a zotavením.",
+            "finances": "Neočekávané příležitosti pro finanční růst prostřednictvím vzdělávání, publikování nebo podniků souvisejících s cestováním.Zvažte vyvážený přístup mezi investicemi do zkušeností a budováním dlouhodobé bezpečnosti."
+        },
+        "2026": {
+            "overall": "2026 je rok profesionálního úspěchu a uznání veřejného uznání pro Sagittarius.Vaše odvážná vize a čestný přístup získávají respekt z vlivných osobností.Nalezení harmonie mezi ambicí a osobní svobodou přináší naplnění a udržitelný úspěch.",
+            "love": "Vztahy těží z jasné komunikace o dlouhodobých cílech.Zavedená partnerství posilují vzájemnou podporou kariérních aspirací.Jednotliví Sagittariáni přitahují partnery, kteří obdivují jak ambice, tak autentičnost.",
+            "career": "Objevují se příležitosti k vedení, které dokonale odpovídají vašim přirozeným talentům.V polovině roku přináší šanci implementovat inovativní nápady v tradičních strukturách.Vaše schopnost inspirovat ostatní se stává vaším největším profesionálním aktivem.",
+            "health": "Požadavky na rovnováhu s prací s konzistentní fyzickou aktivitou.Věnujte pozornost kosternímu zdraví prostřednictvím řádného držení těla a ergonomie.S útlumu se stává zásadní se zvyšováním povinností.",
+            "finances": "Finanční stabilita se zlepšuje prostřednictvím kariérního postupu a uznání.Zvažte investice související s vaším odvětvím nebo odborností.Neočekávaná finanční podpora může přicházet prostřednictvím mentorů nebo autoritních údajů."
+        },
+        "2027": {
+            "overall": "2027 zdůrazňuje sociální spojení a kolektivní vizi pro Střelce.Vaše schopnost sjednotit rozmanité skupiny kolem optimistických cílů vytváří smysluplný dopad komunity.Rovnováha mezi individuální svobodou a skupinovou odpovědností vede k pozoruhodným úspěchům.",
+            "love": "Přátelství se může vyvinout v hlubší romantická spojení.Partneři oceňují vaši sociální povahu a zároveň poskytují vliv.Jednotliví Sagittariáni nacházejí smysluplné vztahy prostřednictvím skupinových aktivit v souladu s osobními hodnotami.",
+            "career": "Projekty spolupráce přinášejí profesionální spokojenost a růst.Vaše přírodní síťové schopnosti otevírají dveře pro vzrušující příležitosti.Zvažte role, které kombinují vaši odbornost s humanitárními nebo komunitními cíli.",
+            "health": "Skupinové fitness aktivity poskytují fyzické výhody i sociální spojení.Věnujte pozornost oběhu pravidelným pohybem po celý den.Rovnovážte sociální závazky s adekvátním osobním prostorem a tichým časem.",
+            "finances": "Sdílené finanční podniky ukazují slib, když jsou v souladu s důvěryhodnými spojenci.Komunitní ekonomické iniciativy mohou poskytnout neočekávané výhody.Zvažte inovativní přístupy ke sdílení zdrojů a vzájemné podpoře."
+        },
+        "2028": {
+            "overall": "2028 přivede Střelce do období duchovního růstu a vnitřního průzkumu.Vaše filozofická povaha se prohlubuje prostřednictvím smysluplných životních zkušeností.Vyvážení vašeho hledání pravdy se soucitným porozuměním vede k hluboké osobní moudrosti.",
+            "love": "Romantické vztahy se prohlubují prostřednictvím sdílených duchovních nebo filozofických zájmů.Partneři oceňují vaši snahu o smyslu a autentickou pravdu.Jednotliví Sagittariáni přitahují spojení, která podporují osobní svobodu i emoční intimitu.",
+            "career": "Práce, která je v souladu s vašimi nejhlubšími hodnotami, přináší naplnění nad finanční odměnou.Zvažte role, které vám umožní vyjádřit vaši moudrost nebo podpořit růst ostatních.Kreativní inspirace plynoucí z tichého rozjímání přinášejí profesionální uznání.",
+            "health": "Holistické zdravotní praktiky přinášejí pozoruhodné výhody pro tělo i ducha.Věnujte pozornost imunitnímu systému prostřednictvím správné odpočinek a nutriční podpory.Meditační nebo kontemplativní praktiky zlepšují celkovou pohodu a mentální jasnost.",
+            "finances": "Neočekávaná finanční podpora přichází prostřednictvím dříve neviditelných kanálů.Důvěřujte své intuici týkající se investic při zachování praktických záruk.Velkorysost paradoxně zvyšuje vaši vlastní hojnost."
+        },
+        "2029": {
+            "overall": "2029 se zaměřuje na obnovení a nové začátky pro Střelce.Váš přirozený optimismus pomáhá transformovat výzvy na příležitosti pro růst.Nalezení rovnováhy mezi ctí minulých zkušeností a přijímáním nových možností přináší do všech oblastí života pulzující energii.",
+            "love": "Vztahy zažívají omlazení prostřednictvím čestné komunikace a obnoveného závazku.Partneři oceňují vaše nadšení pro růst a změny.Jednotliví Sagittariáni přitahují vzrušující nová spojení, která rozšiřují jejich obzory.",
+            "career": "Reinvence kariéry přináší neočekávané příležitosti v souladu s vyvíjejícími se zájmy.Váš průkopnický duch otevírá dveře v rozvíjejících se polích nebo trzích.Zvažte podnikatelské podniky, které vydělávají na vaší jedinečné odborné znalosti a vizionářskou perspektivu.",
+            "health": "Revitalizovaná energie přichází prostřednictvím experimentálních, ale vědeckých přístupů k wellness.Věnujte pozornost zdraví jater prostřednictvím správné výživy a detoxikace.Nové fitness rutiny zavedené v tomto roce vytvářejí trvalé výhody.",
+            "finances": "Finanční čerstvé starty umožňují strategické přemístění pro budoucí růst.Zvažte vzdělávací investice, které rozšiřují váš výdělkový potenciál.Neočekávané neočekávané výkyvy mohou dojít přes minulé investice, které konečně nesou ovoce."
+        },
+        "2030": {
+            "overall": "2030 znamená významné období hojnosti a růstu materiálu pro Střelce.Váš optimistický přístup ke zdrojům přitahuje neočekávané příležitosti.Rovnováha mezi současnou prosperitou a budováním budoucí zabezpečení vytváří udržitelný úspěch.",
+            "love": "Pohodlí sdílené materiály zvyšují romantické pouta.Partneři oceňují vaši štědrost a zároveň pomáhají spravovat zdroje moudře.Jednotliví Sagittariáni přitahují vztahy nabízející emoční i materiální stabilitu.",
+            "career": "Finanční sektory nebo role správy zdrojů nabízejí možnosti postupu.Vaše schopnost rozpoznat hodnotu v přehlížených oblastech přináší odbornou výhodu.Zvažte rozvoj odborných znalostí na rozvíjejících se trzích nebo udržitelné správě zdrojů.",
+            "health": "Nutriční přístupy zaměřené spíše na kvalitu a hojnost než omezení přinášejí vitalitu.Věnujte pozornost oblasti krku a krku prostřednictvím řádné péče a zarovnání.Rovnováha smyslových potěšení s mírou pro optimální pohodu.",
+            "finances": "Investiční příležitosti do fyzických aktiv ukazují zvláštní slib.Zvažte diverzifikaci držení v různých kategoriích zdrojů.Neočekávané finanční zisky procházejí dříve podhodnoceným majetkem nebo talenty."
+        },
+        "2031": {
+            "overall": "2031 zdůrazňuje komunikaci a intelektuální růst pro Střelce.Vaše přirozené výukové schopnosti najdou perfektní výraz prostřednictvím nových platforem nebo technologií.Spojení vytvořená letos má trvalý dopad na vaši osobní a profesionální trajektorii.",
+            "love": "Intelektuální kompatibilita posiluje romantické pouta.Partneři oceňují vaši skvělou konverzaci a filozofickou hloubku.Jednotliví Sagittariáni přitahují smysluplné spojení prostřednictvím autentického vyjádření myšlenek a přesvědčení.",
+            "career": "Neočekávaně se objevují publikování, vzdělávání nebo mediální příležitosti.Vaše schopnost komunikovat složité nápady přístupnými způsoby přináší profesionální pokrok.Zvažte rozvoj odborných znalostí v oblasti vznikající komunikační technologie nebo metodiky.",
+            "health": "Mentální stimulace nepřetržitým učením zlepšuje celkovou pohodu.Věnujte pozornost respiračnímu zdraví prostřednictvím správných dýchacích technik a kvality ovzduší.Vyrovnávejte intelektuální aktivitu s adekvátním fyzickým pohybem pro optimální funkci mozku.",
+            "finances": "Investice do komunikačních technologií nebo vzdělávacích platforem přinášejí výnosy.Zvažte zpeněžení svých znalostí prostřednictvím výuky, psaní nebo konzultace.Neočekávaný příjem může dorazit prostřednictvím duševního vlastnictví nebo tvůrčího vyjádření."
+        },
+        "2032": {
+            "overall": "2032 přináší zaměření na domácí a emocionální základy pro Střelce.Vytváření prostorů, které podporují vaši potřebu dobrodružství i zabezpečení, se stává důležitým.Rovnováha mezi průzkumem a založením kořenů vede k hluboké osobní spokojenosti.",
+            "love": "Rodinné spojení ovlivňují vzorce vztahů překvapivě.Partneři oceňují vaše úsilí o vytvoření domácí základny, která podporuje sdílené dobrodružství.Jednotliví Sagittariáni mohou najít smysluplné spojení prostřednictvím rodinných úvodů nebo komunitních akcí.",
+            "career": "Rovnováha mezi pracovním a soukromým životem se stává nezbytnou pro udržitelný úspěch.Zvažte role, které umožňují flexibilitu mezi domácí základnou a cestováním.Vaše schopnost udržovat produktivitu při ctí osobních potřeb přináší profesionální respekt.",
+            "health": "Emocionální pohoda přímo ovlivňuje fyzickou vitalitu letos.Věnujte pozornost trávicímu zdraví prostřednictvím správné výživy a zvládání stresu.Domácí wellness rutiny poskytují uzemňovací energii uprostřed nabitých plánů.",
+            "finances": "Investice do nemovitostí nebo vylepšení domů přinášejí dlouhodobou hodnotu.Zvažte vytvoření více toků příjmů, které poskytují stabilitu a zároveň umožňují flexibilitu.Rodinné finanční plánování přináší bezpečnost a podporuje budoucí dobrodružství."
+        },
+        "2033": {
+            "overall": "2033 zdůrazňuje kreativní výraz a radostné bydlení pro Střelce.Vaše přirozené nadšení najde perfektní prodejny prostřednictvím uměleckých nebo rekreačních pronásledování.Rovnováha mezi hravým průzkumem a disciplinovaná praxe vede k pozoruhodným kreativním úspěchům.",
+            "love": "Romantické vztahy se daří, když jsou naplněny hravostí a kreativitou.Partneři oceňují váš dětský zázrak a zároveň poskytují praktické uzemnění.Jednotliví Sagittariáni přitahují spojení prostřednictvím autentického sebevyjádření a rekreačních aktivit.",
+            "career": "Kreativní průmyslová odvětví nebo role vyžadující inovativní myšlení nabízejí možnosti postupu.Vaše schopnost přistupovat k vážným záležitostem s osvěžující perspektivou přináší profesionální uznání.Zvažte podnikatelské podniky, které vydělávají na vaší jedinečné kreativní vizi.",
+            "health": "Radostné postupy pohybu přinášejí pozoruhodné fyzické výhody.Věnujte pozornost zdraví srdce prostřednictvím činností, které kombinují potěšení s kardiovaskulárním kondicionováním.Vyrovnávejte kreativní intenzitu s adekvátním odpočíkem a zotavením.",
+            "finances": "Investice do umění, zábavy nebo rekreačních průmyslových odvětví ukazují slib.Zvažte zpeněžení kreativních talentů prostřednictvím bočních podniků nebo specializovaných nabídek.Neočekávané finanční příležitosti vznikají prostřednictvím rekreačních spojení nebo činností."
+        },
+        "2034": {
+            "overall": "2034 přináší pozornost zaměřené na praktické systémy a každodenní rutiny pro Střelce.Stanovení účinných struktur, které podporují vaši větší vizi, vytváří udržitelný pokrok.Rovnováha mezi detailem a udržováním širší perspektivy vede k pozoruhodné produktivitě.",
+            "love": "Vztahy těží z praktické podpory a sdílených povinností.Partneři oceňují vaši užitečnost a zároveň zachovávají respekt k nezávislosti.Jednotliví Sagittariáni přitahují spojení prostřednictvím aktivit orientovaných na služby nebo prostředí na pracovišti.",
+            "career": "Organizační efektivita se stává vaší profesionální supervelmocí.Vaše schopnost zlepšit systémy a zároveň udržovat větší účel v pohledu přináší možnosti pokroku.Zvažte role, které vám umožní přepracovat pracovní postupy nebo implementovat lepší metodiky.",
+            "health": "Konzistentní denní návyky vytvářejí kumulativní výhody wellness.Věnujte pozornost trávicímu zdraví prostřednictvím správné výživy a zvládání stresu.Vyrovnává produktivní aktivita s adekvátním zotavením pro optimální fyzické fungování.",
+            "finances": "Finanční zisky přicházejí zvýšenou účinností a odstraněním odpadu.Zvažte investice do technologií nebo služeb, které zvyšují produktivitu.Neočekávané finanční příležitosti vznikají prostřednictvím spojení na pracovišti nebo rozvoji dovedností."
+        },
+        "2035": {
+            "overall": "2035 zdůrazňuje vyvážená partnerství a harmonická spojení pro Střelce.Vaše přirozená nezávislost najde perfektní doplněk prostřednictvím smysluplné spolupráce.Nalezení rovnováhy mezi osobní svobodou a vzájemným závazkem přináší naplnění ve všech oblastech vztahu.",
+            "love": "Romantické vztahy dosáhnou nových hloubky porozumění a vzájemné podpory.Partneři oceňují vaši poctivost a zároveň pomáhají zdokonalovat váš styl komunikace.Jednotliví Sagittariáni přitahují vyvážená spojení, která ctí jak nezávislost, tak pospolitost.",
+            "career": "Společné podniky přinášejí profesionální pokrok a spokojenost.Vaše schopnost vyjednávat oboustranně výhodné dohody se stává cenným přínosem.Zvažte partnerství, která doplňují vaše silné stránky a zároveň rozšiřují váš dosah a vliv.",
+            "health": "Rovnováha se stává klíčem k fyzické pohodě.Věnujte pozornost ledvinám a oblastm dolních zadních částí prostřednictvím správné hydratace a podpůrných postupů.Harmonie vztahu přímo ovlivňuje fyzickou vitalitu a funkci nervového systému.",
+            "finances": "Společné podniky nebo sdílené investice ukazují zvláštní slib.Zvažte přístupy, které vyvažují riziko s bezpečností prostřednictvím diverzifikace.Neočekávané finanční příležitosti přicházejí prostřednictvím smluvních dohod nebo formálních partnerství."
+        }
+    },
+    "famous": [
+        {
+            "name": "Taylor Swift",
+            "birth_date": "13. prosince 1989",
+            "description": "Zpěvák-skladatel, jehož mezinárodní úspěch, čestné texty a ochota znovuobjevit se ztělesnit sagittariánskou expanzivitu a autentičnost"
+        },
+        {
+            "name": "Brad Pitt",
+            "birth_date": "18. prosince 1963",
+            "description": "Herec a producent, jehož rozmanité role, humanitární práce a dobrodružné volby kariéry odrážejí Sagittariusovu lásku k průzkumu a růstu"
+        },
+        {
+            "name": "Bruce Lee",
+            "birth_date": "27. listopadu 1940",
+            "description": "Bojový umělec a filozof, jehož fyzické mistrovství, mezikulturní vliv a filozofická učení jsou příkladem sagittariánského hledání dokonalosti a pravdy"
+        },
+        {
+            "name": "Tina Turner",
+            "birth_date": "26. listopadu 1939",
+            "description": "Zpěvák, jehož dynamická představení, odolnost a mezinárodní přitažlivost prokazují nadšení Sagittariuse, povahu milující svobodu a schopnost inspirovat"
+        },
+        {
+            "name": "Jane Austen",
+            "birth_date": "16. prosince 1775",
+            "description": "Autor, jehož nadšená sociální pozorování, vtip a nadčasová vhled do lidské přirozenosti odrážejí Střelci intelektuální zvědavost a hledání pravdy"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dnes vyrovnejte poctivost s takty ve vaší komunikaci.Vaše přirozené nadšení povzbuzuje ostatní, když je vyjádřeno s ohledem na zvážení.",
+        "career": "Vaše myšlení s velkým obrazem pomáhá vyřešit výzvu na pracovišti.Podělte se o svou vizi a přitom zůstaňte otevřeni praktickým implementačním údajům.",
+        "health": "Během fyzické aktivity věnujte pozornost bokům a stehna.Správné protahování podporuje vaši lásku k pohybu a dobrodružství.",
+        "general": "Váš optimismus vám dnes dobře slouží, když je vyvážen realistickým plánováním.Hledání pravdy vede k cenným poznatkům, když je pronásledováno s otevřenou myslí."
+    },
+    "tarot_associations": {
+        "major_arcana": "Střídmost",
+        "explanation": "Temperance představuje rovnováhu, moderování a harmonickou kombinaci různých prvků - vlastnosti, které překvapivě doplňují rozsáhlou povahu Sagittarius.Tato karta ztělesňuje cestu k integraci vyšší pravdy s praktickou realitou, smícháním různých zkušeností do moudrosti a moderování, díky které je dlouhodobý průzkum udržitelný."
+    },
+    "compatibility_details": {
+        "aries": "Střelec a Aries vytvářejí nadšený, dynamický vztah jako požární znamení.Hodnotí nezávislosti i dobrodružství, které navzájem podporují růst a sdílejí vášeň pro životní zkušenosti.",
+        "taurus": "Střelec a Taurus čelí výzvám s různými hodnotami - Střelce touží po svobodě a rozmanitosti, zatímco Taurus hledá stabilitu a konzistenci.Pro kompatibilitu je nutný významný kompromis.",
+        "gemini": "Střelec a Gemini sdílejí lásku k znalostem, rozmanitosti a intelektuálnímu průzkumu.Tento kompatibilní zápas má stimulační konverzaci a respektuje nezávislost druhého.",
+        "cancer": "Střelec a rakovina přistupují k životu zcela odlišně - Střelec vypadá ven pro dobrodružství, zatímco rakovina vytváří bezpečnost doma.Nalezení rovnováhy mezi průzkumem a emocionálním spojením vyžaduje úsilí.",
+        "leo": "Sagittarius a Leo tvoří vynikající zápas o požární značku se sdíleným nadšením a nadšením na celý život.Oba jsou velkorysí, srdečné a oceňují nezávislý duch a kreativitu druhého.",
+        "virgo": "Střelec a Panna představují různé světonázory - Sagittariusova široká perspektiva versus podrobné zaměření Panny.Vzájemný respekt k těmto doplňkovým přístupům je nezbytný pro kompatibilitu.",
+        "libra": "Střelec a Váhy sdílejí intelektuální zájmy, sociální povahu a optimismus.Tento kompatibilní zápas se těší zkoumání nápadů a zkušeností společně a vyrovnává Libraho touhu po harmonii se Sagittariusovým hledáním pravdy.",
+        "scorpio": "Střelce a Scorpio čelí výzvám s různými emocionálními styly - Střelcovská otevřenost versus soukromí Scorpio.Pochopení těchto základních rozdílů je pro spojení zásadní.",
+        "sagittarius": "Dva Sagittariáni vytvářejí nadšený vztah milující svobodu plný dobrodružství a filozofického průzkumu.Chápují navzájem potřebu nezávislosti, ale mohou postrádat stabilitu bez námahy.",
+        "capricorn": "Střelec a Kozoroh přinášejí doplňkové silné stránky - Střelcova vize a praktičnost Kozoroha.Tato kombinace může být silná, když oceňují jejich různé přístupy k životu.",
+        "aquarius": "Střelec a Vodnář sdílejí intelektuální kompatibilitu, nezávislost a humanitární hodnoty.Tento harmonický zápas respektuje individuální svobodu a zároveň zkoumá nekonvenční myšlenky dohromady.",
+        "pisces": "Střelec a Ryby se spojují prostřednictvím sdíleného idealismu a duchovních zájmů.Mohou navzájem inspirovat růst, přičemž Střelec poskytuje směr Piscesových snů a ryb nabízejících emocionální hloubku filozofii Sagittarius."
+    },
+    "astrological_influences": {
+        "sun_in": "Slunce v Střelci přináší optimismus, lásku k svobodě a hledání smyslu.Přistupujete k životu s nadšením a snažíte se rozšířit své obzory prostřednictvím různých zkušeností a znalostí.",
+        "moon_in": "Měsíc v Střelci vytváří emocionální potřeby soustředěné na svobodu, pravdu a dobrodružství.Vaše pocity jsou vyjádřeny otevřeně a upřímně a potřebujete prostor pro emoční průzkum a růst.",
+        "rising": "Sagittarius Rising vám dává vzhled nadšení, otevřenosti a dobrodružného ducha.Jiní vás vidí jako optimistické, přímé a filozoficky smýšlející z prvního setkání."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Rozvoj sledování a konzistence",
+            "Vyvážení poctivosti s takty",
+            "Správa neklidu a zaměření",
+            "Uzemnění velkých nápadů v praktické realitě",
+            "Přijímání nezbytných omezení a povinností"
+        ],
+        "growth_opportunities": [
+            "Použití rozsáhlé vize k inspiraci pozitivní změny",
+            "Rozvíjení moudrosti prostřednictvím různých zkušeností",
+            "Přemostění kulturních a filozofických dělení",
+            "Výuka a sdílení znalostí s nadšením",
+            "Nalezení svobody v rámci závazku"
+        ],
+        "affirmations": [
+            "Sleduji své závazky s nadšením",
+            "Vyjadřuji pravdu s poctivostí i soucitem",
+            "Vyvažuji dobrodružství se stabilitou",
+            "Můj optimismus vytváří skutečné příležitosti",
+            "Zjistil jsem, že význam v každodenním životě i Grand Adventures"
+        ]
+    },
+    "life_path": {
+        "purpose": "Jednotlivci Střelců mají často poslání rozšířit vědomí, prozkoumat pravdu a inspirovat ostatní optimismem a vizí.Jejich účel zahrnuje porušení hranic, spojování různých perspektiv a nalezení smyslu ve velkém dobrodružství života.",
+        "life_lessons": [
+            "Naučit se vyrovnat svobodu s odpovědností",
+            "Rozvoj moudrosti integrací různých zkušeností",
+            "Nalezení pravdy, která přesahuje kulturní a filozofické rozdíly",
+            "Přeměňování optimismu na praktické, trvalé jednání",
+            "Objevení, že skutečná svoboda pochází z vnitřního mistrovství, nikoli vnějších okolností"
+        ],
+        "spiritual_growth": "Duchovní vývoj pro Střelce zahrnuje nalezení sjednocené pravdy mimo dogma a spojování abstraktní filozofie s živou zkušeností.Praktiky, které prozkoumají tradice moudrosti z více kultur, integrují fyzické pohyb s duchovním hledáním a převádějí inspiraci na konzistentní jednání, přispívají k duchovnímu evoluci."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Střelcové děti jsou obvykle nadšené, zvědavé a čestné od raného věku.Často projevují raný zájem o učení, zkoumání venku a kladení velkých otázek o životě, zatímco nelíbí omezení a příliš strukturovaná prostředí.",
+            "parenting_advice": "Poskytněte spoustu příležitostí k průzkumu a učení a zároveň učíte hodnotu dokončení toho, co začínají.Odpovězte na jejich filozofické otázky zamyšleně a povzbuzujte jejich optimismus a zároveň jim pomáhají rozvíjet praktické dovednosti pro nasměrování jejich velkých nápadů."
+        },
+        "in_friendship": {
+            "friendship_style": "Přátelé Střetců jsou nadšení, loajální a inspirativní.Organizují dobrodružství, velkoryse sdílejí znalosti a přinášejí přátelství optimismus a poctivost, i když někdy mohou na sólové úkoly zmizet.",
+            "ideal_friends": "Střelec se daří s přáteli, kteří sdílejí svou lásku k růstu a průzkumu a zároveň respektují jejich potřebu nezávislosti.Oceňují přátelství, která kombinují intelektuální stimulaci, sdílené dobrodružství a autentickou konverzaci."
+        },
+        "shadow_side": {
+            "potential_issues": "Když je Střelec nevyvážený, může být kázaný, přeháněl pravdu, dávat sliby, že nemohou udržet, nebo se vyhýbat odpovědnosti neustálým pohybem.Jejich optimismus se může proměnit v bezohlednost a jejich upřímnost může postrádat soucit.",
+            "growth_path": "Osobní růst pro Sagittarius zahrnuje rozvoj zaměření a sledování, zmírnění poctivosti k taktu a hledání způsobů, jak udržet svobodu v rámci závazku, spíše než se mu zcela vyhýbat."
+        }
+    },
+    "seasonal_influences": {
+        "winter_approach": "Střelec, který se narodil jako podzimní přechody do zimy, ztělesňuje rozsáhlé hledání světla během ztmavnutí.Toto načasování naplňuje Sagittariuse přirozeným optimismem, hledáním vyšší pravdy a touhou vidět mimo okamžitá omezení širších obzorů.",
+        "mutable_quality": "Jako proměnlivé znamení představuje Střelec, který se mění adaptabilita a integraci.Tato pozice jim poskytuje filozofickou flexibilitu, schopnost syntetizovat rozmanité perspektivy a schopnost transformovat zážitek na moudrost."
+    },
+    "elemental_analysis": {
+        "fire_element_influence": "Požární prvek dává Střelci jejich charakteristické nadšení, optimismus a rozsáhlou energii.Oheň představuje inspiraci, spiritualitu a transformační sílu vidění a víry.",
+        "fire_balance": "Vyvážený oheň přináší inspiraci, nadšení a odvahu prozkoumat nové území.Nadměrný oheň může vést k neklidu, nadměrné důvěře a rozptýlené energii, zatímco nedostatečný oheň může vést ke ztrátě inspirace, cynismu nebo nedostatku víry v možnosti."
+    },
+    "planetary_rulership": {
+        "jupiter_influence": "Jupiter, planeta expanze, hojnost a vyšší učení, pravidla Střelce.Tento planetární vliv vysvětluje optimismus znamení, lásku k znalostem, filozofickou povahu a schopnost vidět větší obraz po okamžitých okolnostech.",
+        "jupiter_aspects": "Pozice a aspekty Jupiteru v žebříčku narození jednotlivce významně ovlivňují to, jak je vyjádřena energie Střelce.Silné aspekty Jupiteru zvyšují vidění, štěstí a expanzivitu, ale mohou také zvýšit tendence k nadměrnému nebo nadměrné důvěře."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "V dnešní globální, informační ekonomice vyniká Střelce v mezinárodním rozvoji podnikání, mezikulturním poradenstvím, online vzděláváním, vytvářením cestovního obsahu a oblastí vyžadujících mezioborovou vizi a optimistické inovace.",
+        "relationship_in_modern_context": "Moderní vztahy těží z poctivosti a flexibility Střelce v éře měnících se paradigmat vztahů.Jejich pohodlí s rozmanitostí a schopností udržovat nezávislost v rámci spojení jim dobře slouží s datováním digitálního věku a globálními vztahy."
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "sign": "Taurus",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/taurus.svg",
+    "local_name": "Byk",
+    "date_range": "20 kwietnia - 20 maja",
+    "element": "Ziemia",
+    "ruling_planet": "Wenus",
+    "symbol": "Byk",
+    "lucky_numbers": [
+        "2",
+        "6",
+        "9",
+        "12",
+        "24"
+    ],
+    "lucky_colors": [
+        "Zielony",
+        "Różowy",
+        "Niebieski"
+    ],
+    "lucky_days": [
+        "Piątek",
+        "Poniedziałek"
+    ],
+    "lucky_stones": [
+        "Szmaragd",
+        "Rose Quartz",
+        "Jadeit"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Pacjent",
+            "Niezawodny",
+            "Praktyczny",
+            "Oddany",
+            "Odpowiedzialny",
+            "Stabilny",
+            "Uporczywy"
+        ],
+        "weaknesses": [
+            "Uparty",
+            "Zaborczy",
+            "Bezkompromisowy",
+            "Nieelastyczny",
+            "Materialistyczny",
+            "Odporny na zmiany"
+        ]
+    },
+    "personality": {
+        "overview": "Taurus jest drugim znakiem zodiaku, symbolizujące stabilność, zmysłowość i niezłomność.Osoby Byka są znane z uporczywej, zdeterminowanej natury i miłości do wygody, piękna i luksusu.Są budowniczymi zodiaku, tworząc solidne fundamenty dla ich życia i otaczających ich osób.",
+        "detailed_traits": [
+            "Silna etyka pracy z niezwykłą siłą pozostającą",
+            "Docenianie piękna, sztuki i przyjemności zmysłów",
+            "Niezwykle lojalne i niezawodne w związkach",
+            "Pacjent i zdeterminowany w osiąganiu celów",
+            "Praktyczne i ugruntowane podejście do życia",
+            "Ostrożne i metodyczne w podejmowaniu decyzji",
+            "Odporny na niepotrzebne zmiany lub ryzyko",
+            "Głęboko związane z naturą i światem fizycznym",
+            "Doskonałe umiejętności zarządzania zasobami",
+            "Preferuje stabilność i bezpieczeństwo we wszystkich aspektach życia"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Osoby Taurusa są oddani, zmysłowi i lojalni partnerzy, którzy cenią długoterminowe relacje.Wyrażają miłość poprzez fizyczne dotyk, praktyczne wsparcie i niezachwiane zaangażowanie, a nie wielkie gesty lub pokazy emocjonalne.",
+        "compatibility": {
+            "most_compatible": [
+                "Panna",
+                "Koziorożec",
+                "Rak",
+                "Ryby"
+            ],
+            "least_compatible": [
+                "Lew",
+                "Wodnik",
+                "Skorpion"
+            ]
+        },
+        "relationship_advice": "Osoby Taurusa muszą pracować nad elastycznością i kompromisem w związkach.Unikaj zaborczości i staraj się być bardziej otwarty na zmiany i nowe doświadczenia.Wyrażaj swoje emocje bardziej otwarcie niż butelkuj je aż do osiągnięcia punktu przełomowego.",
+        "love_style": [
+            "Zmysłowy i fizycznie czuły",
+            "Ceni stabilność i bezpieczeństwo w relacjach",
+            "Powolne zaufanie, ale głęboko lojalne",
+            "Wyraża miłość poprzez praktyczne akty oddania",
+            "Zwykle jest zaborczy i zazdrosny, gdy jest niepewny",
+            "Preferuje przewidywalne, wygodne rutyny z partnerem",
+            "Ceni czas czas na wielkie gesty"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Osoby Byka wyróżniają się w karierze, które oferują stabilność, wymierne wyniki i stały wzrost.Mają ogromną siłę pobytu i mogą uporczywie pracować nad długoterminowymi celami bez utraty koncentracji.",
+        "suitable_careers": [
+            "Finanse i bankowość",
+            "Zarządzanie nieruchomościami i nieruchomościami",
+            "Rolnictwo i ogrodnictwo",
+            "Kulinarny przemysł i branża spożywcza",
+            "Projektowanie wnętrz i architektura",
+            "Towary luksusowe i handel detaliczny",
+            "Muzyka i sztuka",
+            "Masaż terapii i dobrego samopoczucia",
+            "Budownictwo i kunszt",
+            "Rachunkowość i planowanie finansowe"
+        ],
+        "financial_habits": "Osoby Taurusa są zazwyczaj doskonałe z pieniędzmi, mają tendencję do mądrego oszczędzania i inwestowania.Mają naturalny talent do gromadzenia bogactwa poprzez pacjentów, długoterminowe strategie, a nie ryzykowne przedsięwzięcia.Mogą jednak od czasu do czasu oddawać się luksusowym zakupom.",
+        "work_style": [
+            "Metodyczne i dokładne podejście",
+            "Woli jasne instrukcje i określone oczekiwania",
+            "Doskonałe w przestrzeganiu zobowiązań",
+            "Odporny na Microromanagement",
+            "Wartości namacalne wyniki w stosunku do abstrakcyjnych pojęć",
+            "Woli stabilne środowiska pracy z minimalnymi niespodziankami",
+            "Niezwykle niezawodny i punktualny"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Taurus rządzi szyją, gardłem i tarczycy.Zazwyczaj pobłogosławione silną konstytucją i dobrą wytrzymałością, osoby z Byk zwykle cieszą się dobrym zdrowiem fizycznym, gdy zachowują równowagę i unikają nadmiernej nędzy.",
+        "common_health_issues": [
+            "Problemy z gardłem i problemy z tarczycą",
+            "Ból szyi i sztywność",
+            "Problemy dentystyczne",
+            "Przybieranie na wadze z miłości do dobrego jedzenia",
+            "Kwestie trawienne ze stresu lub nadmiernego pobłażania",
+            "Upór prowadzący do problemów z elastycznością"
+        ],
+        "wellness_advice": "Utrzymuj równowagę w swojej diecie i regularnie ćwicz, aby uniknąć tendencji do nadmiernego pobłażania.Ćwicz ćwiczenia elastyczności, aby przeciwdziałać sztywności fizycznej i psychicznej.Spędź czas w naturze, aby przywrócić energię elementu Ziemi.",
+        "exercise_preferences": [
+            "Ogrodnictwo i zajęcia na świeżym powietrzu",
+            "Joga i rozciąganie",
+            "Chodzenie w naturze",
+            "Trening siłowy i podnoszenie ciężarów",
+            "Tai Chi i inne praktyki uziemienia"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 wnosi stabilność i wzrost materialny dla osobników Byka.Twoje uporczywe wysiłki w poprzednich latach zaczynają wykazywać wymierne wyniki.Równowaga między poświęceniem pracy a przyjemnościami sensorycznymi tworzy satysfakcjonujący rytm życia.",
+            "love": "Relacje pogłębiają się poprzez wspólne zmysłowe doświadczenia i praktyczne wsparcie.Pojedyncze Taurean mogą spotkać potencjalnych partnerów poprzez interesy kreatywne lub kulinarne.Istniejące relacje wzmacniają się z ponownym uznaniem dla niezawodności.",
+            "career": "Postęp zawodowy odbywa się poprzez wykazanie niezawodności i umiejętności praktycznych.Twoja zdolność do tworzenia namacalnych rezultatów zyskuje uznanie od przywództwa.Możliwości wzrostu finansowego powstają poprzez staranne zarządzanie zasobami.",
+            "health": "Skoncentruj się na pielęgnacji szyi i gardła dzięki odpowiedniej ergonomii i wokalnego odpoczynku.Fizyczne samopoczucie poprawia się dzięki spójnym, delikatnym rutynom ćwiczeń.Zwróć szczególną uwagę na utrzymanie zdrowych nawyków żywieniowych, które odżywiają bez nadmiaru.",
+            "finances": "Stały wzrost finansowy poprzez konserwatywne podejścia inwestycyjne.Rozważ równowagę między luksusowymi odpustami i budowaniem długoterminowego bezpieczeństwa.Inwestycje związane z własnością lub sztuką wykazują szczególną obietnicę."
+        },
+        "2026": {
+            "overall": "2026 podkreśla komunikację i lokalne połączenia dla Byka.Twoja praktyczna mądrość znajduje cenne wyrażenie w codziennych interakcjach.Znalezienie równowagi między słuchaniem a dzieleniem tworzy harmonijne relacje w bezpośrednim środowisku.",
+            "love": "Romantyczne więzi wzmacniają się poprzez lepszą komunikację i krótkie wspólne przygody.Partnerzy doceniają twoją nowo odkrytą ekspresję i ciekawość.Pojedyncze Taurean mogą znaleźć znaczące powiązania poprzez działania sąsiedzkie lub dążenia edukacyjne.",
+            "career": "Możliwości pisania, mówienia lub szkolenia zwiększają swoją pozycję zawodową.Twoja zdolność do wyjaśnienia złożonych pojęć w dostępnych terminach zapewnia rozpoznanie.Rozważ rozwijanie umiejętności komunikacyjnych, które prezentują Twoją praktyczną wiedzę.",
+            "health": "Elastyczność oddechowa i ramion zasługuje na uwagę.Krótkie, częste przerwy ruchu podczas pracy poprawiają ogólne samopoczucie.Eksploruj praktyki oddychania, które łączą relaksację ze zwiększoną wydajnością tlenu.",
+            "finances": "Lokalne możliwości ekonomiczne okazują obietnica.Rozważ inwestycje w rozwój sąsiedztwa lub przedsiębiorstwa regionalne.Krótkoterminowe cele finansowe osiągnięte w tym roku powodują tempo dla większych przyszłych projektów."
+        },
+        "2027": {
+            "overall": "2027 koncentruje się na fundamentach domowych i rodzinnych dla Byka.Ważne staje się tworzenie przestrzeni opiekuńczych, które odzwierciedlają twoje wartości.Twoje naturalne talenty do uprawy piękna i wygody przynoszą uzdrowienie otaczającym cię ludzi.",
+            "love": "Harmonia krajowa staje się kluczowa dla satysfakcji relacji.Partnerzy doceniają twoje wysiłki na rzecz tworzenia pięknych i wygodnych wspólnych przestrzeni.Pojedyncze Taurean mogą znaleźć powiązania poprzez spotkania domowe lub wprowadzenie rodzinne.",
+            "career": "Możliwości pracy z domu są zgodne z pragnieniem komfortu i wydajności.Twoja zdolność do tworzenia środowisk produkcyjnych zapewnia profesjonalne zalety.Rozważ karierę obejmującą projektowanie wnętrz, usługi domowe lub wsparcie rodzinne.",
+            "health": "Zdrowie trawienne korzysta z przygotowanych do domu posiłków i uważnego jedzenia.Tworzenie sanktuarii snu poprawia jakość odpoczynku.Ogrodnictwo lub praktyki ruchu domowego przynoszą zarówno korzyści fizyczne, jak i emocjonalne.",
+            "finances": "Inwestycje nieruchomości lub ulepszenia domu przynoszą znaczne zwroty.Rozważ ustanowienie środków awaryjnych na bezpieczeństwo rodziny.Nieoczekiwane zyski finansowe mogą wynikać z powiązań rodzinnych lub uznania nieruchomości."
+        },
+        "2028": {
+            "overall": "2028 przynosi kreatywne renesans i radosne wyrażanie siebie dla Byka.Twoje talenty artystyczne są uznawane i uznania.Równowaga między zdyscyplinowaną praktyką a spontaniczną zabawą prowadzi do niezwykłego osobistego spełnienia.",
+            "love": "Romantyczne relacje rozwijają się dzięki wspólnym twórczemu zajęciom i zabawnej interakcji.Partnerzy doceniają twoją autentyczną ekspresję i ciepło.Pojedyncze Taurean zwracają uwagę poprzez artystyczne przedsięwzięcia lub prawdziwy entuzjazm.",
+            "career": "Kreatywne pola oferują nieoczekiwane możliwości awansu.Twoja zdolność do łączenia piękna i funkcjonalności zyskuje profesjonalne uznanie.Rozważ przedsięwzięcia przedsiębiorcze, które pokazują twoją unikalną wizję estetyczną.",
+            "health": "Obszary serca i górnego tyłu korzystają z działań, które przynoszą radość i śmiech.Krążenie poprawia się poprzez regularny ruch, który wydaje się przyjemny niż obowiązkowy.Sama twórcza ekspresja staje się praktyką uzdrawiającą.",
+            "finances": "Inwestycje w sztukę, rozrywkę lub edukację dzieci.Rozważ zrównoważone podejścia do spekulatywnych przedsięwzięć, mieszając konserwatywne zasoby z wybranymi obliczonymi ryzykiem.Kreatywne projekty poboczne mogą stać się nieoczekiwanym źródłem dochodów."
+        },
+        "2029": {
+            "overall": "2029 podkreśla optymalizację usług i zdrowia dla Byka.Twoje praktyczne podejście do dobrego samopoczucia powoduje zrównoważoną poprawę stylu życia.Znalezienie równowagi między pomaganiem innym a utrzymaniem osobistych granic przynosi spełnienie.",
+            "love": "Relacje pogłębiają się poprzez wzajemne wsparcie podczas codziennych wyzwań.Partnerzy doceniają twoją niezawodną obecność i praktyczną pomoc.Pojedyncze Taurean mogą znaleźć powiązania poprzez działania w zakresie dobrego samopoczucia lub pracy wolontariuszy.",
+            "career": "Zdrowie, usługi lub pola analityczne oferują możliwości awansu.Twoja dbałość o szczegóły i poprawa procesów zapewnia profesjonalne uznanie.Rozważ role, które pozwalają tworzyć bardziej wydajne systemy w organizacjach.",
+            "health": "Zdrowie trawienne i jelit wymagają skupienia uwagi.Praktyczne, konsekwentne procedury odnowy biologicznej przynoszą znaczące ulepszenia.Przeglądaj związek między odżywianiem, zdrowiem jelit i samopoczuciem emocjonalnym.",
+            "finances": "Inwestycje w technologie zdrowotne lub zyskuje zyski.Rozważ ustanowienie dedykowanych funduszy na dobre samopoczucie i opiekę zapobiegawczą.Zmniejszenie marnotrawstwa wydatków stwarza zaskakującą swobodę finansową."
+        },
+        "2030": {
+            "overall": "2030 zapewnia koncentrację w związku i możliwości partnerstwa dla Byka.Twoja niezawodność i praktyczność przyciągają wspólne przedsięwzięcia.Równowaga między niezależnością a współzależnością tworzy harmonijne powiązania we wszystkich obszarach życia.",
+            "love": "Związane relacje osiągają nowe głębiny zrozumienia i wzajemne wsparcie.Partnerzy doceniają twoją niezłomność i zmysłową obecność.Pojedyncze Taurean przyciągają poważne perspektywy związków poprzez autentyczną autoprezentację.",
+            "career": "Partnerstwa biznesowe lub relacje z klientami oferują możliwości rozwoju.Twoja zdolność do tworzenia stanowisk zwycięskich przynosi profesjonalny postęp.Rozważ wspólne przedsięwzięcia, które łączą uzupełniające się mocne strony.",
+            "health": "Obszary nerek i dolnej części pleców zasługują na opiekę zapobiegawczą.Działania równowagi poprawiają ogólną stabilność i zapobiegają obrażeniom.Związek między harmonią relacji a dobrobytem fizycznym staje się widoczny.",
+            "finances": "Wspólne przedsięwzięcia lub wspólne inwestycje wykazują szczególną obietnicę.Rozważ refinansowanie lub restrukturyzację istniejących długów na lepsze warunki.Nieoczekiwane możliwości finansowe pojawiają się poprzez partnerstwa biznesowe lub umowy."
+        },
+        "2031": {
+            "overall": "2031 koncentruje się na transformacji i zarządzaniu zasobami dla Byka.Twoja zdolność do tworzenia wartości z przeoczonych aktywów przynosi nieoczekiwaną liczebność.Znalezienie komfortu przy naturalnych cyklach zakończenia i początków życia przynosi głęboką mądrość.",
+            "love": "Relacje intymne pogłębiają się poprzez podatność i autentyczne dzielenie się.Partnerzy doceniają twoją emocjonalną głębokość pod praktyką.Pojedyncze Taurean przyciągają potężne połączenia poprzez prawdziwą samoświadomość i uczciwość.",
+            "career": "Pola finansowe, terapeutyczne lub śledcze oferują możliwości awansu.Twoja zdolność do ożywienia walczących projektów zapewnia profesjonalne uznanie.Rozważ role obejmujące transformację zasobów lub zarządzanie kryzysem.",
+            "health": "Systemy reprodukcyjne i eliminacyjne korzystają z praktyk detoksykacji.Dobre samopoczucie psychologiczne poprawia się poprzez wyrażanie, a nie tłumienie emocji.Związek między uwalnianiem emocjonalnym a witalnością fizyczną staje się jasny.",
+            "finances": "Inwestycje w technologie recyklingu, odnowy lub transformacji są obiecujące.Rozważ restrukturyzację spadków lub kwestii ubezpieczeniowych dla optymalnej korzyści.Nieoczekiwane zyski finansowe mogą nastąpić poprzez rozwiązanie starych długów lub roszczeń."
+        },
+        "2032": {
+            "overall": "2032 wprowadza ekspansję filozoficzną i rozwój edukacyjny dla Byka.Twoja praktyczna mądrość znajduje zastosowanie w szerszych kontekstach.Doświadczenia podróżne lub wielokulturowe oferują nowe perspektywy, które poprawiają twoje naturalnie ugruntowane podejście do życia.",
+            "love": "Relacje rozszerzają się dzięki wspólnym uczeniu się przygodom i filozoficznej eksploracji.Partnerzy doceniają twoją chęć odkrywania nowego terytorium przy jednoczesnym zachowaniu podstawowych wartości.Pojedyncze Taurean przyciągają powiązania poprzez edukacyjne zajęcia lub podróże.",
+            "career": "Nieoczekiwanie pojawiają się nauczanie, publikowanie lub międzynarodowe możliwości biznesowe.Twoja zdolność do uczynienia abstrakcyjnych koncepcji praktycznych zapewnia profesjonalne uznanie.Rozważ role, które pozwalają podzielić się swoją mądrością szerszym odbiorcom.",
+            "health": "Elastyczność bioder i uda zasługuje na uwagę dzięki odpowiedniemu rozciąganiu.Badanie praktyk ruchu z różnych tradycji kulturowych przynosi korzyści.Związek między rozszerzonymi perspektywami a wolnością fizyczną staje się widoczny.",
+            "finances": "Inwestycje międzynarodowe lub przedsięwzięcia związane z edukacją są obiecujące.Rozważ dywersyfikację zasobów walutowych lub badanie rynków zagranicznych.Nieoczekiwane możliwości finansowe pojawiają się poprzez platformy publikowania lub dzielenia wiedzy."
+        },
+        "2033": {
+            "overall": "2033 podkreśla rozwój kariery i rozpoznawanie publicznego dla Byka.Twoje lata budowania wiedzy specjalistycznej i reputacji zakończą się znaczącymi osiągnięciami.Równowaga między ambicjami zawodowymi a osobistym spełnieniem stwarza zrównoważony sukces.",
+            "love": "Relacje korzystają z wzajemnego poparcia długoterminowych celów i ról publicznych.Partnerzy doceniają twoją determinację i uczciwość.Pojedyncze Taurean przyciągają połączenia za pośrednictwem sieci profesjonalnych lub pozycji kierowniczych społeczności.",
+            "career": "Pozycje przywódcze lub autorytety oferują znaczny postęp.Twoja zdolność do tworzenia namacalnych rezultatów w trudnych okolicznościach przynosi profesjonalne uznanie.Rozważ role, które pozwalają ustalić trwałe struktury lub systemy.",
+            "health": "Układ szkieletowy, zwłaszcza kolana i stawy, wymaga opieki zapobiegawczej.Ulepszenie postawy przynosi wiele korzyści zdrowotnych.Związek między właściwym autorytetem w twoim życiu a wyrównaniem fizycznym staje się jasny.",
+            "finances": "Długoterminowe strategie inwestycyjne przynoszą znaczne zwroty.Rozważ ustanowienie funduszy emerytalnych lub starszych.Nieoczekiwane zyski finansowe mogą wynikać z postępu zawodowego lub uznania."
+        },
+        "2034": {
+            "overall": "2034 wnosi związek społeczny i zaangażowanie humanitarne dla Byka.Twoje praktyczne podejście do tworzenia wpływu społeczności generuje znaczące zmiany.Znalezienie równowagi między wizjonerskimi ideałami a ugruntowanymi działaniami prowadzi do niezwykłych zbiorowych osiągnięć.",
+            "love": "Relacje kwitną, gdy wspólne wartości społeczne stają się punktami centralnymi.Partnerzy doceniają twój praktyczny wkład w przyczyny, które oboje cenisz.Pojedyncze Taurean przyciągają powiązania poprzez zaangażowanie społeczności lub działania grupowe.",
+            "career": "Pole non-profit, technologii lub zorientowane na społeczność oferują możliwości awansu.Twoja zdolność do manifestowania namacalnych wyników z idealistycznych wizji przynosi profesjonalne uznanie.Rozważ role, które łączą innowacje z praktyczną wdrożeniem.",
+            "health": "Krążenie i siła kostki zasługują na uwagę.Znalezienie programów ćwiczeń opartych na społeczności poprawia spójność i przyjemność.Związek między dobrostanem społecznym a zdrowiem fizycznym staje się widoczny.",
+            "finances": "Inwestycje w zrównoważone technologie lub przedsiębiorstwa społeczne są obiecujące.Rozważ zrównoważone podejście do dawania charytatywnego, które tworzą zarówno wpływ, jak i zalety podatkowe.Nieoczekiwane możliwości finansowe powstają poprzez połączenia sieciowe."
+        },
+        "2035": {
+            "overall": "2035 koncentruje się na duchowym wzroście i wewnętrznym pokoju dla Byka.Twoje połączenie z naturalnymi rytmami pogłębia intuicyjną mądrość.Znalezienie równowagi między materialnym komfortem a duchowym spełnieniem tworzy życie niezwykłego bogactwa i znaczenia.",
+            "love": "Relacje pogłębiają się poprzez wspólne praktyki duchowe lub ciche towarzystwo.Partnerzy doceniają twoją podstawę i spokojną obecność.Pojedyncze Taurean przyciągają uduchowione połączenia poprzez autentyczną ekspresję i wewnętrzną pracę.",
+            "career": "Uzdrawianie, poradnictwo lub twórcze pola oferują satysfakcjonujące możliwości.Twoja zdolność do tworzenia przestrzeni sanktuarium zapewnia profesjonalne uznanie.Rozważ role, które pozwalają łączyć praktyczne umiejętności z intuicyjnym zrozumieniem.",
+            "health": "Układ odpornościowy i stopy wymagają szczególnej uwagi.Praktyki odbudowujące poprawiają ogólną odporność i witalność.Związek między duchowym dobrobytem a zdrowiem fizycznym staje się coraz bardziej jasny.",
+            "finances": "Inwestycje dostosowane do wartości duchowych lub etycznych są obiecujące.Rozważ uproszczenie kwestii finansowych dla większego spokoju.Nieoczekiwane zasoby pojawiają się w razie potrzeby, wzmacniając zaufanie do naturalnej obfitości."
+        }
+    },
+    "famous": [
+        {
+            "name": "Dwayne Johnson",
+            "birth_date": "2 maja 1972 r",
+            "description": "Aktor i były zapaśnik znany jako „Rock”, przykładem siły, wytrwałości i etyki pracy Byka"
+        },
+        {
+            "name": "Adele",
+            "birth_date": "5 maja 1988 r",
+            "description": "Piosenkarz nagradzany Grammy o potężnym głosie, pokazując połączenie Taurusa z gardłem i zmysłowe uznanie piękna"
+        },
+        {
+            "name": "Audrey Hepburn",
+            "birth_date": "4 maja 1929 r",
+            "description": "Kultowa aktorka i humanitarna, reprezentująca uznanie Taurusa dla piękna, niezawodności i determinacji"
+        },
+        {
+            "name": "William Shakespeare",
+            "birth_date": "23 kwietnia 1564",
+            "description": "Rewolucyjny dramaturg i poeta, pokazujący twórczą wytrzymałość i zdolność do budowania trwałych dzieł"
+        },
+        {
+            "name": "Królowa Elżbieta II",
+            "birth_date": "21 kwietnia 1926 r",
+            "description": "Najdłużej reigningowy monarcha w Wielkiej Brytanii, ucieleśniając lojalność, wytrwałość i zaangażowanie Taurusa"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dzisiaj skup się na wyrażaniu uznania dla osób, na których ci zależy.Małe gesty uczucia mogą wzmocnić twoje więzi.",
+        "career": "Twoja wytrwałość zostanie dziś nagrodzona.Skoncentruj się na swoich zadaniach i unikaj zakłóceń.",
+        "health": "Zwróć uwagę na szyję i ramiona.Zrób przerwy z pracy komputerowej, aby rozciągnąć i rozluźnić te obszary.",
+        "general": "Dzisiaj jest dobre dla zajęć uziemiających, które łączą Cię z twoimi fizycznymi zmysłami.Ciesz się przyrodą, dobrym jedzeniem lub piękną muzyką."
+    },
+    "tarot_associations": {
+        "major_arcana": "Hierofant",
+        "explanation": "Hierofant reprezentuje tradycję, konwencjonalną mądrość i ustalone struktury - cechy, które rezonują z uznaniem Taurusa dla stabilności i sprawdzonych podejść.Ta karta uosabia również poszukiwanie duchowego znaczenia poprzez ziemskie doświadczenie."
+    },
+    "compatibility_details": {
+        "aries": "Byk i Baran mogą stworzyć zrównoważony związek z inicjatywą Barana uzupełniającą stabilność Byka.Oba są jednak uparte i muszą nauczyć się iść na kompromis.",
+        "taurus": "Dwie osoby Taurus tworzą niezwykle stabilny i wygodny związek.Rozumieją nawzajem potrzebę bezpieczeństwa, ale mogą stać się zbyt ustawione na ich drodze bez wpływu z zewnątrz.",
+        "gemini": "Taurus i Gemini stoją przed wyzwaniami z powodu różnych podejść do życia.Taurus ceni stabilność, podczas gdy Gemini pragnie różnorodności i zmiany.",
+        "cancer": "Byk i rak mają głębokie uznanie dla bezpieczeństwa i komfortu, tworząc harmonijny i pielęgnujący związek z silnymi więźami emocjonalnymi.",
+        "leo": "Byk i Leo mogą walczyć z różnymi potrzebami - Leo chce podziwu, podczas gdy Byk szuka stabilności.Oba są uparte i muszą nauczyć się doceniać ich różnice.",
+        "virgo": "Byk i Panna tworzą praktyczny, harmonijny związek.Oba znaki Ziemi cenią stabilność i metodycznie podchodzą do życia, wspierając swoje cele.",
+        "libra": "Taurus i Waga dzielą się władzą Venus, powodując wzajemne uznanie dla piękna i harmonii.Jednak upór Taurusa może kolidować z pragnieniem równowagi.",
+        "scorpio": "Taurus i Scorpio tworzą intensywny, namiętny związek jako przeciwne znaki.Oba są głęboko lojalne, ale wyjątkowo uparte, tworząc walki o władzę.",
+        "sagittarius": "Byk i Strzelca stają przed wyzwaniami o różnych wartościach - Byk pragnie stabilności, podczas gdy Strzelca pragnie wolności i przygody.",
+        "capricorn": "Taurus i Koziorożca tworzą silny dopasowanie znaku Ziemi ze wspólnymi wartościami cierpliwości, praktyczności i ambicji.Tworzą solidne fundamenty razem.",
+        "aquarius": "Taurus i Wodnik walczą z fundamentalnymi różnicami - Taurus ceni tradycję, podczas gdy Wodnik obejmuje innowacje i niekonwencjonalność.",
+        "pisces": "Taurus i Ryby mogą tworzyć komplementarne relacje z Bykiem, zapewniając stabilność marzycielskiej natury Ryb, podczas gdy Ryby pomaga Taurus łączyć się z emocjami."
+    },
+    "astrological_influences": {
+        "sun_in": "Słońce w Byku przynosi cierpliwość, determinację i uznanie dla zmysłowych przyjemności.Doceniasz stabilność i podchodzisz do życia ze stałą wytrwałością.",
+        "moon_in": "Księżyc w Byku tworzy stabilność emocjonalną i potrzebę bezpieczeństwa.Twoje uczucia są stabilne i znajdziesz komfort w rutynowym i znajomym otoczeniu.",
+        "rising": "Rising Taurus daje wygląd stabilności i niezawodności.Inni uważają cię za ugruntowane, praktyczne, a czasem uparte."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Przezwyciężenie oporu wobec niezbędnych zmian",
+            "Rozwijanie elastyczności w myśleniu i zachowaniu",
+            "Zmniejszenie zaborczyźności w związkach",
+            "Równoważenie materialnych obaw związanych z duchowym wzrostem",
+            "Nauka bardziej otwarcie wyrażania emocji"
+        ],
+        "growth_opportunities": [
+            "Wykorzystanie wytrwałości w celu osiągnięcia znaczących celów",
+            "Rozwijanie zrównoważonych praktyk we wszystkich dziedzinach życia",
+            "Tworzenie piękna i harmonii w środowisku",
+            "Budowanie trwałych relacji poprzez lojalność",
+            "Łączenie głębokiego z przyrodą i światem fizycznym"
+        ],
+        "affirmations": [
+            "Przyjmuję pozytywne zmiany jako szansę na rozwój",
+            "Zrównoważę stabilność z elastycznością w moim podejściu do życia",
+            "Wyrażam swoje emocje jasno i szczerze",
+            "Doceniam obfitość podczas ćwiczenia umiaru",
+            "Moja wytrwałość pomaga mi stworzyć trwałą wartość na świecie"
+        ]
+    },
+    "life_path": {
+        "purpose": "Osoby Taurusa często mają misję tworzenia stabilności, piękna i zrównoważonej obfitości.Ich cel polega na budowaniu trwałych struktur, które zapewniają bezpieczeństwo sobie i innym.",
+        "life_lessons": [
+            "Uczenie się różnicy między zdrową trwałością a szkodliwym uporem",
+            "Zrozumienie prawdziwej wartości poza dobytkiem materialnym",
+            "Znalezienie bezpieczeństwa w obrębie, a nie wyłącznie w okolicznościach zewnętrznych",
+            "Równoważenie przyjemności z fizycznych z umiarem",
+            "Rozwijanie elastyczności przy jednoczesnym utrzymaniu podstawowych wartości"
+        ],
+        "spiritual_growth": "Rozwój duchowy dla Byku obejmuje przekroczenie materialnego przywiązania, a jednocześnie doceniając ziemskie piękno.Łączenie się z naturą, praktykowanie uważnych wrażeń i rozwijanie wewnętrznej stabilności przyczyniają się do duchowej ewolucji."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Dzieci Byk są zazwyczaj spokojne, cierpliwe i zdeterminowane od najmłodszych lat.Często wykazują silny związek z naturą, uznanie dla piękna oraz zamiłowanie do wygody i rutyny.",
+            "parenting_advice": "Zapewnij spójne rutyny i fizyczne przywiązanie.Uczyć elastyczności wraz z determinacją.Zachęcaj do kreatywnej ekspresji poprzez muzykę, sztukę lub gotowanie.Ustaw jasne oczekiwania i bądź cierpliwy z potrzebą zrozumienia praktycznej wartości lekcji."
+        },
+        "in_friendship": {
+            "friendship_style": "Przyjaciele Byka są lojalni, niezawodni i wspierający.Cenią długoterminowe przyjaźnie i pokazują swoją opiekę poprzez praktyczną pomoc i niezłomną obecność, a nie deklaracje emocjonalne.",
+            "ideal_friends": "Taurus rozwija się z przyjaciółmi, którzy doceniają ich niezawodność i nie wywierają na nich presji na ciągłą zmianę.Lubią przyjaźnie, które obejmują wspólne doświadczenia sensoryczne, takie jak dobre posiłki, muzyka lub czas w naturze."
+        },
+        "shadow_side": {
+            "potential_issues": "Gdy niezrównoważony Byk może stać się nadmiernie materialistyczny, uparty do tego samego siebie lub pobłażliwego w fizyczne przyjemności.Ich potrzeba bezpieczeństwa może objawiać się jako zaborczość lub opór wobec niezbędnego wzrostu.",
+            "growth_path": "Osobisty rozwój Taurusa polega na nauce przyjmowania zmian jako naturalnej części stabilności, rozwoju wewnętrznego bezpieczeństwa, który nie zależy od posiadłości, i znalezieniu równowagi między przyjemnością a umiarem."
+        }
+    },
+    "seasonal_influences": {
+        "spring_energy": "Urodzony w średniej sprężydzie, Byrus ucieleśnia energię wzrostu, rozkwitu i obfitości sezonu.Ten czas nasyca Byk naturalnym połączeniem z płodnością Ziemi i wydajnością produkcyjną.",
+        "fixed_quality": "Jako ustalony znak, Byk reprezentuje energię stabilizującą, która utrzymuje i rozwija to, co zostało zainicjowane.Ta pozycja zapewnia im ogromną siłę pozostania i talent do budowania trwałych konstrukcji."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "Element Ziemi nadaje Bykowi charakterystyczną praktyczność, zmysłowość i połączenie ze światem fizycznym.Ziemia reprezentuje stabilność, pożywienie i manifestację w materialnej formie.",
+        "earth_balance": "Zrównoważona Ziemia przynosi praktyczność, niezawodność i uziemienie.Nadmierna ziemia może prowadzić do uporu, materializmu i odporności na zmiany, podczas gdy niedobór ziemi może powodować odłączenie od rzeczywistości fizycznej."
+    },
+    "planetary_rulership": {
+        "venus_influence": "Wenus, planeta miłości, piękna i wartości, rządzi Byk.Ten wpływ planetarny wyjaśnia uznanie znaku dla przyjemności sensorycznych, sztuki i harmonii, a także skupienie się na tym, co naprawdę dla nich ma znaczenie.",
+        "venus_aspects": "Pozycja i aspekty Wenus na wykresie urodzeń jednostki znacząco wpływają na wyrażanie energii Byka.Silne aspekty Wenus zwiększają uznanie artystyczne i zmysłowość, ale mogą również zwiększać tendencje do pobłażania."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "W dzisiejszej, zmieniającej się gospodarce Taurus wyróżnia się tworzeniem zrównoważonych modeli biznesowych, etycznych luksusowych marek i integracji tradycyjnej kunsztu z nowoczesną technologią.",
+        "relationship_in_modern_context": "Współczesne relacje korzystają z lojalności i niezawodności Byta wśród kultury aplikacji randkowych.Ich ugruntowane podejście zapewnia stabilność, choć może być konieczne rozwinięcie komfortu dzięki wirtualnej komunikacji i relacjach na duże odległości."
+    }
+}

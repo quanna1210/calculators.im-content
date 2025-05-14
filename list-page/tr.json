@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "İpotek hesap makinesi",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Amortisman Kredisi Hesap Makinesi",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Ödeme Hesap Makinesi",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Faiz hesap makinesi",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Ertelenmiş Ödeme Kredisi Hesap Makinesi",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Önceden Belirlenmiş Tutar Kredi Hesap Makinesi",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI hesap makinesi",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR hesap makinesi",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Vücut Yağı Yüzdesi Hesap Makinesi",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Şifre jeneratörü",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Pace Hesap Makinesi",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Para birimi dönüştürücü",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "BAC Hesap Makinesi - Kan alkol konsantrasyonunuzu ücretsiz hesaplayın",
         "meta_description": "Kan alkol konsantrasyonunuzu içecekler, kilo ve zamana göre tahmin etmek için ücretsiz BAC hesap makinemizi kullanın - hızlı, basit ve çevrimiçi!",
         "meta_keyword": "BAC Calculator, Blood Alcohol Calculator, Alcohol Level Calculator, Drink Driving Calculator, Alcohol Consumption Calculator, Blood Alcohol Content Calculator, How to calculate Blood Alcohol Concentration (BAC), Online BAC Calculator for safe drinking limits, Estimate your BAC based on weight and drinks, Blood Alcohol Level Calculator for DUI risk, How long does alcohol stay in your system, Calculate BAC after drinking beer, wine, and whiskey, Best free online Blood Alcohol Calculator, BAC calculation Ülkeye göre formül ve yasal sınırlar.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Zodyak hesap makinesi",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Zodyak İşaret Hesap Makinesi | Doğum tablonuzun ne ortaya çıkardığını keşfedin",
+        "meta_description": "Zodyak işaretinizin sizin hakkınızda ne ortaya çıkardığını keşfedin. Hesap makinemiz, karakteriniz, ilişkileriniz ve kaderiniz hakkında bilgiler içeren doğru okumalar sağlar.",
+        "meta_keyword": "Zodyak İşaret Hesap Makinesi, Doğum Grafiği Hesap Makinesi, Zodyak İşaretim Nedir, Astroloji Doğum Grafiği, Ücretsiz Doğum Grafiği, Doğum Grafik Hesap Makinesi, Ay İşaret Hesap Makinesi, Bul Zodyak İşaretimi Bul Zodyak Uyumluluk Hesap Makinesi, Doğum Grafik Okuma, Astroloji Hesaplayıcı, Güneş Ayı Yükselen Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Askım Hesap Makinesi, Vedik Doğum Grafik Hesap Makinesi, Astrolojik Doğum Grafiği, Zodyak Bulucu, Zodyak İşareti, Doğum Günü Zodyak, Ücretsiz Doğum Grafiği, Doğum Süresi Hesap Makinesi, Tam Doğum Grafiği, Astroloji Grafik Hesap Makinesi, Zodyak İşareti Doğum Tarihi, Büyük Üç Hesap Makinesi, Doğru Doğum Grafik",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -1,0 +1,333 @@
+{
+    "sign": "Taurus",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/taurus.svg",
+    "local_name": "Toro",
+    "date_range": "20 aprile - 20 maggio",
+    "element": "Terra",
+    "ruling_planet": "Venere",
+    "symbol": "Toro",
+    "lucky_numbers": [
+        "2",
+        "6",
+        "9",
+        "12",
+        "24"
+    ],
+    "lucky_colors": [
+        "Verde",
+        "Rosa",
+        "Blu"
+    ],
+    "lucky_days": [
+        "Venerdì",
+        "Lunedi"
+    ],
+    "lucky_stones": [
+        "Smeraldo",
+        "Quarzo rosa",
+        "Giada"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Paziente",
+            "Affidabile",
+            "Pratico",
+            "Devoto",
+            "Responsabile",
+            "Stabile",
+            "Persistente"
+        ],
+        "weaknesses": [
+            "Testardo",
+            "Possessivo",
+            "Intransigente",
+            "Inflessibile",
+            "Materialistico",
+            "Resistente al cambiamento"
+        ]
+    },
+    "personality": {
+        "overview": "Il Toro è il secondo segno dello zodiaco, simboleggia la stabilità, la sensualità e la fermezza.Gli individui di Toro sono noti per la loro natura persistente e determinata e il loro amore per il comfort, la bellezza e il lusso.Sono i costruttori dello zodiaco, creando solide basi per la loro vita e quelli che li circondano.",
+        "detailed_traits": [
+            "Forte etica del lavoro con notevole potere di resistenza",
+            "Apprezzamento di bellezza, arte e piaceri dei sensi",
+            "Estremamente leale e affidabile nelle relazioni",
+            "Paziente e determinato nel raggiungimento degli obiettivi",
+            "Approccio pratico e radicato alla vita",
+            "Cauto e metodico nel processo decisionale",
+            "Resistente a cambiamenti o rischi inutili",
+            "Profondamente connesso alla natura e al mondo fisico",
+            "Ottimi capacità di gestione delle risorse",
+            "Preferisce stabilità e sicurezza in tutti gli aspetti della vita"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Gli individui di Toro sono partner devoti, sensuali e fedeli che apprezzano le relazioni a lungo termine.Esprimono amore attraverso il tocco fisico, il supporto pratico e l'impegno incrollabile piuttosto che grandi gesti o display emotivi.",
+        "compatibility": {
+            "most_compatible": [
+                "Vergine",
+                "Capricorno",
+                "Cancro",
+                "Pesci"
+            ],
+            "least_compatible": [
+                "Leo",
+                "Acquario",
+                "Scorpione"
+            ]
+        },
+        "relationship_advice": "Gli individui di Toro devono lavorare sulla flessibilità e sul compromesso nelle relazioni.Evita la possessività e cerca di essere più aperto al cambiamento e alle nuove esperienze.Esprimi le tue emozioni più apertamente piuttosto che imbottigliarle fino a raggiungere un punto di rottura.",
+        "love_style": [
+            "Sensuale e fisicamente affettuoso",
+            "Valori di stabilità e sicurezza nelle relazioni",
+            "Rallentata a fidarsi ma profondamente leale una volta commessa",
+            "Esprime amore attraverso atti pratici di devozione",
+            "Tende ad essere possessivo e geloso quando non è sicuro",
+            "Preferisce routine prevedibili e comode con il partner",
+            "Valori il tempo di qualità insieme su grandi gesti"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Gli individui di Toro eccellono nelle carriere che offrono stabilità, risultati tangibili e crescita costante.Hanno un enorme potere di resistenza e possono lavorare persistentemente verso obiettivi a lungo termine senza perdere la concentrazione.",
+        "suitable_careers": [
+            "Finanza e banca",
+            "Gestione immobiliare e proprietà",
+            "Agricoltura e orticoltura",
+            "Industria artistica e alimentare culinaria",
+            "Interior design e architettura",
+            "Beni di lusso e vendita al dettaglio",
+            "Musica e arti",
+            "Terapia di massaggio e benessere",
+            "Costruzione e artigianato",
+            "Contabilità e pianificazione finanziaria"
+        ],
+        "financial_habits": "Gli individui di Toro sono in genere eccellenti con il denaro, che tendono a risparmiare e investire saggiamente.Hanno un talento naturale per l'accumulo di ricchezza attraverso strategie a lungo termine del paziente piuttosto che iniziative rischiose.Tuttavia, possono occasionalmente indulgere in acquisti di lusso.",
+        "work_style": [
+            "Metodico e accurato nell'approccio",
+            "Preferisce istruzioni chiare e aspettative definite",
+            "Eccellente a seguire gli impegni",
+            "Resistente al microgestione",
+            "Valori risultati tangibili su concetti astratti",
+            "Preferisce ambienti di lavoro stabili con sorprese minime",
+            "Estremamente affidabile e puntuale"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Il Toro governa il collo, la gola e la ghiandola tiroidea.In genere benedetti con una forte costituzione e una buona resistenza, gli individui di Toro tendono a godere di una buona salute fisica quando mantengono l'equilibrio ed evitano l'eccessiva indulgenza.",
+        "common_health_issues": [
+            "Problemi di gola e problemi di tiroide",
+            "Dolore al collo e rigidità",
+            "Problemi dentali",
+            "Aumento di peso dall'amore per il buon cibo",
+            "Problemi digestivi dallo stress o dall'eccessiva indulgenza",
+            "Testardaggine che porta a problemi con flessibilità"
+        ],
+        "wellness_advice": "Mantieni l'equilibrio nella dieta ed esercitati regolarmente per evitare la tendenza all'eccessiva indulgenza.Pratica esercizi di flessibilità per contrastare la rigidità fisica e mentale.Trascorri del tempo in natura per ripristinare l'energia degli elementi terrestri.",
+        "exercise_preferences": [
+            "Giardinaggio e attività all'aperto",
+            "Yoga e allungamento",
+            "Camminare nella natura",
+            "Allenamento della forza e sollevamento pesi",
+            "Tai Chi e altre pratiche di messa a terra"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 porta stabilità e crescita materiale per gli individui di Toro.I tuoi sforzi persistenti negli anni precedenti iniziano a mostrare risultati tangibili.L'equilibrio tra dedizione del lavoro e piaceri sensoriali crea un ritmo di vita appagante.",
+            "love": "Le relazioni si approfondiscono attraverso esperienze sensuali condivise e supporto pratico.I singoli taureani possono incontrare potenziali partner attraverso interessi creativi o culinari.Le relazioni esistenti si rafforzano con un rinnovato apprezzamento per l'affidabilità reciproca.",
+            "career": "L'avanzamento professionale arriva attraverso la dimostrazione dell'affidabilità e delle capacità pratiche.La tua capacità di creare risultati tangibili ottiene il riconoscimento dalla leadership.Le opportunità di crescita finanziaria derivano attraverso un'attenta gestione delle risorse.",
+            "health": "Concentrati sulla cura del collo e della gola attraverso un'ergonomia adeguata e il riposo vocale.Il benessere fisico migliora con routine di esercizio coerenti e delicate.Presta particolare attenzione al mantenimento di abitudini alimentari sane che nutrono senza eccesso.",
+            "finances": "Crescita finanziaria costante attraverso approcci di investimento conservativi.Prendi in considerazione l'idea di bilanciare tra indulgenze di lusso e costruire la sicurezza a lungo termine.Gli investimenti relativi alla proprietà o alle arti mostrano una promessa particolare."
+        },
+        "2026": {
+            "overall": "2026 enfatizza la comunicazione e le connessioni locali per il Toro.La tua saggezza pratica trova una preziosa espressione nelle interazioni quotidiane.Trovare l'equilibrio tra ascolto e condivisione crea relazioni armoniose nel tuo ambiente immediato.",
+            "love": "I legami romantici si rafforzano attraverso una migliore comunicazione e brevi avventure condivise.I partner apprezzano la tua nuova espressività e curiosità.I singoli taureani possono trovare connessioni significative attraverso attività di vicinato o attività educative.",
+            "career": "Scrivere, parlare o opportunità di formazione migliorano la tua posizione professionale.La tua capacità di spiegare concetti complessi in termini accessibili porta il riconoscimento.Prendi in considerazione lo sviluppo di capacità comunicative che mostrano la tua competenza pratica.",
+            "health": "La flessibilità respiratoria e delle spalle merita l'attenzione.Le rotture brevi e frequenti durante il lavoro migliorano il benessere generale.Esplora le pratiche di respirazione che combinano il rilassamento con una maggiore efficienza di ossigeno.",
+            "finances": "Le opportunità economiche locali mostrano promesse.Prendi in considerazione gli investimenti negli sviluppi del vicinato o nelle imprese regionali.Gli obiettivi finanziari a breve termine raggiunti quest'anno creano slancio per progetti futuri più grandi."
+        },
+        "2027": {
+            "overall": "Il 2027 si concentra sulle basi di casa e familiari per il Toro.Creare spazi nutritivi che riflettono i tuoi valori diventa importante.I tuoi talenti naturali per coltivare la bellezza e il conforto portano guarigione a coloro che ti circondano.",
+            "love": "L'armonia domestica diventa fondamentale per la soddisfazione della relazione.I partner apprezzano i tuoi sforzi per creare spazi condivisi belli e confortevoli.I singoli taureani possono trovare connessioni attraverso incontri a domicilio o presentazioni familiari.",
+            "career": "Le opportunità di lavoro da casa si allineano al tuo desiderio di comfort ed efficienza.La tua capacità di creare ambienti produttivi offre vantaggi professionali.Prendi in considerazione le carriere che coinvolgono interior design, servizi domestici o supporto familiare.",
+            "health": "La salute digestiva beneficia dei pasti preparati in casa e mangiare consapevolmente.La creazione di santuari del sonno migliora la qualità del riposo.Il giardinaggio o le pratiche di movimento a domicilio portano benefici sia fisici che emotivi.",
+            "finances": "Gli investimenti immobiliari o i miglioramenti della casa producono rendimenti sostanziali.Prendi in considerazione la creazione di fondi di emergenza per la sicurezza familiare.I guadagni finanziari imprevisti possono derivare da connessioni familiari o apprezzamento della proprietà."
+        },
+        "2028": {
+            "overall": "2028 porta il Rinascimento creativo e la gioiosa espressione di sé per il Toro.I tuoi talenti artistici ricevono riconoscimento e apprezzamento.L'equilibrio tra pratica disciplinata e gioco spontaneo porta a un notevole adempimento personale.",
+            "love": "Le relazioni romantiche prosperano attraverso attività creative condivise e interazioni giocose.I partner apprezzano la tua autentica espressione di sé e calore.I singoli taureani attirano l'attenzione attraverso sforzi artistici o autentico entusiasmo.",
+            "career": "I campi creativi offrono opportunità inaspettate di avanzamento.La tua capacità di riunire bellezza e funzionalità ottiene un riconoscimento professionale.Prendi in considerazione le iniziative imprenditoriali che mostrano la tua visione estetica unica.",
+            "health": "Le aree del cuore e della parte superiore della schiena beneficiano di attività che portano gioia e risate.La circolazione migliora attraverso un movimento regolare che sembra piacevole piuttosto che obbligatorio.L'espressione creativa stessa diventa una pratica di guarigione.",
+            "finances": "Gli investimenti in arte, intrattenimento o istruzione per bambini mostrano promesse.Prendi in considerazione approcci bilanciati alle iniziative speculative, miscelando le partecipazioni conservative con rischi calcolati selezionati.I progetti sul lato creativo possono diventare fonti di reddito inaspettate."
+        },
+        "2029": {
+            "overall": "2029 enfatizza il servizio e l'ottimizzazione sanitaria per il Toro.Il tuo approccio pratico al benessere crea miglioramenti sostenibili dello stile di vita.Trovare l'equilibrio tra aiutare gli altri e mantenere i confini personali porta l'adempimento.",
+            "love": "Le relazioni si approfondiscono attraverso il supporto reciproco durante le sfide quotidiane.I partner apprezzano la tua presenza affidabile e l'assistenza pratica.I singoli taureani possono trovare connessioni attraverso attività di benessere o lavoro di volontariato.",
+            "career": "I campi di salute, servizio o analitici offrono opportunità di avanzamento.La tua attenzione ai dettagli e al miglioramento del processo porta il riconoscimento professionale.Prendi in considerazione ruoli che ti consentono di creare sistemi più efficienti all'interno delle organizzazioni.",
+            "health": "La salute digestiva e intestinale richiede un'attenzione focalizzata.Routine pratiche e coerenti per il benessere apportano notevoli miglioramenti.Esplora la connessione tra nutrizione, salute intestinale e benessere emotivo.",
+            "finances": "Gli investimenti in tecnologie sanitarie o servizi rendono rendimenti.Prendi in considerazione l'idea di stabilire fondi dedicati per il benessere e le cure preventive.Ridurre la spesa dispendiosa crea una sorprendente libertà finanziaria."
+        },
+        "2030": {
+            "overall": "2030 offre opportunità di attenzione e partenariato per il Toro.La tua affidabilità e praticità attirano iniziative collaborative.L'equilibrio tra indipendenza e interdipendenza crea connessioni armoniose in tutte le aree di vita.",
+            "love": "Le relazioni impegnate raggiungono nuove profondità di comprensione e supporto reciproco.I partner apprezzano la tua fermezza e la tua presenza sensuale.I singoli taureani attirano serie prospettive di relazione attraverso autentica auto-presentazione.",
+            "career": "Le partnership aziendali o le relazioni con i clienti offrono opportunità di crescita.La tua capacità di creare arrangiamenti vantaggiosi per win porta un progresso professionale.Prendi in considerazione le iniziative collaborative che combinano punti di forza complementari.",
+            "health": "Le aree renali e nella parte bassa della schiena meritano cure preventive.Le attività di equilibrio migliorano la stabilità complessiva e prevengono le lesioni.La connessione tra armonia della relazione e benessere fisico diventa evidente.",
+            "finances": "Le joint venture o gli investimenti condivisi mostrano una promessa particolare.Considera il rifinanziamento o la ristrutturazione dei debiti esistenti per termini migliori.Opportunità finanziarie inaspettate sorgono attraverso partenariati o contratti."
+        },
+        "2031": {
+            "overall": "2031 si concentra sulla trasformazione e la gestione delle risorse per il Toro.La tua capacità di creare valore dalle risorse trascurate porta un'abbondanza inaspettata.Trovare conforto con i cicli naturali della fine della vita e l'inizio porta profonda saggezza.",
+            "love": "Le relazioni intime si approfondiscono attraverso la vulnerabilità e la condivisione autentica.I partner apprezzano la tua profondità emotiva sotto l'esterno pratico.I singoli taureani attirano potenti connessioni attraverso autentica consapevolezza di sé e onestà.",
+            "career": "I campi finanziari, terapeutici o investigativi offrono opportunità di avanzamento.La tua capacità di rivitalizzare progetti in difficoltà porta il riconoscimento professionale.Prendi in considerazione i ruoli che coinvolgono la trasformazione delle risorse o la gestione delle crisi.",
+            "health": "I sistemi riproduttivi ed eliminati beneficiano delle pratiche di disintossicazione.Il benessere psicologico migliora l'espressione piuttosto che la soppressione delle emozioni.La connessione tra rilascio emotivo e vitalità fisica diventa chiara.",
+            "finances": "Gli investimenti nel riciclaggio, nel rinnovo o nelle tecnologie di trasformazione mostrano promesse.Prendi in considerazione la ristrutturazione dell'eredità o delle questioni assicurative a beneficio ottimale.I guadagni finanziari inaspettati possono derivare dalla risoluzione di vecchi debiti o richieste."
+        },
+        "2032": {
+            "overall": "2032 porta l'espansione filosofica e la crescita educativa per il Toro.La tua saggezza pratica trova l'applicazione in contesti più ampi.Le esperienze di viaggio o multiculturale offrono nuove prospettive che migliorano il tuo approccio naturalmente radicato alla vita.",
+            "love": "Le relazioni si espandono attraverso avventure di apprendimento condivise ed esplorazioni filosofiche.I partner apprezzano la tua volontà di esplorare nuovi territori mantenendo valori fondamentali.I singoli taureani attirano connessioni attraverso attività educative o viaggi.",
+            "career": "Le opportunità di insegnamento, editoria o business internazionali emergono inaspettatamente.La tua capacità di rendere pratici concetti astratti porta il riconoscimento professionale.Prendi in considerazione i ruoli che ti consentono di condividere la tua saggezza con un pubblico più ampio.",
+            "health": "La flessibilità dell'anca e della coscia merita l'attenzione attraverso lo stretching appropriato.Esplorare le pratiche di movimento di varie tradizioni culturali apporta benefici.La connessione tra prospettive ampliate e libertà fisica diventa evidente.",
+            "finances": "Gli investimenti internazionali o le iniziative legate all'istruzione mostrano promesse.Prendi in considerazione la diversificazione delle partecipazioni di valuta o l'esplorazione dei mercati esteri.Opportunità finanziarie inaspettate sorgono attraverso piattaforme editoriali o di condivisione delle conoscenze."
+        },
+        "2033": {
+            "overall": "2033 sottolinea il progresso della carriera e il riconoscimento pubblico per il Toro.I tuoi anni di costruzione di competenze e reputazione culminano in risultati significativi.L'equilibrio tra ambizione professionale e adempimento personale crea un successo sostenibile.",
+            "love": "Le relazioni beneficiano del supporto reciproco degli obiettivi a lungo termine e dei ruoli pubblici.I partner apprezzano la tua determinazione e integrità.I singoli taureani attirano connessioni attraverso reti professionali o posizioni di leadership della comunità.",
+            "career": "Le posizioni di leadership o autorità offrono un progresso significativo.La tua capacità di creare risultati tangibili in circostanze difficili porta il riconoscimento professionale.Prendi in considerazione ruoli che ti consentono di stabilire strutture o sistemi duraturi.",
+            "health": "Il sistema scheletrico, in particolare le ginocchia e le articolazioni, richiede cure preventive.La postura miglioramento offre molteplici benefici per la salute.La connessione tra l'autorità adeguata nella tua vita e l'allineamento fisico diventa chiara.",
+            "finances": "Le strategie di investimento a lungo termine producono rendimenti significativi.Prendi in considerazione l'idea di stabilire fondi pensionistici o legacy.I guadagni finanziari inaspettati possono arrivare attraverso progressi o riconoscimenti professionali."
+        },
+        "2034": {
+            "overall": "2034 porta connessione sociale e coinvolgimento umanitario per il Toro.Il tuo approccio pratico alla creazione di impatto della comunità genera un cambiamento significativo.Trovare l'equilibrio tra ideali visionari e azione fondata porta a notevoli risultati collettivi.",
+            "love": "Le relazioni prosperano quando i valori sociali condivisi diventano punti focali.I partner apprezzano i tuoi contributi pratici alle cause entrambi valore.I singoli taureani attirano connessioni attraverso il coinvolgimento della comunità o le attività di gruppo.",
+            "career": "I campi senza scopo di lucro, tecnologia o orientati alla comunità offrono opportunità di avanzamento.La tua capacità di manifestare risultati tangibili dalle visioni idealistiche porta il riconoscimento professionale.Prendi in considerazione ruoli che combinano l'innovazione con l'implementazione pratica.",
+            "health": "La circolazione e la resistenza alla caviglia meritano attenzione.Trovare programmi di esercizi basati sulla comunità migliora la coerenza e il divertimento.La connessione tra benessere sociale e salute fisica diventa evidente.",
+            "finances": "Gli investimenti in tecnologie sostenibili o imprese sociali mostrano promesse.Prendi in considerazione approcci equilibrati alla donazione di beneficenza che creano entrambi i vantaggi di impatto e fiscali.Opportunità finanziarie inaspettate sorgono attraverso connessioni di rete."
+        },
+        "2035": {
+            "overall": "2035 si concentra sulla crescita spirituale e sulla pace interiore per il Toro.La tua connessione con i ritmi naturali approfondisce la saggezza intuitiva.Trovare l'equilibrio tra comfort materiale e realizzazione spirituale crea una vita di straordinaria ricchezza e significato.",
+            "love": "Le relazioni si approfondiscono attraverso pratiche spirituali condivise o compagnia silenziosa.I partner apprezzano la tua base e la tua presenza pacifica.I singoli taureani attirano connessioni piene di sentimento attraverso autentiche espressione di sé e lavoro interiore.",
+            "career": "La guarigione, la consulenza o i campi creativi offrono opportunità soddisfacenti.La tua capacità di creare spazi santuari porta il riconoscimento professionale.Prendi in considerazione i ruoli che ti consentono di combinare abilità pratiche con una comprensione intuitiva.",
+            "health": "Il sistema immunitario e i piedi richiedono particolare attenzione.Le pratiche di restauro migliorano la resilienza complessiva e la vitalità.La connessione tra benessere spirituale e salute fisica diventa sempre più chiara.",
+            "finances": "Gli investimenti allineati con valori spirituali o etici mostrano promesse.Considera di semplificare le questioni finanziarie per una maggiore tranquillità.Le risorse inaspettate compaiono quando necessario, rafforzando la fiducia nell'abbondanza naturale."
+        }
+    },
+    "famous": [
+        {
+            "name": "Dwayne Johnson",
+            "birth_date": "2 maggio 1972",
+            "description": "Attore ed ex lottatore noto come \"The Rock\", esemplificando la forza, la persistenza e l'etica del lavoro del Toro"
+        },
+        {
+            "name": "Adele",
+            "birth_date": "5 maggio 1988",
+            "description": "Singer vincitore di Grammy con una voce potente, che mostra la connessione di Toro con la gola e l'apprezzamento sensuale della bellezza"
+        },
+        {
+            "name": "Audrey Hepburn",
+            "birth_date": "4 maggio 1929",
+            "description": "Attrice iconica e umanitaria, che rappresenta l'apprezzamento di Toro per la bellezza, l'affidabilità e la determinazione"
+        },
+        {
+            "name": "William Shakespeare",
+            "birth_date": "23 aprile 1564",
+            "description": "Drammaturgo e poeta rivoluzionario, dimostrando la resistenza creativa e la capacità di costruire opere durature di Taurus"
+        },
+        {
+            "name": "Queen Elisabetta II",
+            "birth_date": "21 aprile 1926",
+            "description": "Il monarca più longevo della Gran Bretagna, incarnando la lealtà, la persistenza e l'impegno di Toro"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Oggi, concentrati sull'esprimere apprezzamento per coloro che ti interessa.Piccoli gesti di affetto possono rafforzare i tuoi legami.",
+        "career": "La tua persistenza sarà premiata oggi.Resta concentrato sui tuoi compiti ed evita le distrazioni.",
+        "health": "Presta attenzione al collo e alle spalle.Fai pause dal lavoro del computer per allungare e rilassare queste aree.",
+        "general": "Oggi è buono per le attività di messa a terra che ti collegano ai tuoi sensi fisici.Goditi la natura, il buon cibo o la bella musica."
+    },
+    "tarot_associations": {
+        "major_arcana": "Il gerofante",
+        "explanation": "Il gerofante rappresenta la tradizione, la saggezza convenzionale e le strutture consolidate - qualità che risuonano con l'apprezzamento di Toro per la stabilità e gli approcci testati nel tempo.Questa carta incarna anche la ricerca di un significato spirituale attraverso l'esperienza terrena."
+    },
+    "compatibility_details": {
+        "aries": "Taurus e Ariete possono creare una relazione equilibrata con l'iniziativa dell'Ariete che completa la stabilità del Toro.Tuttavia, entrambi sono testardi e devono imparare a scendere a compromessi.",
+        "taurus": "Due individui Tourus creano una relazione estremamente stabile e confortevole.Comprendono il reciproco bisogno di sicurezza ma possono diventare troppo ambientati senza influenza esterna.",
+        "gemini": "Toro e gemelli affrontano sfide a causa di diversi approcci alla vita.Taurus valori stabilità mentre Gemelli brama varietà e cambiamento.",
+        "cancer": "Toro e cancro condividono un profondo apprezzamento per la sicurezza e il conforto, creando una relazione armoniosa e nutriente con forti legami emotivi.",
+        "leo": "Taurus e Leo possono lottare con esigenze diverse: Leo vuole ammirazione mentre Taurus cerca stabilità.Entrambi sono testardi e devono imparare ad apprezzare le loro differenze.",
+        "virgo": "Toro e Vergine creano una relazione pratica e armoniosa.Entrambi i segni della Terra apprezzano la stabilità e l'approccio alla vita metodicamente, sostenendo gli obiettivi reciproci.",
+        "libra": "Toro e Bilancia condividono il dominio di Venere, creando reciproco apprezzamento per la bellezza e l'armonia.Tuttavia, la testardaggine di Toro può scontrarsi con il desiderio di equilibrio della Bilancia.",
+        "scorpio": "Toro e Scorpione creano una relazione intensa e appassionata come segni opposti.Entrambi sono profondamente leali ma estremamente testardi, creando lotte di potere.",
+        "sagittarius": "Toro e Sagittario affrontano sfide con valori diversi: il Toro brama la stabilità mentre il Sagittario desidera libertà e avventura.",
+        "capricorn": "Toro e Capricorno formano un forte segno di terra corrispondente con valori condivisi di pazienza, praticità e ambizione.Creano solide basi insieme.",
+        "aquarius": "Toro e Acquario lottano con differenze fondamentali: i valori del Toro, mentre l'Acquario abbraccia l'innovazione e la non convenzionalità.",
+        "pisces": "Toro e Pesci possono creare una relazione complementare con il Toro che fornisce stabilità per la natura sognante di Pesci, mentre Pesci aiuta il Toro a connettersi con le emozioni."
+    },
+    "astrological_influences": {
+        "sun_in": "Il sole in Toro porta pazienza, determinazione e apprezzamento per i piaceri sensuali.Apprezzi la stabilità e ti avvicini alla vita con costante persistenza.",
+        "moon_in": "Luna in Toro crea stabilità emotiva e necessità di sicurezza.I tuoi sentimenti sono costanti e trovi conforto in un ambiente di routine e familiari.",
+        "rising": "Taurus Rising ti dà una comparsa di stabilità e affidabilità.Altri ti vedono come radicato, pratico e talvolta testardo."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Superare la resistenza al cambiamento necessario",
+            "Sviluppare flessibilità nel pensiero e nel comportamento",
+            "Ridurre la possessività nelle relazioni",
+            "Bilanciamento delle preoccupazioni materiali con la crescita spirituale",
+            "Imparare ad esprimere le emozioni più apertamente"
+        ],
+        "growth_opportunities": [
+            "Utilizzando la persistenza per raggiungere obiettivi significativi",
+            "Sviluppare pratiche sostenibili in tutte le aree della vita",
+            "Creare bellezza e armonia nell'ambiente",
+            "Costruire relazioni durature attraverso la lealtà",
+            "Connettendosi profondamente con la natura e il mondo fisico"
+        ],
+        "affirmations": [
+            "Abbraccio un cambiamento positivo come un'opportunità per la crescita",
+            "Equiliccio la stabilità con flessibilità nel mio approccio alla vita",
+            "Esprimo le mie emozioni in modo chiaro e onesto",
+            "Apprezzo l'abbondanza mentre pratico la moderazione",
+            "La mia persistenza mi aiuta a creare un valore duraturo nel mondo"
+        ]
+    },
+    "life_path": {
+        "purpose": "Gli individui di Toro hanno spesso la missione per creare stabilità, bellezza e abbondanza sostenibile.Il loro scopo prevede la costruzione di strutture durature che forniscono sicurezza per se stessi e gli altri.",
+        "life_lessons": [
+            "Imparare la differenza tra sana persistenza e testardaggine dannosa",
+            "Comprensione del vero valore oltre i possedimenti materiali",
+            "Trovare sicurezza all'interno piuttosto che esclusivamente in circostanze esterne",
+            "Bilanciamento del godimento dei piaceri fisici con moderazione",
+            "Sviluppare flessibilità mantenendo valori fondamentali"
+        ],
+        "spiritual_growth": "Lo sviluppo spirituale per il Toro prevede la trascinamento dell'attaccamento materiale pur apprezzando la bellezza terrena.Il collegamento con la natura, la pratica della sensazione consapevole e lo sviluppo della stabilità interiore contribuiscono all'evoluzione spirituale."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "I bambini di Toro sono in genere calmi, pazienti e determinati fin dalla tenera età.Spesso mostrano una forte connessione con la natura, l'apprezzamento per la bellezza e un amore per il comfort e la routine.",
+            "parenting_advice": "Fornire routine coerenti e affetto fisico.Insegna flessibilità insieme alla determinazione.Incoraggia l'espressione creativa attraverso musica, arte o cucina.Stabilisci chiare aspettative e sii paziente con la loro necessità di comprendere il valore pratico delle lezioni."
+        },
+        "in_friendship": {
+            "friendship_style": "Gli amici di Toro sono leali, affidabili e di supporto.Apprezzano le amicizie a lungo termine e mostrano la loro cura attraverso l'aiuto pratico e la presenza costante piuttosto che le dichiarazioni emotive.",
+            "ideal_friends": "Il Toro prospera con gli amici che apprezzano la loro affidabilità e non li spingono per un cambiamento costante.A loro piacciono le amicizie che coinvolgono esperienze sensoriali condivise come buoni pasti, musica o tempo nella natura."
+        },
+        "shadow_side": {
+            "potential_issues": "Se sbilanciato, il Toro può diventare eccessivamente materialista, testardo al punto di auto-sabotaggio o indulgente nei piaceri fisici.Il loro bisogno di sicurezza può manifestarsi come possessività o resistenza alla crescita necessaria.",
+            "growth_path": "La crescita personale per Toro implica l'apprendimento di abbracciare il cambiamento come parte naturale della stabilità, lo sviluppo della sicurezza interiore che non dipende dai beni e la ricerca di equilibrio tra divertimento e moderazione."
+        }
+    },
+    "seasonal_influences": {
+        "spring_energy": "Nato a metà primavera, il Toro incarna l'energia della crescita, la prosperità e l'abbondanza della stagione.Questo tempismo infonde il Toro con una connessione naturale alla fertilità della Terra e alla capacità produttiva.",
+        "fixed_quality": "Come segno fisso, Toro rappresenta l'energia stabilizzante che mantiene e sviluppa ciò che è stato avviato.Questa posizione garantisce loro un enorme potere di resistenza e un talento per la costruzione di strutture durature."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "L'elemento terrestre dà a Toro la loro caratteristica praticità, sensualità e connessione con il mondo fisico.La Terra rappresenta stabilità, nutrimento e manifestazione in forma tangibile.",
+        "earth_balance": "La Terra equilibrata porta praticità, affidabilità e messa a terra.L'eccessiva terra può portare a testardaggine, materialismo e resistenza al cambiamento, mentre la terra carente può provocare disconnessione dalla realtà fisica."
+    },
+    "planetary_rulership": {
+        "venus_influence": "Venere, il pianeta dell'amore, della bellezza e dei valori, regole Toro.Questa influenza planetaria spiega l'apprezzamento del segno per i piaceri sensoriali, l'arte e l'armonia, nonché la loro attenzione su ciò che conta davvero per loro.",
+        "venus_aspects": "La posizione e gli aspetti di Venere nella carta natale di un individuo hanno un impatto significativo su come viene espressa l'energia del toro.Gli aspetti forti di Venere migliorano l'apprezzamento e la sensualità artistici, ma possono anche aumentare le tendenze verso l'indulgenza."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Nell'economia in rapida evoluzione di oggi, Toro eccelle nella creazione di modelli di business sostenibili, marchi etici di lusso e integrazione dell'artigianato tradizionale con la tecnologia moderna.",
+        "relationship_in_modern_context": "Le relazioni moderne beneficiano della lealtà e dell'affidabilità di Toro in mezzo alla cultura delle app di appuntamenti.Il loro approccio messo a terra fornisce stabilità, sebbene potrebbe aver bisogno di sviluppare conforto con la comunicazione virtuale e le relazioni a distanza."
+    }
+}

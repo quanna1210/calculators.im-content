@@ -1,0 +1,336 @@
+{
+    "sign": "Pisces",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/pisces.svg",
+    "local_name": "Poissons",
+    "date_range": "19 février - 20 mars",
+    "element": "Eau",
+    "ruling_planet": "Neptune, Jupiter (traditionnel)",
+    "symbol": "Le poisson",
+    "lucky_numbers": [
+        "3",
+        "7",
+        "12",
+        "16",
+        "21"
+    ],
+    "lucky_colors": [
+        "Vert marin",
+        "Lavande",
+        "Argent"
+    ],
+    "lucky_days": [
+        "Jeudi",
+        "Lundi"
+    ],
+    "lucky_stones": [
+        "Améthyste",
+        "Pierre de lune",
+        "Bleu vert"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Compatissant",
+            "Intuitif",
+            "Artistique",
+            "Doux",
+            "Adaptable",
+            "Imaginatif",
+            "Empathique"
+        ],
+        "weaknesses": [
+            "Trop sensible",
+            "Évasion",
+            "Indécis",
+            "S'autorouflant",
+            "Impressionnable",
+            "Irréaliste",
+            "Sujette à la mentalité de victime"
+        ]
+    },
+    "personality": {
+        "overview": "Les Poissons sont le douzième et dernier signe du zodiaque, symbolisant la compassion, l'intuition et la connexion spirituelle.Les individus des Poissons sont connus pour leur nature empathique, leur sensibilité artistique et leur lien avec l'inconscient collectif.Ce sont les rêveurs du zodiaque, naviguant entre la réalité et l'imagination avec des limites fluides et une profonde compréhension émotionnelle.",
+        "detailed_traits": [
+            "Sensibilité émotionnelle profonde et empathie",
+            "Forte intuition qui borde la capacité psychique",
+            "Imagination créative et talent artistique",
+            "Préoccupation compatissante pour les souffrances",
+            "Conscience spirituelle au-delà de la réalité matérielle",
+            "Nature adaptable qui coule avec les circonstances",
+            "Capacité à voir au-delà des apparences de surface",
+            "Approche douce des gens et des situations",
+            "Perception onirique de la réalité",
+            "Capacité de dons et de service désintéressés"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Les individus des Poissons sont des partenaires profondément romantiques et émotionnellement à l'écoute qui apprécient le lien spirituel et émotionnel dans les relations.Ils expriment l'amour à travers une compréhension empathique, des gestes créatifs et une fusion des limites pour créer une unité profonde avec leurs partenaires.",
+        "compatibility": {
+            "most_compatible": [
+                "Cancer",
+                "Scorpion",
+                "Capricorne",
+                "Taureau"
+            ],
+            "least_compatible": [
+                "Gémeaux",
+                "Sagittaire",
+                "Vierge"
+            ]
+        },
+        "relationship_advice": "Les individus des Poissons doivent développer des frontières saines tout en maintenant leur compassion naturelle.Travaillez sur la prise de décision pratique aux côtés de la compréhension intuitive et assurez-vous que les partenaires apprécient votre sensibilité sans profiter de votre nature.Choisissez des partenaires qui respectent votre profondeur émotionnelle plutôt que de le rejeter.",
+        "love_style": [
+            "Profondément romantique et émotionnellement intuitif",
+            "Recherche la connexion spirituelle et âme",
+            "Altruiste et donner dans les relations",
+            "Peut idéaliser des partenaires ou des relations",
+            "S'adapte facilement aux besoins et aux humeurs du partenaire",
+            "Sensible aux sentiments et à la dynamique tacites",
+            "Valorise l'intimité émotionnelle sur les considérations pratiques"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Les individus des Poissons excellent dans des carrières qui impliquent la créativité, la compassion et l'intuition.Ils ont un talent naturel pour comprendre l'émotion humaine, l'expression artistique et se connecter avec l'imagination collective, prospérer dans des rôles qui permettent la flexibilité et le service significatif.",
+        "suitable_careers": [
+            "Arts et musique",
+            "Professions de soins de santé et de guérison",
+            "Conseil et psychologie",
+            "Guidance et enseignement spirituels",
+            "Photographie et film",
+            "Travail social et champs humanitaires",
+            "Océanographie et biologie marine",
+            "Thérapie de danse et de mouvement",
+            "Services de récupération de la toxicomanie",
+            "Écriture créative et poésie"
+        ],
+        "financial_habits": "Les individus des Poissons ont souvent une relation compliquée avec l'argent, alternant parfois entre les dépenses impraticables et les périodes d'inquiétude.Ils peuvent bénéficier de systèmes pratiques qui aident à gérer les finances tout en permettant la générosité et soutenir des causes significatives ou des activités artistiques.",
+        "work_style": [
+            "Fonctionne mieux dans les environnements positifs et positifs",
+            "Apporte des solutions créatives et des informations empathiques",
+            "Peut lutter avec des délais stricts ou des structures rigides",
+            "Prospère avec l'autonomie et les horaires flexibles",
+            "Sensible à l'atmosphère et à la dynamique du lieu de travail",
+            "Préfère un travail significatif sur les récompenses matérielles",
+            "Excellent dans les projets collaboratifs et basés sur l'équipe"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Les Poissons gouvernent les pieds, le système lymphatique et la glande pinéale.Les individus des Poissons sont souvent sensibles à leurs environnements, médicaments et substances, la santé physique étroitement liée au bien-être émotionnel et spirituel.",
+        "common_health_issues": [
+            "Problèmes et blessures des pieds",
+            "Sensibilité au système immunitaire",
+            "Problèmes du système lymphatique",
+            "Troubles du sommeil",
+            "Sensibilités aux substances",
+            "L'épuisement émotionnel affectant la santé physique",
+            "Rétention d'eau et œdème"
+        ],
+        "wellness_advice": "Créez des frontières entre vous et les états émotionnels des autres pour prévenir l'épuisement empathique.Portez une attention particulière à la santé des pieds grâce à des chaussures et à des soins appropriés.Développer des routines de sommeil saines qui soutiennent votre système nerveux sensible.",
+        "exercise_preferences": [
+            "Activités de natation et aquatiques",
+            "Yoga et Tai Chi",
+            "Dance et mouvement rythmique",
+            "Marcher dans la nature, surtout près de l'eau",
+            "Routines d'exercice doux et fluide"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 apporte un éveil spirituel profond et une inspiration créative pour les individus des Poissons.Vos capacités intuitives atteignent de nouveaux sommets, ouvrant des portes à des royaumes auparavant inexplorés.Équilibrez l'idéalisme rêveux avec une action pratique pour manifester vos visions en réalité.",
+            "love": "Les relations s'approfondissent par l'honnêteté émotionnelle et la connexion spirituelle.Pisciens célibataires peuvent attirer des partenaires qui apprécient votre sensibilité et votre profondeur.Les relations existantes se transforment par des pratiques spirituelles partagées ou des activités créatives.",
+            "career": "La croissance professionnelle provient de l'adoption de vos talents créatifs et intuitifs naturels.Votre approche compatissante des défis en milieu de travail apporte la reconnaissance.Considérez les rôles dans la guérison des arts, des domaines créatifs ou des conseils spirituels.",
+            "health": "Concentrez-vous sur la santé des pieds et la force du système immunitaire grâce à une hydratation et à un repos appropriés.Le bien-être émotionnel s'améliore avec une méditation ou un temps régulier près de l'eau.Portez une attention particulière à établir des limites saines pour préserver votre énergie sensible.",
+            "finances": "Des opportunités financières inattendues surviennent à travers des projets créatifs ou des entreprises spirituelles.Considérez une approche équilibrée entre les dons de bienfaisance et la construction de la sécurité personnelle.Faites confiance à votre intuition concernant les décisions d'investissement."
+        },
+        "2026": {
+            "overall": "2026 est une année de guérison émotionnelle et de transformation intérieure pour les Poissons.Votre nature compatissante s'étend aux soins personnels et aux frontières personnelles.Trouver l'harmonie entre donner aux autres et vous nourrir apporte une force et une clarté retrouvées.",
+            "love": "Des connexions émotionnelles plus profondes se développent à mesure que vous devenez plus authentique pour exprimer vos besoins.Les relations établies bénéficient d'une vulnérabilité honnête.Les piscines célibataires attirent des partenaires qui respectent à la fois votre sensibilité et votre force.",
+            "career": "La mise au point passe à l'aide aux professions ou aux efforts créatifs qui permettent une expression émotionnelle.Le milieu de l'année apporte des opportunités de faciliter la guérison ou la transformation pour d'autres.La reconnaissance professionnelle passe par votre approche empathique unique.",
+            "health": "Les thérapies à base d'eau apportent des avantages notables à votre système physique.Faites attention à la santé lymphatique par un mouvement doux et une bonne hydratation.Le travail de rêve et la qualité du sommeil deviennent des facteurs importants dans votre bien-être général.",
+            "finances": "L'intuition financière se renforce, guidant les décisions importantes.Considérez les investissements dans les industries du bien-être ou créatives qui résonnent avec vos valeurs.Une bénédiction financière inattendue peut arriver à travers une source ou un héritage oublié."
+        },
+        "2027": {
+            "overall": "2027 met en évidence votre lien avec la conscience collective et les causes humanitaires.Votre capacité à sympathiser avec diverses perspectives fait de vous un constructeur naturel.L'équilibre entre la vision inspirée du rêve et l'action pratique crée un changement significatif.",
+            "love": "Les relations amoureuses prospèrent lorsqu'elles sont construites sur des valeurs spirituelles partagées et une compassion.Les partenaires apprécient votre empathie sans limites tout en aidant à structurer vos idées intuitives.Les Pisciens simples peuvent trouver des liens émouvants par des rassemblements humanitaires ou spirituels.",
+            "career": "Les possibilités de leadership émergent dans des domaines nécessitant l'intelligence émotionnelle et la pensée visionnaire.Votre capacité à ressentir des besoins tacites vous donne un avantage dans les rôles de guérison ou de conseil.Considérez les positions qui combinent la créativité avec le service aux autres.",
+            "health": "Le système immunitaire et les limites émotionnelles nécessitent une attention.L'immersion régulière dans la nature, en particulier près de l'eau, apporte un renouvellement physique et spirituel.Les pratiques de guérison des groupes ou les initiatives de bien-être communautaire offrent des avantages inattendus.",
+            "finances": "Les entreprises financières collaboratives avec une concentration spirituelle ou artistique sont prometteuses.Votre approche intuitive du partage des ressources crée une abondance pour toutes les personnes impliquées.Envisagez de former des réseaux de soutien qui combinent des ressources spirituelles et matérielles."
+        },
+        "2028": {
+            "overall": "2028 amène les Poissons dans une période de renaissance créative et de perspicacité spirituelle.Votre expression artistique atteint de nouvelles profondeurs, touchant profondément les autres.Équilibrer les expériences mystiques avec la praticité ancrée conduit à une évolution personnelle remarquable.",
+            "love": "Les relations amoureuses deviennent des canaux pour la croissance spirituelle et l'inspiration créative.Les partenaires apprécient votre perspective d'un autre monde et votre profondeur émotionnelle.Les Piscènes célibataires attirent des âmes sœurs par une expression artistique authentique ou une pratique spirituelle.",
+            "career": "Les opportunités de leadership artistique ou spirituelle émergent de façon inattendue.Votre capacité à traduire les concepts éthérés en formes accessibles apporte une reconnaissance professionnelle.Pensez à développer une voix créative unique qui intègre vos idées spirituelles.",
+            "health": "La vie de rêve et les modèles subconscients ont un impact significatif sur la santé physique.Concentrez-vous sur la création du sanctuaire et la journalisation des rêves.Les approches holistiques qui traitent à la fois les symptômes physiques et leurs racines émotionnelles apportent une guérison durable.",
+            "finances": "Les œuvres créatives ou les enseignements spirituels peuvent générer des revenus inattendus.Pensez à monétiser vos cadeaux uniques à travers des canaux éthiques doux et éthiques.L'abondance financière circule lorsqu'elle est alignée sur vos valeurs spirituelles les plus élevées."
+        },
+        "2029": {
+            "overall": "2029 se concentre sur la création de la sécurité sanctuaire et émotionnelle des Poissons.L'établissement d'espaces qui nourrissent votre nature sensible devient essentiel.Trouver l'équilibre entre votre besoin de solitude et une connexion significative apporte une épanouissement émotionnel.",
+            "love": "L'harmonie domestique et la sécurité émotionnelle deviennent des priorités relationnelles.Les partenaires apprécient vos efforts pour créer de beaux environnements partagés.Les Pisciens uniques peuvent trouver des liens à travers des communautés centrées sur la maison ou des collectifs créatifs.",
+            "career": "Les opportunités de travail à domicile s'alignent sur votre besoin d'une entrée sensorielle contrôlée.Pensez à créer un espace de travail sacré qui inspire la créativité.La reconnaissance professionnelle provient d'une production cohérente de votre sanctuaire privé.",
+            "health": "La création d'environnements familiaux de guérison a un impact significatif sur le bien-être.Les éléments de l'eau et les schémas de couleurs bleu-vert apportent des avantages particuliers.Les pratiques spirituelles à domicile établies cette année deviennent des systèmes de soutien à vie.",
+            "finances": "Les investissements immobiliers avec des éléments spirituels ou artistiques donnent une satisfaction.Pensez à créer des sources de revenus qui peuvent être gérées à partir de votre sanctuaire.La planification financière familiale avec des considérations compatissantes apporte une sécurité."
+        },
+        "2030": {
+            "overall": "2030 marque une percée de communication importante pour les Poissons.Votre capacité à exprimer des concepts spirituels et des vérités émotionnelles trouve des canaux parfaits.Les connexions établies cette année ont une signification karmique pour votre évolution personnelle.",
+            "love": "La communication centrée sur le cœur transforme les relations.Les partenaires se sentent vraiment vus à travers votre écoute compatissante et votre expression authentique.Les piscines célibataires attirent les liens soul par la poésie, la musique ou d'autres communications artistiques.",
+            "career": "Les opportunités d'enseignement, d'écriture ou de conseil émergent de façon inattendue.Votre capacité à communiquer des concepts émotionnels ou spirituels complexes apporte un progrès professionnel.Envisagez de développer des cours ou du contenu qui partage votre perspective unique.",
+            "health": "Le chakra gorge et la santé liés à l'expression s'améliorent avec des pratiques de communication authentiques.Les modalités de guérison sonore apportent des avantages notables.L'intégration de l'esprit du corps mental à travers les mantras ou le chant crée une harmonie énergétique.",
+            "finances": "Les investissements dans les plateformes de communication avec des rendements de rendement spirituel ou artistique.Envisagez de monétiser votre sagesse grâce à un enseignement ou à des conseils doux.Une abondance inattendue arrive en exprimant votre voix authentique."
+        },
+        "2031": {
+            "overall": "2031 se concentre sur l'équilibrage de l'abondance matérielle et spirituelle pour les Poissons.Votre approche compatissante des ressources crée à la fois la sécurité personnelle et les avantages communautaires.Trouver l'harmonie entre le confort du monde et les valeurs spirituelles apporte l'accomplissement.",
+            "love": "L'approche partagée des ressources matérielles et spirituelles renforce les relations.Les partenaires apprécient votre nature généreuse mais exigeante.Les Pisciens célibataires attirent des partenaires potentiels stables mais alignés spirituellement par le biais de bénévolat ou de communautés conscientes.",
+            "career": "Les professions de guérison ou les entreprises orientées spirituellement offrent des opportunités d'avancement.Votre capacité à créer une sécurité émotionnelle vous donne un avantage dans les postes de direction.Considérez les rôles qui combinent un service compatissant avec des modèles commerciaux durables.",
+            "health": "Les approches nutritionnelles mettant l'accent sur les aliments purs à vibration à haute vibration apportent des améliorations énergétiques.Faites attention à la santé digestive grâce à la gestion du stress et à l'alimentation consciente.Les pratiques de connexion à la terre fondent votre système électrique sensible.",
+            "finances": "Les investissements dans les technologies de guérison ou l'éducation spirituelle sont prometteurs.Envisagez d'établir un revenu passif par des actifs créatifs ou du matériel pédagogique.Un soutien financier inattendu provient des communautés spirituelles ou des mentors."
+        },
+        "2032": {
+            "overall": "2032 apporte l'autonomisation personnelle par la vulnérabilité des Poissons.Votre expression émotionnelle authentique inspire les autres vers une plus grande honnêteté.L'équilibre entre honorer votre sensibilité et entrer dans le leadership crée une transformation remarquable.",
+            "love": "Les relations prospèrent lorsqu'elles sont construites sur une transparence émotionnelle complète.Les partenaires apprécient votre courage en montrant tous les aspects de vous-même.Les piscines simples attirent des liens profonds grâce à la volonté d'être observés à la fois dans la force et la vulnérabilité.",
+            "career": "Les possibilités de leadership émergent qui vous permettent de changer les cultures organisationnelles par l'authenticité émotionnelle.Votre approche compatissante de la dynamique du pouvoir gagne en reconnaissance.Considérez les rôles qui vous permettent de faciliter la guérison au sein des systèmes ou des groupes.",
+            "health": "Les pratiques centrées sur le cœur renforcent la résilience physique et émotionnelle.Les modalités de guérison d'énergie axées sur le chakra cardiaque donnent des avantages notables.Faites attention à la circulation par le mouvement qui apporte de la joie plutôt que de la discipline.",
+            "finances": "Les entreprises alignées par le cœur montrent une promesse financière.Considérez les investissements dans des organisations ayant une forte intelligence émotionnelle et des fondements éthiques.Des opportunités financières inattendues surviennent à travers des réseaux qui apprécient le leadership authentique."
+        },
+        "2033": {
+            "overall": "2033 met l'accent sur les expériences mystiques et l'initiation spirituelle pour les Poissons.Votre lien avec la conscience universelle apporte des révélations profondes.L'équilibre entre la conscience transcendante et la présence ancrée conduit à devenir une balise pour les autres.",
+            "love": "La connexion au niveau de l'âme transforme les liens romantiques.Les partenaires apprécient votre sagesse d'un autre monde et votre présence compatissante.Les piscines célibataires attirent des relations à double flamme avec des dimensions spirituelles ou artistiques profondes.",
+            "career": "Des conseils spirituels ou de l'innovation artistique apporte une épanouissement professionnel.Votre capacité à accéder à une source créative universelle crée des solutions et des expressions uniques.Considérez les rôles qui vous permettent de servir de canal pour une sagesse plus élevée tout en maintenant une structure pratique.",
+            "health": "La glande pinéale et les centres spirituels plus élevés s'active à travers les pratiques appropriées.Les techniques de canalisation de l'énergie intense deviennent essentielles en toute sécurité.Portez une attention particulière au maintien de la mise à la terre physique grâce à une bonne nutrition et à la connexion de la nature.",
+            "finances": "L'abondance inattendue passe par la reddition à des conseils plus élevés.Considérez les investissements dans les ressources ou les retraites en expansion de la conscience.La générosité alignée sur les conseils spirituels augmente paradoxalement votre prospérité."
+        },
+        "2034": {
+            "overall": "2034 marque le début d'un cycle d'enseignement spirituel important pour les Poissons.Partager votre sagesse accumulée crée des ondulations de guérison dans des cercles plus larges.Votre présence compatissante et vos idées durement gagnées offrent exactement ce dont les autres ont besoin dans les moments difficiles.",
+            "love": "Les relations basées sur le mentorat spirituel et la croissance mutuelle prospèrent.Les partenaires apprécient votre volonté d'enseigner et d'apprendre dans un partenariat sacré.Les Pisciens simples attirent des liens avec des contrats d'âme importants et des chemins spirituels alignés.",
+            "career": "Les rôles d'enseignement ou de mentorat apportent une profonde satisfaction.Votre capacité à créer un espace sûr pour la transformation des autres vous positionne comme guide précieux.Envisagez de développer des programmes qui partagent votre voyage spirituel et vos idées uniques.",
+            "health": "Devenir un canal clair nécessite une attention aux navires physiques.Les pratiques de purification pour le corps, l'esprit et l'esprit apportent des capacités intuitives accrues.Explorez les approches de désintoxication qui honorent les besoins de votre système sensible.",
+            "finances": "L'abondance coule lorsqu'elle est alignée sur la mission d'enseignement de votre âme.Envisagez de créer des fondations ou des programmes de bourses pour partager des ressources spirituelles.Les investissements immobiliers qui pourraient servir de futurs centres de retraite présentent une promesse particulière."
+        },
+        "2035": {
+            "overall": "2035 apporte une vaste connexion spirituelle et une exploration mystique des Poissons.Vos capacités intuitives transcendent les frontières culturelles et géographiques.L'équilibre entre la conscience cosmique et la présence terrestre aimante crée une contribution unique à l'évolution collective.",
+            "love": "Les relations se développent à travers des quêtes spirituelles partagées et une exploration de la conscience.Les partenaires apprécient votre capacité à aimer inconditionnellement à travers les dimensions.Les piscines simples attirent des liens profonds par des retraites de méditation ou des pèlerinages spirituels.",
+            "career": "Les possibilités de guérison globale ou multidimensionnelle émergent de manière inattendue.Votre capacité à traduire entre les domaines physiques et spirituels crée une valeur unique dans le travail transformationnel.Considérez les rôles qui vous permettent de faciliter l'expansion de la conscience tout en maintenant des frontières éthiques.",
+            "health": "L'intégration de diverses traditions de guérison spirituelle apporte l'intégralité.Explorez des pratiques qui honorent le divin féminin au sein de tous les êtres.Pratiques harmonisant une conscience plus élevée avec un mode de réalisation physique améliore la vitalité globale.",
+            "finances": "Les investissements dans l'expansion de la conscience ou l'éducation spirituelle montrent des rendements remarquables.Envisagez de créer des fonds de bourses pour les chercheurs spirituels.L'abondance inattendue arrive par une confiance totale dans les systèmes de soutien universels."
+        }
+    },
+    "famous": [
+        {
+            "name": "Albert Einstein",
+            "birth_date": "14 mars 1879",
+            "description": "Physicien dont les expériences de pensée imaginatives, les percées scientifiques intuitives et la capacité à envisager au-delà de la réalité conventionnelle illustrent les qualités visionnaires des Poissons"
+        },
+        {
+            "name": "Rihanna",
+            "birth_date": "20 février 1988",
+            "description": "Chanteur, entrepreneur et philanthrope dont la polyvalence artistique, la réinvention des fluides et l'œuvre humanitaire compatissante reflètent"
+        },
+        {
+            "name": "George Harrison",
+            "birth_date": "25 février 1943",
+            "description": "Musicien dont la recherche spirituelle, les compositions mystiques et le comportement doux ont démontré la connexion des Poissons à une conscience supérieure et à une sensibilité artistique"
+        },
+        {
+            "name": "Elizabeth Taylor",
+            "birth_date": "27 février 1932",
+            "description": "Actrice dont la profondeur émotionnelle, l'idéalisme romantique et la compassion humanitaire incarnaient les qualités empathiques et glamour des Poissons"
+        },
+        {
+            "name": "Ruth Bader Ginsburg",
+            "birth_date": "15 mars 1933",
+            "description": "Juge de la Cour suprême dont la jurisprudence compatissante, la compréhension intuitive des droits de l'homme et le service désintéressé à l'égalité ont montré des expressions les plus élevées des Poissons"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Aujourd'hui, équilibrez l'empathie avec des frontières saines.Votre compréhension compatissante aide les autres, mais n'oubliez pas d'honorer vos propres besoins émotionnels.",
+        "career": "Votre intuition créative apporte des informations précieuses aux défis de travail.Faites confiance à votre connaissance intérieure tout en ancrant des idées dans une application pratique.",
+        "health": "Faites attention à vos pieds et à leur connexion avec le bien-être général.Des chaussures appropriées et des massages de pieds brefs soutiennent votre fond de teint physique.",
+        "general": "Votre sensibilité est un cadeau lorsqu'il est équilibré avec le discernement.Faites confiance aux impressions intuitives tout en les vérifiant avec une observation pratique."
+    },
+    "tarot_associations": {
+        "major_arcana": "La lune",
+        "explanation": "La lune représente l'intuition, le subconscient et le domaine des rêves - des qualités qui résonnent profondément avec le lien des Poissons avec le monde invisible.Cette carte incarne le voyage à travers des profondeurs émotionnelles, la navigation de l'illusion et de la réalité, et la sagesse gagnée en faisant confiance à sa connaissance intérieure au-delà de la compréhension rationnelle."
+    },
+    "compatibility_details": {
+        "aries": "Les Poissons et le Bélier représentent la fin et le début du cycle du zodiaque, apportant des énergies complémentaires.Le Bélier fournit une direction aux rêves des Poissons, tandis que les Poissons offre une profondeur émotionnelle pour équilibrer la franchise du Bélier.",
+        "taurus": "Les Poissons et le Taureau peuvent créer une relation complémentaire avec le Taureau assurant la stabilité de la nature fluide des Poissons, tandis que les Poissons apportent l'imagination et la profondeur émotionnelle à la pratique du Taureau du Taureau.",
+        "gemini": "Les Poissons et les Gémeaux approchent de la compréhension de la compréhension des Poissons par l'intuition et les Gémeaux à travers l'intellect.Cela crée à la fois la fascination et la frustration sans le pont consciente de ces approches.",
+        "cancer": "Les Poissons et le cancer partagent une profonde compréhension émotionnelle en tant que signes d'eau.Les deux sont intuitifs et compatissants, créant une relation avec une connexion émotionnelle profonde et un développement mutuel.",
+        "leo": "Poissons et Leo peuvent créer un partenariat créatif inspirant lorsqu'ils comblent leurs différents styles.La direction confiante de Leo permet de se concentrer sur l'imagination des Poissons, tandis que les Poissons offre à LEO la profondeur émotionnelle.",
+        "virgo": "Les Poissons et la Vierge forment des signes opposés avec un potentiel de croissance grâce à des qualités complémentaires.Virgo fournit une mise à la base pratique des rêves des Poissons, tandis que les Poissons offre une compréhension émotionnelle pour équilibrer l'analyse de la Vierge.",
+        "libra": "Les Poissons et la Balance partagent des sensibilités créatives et l'idéalisme.Ils se connectent par appréciation mutuelle pour la beauté et l'harmonie, bien que la fluidité émotionnelle des Poissons contraste parfois avec l'approche intellectuelle de la Balance.",
+        "scorpio": "Les Poissons et le Scorpion forment une correspondance de signes d'eau profondément intuitive avec une compréhension émotionnelle naturelle.Les deux accèdent à des profondeurs profondes du sentiment et de la perception psychologique, créant des liaisons transformatrices.",
+        "sagittarius": "Les Poissons et le Sagittaire partagent l'idéalisme exprimé différemment - les Poissons par la connexion émotionnelle et spirituelle et le Sagittaire par l'exploration philosophique.Ils s'inspirent mutuellement lorsqu'ils apprécient ces approches complémentaires.",
+        "capricorn": "Les Poissons et le Capricorne créent une relation complémentaire avec le Capricorne fournissant une structure à la créativité des Poissons, tandis que les Poissons offre une profondeur et une imagination émotionnelles pour équilibrer la praticité du Capricorne.",
+        "aquarius": "Les Poissons et le Verseau partagent des qualités visionnaires exprimées différemment - les Poissons par l'intuition émotionnelle et le Verseau à travers des concepts intellectuels.Ils peuvent s'inspirer mutuellement lorsqu'ils apprécient ces approches complémentaires.",
+        "pisces": "Deux Poissons créent une relation profondément intuitive et fluide avec une profonde compréhension de la nature sensible de l'autre.Ils se connectent à travers la créativité partagée et les intérêts spirituels, mais cela peut nécessiter une mise à la terre extérieure."
+    },
+    "astrological_influences": {
+        "sun_in": "Le soleil dans les Poissons apporte une sensibilité compatissante, une perception intuitive et une imagination créative.Vous abordez la vie avec la sagesse émotionnelle et la capacité de voir au-delà des frontières et des limitations conventionnelles.",
+        "moon_in": "Moon in Poissons crée une profondeur émotionnelle, une réceptivité psychique et une profonde empathie.Vos sentiments coulent avec des courants subtils et vous absorbez intuitivement l'atmosphère émotionnelle autour de vous.",
+        "rising": "Les Poissons Rising vous donnent une apparence de douceur, de sensibilité rêveuse et de qualité d'un autre monde.D'autres sentent immédiatement votre compassion et votre adaptabilité, partageant souvent leurs problèmes avec vous avant de le réaliser."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Développer des frontières saines tout en maintenant la compassion",
+            "Équilibrer les rêves et l'action pratique",
+            "Surmonter la tendance à l'évasion émotionnelle",
+            "Reconnaître les propres besoins au milieu de l'empathie pour les autres",
+            "Exciter entre l'intuition et les vœux pieux"
+        ],
+        "growth_opportunities": [
+            "Utiliser des cadeaux créatifs pour inspirer et guérir",
+            "Développer la sagesse spirituelle à travers une profondeur émotionnelle",
+            "Apporter une compréhension compatissante dans des situations pratiques",
+            "Combler les réalités matérielles et spirituelles",
+            "Transformer la sensibilité en force empathique"
+        ],
+        "affirmations": [
+            "J'honore ma sensibilité tout en maintenant des frontières saines",
+            "J'apporte mes rêves dans la réalité pratique",
+            "Je fais confiance à mon intuition et je vérifie avec discernement",
+            "Ma compassion commence par l'acceptation de soi",
+            "Je trouve la force dans ma sagesse émotionnelle"
+        ]
+    },
+    "life_path": {
+        "purpose": "Les individus des Poissons ont souvent pour mission de faire guérir, d'inspiration créative et de conscience spirituelle à un monde axé sur les préoccupations matérielles.Leur objectif consiste à dissoudre les frontières qui séparent les personnes, à se connecter à la compassion universelle et à mettre en forme l'imagination.",
+        "life_lessons": [
+            "Apprendre à créer une structure pour les dons créatifs et spirituels",
+            "Développer un discernement aux côtés de la compassion",
+            "Trouver une signification spirituelle dans la réalité quotidienne",
+            "Transformer la sensibilité en force plutôt que la vulnérabilité",
+            "Présenter des rêves dans une action pratique soutenue"
+        ],
+        "spiritual_growth": "Le développement spirituel des Poissons consiste à embrasser leur lien naturel avec la conscience universelle tout en développant un discernement pratique.Les pratiques qui honorent la sagesse intuitive, canalisent la créativité pour le service et transforment la sensibilité émotionnelle en force compatissante contribuent tous à l'évolution spirituelle."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Les enfants du Poissons sont généralement sensibles, imaginatifs et spirituellement à l'écoute dès le plus jeune âge.Ils montrent souvent des talents créatifs, des soucis empathiques pour les autres et une qualité de rêve qui peut les faire vivre parfois dans leur propre monde.",
+            "parenting_advice": "Fournir une structure douce tout en honorant leur sensibilité et leur imagination.Aidez-les à développer des frontières émotionnelles saines sans atténuer leur compassion naturelle.Encouragez l'expression créative tout en enseignant les compétences pratiques pour naviguer dans le monde matériel."
+        },
+        "in_friendship": {
+            "friendship_style": "Les amis des Poissons sont émotionnellement favorables, intuitifs et acceptent les défauts des autres.Ils offrent une écoute compatissante, une inspiration créative et un espace sans jugement pour une expression authentique.",
+            "ideal_friends": "Les Poissons prospèrent avec des amis qui apprécient la profondeur émotionnelle et la compréhension intuitive tout en fournissant une base pratique.Ils apprécient les amitiés qui équilibrent le respect de leur sensibilité avec de doux encouragements à la croissance."
+        },
+        "shadow_side": {
+            "potential_issues": "Lorsqu'elles sont déséquilibrées, les Poissons peuvent devenir des évasions, des martyr ou perdus dans la fantaisie.Leur empathie peut se transformer en submergé émotionnel, leur adaptabilité en manque de frontières et leur idéalisme en désillusion avec la réalité.",
+            "growth_path": "La croissance personnelle des Poissons consiste à développer un discernement parallèlement à la compassion, à créer une structure pratique pour les cadeaux créatifs et à trouver la force de la sensibilité plutôt que de l'utiliser comme excuse pour éviter."
+        }
+    },
+    "seasonal_influences": {
+        "winter's_end": "Né en tant que transitions hivernales au printemps, les Poissons incarnent la dissolution des frontières entre les saisons.Ce timing insuffle les Poissons à la compréhension des fins et des débuts, de la nature fluide du changement et de la promesse spirituelle qui émerge des profondeurs de l'hiver.",
+        "mutable_quality": "En tant que signe mutable, les Poissons représentent l'adaptabilité et la dissolution à la conclusion de l'hiver.Cette position leur accorde une fluidité émotionnelle remarquable, la capacité de combler différentes réalités et la capacité de s'adapter aux circonstances changeantes avec une résistance minimale."
+    },
+    "elemental_analysis": {
+        "water_element_influence": "L'élément d'eau donne aux Poissons leur profondeur émotionnelle caractéristique, leur perception intuitive et leur nature compatissante.L'eau représente le sentiment, la connexion subconsciente et la dissolution des frontières entre les identités distinctes.",
+        "water_balance": "L'eau équilibrée apporte une sagesse émotionnelle, une compréhension compatissante et un flux intuitif.L'eau excessive peut entraîner une submergence émotionnelle, une dissolution des frontières et une évasion, tandis que l'eau déficiente peut entraîner une déconnexion émotionnelle ou une sécheresse spirituelle."
+    },
+    "planetary_rulership": {
+        "neptune_influence": "Neptune, planète de spiritualité, d'imagination et de transcendance, est le souverain moderne de Poissons.Cette influence planétaire explique le lien intuitif du signe avec la conscience universelle, l'inspiration créative et parfois une relation difficile avec la réalité matérielle.",
+        "jupiter_influence": "Jupiter, le dirigeant traditionnel des Poissons, contribue à l'expansivité, à la foi et à la perspective philosophique au signe.Alors que Neptune fournit une connexion mystique et une dissolution des frontières, Jupiter aide les Poissons à trouver le sens et le but dans leur sensibilité spirituelle.",
+        "planetary_aspects": "La position et les aspects de Neptune et Jupiter dans le tableau de naissance d'un individu ont un impact significatif sur la façon dont l'énergie des Poissons est exprimée.Les aspects de Neptune forts améliorent les dons imaginatifs et spirituels, mais peuvent également augmenter les tendances à l'illusion ou à la confusion aux limites."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Dans le monde actuel axé sur la technologie, les Poissons excellent dans le développement de la réalité virtuelle, la conception de l'expérience utilisateur intuitive, les arts et la musique numériques, les conseils de télésanté et les communautés spirituelles ou créatives en ligne qui comblent la séparation physique.",
+        "relationship_in_modern_context": "Les relations modernes bénéficient de la compréhension empathique des Poissons à une époque de communication numérique.Leur intelligence émotionnelle aide à naviguer dans des relations modernes complexes, bien qu'ils continuent de développer un discernement sur les frontières appropriées dans les connexions numériques et physiques."
+    }
+}

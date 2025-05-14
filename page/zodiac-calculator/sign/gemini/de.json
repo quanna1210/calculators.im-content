@@ -1,0 +1,334 @@
+{
+    "sign": "Gemini",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/gemini.svg",
+    "local_name": "Zwillinge",
+    "date_range": "21. Mai - 20. Juni",
+    "element": "Luft",
+    "ruling_planet": "Quecksilber",
+    "symbol": "Zwillinge",
+    "lucky_numbers": [
+        "3",
+        "5",
+        "8",
+        "12",
+        "23"
+    ],
+    "lucky_colors": [
+        "Gelb",
+        "Hellblau",
+        "Grün"
+    ],
+    "lucky_days": [
+        "Mittwoch",
+        "Freitag"
+    ],
+    "lucky_stones": [
+        "Achat",
+        "Citrin",
+        "Tigers Auge"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Anpassungsfähig",
+            "Ausgeschlossen",
+            "Intelligent",
+            "Neugierig",
+            "Vielseitig",
+            "Schlagfertig",
+            "Gesprächig"
+        ],
+        "weaknesses": [
+            "Inkonsistent",
+            "Unentschlossen",
+            "Unruhig",
+            "Oberflächlich",
+            "Leicht gelangweilt",
+            "Nervöse Energie",
+            "Verstreute Fokus"
+        ]
+    },
+    "personality": {
+        "overview": "Gemini ist das dritte Zeichen des Tierkreises, das Dualität, Vielseitigkeit und Kommunikation darstellt.Gemini -Individuen sind bekannt für ihren schnellen Verstand, ihre Anpassungsfähigkeit und ihre soziale Natur.Sie sind die Kommunikatoren des Tierkreises, sammeln und teilen ständig Informationen und stellen Verbindungen zwischen Ideen und Menschen her.",
+        "detailed_traits": [
+            "Geistig agil mit schnellen Denkprozessen",
+            "Ausgezeichnete mündliche und schriftliche Kommunikationsfähigkeiten",
+            "Anpassungsfähig an neue Situationen und Umgebungen",
+            "Neugierig auf eine breite Palette von Themen",
+            "Multitasking und Jonglieren unterschiedliche Interessen",
+            "Charmant und sozial geschickt in verschiedenen Kreisen",
+            "Jugendliche Energie unabhängig vom Alter",
+            "Intellektueller Herangehensweise zum Verständnis der Welt",
+            "Braucht mentale Stimulation, um Langeweile zu vermeiden",
+            "Besitzt doppelte Natur, die verschiedenen Menschen unterschiedliche Seiten zeigen kann"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Gemini -Individuen sind spielerische, intellektuell anregende Partner, die die mentale Verbindung und eine lebhafte Konversation in Beziehungen schätzen.Sie brauchen Abwechslung, Freiheit und geistige Stimulation, um engagiert zu bleiben, und drückt oft Zuneigung durch Worte und witziger Austausch aus.",
+        "compatibility": {
+            "most_compatible": [
+                "Waage",
+                "Wassermann",
+                "Widder",
+                "Löwe"
+            ],
+            "least_compatible": [
+                "Jungfrau",
+                "Fische",
+                "Steinbock"
+            ]
+        },
+        "relationship_advice": "Gemini -Individuen müssen emotionale Tiefe und Konsistenz in Beziehungen entwickeln.Arbeiten Sie daran, Verpflichtungen durchzuhalten und anwesend zu sein, anstatt immer über das nächste nachzudenken.Hören Sie sich die Gefühle Ihres Partners eher an als nur auf ihre Worte.",
+        "love_style": [
+            "Schätzt intellektuelle Verbindung und stimulierende Konversation",
+            "Verspielte und jugendliche Herangehensweise an Romantik",
+            "Braucht Abwechslung und Spontanität, um engagiert zu bleiben",
+            "Kann kämpfen damit, tiefere Gefühle auszudrücken",
+            "Kommuniziert Liebe durch Worte und kluge Gesten",
+            "Schätzt Partner, die ihnen Freiheit geben",
+            "Kann Schwierigkeiten mit langfristigem Engagement haben, wenn sie gelangweilt sind"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Gemini -Individuen übertreffen Karrieren, die Abwechslung, intellektuelle Anregung und Kommunikationsmöglichkeiten bieten.Sie haben vielseitige Fähigkeiten und können sich schnell an sich ändernde Umstände anpassen, obwohl sie die Karriere mehrmals wechseln können.",
+        "suitable_careers": [
+            "Journalismus und Schreiben",
+            "Vertrieb und Marketing",
+            "Lehre und Bildung",
+            "Öffentlichkeitsarbeit",
+            "Medien und Kommunikation",
+            "Social Media Management",
+            "Reisebranche",
+            "Übersetzung und Sprachen",
+            "Technologie- und Softwareentwicklung",
+            "Rundfunk und Podcasting"
+        ],
+        "financial_habits": "Gemini -Individuen haben oft variable finanzielle Muster, die manchmal mit Bedacht und anderen Zeiten impulsiv ausgeben.Sie haben möglicherweise mehrere Einkommensströme, sollten jedoch an der Konsistenz in der Finanzplanung arbeiten und verstreute Geldansätze vermeiden.",
+        "work_style": [
+            "Gedeiht in dynamischen, sich ändernden Umgebungen",
+            "Hervorragend in Brainstorming und Ideengenerierung",
+            "Bevorzugt eine Vielzahl von Aufgaben über wiederholte Arbeiten",
+            "Kommuniziert Ideen klar und überzeugend",
+            "Funktioniert gut in kollaborativen Umgebungen",
+            "Kann das Interesse an langfristigen Projekten verlieren",
+            "Passt sich schnell an neue Technologien und Methoden an"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Gemini regiert die Lungen, Schultern, Arme, Hände und Nervensystem.Im Allgemeinen sind Zwillinge mit schneller Energie und guter Koordination gesegnet und sind tendenziell aktiv, können jedoch anfällig für nervöse Spannungen und Atemprobleme sind.",
+        "common_health_issues": [
+            "Atemprobleme (Asthma, Bronchitis)",
+            "Nervenspannung und Angstzustände",
+            "Probleme mit Händen, Armen und Schultern",
+            "Sprachschwierigkeiten",
+            "Verstreute Energie, die zu Erschöpfung führt",
+            "Schlaflosigkeit aus dem überaktiven Verstand"
+        ],
+        "wellness_advice": "Üben Sie fokussierte Atemübungen, um Ihr Nervensystem zu beruhigen und Ihre Lunge zu stärken.Stellen Sie konsistente Schlafmuster fest, um Ihren aktiven Geist auszuruhen.Gleichen Sie die mentale Aktivität mit körperlicher Bewegung aus, um die Nervenenergie zu entladen.",
+        "exercise_preferences": [
+            "Aktivitäten, die geistige und körperliche Fähigkeiten verbinden (Tennis, Tanzen)",
+            "Verschiedene Trainingsroutinen, um Langeweile zu verhindern",
+            "Mannschaftssport mit sozialer Interaktion",
+            "Radfahren und Laufen",
+            "Übung, die es ermöglicht, Podcasts oder Hörbücher anzuhören"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 bringt intellektuelles Wachstum und erweiterte Kommunikationskanäle für Gemini -Individuen.Ihre natürliche Neugier und Vielseitigkeit helfen Ihnen dabei, sich an sich schnell verändernde Umstände anzupassen.Gleiche mentale Stimulation mit emotionalen Verbindungen für die harmonische Entwicklung.",
+            "love": "Beziehungen gedeihen durch witzige Gespräche und intellektuelle Beziehung.Single Geminis kann potenzielle Partner durch Bildungsversuchsanwälte oder Kommunikationsplattformen treffen.Bestehende Beziehungen stärken, wenn Sie eine konsistente und transparente Kommunikation praktizieren.",
+            "career": "Professioneller Fortschritt erfolgt durch die Präsentation Ihrer Kommunikationsfähigkeiten und Anpassungsfähigkeit.Ihr schnelles Denken hilft bei der Lösung komplexer Probleme mit der Mitte des Jahres.Chancen ergeben sich in Bereichen, die Vielseitigkeit und Fähigkeit erfordern, komplexe Ideen für verschiedene Zielgruppen zu übersetzen.",
+            "health": "Konzentrieren Sie sich auf die Gesundheit der Atemwege durch richtige Atemtechniken und regelmäßige aerobe Aktivität.Das geistige Wohlbefinden verbessert sich, wenn Sie die Aufnahme von Informationen mit Achtsamkeitspraktiken in Einklang bringen.Achten Sie besonders auf die Pflege des Nervensystems durch angemessene Ruhe zwischen anregenden Aktivitäten.",
+            "finances": "Finanzielle Schwankungen erfordern anpassbare Geldmanagementstrategien.Betrachten Sie die Diversifizierung von Einkommensquellen durch Fähigkeiten, die Sie bereits besitzen.Kurzfristige Chancen, die mit langfristiger Planung in Einklang gebracht wurden, schaffen trotz der sich ändernden Umstände Stabilität."
+        },
+        "2026": {
+            "overall": "2026 hebt zu Hause und emotionale Grundlagen für Gemini hervor.Ihre Fähigkeit, unterschiedliche Perspektiven zu harmonisieren, schafft friedliche häusliche Umgebungen.Wenn Sie das Gleichgewicht zwischen Ihrem Bedarf an Abwechslung und der Errichtung von Wurzeln finden, werden Erfüllung und Sicherheit erfüllt.",
+            "love": "Emotionale Tiefe verbessert die romantischen Verbindungen in diesem Jahr.Partner schätzen Ihre Bemühungen, stabile, aber intellektuell anregende Beziehungen aufzubauen.Single Geminis zieht Partner an, die sowohl Ihren spielerischen Geist als auch Ihren Fähigkeit für sinnvolle Gespräche schätzen.",
+            "career": "Die Arbeit von zu Hause aus oder flexible Arbeitsvereinbarungen bringt professionelle Zufriedenheit.Ihre Fähigkeit, unterschiedliche Ideen zu verbinden, führt zu innovativen Lösungen für Herausforderungen am Arbeitsplatz.Berücksichtigen Sie Rollen, die die Kommunikation mit der Schaffung bequemer Umgebungen kombinieren.",
+            "health": "Die Gesundheit des Verdauung profitiert trotz geschäftiger Zeitpläne von konsistenten Mahlzeiten.Die psychische Gesundheit verbessert sich durch die Einrichtung von Entspannungspraktiken zu Hause.Gleiche soziale Interaktion mit leiser Reflexion für eine optimale Funktion des Nervensystems.",
+            "finances": "Immobilieninvestitionen oder häusliche Unternehmensunternehmen sind vielversprechend.Erwägen Sie die Einrichtung von Notfallmitteln für größere Sicherheit.Familienfinanzplanung oder gemeinsame Ressourcen schaffen Stabilität, ohne die Flexibilität zu beeinträchtigen."
+        },
+        "2027": {
+            "overall": "2027 betont den kreativen Ausdruck und die freudigen Beschäftigungen für Gemini.Ihr natürlicher Witz findet perfekte Filialen in verschiedenen Medien.Das Gleichgewicht zwischen spielerischer Erforschung und fokussierter Entwicklung von Talenten führt zu einer bemerkenswerten persönlichen Zufriedenheit.",
+            "love": "Romantische Beziehungen gedeihen, wenn sie von Kreativität und Verspieltheit infundiert werden.Partner schätzen Ihre kindliche Begeisterung und Ihre frischen Perspektiven.Einzelne Geminis ziehen Verbindungen durch authentische Selbstausdruck in künstlerischen oder Freizeitumgebungen an.",
+            "career": "Kreative Projekte erhalten Anerkennung und Unterstützung.Ihre Fähigkeit zu unterhalten, während Sie informiert werden, bietet Ihnen einen Vorteil in Wettbewerbsumgebungen.Erwägen Sie, Spezialbereiche zu entwickeln, die Ihren einzigartigen Kommunikationsstil zeigen.",
+            "health": "Herz und Verbreitung verbessern sich durch Aktivitäten, die echte Freude bereiten.Die psychische Gesundheit profitiert von kreativem Ausdruck und Spiel.Gleiche intellektuelle Aktivitäten mit physischer Bewegung, die sich eher angenehm als obligatorisch anfühlt.",
+            "finances": "Kreative Unternehmungen oder Nebenprojekte erzielen ein unerwartetes Einkommen.Berücksichtigen Sie Investitionen in Kunst-, Unterhaltungs- oder Bildungsinstrumente.Spekulative Unternehmen sind vielversprechend, wenn sie gründlich recherchiert und auf angemessene Teile Ihres Portfolios beschränkt sind."
+        },
+        "2028": {
+            "overall": "2028 konzentriert sich auf praktische Routinen und Gesundheitsoptimierung für Gemini.Ihr analytischer Geist hilft, effiziente Systeme für das tägliche Leben zu schaffen.Das Finden des Gleichgewichts zwischen Vielfalt und Konsistenz führt zu bemerkenswerten Verbesserungen der Produktivität und des Wohlbefindens.",
+            "love": "Beziehungen stärken durch praktische Unterstützung und gemeinsame tägliche Rituale.Partner schätzen Ihre Aufmerksamkeit auf kleine Details, die die Lebensqualität verbessern.Einzelne Geminis ziehen geerdete, unterstützende Verbindungen durch Wellnessgemeinschaften oder Interaktionen am Arbeitsplatz an.",
+            "career": "Organisatorische Rollen oder Positionen, die Liebe zum Detail erfordern, bringen Anerkennung.Ihre Fähigkeit, Systeme zu verbessern und gleichzeitig ansprechende Umgebungen aufrechtzuerhalten, bietet Ihnen einen Vorteil bei der Entwicklung von Arbeitsplätzen.Betrachten Sie die Rolle in der Gesundheitskommunikation oder in der Effizienzberatung.",
+            "health": "Die Gesundheit des Verdauungs- und Nervensystems zeigt eine deutliche Verbesserung durch konsistente Routinen.Die geistige Klarheit nimmt mit der richtigen Ernährung und Schlafhygiene zu.In diesem Jahr festgelegte vorbeugende Gesundheitspraktiken bringen dauerhafte Vorteile.",
+            "finances": "Budgetierung und Kostenverfolgung bringen überraschende finanzielle Freiheit.Betrachten Sie Investitionen in Gesundheitstechnologien oder Effizienzwerkzeuge.Kleine, konsistente Einsparungsbeiträge verbinden sich im Laufe der Zeit erheblich."
+        },
+        "2029": {
+            "overall": "2029 hebt Partnerschaften und kollaborative Unternehmungen für Gemini hervor.Ihre diplomatische Kommunikation erleichtert wichtige Vereinbarungen.Das Finden des Gleichgewichts zwischen Unabhängigkeit und Zusammenarbeit führt zu erweiterten Chancen und persönlichem Wachstum.",
+            "love": "Engagierte Beziehungen erreichen neue Ebenen des gegenseitigen Verständnisses.Partner schätzen Ihre Bereitschaft, Kompromisse einzugehen, ohne Ihre wesentliche Natur zu verlieren.Einzelne Geminis ziehen ausgewogene Partnerschaften durch eindeutige Ausdruck von Beziehungszielen an.",
+            "career": "Geschäftspartnerschaften oder kollaborative Projekte bringen professionellen Aufstieg.Ihre Fähigkeit, Win-Win-Lösungen auszuhandeln, bietet Ihnen einen Vorteil in Vertragsdiskussionen.Betrachten Sie Beratungsrollen, mit denen Sie Brücken zwischen verschiedenen Stakeholdern aufbauen können.",
+            "health": "Nieren- und Nebennierengesundheit profitieren von ausgewogenem Aktivität und Stressmanagement.Das geistige Wohlbefinden verbessert sich durch gesunde Beziehungsgrenzen.Partneraktivitäten wie Tennis oder Tanz bringen sowohl körperliche Vorteile als auch Beziehungsstärke.",
+            "finances": "Joint Ventures oder gemeinsame Investitionen sind vielversprechend.Erwägen Sie, klare Vereinbarungen schriftlich festzulegen, wenn die Finanzen andere betreffen.Wenn Sie sich um Experten beraten, bevor große Verpflichtungen langfristig Sicherheit sind."
+        },
+        "2030": {
+            "overall": "2030 bringt Transformation und Regeneration für Gemini.Ihre natürliche Anpassungsfähigkeit hilft bei der Navigation erhebliche Lebensveränderungen.Das Gleichgewicht zwischen der Annahme der neuen und der Ehren von geschätzten Traditionen führt zu einer tiefgreifenden persönlichen Entwicklung.",
+            "love": "Intime Beziehungen vertiefen sich durch ehrliche Gespräche über Wünsche und Grenzen.Partner schätzen Ihre Bereitschaft, sich durch Herausforderungen zusammenzubringen.Einzelne Geminis ziehen durch authentische Sicherheitsanfälligkeit starke Verbindungen an.",
+            "career": "Forschungsmöglichkeiten oder Positionen, die Untersuchungen betreffen, bringen professionelle Erfüllung.Ihre Fähigkeit, versteckte Informationen aufzudecken, bietet Ihnen einen Vorteil in komplexen Situationen.Betrachten Sie Rollen, die psychologische Einsichten oder Ressourcenmanagement beinhalten.",
+            "health": "Fortpflanzungs- und Eliminierungssysteme profitieren von Entgiftungspraktiken.Die geistige Widerstandsfähigkeit stärkt durch die Konfrontation und Veröffentlichung alter Muster.Regenerative Praktiken wie angemessene Ruhe und nährstoffreiche Lebensmittel bringen bemerkenswerte Vitalitätsverbesserungen.",
+            "finances": "Investitionsumstrukturierung oder Versicherungsbewertungen bringen die Sicherheit erhöht.Erwägen Sie, Trusts oder Legacy -Pläne zu erstellen.Unerwartete finanzielle Ressourcen können durch Erbschaften oder zuvor übersehene Vorteile entstehen."
+        },
+        "2031": {
+            "overall": "2031 betont die Expansion und das höhere Lernen für Gemini.Ihre intellektuelle Neugier findet Erfüllung durch Studien oder Reisen.Das Finden des Gleichgewichts zwischen Verbreiterung von Horizonten und praktischer Anwendung führt zu einer sinnvollen persönlichen Philosophieentwicklung.",
+            "love": "Beziehungen expandieren durch gemeinsame Lernabenteuer.Partner schätzen Ihre philosophische Tiefe und kulturelle Neugier.Einzelne Geminis ziehen intellektuell anregende Verbindungen durch pädagogische Aktivitäten oder Reiseerlebnisse an.",
+            "career": "Akademische oder Veröffentlichungsmöglichkeiten ergeben sich unerwartet.Ihre Fähigkeit, komplexe Informationen zu synthetisieren und zu kommunizieren, bringt professionelle Anerkennung.Betrachten Sie Rollen, die das Unterrichten, Schreiben oder interkulturelle Kommunikation umfassen.",
+            "health": "Die Flexibilität der Hüfte und der Oberschenkel verbessert sich durch Bewegungspraktiken aus verschiedenen Traditionen.Die mentale Aussichten hellen durch die Exposition gegenüber verschiedenen Perspektiven auf.Gleiche intellektuelle Erforschung mit der Erde körperliche Aktivitäten für ein optimales Wohlbefinden.",
+            "finances": "Bildungsinvestitionen erzielen sowohl intellektuelle als auch finanzielle Renditen.Berücksichtigen Sie ausländische Märkte oder internationale Unternehmungen für die Portfolio -Diversifizierung.Unerwartete finanzielle Möglichkeiten ergeben sich durch Veröffentlichungs- oder Wissensaustauschplattformen."
+        },
+        "2032": {
+            "overall": "2032 konzentriert sich auf berufliche Leistung und öffentliche Anerkennung von Gemini.Ihre Kommunikationsfähigkeiten leuchten in Führungskontexten.Das Finden des Gleichgewichts zwischen beruflicher Aufstieg und persönlicher Erfüllung führt zu nachhaltigem Erfolg und Zufriedenheit.",
+            "love": "Beziehungen profitieren von klaren Diskussionen über langfristige Ziele.Partner schätzen Ihre Unterstützung ihrer beruflichen Bestrebungen.Single Geminis zieht Verbindungen durch Branchenveranstaltungen oder professionelle Netzwerke an.",
+            "career": "Führungsmöglichkeiten oder Projekte mit hoher Sichtbarkeit bringen Fortschritte.Ihre Fähigkeit, komplexe Ideen zu präsentieren, bietet Ihnen eindeutig einen Vorteil in Wettbewerbsumgebungen.Betrachten Sie Rollen, mit denen Sie organisatorische Kommunikation oder öffentliche Erzählung gestalten können.",
+            "health": "Die Skelettgesundheit, insbesondere Knie und Gelenke, erfordert eine ordnungsgemäße Pflege bei ehrgeizigen Beschäftigungen.Die mentale Widerstandsfähigkeit stärkt durch das Ausgleich der Leistungsorientierung mit Selbstmitgefühl.Das Stressmanagement wird während der beruflichen Intensität von wesentlicher Bedeutung.",
+            "finances": "Die berufliche Weiterentwicklung bringt ein erhöhtes Einkommenspotential aus.Erwägen Sie die Einrichtung von Altersvorsorgekonten oder Anlagestrategien für langfristige Sicherheit.Professionelle Anmeldeinvestitionen erzielen erhebliche Renditen."
+        },
+        "2033": {
+            "overall": "2033 hebt soziale Verbindungen und Engagement der Gemeinschaft für Gemini hervor.Ihre Networking -Fähigkeiten schaffen wertvolle kollektive Initiativen.Das Finden von Gleichgewicht zwischen sozialem Engagement und persönlicher Authentizität führt zu einem sinnvollen Beitrag und Zugehörigkeit.",
+            "love": "Beziehungen gedeihen, wenn sie in breitere soziale Kreise integriert werden.Partner schätzen Ihre Loyalität gegenüber gemeinsamen Werten und Community -Verpflichtungen.Einzelne Geminis ziehen Verbindungen durch humanitäre Aktivitäten oder Gruppenaktivitäten an, die mit persönlichen Werten ausgerichtet sind.",
+            "career": "Gemeinnützige oder gemeinschaftsorientierte Arbeiten bringen professionelle Erfüllung.Ihre Fähigkeit, verschiedene Personen mit gemeinsamen Zielen zu vereinen, bietet Ihnen einen Vorteil in Teamumgebungen.Betrachten Sie Rollen, die Gruppenleichterungen oder Gemeinschaftsorganisationen betreffen.",
+            "health": "Die Durchblutung verbessert sich durch regelmäßiges Gehen oder Bewegung in natürlichen Umgebungen.Das mentale Wohlbefinden stärkt durch sinnvolle soziale Verbindung.Das Gleichgewicht zwischen Einsamkeit und Engagement der Gemeinschaft schafft eine optimale Regulierung des Nervensystems.",
+            "finances": "Kollaborative finanzielle Unternehmungen sind vielversprechend.Betrachten Sie ethische Investitionen, die mit persönlichen Werten ausgerichtet sind.Unerwartete finanzielle Möglichkeiten ergeben sich durch Gemeinschaftsverbindungen oder gemeinsame wirtschaftliche Initiativen."
+        },
+        "2034": {
+            "overall": "2034 bringt spirituelle Insight und innere Entwicklung für Gemini.Ihre natürliche Neugier wendet sich existenziellen Fragen und subtilen Dimensionen zu.Das Finden von Gleichgewicht zwischen intellektueller Analyse und intuitivem Wissen führt zu bemerkenswerten persönlichen Weisheit.",
+            "love": "Beziehungen vertiefen sich durch spirituelle oder philosophische Verbindung.Partner schätzen Ihre erhöhte Empathie und emotionale Intelligenz.Einzelne Geminis ziehen Verbindungen auf Seelenebene durch Aktivitäten mit persönlichem Wachstum oder kreativem Ausdruck an.",
+            "career": "Beratung oder Beratungsrollen bringen professionelle Zufriedenheit.Ihre Fähigkeit, zugrunde liegende Muster zu spüren, bietet Ihnen einen Vorteil in komplexen menschlichen Systemen.Betrachten Sie Rollen, die es Ihnen ermöglichen, die Entwicklung anderer zu dienen und gleichzeitig Ihre eigene Entwicklung fortzusetzen.",
+            "health": "Immun- und Lymphsysteme stärken durch angemessene Ruhe- und Entgiftungspraktiken.Die geistige Klarheit verbessert sich durch Meditation oder kontemplative Praktiken.Das Gleichgewicht zwischen Aktivität und Rückzug führt zu optimalen Gesundheitsergebnissen.",
+            "finances": "Intuitive finanzielle Entscheidungen bringen unerwartete Vorteile.Erwägen Sie, passive Einkommensströme zu etablieren, die mehr Zeit für die persönliche Entwicklung ermöglichen.Charitable, paradoxerweise erhöht sich die allgemeine Fülle."
+        },
+        "2035": {
+            "overall": "2035 markiert den Beginn eines signifikanten Erneuerungszyklus für Gemini.Ihre natürliche Vielseitigkeit hilft Ihnen dabei, veraltete Identitäten abzugeben und neue Anfänge zu nutzen.Das Finden des Gleichgewichts zwischen Selbstverhütung und Ehren von Kernessenz führt zu einer authentischen Evolution.",
+            "love": "Beziehungen verändern sich durch ehrliche Kommunikation über die sich entwickelnden Bedürfnisse.Partner schätzen Ihre Bereitschaft, zusammen zu wachsen und gleichzeitig Beziehungsstiftungen zu erhalten.Einzelne Geminis ziehen durch authentische Selbstausdruck sinnvolle Verbindungen an.",
+            "career": "Frische professionelle Anweisungen oder unternehmerische Unternehmungen bringen Erfüllung.Ihre Fähigkeit, Fähigkeiten über Kontexte hinweg zu übertragen, bietet Ihnen einen Vorteil in der Veränderung der Märkte.Berücksichtigen Sie Rollen, die eine kreative Autonomie ermöglichen und gleichzeitig auf etabliertem Fachwissen aufbauen.",
+            "health": "Die Gesamtvitalität verbessert sich durch Vereinfachung und fokussiertes Energiemanagement.Die geistige Klarheit stärkt durch die Veröffentlichung unnötiger Verpflichtungen.Das Gleichgewicht zwischen Aktivität und angemessener Ruhe erzeugt nachhaltige Energiemuster.",
+            "finances": "Finanzielle Überprüfung und Umstrukturierung schafft eine größere Effizienz.Erwägen Sie, unnötige Ausgaben zu beseitigen und gleichzeitig die Investitionen in Bereiche mit hoher Rendite zu erhöhen.Durch die Anwendung bestehender Fähigkeiten in neuen Kontexten entstehen neue Einkommensströme."
+        }
+    },
+    "famous": [
+        {
+            "name": "Angelina Jolie",
+            "birth_date": "4. Juni 1975",
+            "description": "Schauspielerin, Filmemacherin und humanitärin und veranschaulicht Geminis Vielseitigkeit, Intelligenz und Fähigkeit, mehrere Domänen zu beherrschen"
+        },
+        {
+            "name": "Morgan Freeman",
+            "birth_date": "1. Juni 1937",
+            "description": "Schauspieler mit einer unverwechselbaren Stimme, die die Kommunikationsfähigkeiten von Gemini und die Fähigkeit demonstrieren, viele verschiedene Charaktere zu bewohnen"
+        },
+        {
+            "name": "Marilyn Monroe",
+            "birth_date": "1. Juni 1926",
+            "description": "Ikonische Schauspielerin, die Geminis Dualität, Charme und komplexe Natur unter einem scheinbar leichten Äußeren zeigt"
+        },
+        {
+            "name": "Johnny Depp",
+            "birth_date": "9. Juni 1963",
+            "description": "Der vielseitige Schauspieler, der für die Darstellung von vielseitigen Charakteren bekannt ist, die Anpassungsfähigkeit von Geminis und vielfältige Persönlichkeit verkörpert"
+        },
+        {
+            "name": "Kanye West",
+            "birth_date": "8. Juni 1977",
+            "description": "Musiker, Produzent und Designer, der die vielfältigen Talente, den ausgesprochenen Kommunikationsstil und die sich ständig weiterentwickelnden Interessen von Geminis repräsentiert"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Konzentrieren Sie sich heute darauf, in Ihren Gesprächen vollständig präsent zu sein.Hören Sie sich verstehen, anstatt einfach darauf zu warten, dass Sie an der Reihe sprechen.",
+        "career": "Ihre Kommunikationsfähigkeiten leuchten heute.Teilen Sie Ihre Ideen zuversichtlich, aber machen Sie auch Platz für andere, um einen Beitrag zu leisten.",
+        "health": "Üben Sie die achtsame Atmung, um Ihr Nervensystem zu beruhigen.Machen Sie Pausen von digitalen Geräten, um Ihren Geist auszuruhen.",
+        "general": "Ihre Neugier führt heute zu wertvollen Entdeckungen.Befolgen Sie Ihre Interessen, während Sie genügend Fokus beibehalten, um das zu vervollständigen, was Sie beginnen."
+    },
+    "tarot_associations": {
+        "major_arcana": "Die Liebhaber",
+        "explanation": "Die Liebenden repräsentieren Entscheidungen, Beziehungen und Dualität - Themen, die bei Geminis Zwillings Natur intensiv ansprechen.Diese Karte verkörpert die Notwendigkeit, verschiedene Aspekte des Selbst zu integrieren und bewusste Entscheidungen zu treffen, die mit den höchsten Werten übereinstimmen."
+    },
+    "compatibility_details": {
+        "aries": "Gemini und Aries schaffen eine dynamische, intellektuell anregende Beziehung.Beide Zeichen sind merkwürdig und energisch und genießen gemeinsam neue Erfahrungen und bieten sich gegenseitig den notwendigen Platz.",
+        "taurus": "Gemini und Taurus stehen vor Herausforderungen mit unterschiedlichen Lebensansätzen.Taurus schätzt Stabilität und Routine, während Gemini viertelt und verändert und erhebliche Kompromisse erfordern.",
+        "gemini": "Zwei Geminis zusammen schaffen eine Beziehung voller faszinierender Gespräche und geistiger Anregung.Sie verstehen das Bedürfnis nach Freiheit des anderen, aber es fehlt möglicherweise emotionale Tiefe oder Stabilität.",
+        "cancer": "Gemini und Krebs können mit Kommunikationsstilen zu kämpfen - Gemini ist intellektuell und Krebs ist emotional.Mit Anstrengung können sie die Ansätze des anderen ausgleichen und ergänzen.",
+        "leo": "Gemini und Leo bilden eine kompatible Übereinstimmung voller Spaß und Kreativität.Leos Wärme und Selbstvertrauen passt gut zu Geminis Witz und Anpassungsfähigkeit und schaffen eine anregende Partnerschaft.",
+        "virgo": "Gemini und Jungfrau teilen die Merkur -Herrschaft, drücken sie jedoch anders aus.Beide sind intellektuell, können jedoch zwischen der Präzision von Virgo und der Flexibilität von Gemini zusammenbrechen, was gegenseitig Respekt erfordert.",
+        "libra": "Gemini und Libra teilen eine hervorragende Kompatibilität als Luftschilder.Sowohl Wertkontrolle, soziale Verbindungen als auch mentale Stimulation, wodurch harmonische und ausgewogene Beziehungen geschaffen werden.",
+        "scorpio": "Gemini und Scorpio stehen vor Herausforderungen mit unterschiedlichen emotionalen Tiefen.Der Lichtansatz von Gemini steht im Gegensatz zur Intensität von Scorpio und erfordert eine signifikante Anpassung von beiden.",
+        "sagittarius": "Gemini und Schütze teilen eine Liebe zur Freiheit, zum Wissen und zur Erforschung.Dieses kompatible Match genießt zusammen intellektuelle Diskussionen und Abenteuer.",
+        "capricorn": "Gemini und Steinbock kämpfen mit grundlegenden Unterschieden im Ansatz.Die ernsthafte, methodische Natur des Steinbocks steht im Gegensatz zu Geminis spielerischer Vielseitigkeit.",
+        "aquarius": "Gemini und Wassermann haben eine hervorragende mentale Beziehung als Luftschilder.Sowohl schätzen der intellektuelle Austausch, die Innovation und die Unabhängigkeit und schaffen anregende und freundliche Beziehungen.",
+        "pisces": "Gemini und Fische nähern sich das Leben ganz anders - Gemini durch Logik und Fische durch Intuition.Sie können sich gegenseitig ergänzen, müssen jedoch erhebliche Kommunikationslücken überbrücken."
+    },
+    "astrological_influences": {
+        "sun_in": "Sonne in Gemini bringt Vielseitigkeit, Neugier und hervorragende Kommunikationsfähigkeiten.Sie nähern sich dem Leben mit intellektuellem Interesse und passen sich schnell an neue Situationen an.",
+        "moon_in": "Der Mond in Gemini schafft emotionale Unruhe und ein Bedürfnis nach geistiger Stimulation.Ihre Gefühle werden intellektuell verarbeitet und Sie suchen Abwechslung in emotionalen Erfahrungen.",
+        "rising": "Gemini Rising gibt Ihnen einen Auftritt von Jugendlichkeit, Neugier und Geselligkeit.Andere sehen Sie als witzig, gesprächig und intellektuell orientiert."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Entwicklung von Fokus und Follow-Through auf Projekten",
+            "Emotionale Tiefe jenseits des intellektuellen Verständnisses kultivieren",
+            "Nervenergie und geistige Überstimulation bewältigen",
+            "Konsistenz in Beziehungen und Verpflichtungen aufbauen",
+            "Erdung verstreute Ideen in die praktische Anwendung"
+        ],
+        "growth_opportunities": [
+            "Verwenden von Kommunikationsfähigkeiten, um das Verständnis zwischen verschiedenen Perspektiven zu überbrücken",
+            "Vielseitigkeit anwenden, um komplexe Probleme zu lösen",
+            "Expertise entwickeln und gleichzeitig die Breite des Wissens erhalten",
+            "Wege finden, um die Neugierde zu befriedigen, während die notwendigen Aufgaben erledigt werden",
+            "Humor und Witz verwenden, um angespannte Situationen zu unterscheiden"
+        ],
+        "affirmations": [
+            "Ich konzentriere meine Energie und vervollständige das, was ich anfange",
+            "Ich kommuniziere mit Klarheit und Zweck",
+            "Ich verbinde mich sowohl mit meinen Emotionen als auch mit meinen Gedanken",
+            "Ich bin präsent und engagiere mich mit meinen Beziehungen",
+            "Meine Vielseitigkeit ermöglicht es mir, mich an jede Situation anzupassen"
+        ]
+    },
+    "life_path": {
+        "purpose": "Gemini -Personen haben oft die Mission, Wissen zu sammeln und auszutauschen, die Kommunikation zu erleichtern und Menschen und Ideen zu verbinden.Ihr Zweck besteht darin, geistige Klarheit zu bringen und mehrere Perspektiven in jeder Situation zu sehen.",
+        "life_lessons": [
+            "Lernen, die verschiedenen Aspekte Ihrer Persönlichkeit zu integrieren",
+            "Tiefe entwickeln und Wissensbreite",
+            "Bedeutung in Informationen und Mustern finden",
+            "Verwenden von Kommunikation als Instrument für positive Veränderungen",
+            "Mentale Aktivität mit emotionalem Bewusstsein ausbalancieren"
+        ],
+        "spiritual_growth": "Die spirituelle Entwicklung für Gemini beinhaltet die Überbrückung der Kluft zwischen Intellekt und Intuition.Achtsamkeit praktiziert, die den geschäftigen Geist beruhigen, Aktivitäten, die Geist und Körper integrieren und Kommunikationsfähigkeiten für ein höheres Verständnis verwenden, tragen zur spirituellen Evolution bei."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Gemini -Kinder sind typischerweise neugierig, gesprächig und lernen schnell schon in jungen Jahren.Sie zeigen oft frühe mündliche Fähigkeiten, stellen zahlreiche Fragen und Interesse an einer Vielzahl von Themen und Aktivitäten.",
+            "parenting_advice": "Stellen Sie durch Bücher, Bildungsspiele und vielfältige Erfahrungen viel mentale Anregung.Helfen Sie ihnen, Fokus und Folge zu entwickeln, indem sie die Abschluss von Projekten fördern.Beantworten Sie ihre vielen Fragen geduldig und wenden Sie sie in sinnvolle Gespräche ein."
+        },
+        "in_friendship": {
+            "friendship_style": "Gemini -Freunde sind unterhaltsam, sozial anpassungsfähig und exzellente Konversationisten.Sie genießen einen weiten Kreis von Bekannten, bringen Menschen zusammen und halten Freundschaften mit ihrem Witz und ihrer Neugier.",
+            "ideal_friends": "Gemini gedeiht mit Freunden, die den intellektuellen Austausch genießen und mit ihrem schnellen geistigen Tempo Schritt halten können.Sie schätzen Freundschaften, die sowohl anregende Gespräche als auch neue Erfahrungen bieten, mit genügend Raum für Unabhängigkeit."
+        },
+        "shadow_side": {
+            "potential_issues": "Bei unausgeglichenen können Gemini verstreut, oberflächlich oder unzuverlässig werden.Ihre Tendenz zur Dualität kann sich als Inkonsistenz oder sogar Täuschung manifestieren, und ihre Liebe zur Kommunikation kann zu Klatsch oder Manipulation von Informationen werden.",
+            "growth_path": "Persönliches Wachstum für Gemini beinhaltet die Entwicklung von Fokus, emotionaler Tiefe und Integrität in Wort und Handlung.Das Lernen, sich voll und ganz zu engagieren, anstatt die Erlebnisoberfläche zu überfliegen, hilft dabei, die doppelte Natur in ein zusammenhängenderes Ganzes zu integrieren."
+        }
+    },
+    "seasonal_influences": {
+        "late_spring_energy": "Gemini wurde im späten Frühling näher zum Sommer geboren und verkörpert das zunehmende Licht, die Aktivität und den Austausch der Saison.Dieses Timing verleiht Gemini mit natürlicher Neugier, Geselligkeit und geistiger Agilität, da die Natur vielfältiger und interaktiver wird.",
+        "mutable_quality": "Als veränderliches Zeichen stellt Gemini Anpassungsfähigkeit und Übergang zwischen den Jahreszeiten dar.Diese Position gewährt ihnen bemerkenswerte Flexibilität, Vielseitigkeit und die Fähigkeit, verschiedene Welten und Perspektiven zu schließen."
+    },
+    "elemental_analysis": {
+        "air_element_influence": "Das Luftelement gibt Gemini ihren charakteristischen intellektuellen Ansatz, Kommunikationsfähigkeiten und soziale Natur.Luft repräsentiert Gedanken, Verbindung und den Austausch von Ideen durch verschiedene Formen des Ausdrucks.",
+        "air_balance": "Balanced Air bringt ein klares Denken, eine effektive Kommunikation und gesunde soziale Verbindungen mit sich.Übermäßige Luft kann zu Überdenken, Angstzuständen und Ablösung von Emotionen führen, während mangelhafte Luft zu Kommunikationsschwierigkeiten und geistigen Stagnation führen kann."
+    },
+    "planetary_rulership": {
+        "mercury_influence": "Quecksilber, der Planet der Kommunikation, des Intellekts und der Bewegung, Regeln Gemini.Dieser planetäre Einfluss erklärt das schnelle Denken, die verbale Beweglichkeit und das ständige Bedürfnis nach geistiger Stimulation und Informationsaustausch des Zeichens.",
+        "mercury_aspects": "Die Position und die Aspekte von Quecksilber in der Geburtsdiagramm eines Individuums beeinflussen erheblich, wie Gemini -Energie ausgedrückt wird.Starke Quecksilberaspekte verbessern Kommunikationsfähigkeiten und psychische Beweglichkeit, können aber auch die Tendenzen zu Nervosität oder verstreutem Fokus erhöhen."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "In der heutigen informationsbasierten Wirtschaft ist Gemini in der digitalen Kommunikation, der Erstellung von Inhalten, dem Social-Media-Management und den Bereichen, die eine schnelle Anpassung an sich ändernde Technologien und Trends erfordern.",
+        "relationship_in_modern_context": "Moderne Beziehungen profitieren von Geminis Flexibilität und Kommunikationsfähigkeiten in einer Zeit digitaler Verbindung.Ihre Anpassungsfähigkeit dient ihnen gut mit Online-Dating- und Fernbeziehungen, obwohl sie möglicherweise eine tiefere Verbindung über die virtuelle Interaktion hinaus entwickeln müssen."
+    }
+}

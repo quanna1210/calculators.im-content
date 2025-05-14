@@ -1,0 +1,335 @@
+{
+    "sign": "Capricorn",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/capricorn.svg",
+    "local_name": "Kozoroh",
+    "date_range": "22. prosince - 19. ledna",
+    "element": "Země",
+    "ruling_planet": "Saturn",
+    "symbol": "Mořská koza",
+    "lucky_numbers": [
+        "4",
+        "8",
+        "13",
+        "22",
+        "26"
+    ],
+    "lucky_colors": [
+        "Hnědý",
+        "Černý",
+        "Tmavě zelená"
+    ],
+    "lucky_days": [
+        "sobota",
+        "středa"
+    ],
+    "lucky_stones": [
+        "Granát",
+        "Onyx",
+        "Obsidian"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Odpovědný",
+            "Disciplinovaný",
+            "Sebekontroly",
+            "Praktický",
+            "Pacient",
+            "Ambiciózní",
+            "Vynalézavý"
+        ],
+        "weaknesses": [
+            "Tvrdohlavý",
+            "Pesimistický",
+            "Fatalistické",
+            "Odpuštění",
+            "Vědomí",
+            "Očekávat to nejhorší",
+            "Rigidní"
+        ]
+    },
+    "personality": {
+        "overview": "Kozoroh je desátým znamením zvěrokruhu, symbolizující úspěch, odpovědnost a vytrvalost.Jednotlivci Kozoroha jsou známí svým praktickým přístupem, disciplinovanou pracovní etikou a strategickou myšlení.Jsou staviteli zvěrokruhu, metodicky vytvářejí stabilní základy a stoupají k úspěchu prostřednictvím vytrvalosti a pečlivého plánování.",
+        "detailed_traits": [
+            "Silný smysl pro odpovědnost a povinnost",
+            "Pragmatický přístup k dosažení cílů",
+            "Přirozený talent pro organizaci a strukturu",
+            "Pacient, metodický přístup k úspěchu",
+            "Podhodnocená ambice s působivým odhodláním",
+            "Tradiční hodnoty s ohledem na historii",
+            "Spolehlivost závazků a slibů",
+            "Suchý, jemný smysl pro humor pod vážným exteriérem",
+            "Pečlivé řízení a plánování zdrojů",
+            "Preferuje látku nad vzhledem"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Jednotlivci Kozoroha jsou loajální, oddaní partneři, kteří si ve vztazích cení stability a dlouhověkosti.Vyjadřují lásku prostřednictvím spolehlivosti, praktické podpory a tiché odhodlání spíše než velké romantické gesta nebo emocionální displeje.",
+        "compatibility": {
+            "most_compatible": [
+                "Býk",
+                "Panna",
+                "Štír",
+                "Ryby"
+            ],
+            "least_compatible": [
+                "Aries",
+                "Váhy",
+                "Rakovina"
+            ]
+        },
+        "relationship_advice": "Jednotlivci Kozoroha musí vyvinout emoční otevřenost vedle své přírodní rezervace.Sdílejte pocity snadněji s partnery, než se zaměřují výhradně na praktické záležitosti.Pamatujte, že zranitelnost posiluje vazby a že vztahy vyžadují teplo i stabilitu.",
+        "love_style": [
+            "Loajální a odhodlaný, kdysi věnovaný partnerovi",
+            "Ukazuje lásku prostřednictvím praktické pomoci a podpory",
+            "Hodnoty stabilita a dlouhodobá kompatibilita",
+            "Opatrný při vstupu do vztahů",
+            "Může bojovat s emocionálním výrazem",
+            "Přebírá odpovědnost za úspěch vztahu",
+            "Oceňuje partnery, kteří respektují ambice"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Jednotlivci Kozoroha vynikají v kariéře, která odměňuje strukturu, disciplínu a dlouhodobé plánování.Mají přirozený talent pro správu, organizaci a budování udržitelných systémů a prosperují na pozicích, které jim umožňují metodicky stoupat k úspěchu.",
+        "suitable_careers": [
+            "Výkonná správa a správa",
+            "Finance a bankovnictví",
+            "Rozvoj nemovitostí a nemovitostí",
+            "Vláda a veřejná služba",
+            "Inženýrství a architektura",
+            "Vlastnictví podniku a podnikání",
+            "Zákon a soudní pozice",
+            "Projektový management",
+            "Účetnictví a finanční plánování",
+            "Tradiční řemeslo"
+        ],
+        "financial_habits": "Jednotlivci Kozoroha obvykle mají konzervativní, metodické přístupy k správě peněz.Vynikají při dlouhodobém finančním plánování, zpožděném uspokojení a budování bezpečnosti prostřednictvím konzistentního úsilí.Přestože to obvykle nejsou riskantní, provádějí vypočítané investice s důkladným výzkumem.",
+        "work_style": [
+            "Metodické a organizované v přístupu",
+            "Hodnoty účinnost a produktivita",
+            "Schopnosti přirozené autority a manažerské schopnosti",
+            "Preferuje tradiční zavedené struktury",
+            "Vynikající s dlouhodobým plánováním",
+            "Přebírá odpovědnost za výsledky",
+            "Respektuje hierarchii při práci na postupu"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Kozoroh ovládá kosterní systém, klouby, kolena, kůže a zuby.Jednotlivci Kozoroha mají tendenci mít přirozenou fyzickou vytrvalost a výdrž, ale mohou být náchylní k problémům s kosti, klouby a kůží, zejména při přepracování nebo při dlouhodobém stresu.",
+        "common_health_issues": [
+            "Problémy kloubů a kolen",
+            "Kosterní problémy, jako je artritida",
+            "Podmínky kůže",
+            "Zubní problémy",
+            "Citlivost na trávení ze stresu",
+            "Deprese nebo melancholie",
+            "Chronická únava z přepracování"
+        ],
+        "wellness_advice": "Vyrovnejte svou přirozenou pracovní etiku s adekvátním odpočinkem a péčí o sebe.Udržujte společný zdraví prostřednictvím vhodného cvičení a výživy.Rozvíjet emocionální vývody pro stres, aby se zabránilo fyzickým projevům v kostech a kůži.",
+        "exercise_preferences": [
+            "Strukturované fitness rutiny s měřitelným pokrokem",
+            "Tradiční cvičení, jako je silový trénink",
+            "Horská turistika a lezení",
+            "Činnosti s nízkým dopadem pro zdraví společného",
+            "Disciplinované praktiky, jako je bojová umění"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 označuje rok významného profesního postupu a strukturálního založení pro Kozoroh.Váš disciplinovaný přístup a strategické plánování vytvářejí trvalé úspěchy.Ambice rovnováhy s osobními vztahy pro úplné naplnění.",
+            "love": "Vztahy se rozvíjejí prostřednictvím sdílených cílů a vzájemného respektu k hranicím.Jednotlivé Kozorohy se mohou setkat s potenciálními partnery prostřednictvím profesionálních sítí nebo strukturovaných prostředí.Stávající vztahy posilují praktickými projevy závazku.",
+            "career": "Profesionální uznání přichází prostřednictvím konzistentního výkonu a strategického umístění.Ve druhé polovině roku vznikají příležitosti vůdců.Vaše organizační schopnosti a praktická řešení složitých problémů získávají úctu z vlivných osob.",
+            "health": "Zaměřte se na kosterní zdraví prostřednictvím váhové cvičení a správné výživy.Duševní pohoda se zlepšuje s pravidelným řízením času a plánovanou relaxací.Během fyzických aktivit věnujte zvláštní pozornost kolenní a kloubní péči.",
+            "finances": "Finanční stabilita se zlepšuje pečlivým plánováním a disciplinovaným úsporám.Zvažte tradiční investice s osvědčenými záznamy.Možnosti nemovitosti nebo nemovitostí se mohou představit na konci roku."
+        },
+        "2026": {
+            "overall": "2026 přináší Kozoroh do cyklu sociální expanze a vedení komunity.Vaše praktická moudrost pomáhá vést kolektivní úsilí o hmatatelné výsledky.Nalezení rovnováhy mezi tradicí a inovací vytváří váš jedinečný příspěvek.",
+            "love": "Vztahy se daří při integraci sociálních souvislostí se soukromým spojením.Partneři oceňují vaši zvýšenou otevřenost vůči novým zkušenostem.Jednotlivé Kozorohy přitahují pozornost svou tichou důvěrou a prokázaly kompetence ve skupinovém prostředí.",
+            "career": "Profesionální sítě se letos výrazně rozšiřují.Vaše pověst spolehlivosti vytváří příležitosti pro spolupráci s vlivnými postavami.Zvažte pozice, které kombinují vaše administrativní silné stránky s dopadem komunity.",
+            "health": "Cirkulace a respirační funkce těží z pravidelného pohybu v čerstvém vzduchu.Sociální souvislosti pozitivně ovlivňují duševní zdraví, když jsou vyváženy s časem samotnou.Zvažte silový trénink, který zlepšuje stabilitu kotníku a funkci dolních nohou.",
+            "finances": "Skupinové investice nebo komunitní finanční podniky ukazují slib.Váš konzervativní přístup poskytuje cennou rovnováhu ve spolupráci finančních rozhodnutí.Neočekávané finanční příležitosti mohou přicházet prostřednictvím profesionálních asociací nebo sítí."
+        },
+        "2027": {
+            "overall": "2027 zdůrazňuje duchovní růst a vnitřní reflexi pro Kozoroh.Vaše praktická povaha najde výraz prostřednictvím smysluplného rituálního a strukturovaného rozjímání.Rovnováha mezi materiálním úspěchem a duchovním naplněním přináší hluboký mír.",
+            "love": "Hlubší emoční spojení se rozvíjí prostřednictvím sdílených hodnot a duchovního průzkumu.Partneři oceňují vaši promyšlenou introspekci a emoční zralost.Jednotlivé Kozorohy přitahují duchovně uzemněné jednotlivce, kteří si cení autentičnosti před vzhledy.",
+            "career": "Profesionální rozhodnutí se více spojují s základními hodnotami a dlouhodobým účelem.Vaše integrita a principiální přístup otevírají dveře vůdčích rolích s etickými dimenzemi.Zvažte pozice, které umožňují vyjádření praktických dovedností a hlubší moudrosti.",
+            "health": "Síla imunitního systému se zlepšuje prostřednictvím zvládání stresu a správného odpočinku.Strukturovaná meditace nebo kontemplativní praktiky přinášejí pozoruhodné výhody.Věnujte pozornost nohám a jemným systémům těla prostřednictvím uzemňovacích postupů a správné obuvi.",
+            "finances": "Dlouhodobé finanční plánování přijímá duchovní dimenze, když objasňujete skutečné priority.Charitativní dávání nebo etické investice přinášejí osobní spokojenost i neočekávané výnosy.Zvažte zřízení staršího fondu nebo rodinné důvěry."
+        },
+        "2028": {
+            "overall": "2028 přináší Kozoroh do nového cyklu osobního posílení postavení a ambiciózní akce.Vaše pečlivě rozvinuté dovednosti najdou perfektní aplikaci v nových příležitostech.Rovnováha mezi disciplinovaným úsilím a strategickým odporem vytváří udržitelný úspěch.",
+            "love": "Vztahy těží z vaší zvýšené sebevědomí a jasnosti účelu.Partneři oceňují váš rozhodující, ale ohleduplný přístup ke sdíleným výzvám.Jednotlivé Kozorohy přitahují pozornost prostřednictvím autentické sebevyjádření a prokázané schopnosti.",
+            "career": "Vedoucí pozice se neočekávaně otevírají, protože vaše příprava splňuje příležitost.Vaše schopnost implementovat praktické systémy pro složité problémy přináší uznání.Zvažte podnikatelské podniky, které využívají vaše organizační silné stránky.",
+            "health": "Fyzická vitalita se zvyšuje prostřednictvím strukturovaných fitness režimů.Hormonální a metabolické zdraví se zlepšuje s konzistentními výživovými a spánkovými vzory.Věnujte pozornost hlavám a obličejovým oblastem prostřednictvím správné ergonomie a preventivní péče o zuby.",
+            "finances": "Osobní podniky nebo nezávislé projekty vykazují silný finanční potenciál.Váš disciplinovaný přístup ke správě zdrojů vytváří stabilitu i během expanze.Zvažte investice do vlastního profesního rozvoje nebo obchodní infrastruktury."
+        },
+        "2029": {
+            "overall": "2029 zdůrazňuje správu zdrojů a materiální zabezpečení pro Kozoroh.Vaše přirozené talenty pro správcovství vytvářejí hojnost, která přesahuje osobní prospěch.Rovnováha mezi tradičními přístupy a inovativními řešeními zdrojů přináší pozoruhodné výsledky.",
+            "love": "Sdílené hodnoty kolem bezpečnosti materiálu posilují vazby.Partneři oceňují váš velkorysý, ale praktický přístup k budování sdílených zdrojů.Jednotlivé Kozorohy přitahují stabilní jednotlivce vyrovnané hodnotami prostřednictvím prokázané finanční odpovědnosti.",
+            "career": "Finanční sektory nebo role správy zdrojů nabízejí možnosti postupu.Váš konzervativní přístup poskytuje cennou protiváh na rychle se měnících trzích.Zvažte pozice, které kombinují administrativní odborné znalosti s vytvářením hodnoty.",
+            "health": "Oblasti krku a krku vyžadují pozornost prostřednictvím správné ergonomie a stresu.Vokální zdraví se zlepšuje se správnou hydratací a sníženými zánětlivými potravinami.Zvažte praktiky, které uvolňují napětí v krční páteři a horní části těla.",
+            "finances": "Investice do kvality spíše než množství přináší významné výnosy.Vaše schopnost identifikovat podhodnocené aktiva vytváří příležitosti pro podstatný růst.Zvažte diverzifikaci podílů při zachování zaměření na zásadně zdravé investice."
+        },
+        "2030": {
+            "overall": "2030 zdůrazňuje komunikační dovednosti a intelektuální rozvoj pro Kozoroh.Vaše metodické myšlení najde efektivní výraz prostřednictvím nově rozvinutých komunikačních kanálů.Rovnováha mezi poslechem a mluvením vytváří smysluplnou výměnu.",
+            "love": "Komunikační vzorce ve vztazích podléhají pozitivní transformaci.Partneři oceňují vaši zvýšenou emocionální slovní zásobu a aktivní naslouchání.Jednotlivé Kozorohy přitahují spojení prostřednictvím promyšlené konverzace a autentického výrazu.",
+            "career": "Psaní, výuka nebo strategická komunikační role nabízejí možnosti postupu.Vaše schopnost vysvětlit složité koncepty v přístupném stavu přináší uznání.Zvažte pozice, které vám umožní formalizovat a sdílet vaši podstatnou znalostní základnu.",
+            "health": "Respirační systém těží ze správných dýchacích technik a zlepšení kvality ovzduší.Duševní zdraví se posiluje prostřednictvím deníku nebo strukturovaného zpracování myšlení.Věnujte pozornost mobilitě ramen a paží pravidelným protahováním a pohybem.",
+            "finances": "Investice do vzdělávacích nebo komunikačních technologií přinášejí výnosy.Vaše schopnost vyjednávat efektivně zlepšuje finanční výsledky v různých kontextech.Zvažte rozvoj sekundárního příjmu prostřednictvím sdílení znalostí nebo vzdělávacího obsahu."
+        },
+        "2031": {
+            "overall": "2031 se zaměřuje na domov, rodinu a základní bezpečnost pro Kozoroh.Váš talent pro vytváření stabilního, pečujícího prostředí prospívá osobním i profesním životu.Rovnováha mezi tradicí a inovací v domácích záležitostech přináší naplnění.",
+            "love": "Rodinné spojení ovlivňují pozitivní vzorce vztahů.Partneři oceňují váš závazek vytvářet bezpečné a pohodlné sdílené prostory.Jednotlivé Kozorohy přitahují stabilní, rodinné osoby zaměřené na prokázanou domácí kompetenci.",
+            "career": "Pracovní příležitosti nebo rodinné podniky ukazují slib.Vaše schopnost udržovat profesionální hranice při práci na dálku přináší pokrok.Zvažte role, které umožňují flexibilitu při zachování struktury.",
+            "health": "Zdraví trávení se zlepšuje pravidelným jídlem a prostředí bez stresu.Emoční pohoda se posiluje prostřednictvím rodinných spojení a domácích postupů.Věnujte pozornost oblasti hrudníku a žaludku prostřednictvím správného držení těla a dýchání.",
+            "finances": "Investice do nemovitostí nebo nemovitostí přinášejí významné výnosy.Váš konzervativní přístup k financování domácnosti vytváří dlouhodobé zabezpečení.Zvažte zřízení nebo rozšíření nouzových prostředků na ochranu rodiny."
+        },
+        "2032": {
+            "overall": "2032 přináší do popředí kreativní výraz a radost pro Kozoroh.Váš disciplinovaný přístup k rozvoji dovedností nyní přináší umělecké nebo rekreační naplnění.Rovnováha mezi strukturovanou praxí a spontánním výrazem vytváří váš jedinečný příspěvek.",
+            "love": "Hravost a sdílená radost posilují romantická spojení.Partneři oceňují váš uvolněnější a expresivnější emocionální styl.Jednotlivé Kozorohy přitahují pozornost prostřednictvím autentického nadšení a rozvinutých talentů v kreativních nebo rekreačních oblastech.",
+            "career": "Vedoucí role s kreativními rozměry nabízejí možnosti postupu.Vaše schopnost implementovat praktické systémy pro kreativní úsilí přináší uznání.Zvažte pozice, které kombinují organizační odborné znalosti s uměleckými nebo designovými prvky.",
+            "health": "Zdraví srdce se zlepšuje prostřednictvím činností, které přinášejí skutečnou radost a spokojenost.Cirkulace těží z pravidelného pohybu, který se cítí spíše příjemný než povinný.Během kreativních aktivit věnujte pozornost horní části zad a páteře.",
+            "finances": "Investice do umění, kultury nebo rekreace ukazují neočekávané výnosy.Váš disciplinovaný přístup k kreativním podnikům vytváří potenciál udržitelného příjmu.Zvažte diverzifikaci do oblastí, které kombinují vášeň s praktičností."
+        },
+        "2033": {
+            "overall": "2033 zdůrazňuje služby, zdraví a každodenní rutiny pro Kozoroh.Vaše organizační talenty vytvářejí efektivní systémy, z nichž mají prospěch vás i ostatní.Rovnováha mezi produktivitou a péčí vytváří udržitelné vzorce života.",
+            "love": "Vztahy posilují vzájemnou podporou denních potřeb a zdravotních cílů.Partneři oceňují vaše praktické projevy péče prostřednictvím služby a pomoci.Jednotlivé Kozorohy přitahují spojení prostřednictvím prokázané schopnosti a pokorné užitečnosti.",
+            "career": "Zdravotní, wellness nebo servisní průmysl nabízí možnosti postupu.Vaše pozornost na detail a procedurální dokonalost přináší uznání.Zvažte role, které umožňují implementaci systémů zvyšujících efektivitu.",
+            "health": "Zdraví trávicí a střevní zdraví se zlepšují pravidelnými rutinami a vhodnou výživou.Duševní pohoda se posiluje prostřednictvím organizovaného prostředí a sníženého chaosu.Věnujte zvláštní pozornost síle břicha a stabilitu jádra.",
+            "finances": "Investice do zdravotnických technologií nebo odvětví služeb přinášejí výnosy.Váš praktický přístup k dennímu rozpočtování vytváří zvýšený potenciál úspor.Zvažte zřízení zdravotních spořicích účtů nebo finančního plánování zaměřeného na wellness."
+        },
+        "2034": {
+            "overall": "2034 přináší pro Kozororn zaměřené na vztahy a partnerství.Vaše spolehlivost a integrita přitahují spolupracovníky výjimečné kvality.Rovnováha mezi nezávislostí a vzájemnou závislostí vytváří harmonické a produktivní spojení.",
+            "love": "Romantické vztahy dosahují nové úrovně hloubky a odhodlání.Partneři oceňují vaši loajalitu a konzistentní následky na slibech.Jednotlivé Kozorohy přitahují vážné jednotlivce připravené na odhodlání prostřednictvím prokázaných vztahových dovedností.",
+            "career": "Obchodní partnerství nebo spolupráce projevují silný potenciál.Váš diplomatický, ale praktický přístup k vyjednávání přináší výhodné termíny.Zvažte role, které vám umožní formalizovat a posilovat klíčové profesionální vztahy.",
+            "health": "Ledviny a dolní části zad vyžadují pozornost prostřednictvím správné hydratace a ergonomie.Hormonální rovnováha se zlepšuje prostřednictvím zvládání stresu a pravidelné fyzické aktivity.Sociální souvislosti pozitivně ovlivňují celkové zdraví, když je zvolena moudře.",
+            "finances": "Společné podniky nebo sdílené investice přinášejí významné výnosy.Váš konzervativní přístup poskytuje cennou rovnováhu v partnerských financích.Zvažte formalizaci finančních dohod ve všech spolupracujících podnicích."
+        },
+        "2035": {
+            "overall": "2035 označuje období transformace a regenerace pro Kozoroh.Vaše odolnost a přizpůsobivost se odhalí úspěšnou navigací významných změn.Rovnováha mezi ctí minulosti a přijetím obnovy vytváří vaši cestu vpřed.",
+            "love": "Vztahy se prohlubují prostřednictvím sdílené zranitelnosti a vzájemné podpory během přechodů.Partneři oceňují vaši emoční sílu a tichou spolehlivost.Jednotlivé Kozorohy přitahují silná spojení prostřednictvím autentického sebevědomí a prokázaly hloubku.",
+            "career": "Role zahrnující správu krizí nebo organizační transformace nabízejí pokrok.Vaše stálá přítomnost během změny přináší možnosti vedení.Zvažte pozice, které vám umožní přestavět nebo restrukturalizovat stávající systémy.",
+            "health": "Reprodukční a eliminační systémy těží z postupů detoxikace a čištění.Emoční odolnost se posiluje zpracováním a uvolňováním minulých vzorců.Věnujte pozornost pánevnímu regionu prostřednictvím vhodného cvičení a snižování stresu.",
+            "finances": "Pojištění, plánování nemovitostí nebo správa dědictví vykazují silný potenciál.Váš praktický přístup k přípravě na nepředvídané události vytváří zabezpečení.Zvažte restrukturalizační investice za účelem odstranění nedostatečně výkonných aktiv."
+        }
+    },
+    "famous": [
+        {
+            "name": "Michelle Obama",
+            "birth_date": "17. ledna 1964",
+            "description": "Bývalá první dáma, jejíž disciplinovaný přístup, strategické iniciativy a důstojné veřejné služby jsou příkladem odpovědnosti a metodického úspěchu Kozoroha"
+        },
+        {
+            "name": "Martin Luther King Jr.",
+            "birth_date": "15. ledna 1929",
+            "description": "Vůdce občanských práv, jehož perzistence pacientů, strategická organizace a odpovědné vedení prokazují schopnost Kozoroha pro smysluplnou strukturovanou změnu"
+        },
+        {
+            "name": "Kate Middleton",
+            "birth_date": "9. ledna 1982",
+            "description": "Vévodkyně z Cambridge, jejíž důstojnost, smysl pro povinnost a pečlivá navigace tradice a odpovědnosti odrážejí klasické vlastnosti Kozoroha"
+        },
+        {
+            "name": "Denzel Washington",
+            "birth_date": "28. prosince 1954",
+            "description": "Herec, jehož disciplinovaná řemeslo, důstojná přítomnost a metodická budování kariéry ukazují závazek Capricorn k dokonalosti prostřednictvím trvalého úsilí"
+        },
+        {
+            "name": "LeBron James",
+            "birth_date": "30. prosince 1984",
+            "description": "Atlet, jehož pracovní etika, obchodní akumen a strategický přístup k jeho kariéře a dědictví ukazují ambice a strukturovanou cestu k úspěchu"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dnes vyrovnávejte praktickou podporu s emocionálním výrazem.Ti, kteří se vám blíží, oceňují vaši spolehlivost, ale také potřebují vědět, jak se cítíte.",
+        "career": "Vaše organizační schopnosti řešit výzvu na pracovišti.Rozdělte velké cíle do zvládnutelného kroku pro stálý pokrok.",
+        "health": "Během práce věnujte pozornost držení těla a souhrnu.Krátké protahovací přestávky podporují zdraví kosterů po celý den.",
+        "general": "Váš praktický přístup vytváří stabilitu dnes.Uznávejte svůj pokrok spíše než se soustředit pouze na vzdálenost a ještě stoupat."
+    },
+    "tarot_associations": {
+        "major_arcana": "Ďábel",
+        "explanation": "Ďábel představuje materiální připoutanost, omezení a výzvy fyzického světa - témata, která rezonují s pozemským zaměřením Kozoroha a porozumění omezením.Tato karta ztělesňuje konfrontaci s hmotnou realitou a strukturami, které omezují a umožňují úspěch, což odráží cestu Kozoroha k zvládnutí materiální roviny prostřednictvím disciplíny a vědomí."
+    },
+    "compatibility_details": {
+        "aries": "Kozoroh a Beran představují různé přístupy k úspěchu - Kozorova pacientova stoupání versus okamžité akce Aries.To vytváří jak napětí, tak potenciální růst, když se poučí ze stylů ostatních.",
+        "taurus": "Kozoroh a Taurus tvoří vynikající znaménko Země se sdílenými praktickými hodnotami.Ose oceňují stabilitu, bezpečnosti materiálu a metodické přístupy k životním výzvám.",
+        "gemini": "Kozoroh a Blíženci přistupují k životu zcela odlišně - Kozoroh se strukturou a tradicí, Gemini s rozmanitostí a přizpůsobivostí.Porozumění a respektování těchto rozdílů je nezbytné pro harmonii.",
+        "cancer": "Kozoroh a rakovina tvoří opačné znaky s doplňkovými silami.Rakovina poskytuje emocionální výživu pro ambice Capricorn, zatímco Kozoroh nabízí praktickou podporu pro bezpečnost rakoviny.",
+        "leo": "Kozoroh a Leo mají různé priority - dosažení dosahu Kozorohu prostřednictvím stálé práce, zatímco Leo usiluje o uznání a kreativní vyjádření.Vzájemný respekt k těmto různým přístupům podporuje kompatibilitu.",
+        "virgo": "Kozoroh a Panna vytvářejí harmonické značky Země se shodou se sdílenými praktickými hodnotami a pracovní etikou.Oceňují jak kvalitu, služby a metodické přístupy k dosažení.",
+        "libra": "Kozoroh a Váhy čelí výzvám s různými prioritami - Kozoroh se zaměřuje na úspěch, zatímco Libra zdůrazňuje vztahy a harmonii.Vyvážení těchto různých potřeb vyžaduje vědomé úsilí.",
+        "scorpio": "Kozoroh a Scorpio tvoří silný, doplňkový zápas se sdíleným odhodláním a hloubkou.Jak hodnotí loajalita, autentičnost, tak pronásledování smysluplných cílů, vytvářejí silné pouta vzájemného respektu.",
+        "sagittarius": "Kozoroh a Střelec přinášejí doplňkové perspektivy - Kozorova praktičnost a vize Sagittarius.Tato kombinace může být silná, když každý oceňuje to, co druhý přispívá.",
+        "capricorn": "Dva Kozorohy vytvářejí vztah postavený na vzájemném respektu, sdílených cílech a praktické podpoře.Chápují navzájem ambice a pracovní etiku, i když možná budou muset vědomě rozvíjet emocionální vyjádření.",
+        "aquarius": "Kozoroh a Vodnář představují tradiční a progresivní přístupy.To vytváří napětí, ale také potenciál pro vyváženou perspektivu, když si cení jejich doplňkových hledisek.",
+        "pisces": "Kozoroh a Ryby vytvářejí doplňkový vztah s Kozorohem, který poskytuje strukturu pro sny Pisces, zatímco Ryby nabízí emoční hloubku a představivost, aby vyrovnaly Pragmatismus Capricorn."
+    },
+    "astrological_influences": {
+        "sun_in": "Slunce v Kozorohu přináší disciplinované ambice, praktickou moudrost a odpovědný přístup k životu.Přirozeně chápete hodnotu trpělivosti, struktury a metodického pokroku směrem k cílům.",
+        "moon_in": "Měsíc v Kozorohu vytváří emoční potřeby soustředěné kolem úspěchu, bezpečnosti a pořadí.Vaše pocity jsou zpracovávány s praktičností a najdete emoční stabilitu prostřednictvím struktury a odpovědnosti.",
+        "rising": "Kozoroh Rising vám dává vzhled důstojnosti, kompetence a závažnosti.Jiní vás vidí z prvního setkání jako zodpovědní, dospělí a důvěryhodné, často za předpokladu, že jste starší než váš skutečný věk."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Vyvážení práce s osobním životem a vztahy",
+            "Rozvíjení emocionálního vyjádření a zranitelnosti",
+            "Překonání tendence k pesimismu",
+            "Naučit se oslavovat úspěchy na cestě",
+            "Nalezení radosti v současnosti při plánování do budoucna"
+        ],
+        "growth_opportunities": [
+            "Využívání organizačních dovedností k vytváření systémů, z nichž mnohé prospívají",
+            "Rozvoj vedení, které vyrovnává tradici s nezbytnou změnou",
+            "Vytváření zabezpečení, které spíše podporuje než omezuje",
+            "Budování smysluplného dědictví prostřednictvím trvalého úsilí",
+            "Mentorování ostatních v praktické moudrosti a disciplíně"
+        ],
+        "affirmations": [
+            "Vyvažuji úspěch s osobním spojením",
+            "Vyjadřuji své pocity otevřeně a autenticky",
+            "Oslavuji pokrok podél své cesty k úspěchu",
+            "Najdu radost na cestě, nejen cíl",
+            "Moje disciplína vytváří svobodu a příležitost"
+        ]
+    },
+    "life_path": {
+        "purpose": "Jednotlivci Kozoroha mají často poslání budovat trvalé struktury, vytvářet pořádek v chaosu a vytvářet udržitelné systémy.Jejich účel zahrnuje zvládnutí hmotného světa prostřednictvím disciplíny a moudrosti a rozvíjení vedení, které vyvažuje tradici s nezbytným evolucí.",
+        "life_lessons": [
+            "Učení, že zranitelnost není slabost, ale síla",
+            "Objevování radosti a smyslu spolu s úspěchem",
+            "Vyvážení respektu k tradici s otevřeností ke změně",
+            "Eticky a zodpovědně využívá moci a autoritu",
+            "Nalezení duchovního v materiálu, ne oddělené od něj"
+        ],
+        "spiritual_growth": "Duchovní rozvoj Kozorohu zahrnuje rozpoznávání posvátné v každodenní realitě a praktické práci.Praktiky, které ctí předky a tradice, hledají význam v odpovědnosti a službě a vidí materiální mistrovství jako duchovní cestu k duchovnímu evoluci."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Děti Kozoroha jsou obvykle zralé, zodpovědné a někdy vážné od útlého věku.Často vykazují přirozený respekt k pravidlům a autoritě, obavy o to, že dělají věci „správné“ a včasný smysl pro ambice nebo účel.",
+            "parenting_advice": "Podporujte hru a lehkost vedle jejich přirozené zralosti.Chvála a charakter, nejen úspěch.Pomozte jim rozvíjet emoční výraz a pochopit, že chyby je součástí učení, nikoli selhání."
+        },
+        "in_friendship": {
+            "friendship_style": "Přátelé Kozoroha jsou loajální, spolehliví a prakticky podporující.Nemusí otevřeně vyjadřovat náklonnost, ale projevují péči prostřednictvím konzistence, moudré rady a být tam, když je to skutečně potřeba.",
+            "ideal_friends": "Kozoroh se daří s přáteli, kteří respektují jejich pracovní etiku a ambice a zároveň podporují rovnováhu.Cení si přátelství, která kombinují vzájemný respekt, praktickou podporu a jemný humor a upřednostňují kvalitu před množstvím ve vztazích."
+        },
+        "shadow_side": {
+            "potential_issues": "Když je Kozoroh nevyvážený, může se stát příliš ovládajícím, stavem posedlým nebo emocionálně uzavřeným.Jejich snaha o úspěch může vést k workoholismu a jejich pragmatismus se může zhoršit v pesimismus nebo cynismus.",
+            "growth_path": "Osobní růst pro Kozoroh zahrnuje vyvážení ambicí s radostí, rozvoj emoční otevřenosti spolu s praktickou silou a nalezení účelu nad dosažení úspěchu nebo postavení."
+        }
+    },
+    "seasonal_influences": {
+        "winter_solstice": "Kozoroh se narodil na zimním slunovratu, když je temnota nejhlubší a světlo se začíná vracet, ztělesňuje vytrvalost zimy pacienta a disciplinované stoupání směrem ke zvýšení světla.Toto načasování naplňuje Kozoroh s přirozeným porozuměním práce s obtížemi k postupnému zlepšení.",
+        "cardinal_quality": "Jako kardinální znamení představuje Capricorn iniciativu a vedení v materiální oblasti.Tato pozice jim poskytuje schopnost vytvářet nové struktury, vytvářet praktické nadace a zahájit disciplinované přístupy k dosažení."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "Prvek Země dává Kozorohu jejich charakteristickou praktičnost, disciplínu a spojení s materiální realitou.Země představuje projev, produktivitu a budování hmatatelných výsledků prostřednictvím trvalého úsilí.",
+        "earth_balance": "Vyvážená Země přináší praktičnost, spolehlivost a produktivní kapacitu.Nadměrná Země může vést k materialismu, rigiditě a emoční stagnaci, zatímco nedostatečná Země může vést k nepraktičnosti, odpojení od fyzických potřeb nebo nedostatku následného průchodu."
+    },
+    "planetary_rulership": {
+        "saturn_influence": "Saturn, planeta struktury, omezení a zvládnutí disciplínou, pravidla Kozoroha.Tento planetární vliv vysvětluje přirozené chápání hranic, autority, odpovědnosti a hodnoty pacienta, metodického úsilí.",
+        "saturn_aspects": "Pozice a aspekty Saturn v žebříčku narození jednotlivce významně ovlivňují to, jak je vyjádřena energie Kozoroha.Silné Saturnové aspekty zvyšují organizační schopnosti a odhodlání, ale mohou také zvýšit tendence vůči pesimismu nebo nadměrné sebekritice."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "V dnešní rychle se měnící ekonomice vyniká Kozoroh při vytváření udržitelných obchodních modelů, vytváření organizačních systémů pro vzdálenou práci, rozvíjení dlouhodobé digitální strategie a poskytování stability a struktury při technologickém narušení.",
+        "relationship_in_modern_context": "Moderní vztahy těží z loajality a odhodlání v éře příležitostných spojení.Jejich schopnost budovat základy pro budoucnost vytváří bezpečnost, i když nadále rozvíjejí pohodlí s digitální komunikací a emoční otevřeností."
+    }
+}

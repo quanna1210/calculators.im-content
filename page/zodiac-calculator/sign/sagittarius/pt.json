@@ -1,0 +1,335 @@
+{
+    "sign": "Sagittarius",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/sagittarius.svg",
+    "local_name": "Sagitário",
+    "date_range": "22 de novembro a 21 de dezembro",
+    "element": "Fogo",
+    "ruling_planet": "Júpiter",
+    "symbol": "O arqueiro",
+    "lucky_numbers": [
+        "3",
+        "7",
+        "9",
+        "12",
+        "21"
+    ],
+    "lucky_colors": [
+        "Azul",
+        "Roxo",
+        "Verde escuro"
+    ],
+    "lucky_days": [
+        "Quinta-feira",
+        "Sábado"
+    ],
+    "lucky_stones": [
+        "Turquesa",
+        "Topázio",
+        "Ametista"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Otimista",
+            "Amante da liberdade",
+            "Intelectual",
+            "Aventureiro",
+            "Direto",
+            "Filosófico",
+            "Generoso"
+        ],
+        "weaknesses": [
+            "Sem tato",
+            "Agitado",
+            "Inconsistente",
+            "Excedente confiante",
+            "Irresponsável",
+            "Promessas mais do que podem entregar",
+            "Procrastinando"
+        ]
+    },
+    "personality": {
+        "overview": "Sagitário é o nono sinal do zodíaco, simbolizando expansão, exploração e maior entendimento.Os indivíduos de Sagitário são conhecidos por suas perspectivas otimistas, amor pela liberdade e busca pelo conhecimento e verdade.Eles são os filósofos e aventureiros do zodíaco, buscando constantemente ampliar seus horizontes através de viagens, educação e experiências diversas.",
+        "detailed_traits": [
+            "Otimismo natural e entusiasmo pela vida",
+            "Amor pela viagem e exploração de diferentes culturas",
+            "Mentalidade filosófica buscando um significado mais alto",
+            "Estilo de comunicação direta e honesta",
+            "Espírito generoso com amigos e estranhos",
+            "Natureza independente que resiste à restrição",
+            "Pensamento visionário com perspectiva de grande porte",
+            "Adaptável a novas situações e ambientes",
+            "Intelectualmente curioso com diversos interesses",
+            "Naturalmente sortudo com capacidade de identificar oportunidades"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Os indivíduos de Sagitário são parceiros entusiasmados e amantes da liberdade que valorizam a honestidade e compartilhavam aventuras nos relacionamentos.Eles expressam amor através da criação de experiências emocionantes, se envolvendo em discussões filosóficas e na manutenção da comunicação autêntica e direta.",
+        "compatibility": {
+            "most_compatible": [
+                "Áries",
+                "Leo",
+                "Libra",
+                "Aquário"
+            ],
+            "least_compatible": [
+                "Virgem",
+                "Peixes",
+                "Touro"
+            ]
+        },
+        "relationship_advice": "Os indivíduos de Sagitário precisam equilibrar a liberdade com o comprometimento nos relacionamentos.Trabalhe sobre as promessas e considere como suas palavras contundentes podem impactar parceiros sensíveis.Lembre -se de que a profundidade pode ser tão gratificante quanto a amplitude da experiência no amor.",
+        "love_style": [
+            "Valoriza a liberdade e a independência nos relacionamentos",
+            "Parceiro romântico entusiasmado e aventureiro",
+            "Direto e honesto sobre sentimentos e expectativas",
+            "Não gosta de possessividade ou carência emocional",
+            "Busca conexão intelectual e filosófica",
+            "Prefere relacionamentos que permitem crescimento pessoal",
+            "Pode lutar com o compromisso de longo prazo se se sentir restrito"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Os indivíduos de Sagitário se destacam em carreiras que oferecem variedade, estimulação intelectual e oportunidades de crescimento e exploração.Eles têm um talento natural para ver o quadro geral e inspirar os outros com sua visão e entusiasmo.",
+        "suitable_careers": [
+            "Viagens e turismo",
+            "Ensino Superior e Ensino",
+            "Publicação e escrita",
+            "Negócios Internacionais",
+            "Lei e ética",
+            "Filosofia e religião",
+            "Esportes ao ar livre e de aventura",
+            "Empreendedorismo",
+            "Fala motivacional",
+            "Consultoria transcultural"
+        ],
+        "financial_habits": "Os indivíduos de Sagitário geralmente têm uma abordagem otimista e às vezes sortuda para finanças, com períodos de abundância seguidos de gastos espontâneos.Eles se beneficiam do estabelecimento de planos financeiros flexíveis que acomodam sua necessidade de liberdade ao criar segurança a longo prazo.",
+        "work_style": [
+            "Prospera em ambientes dinâmicos e em mudança",
+            "Traz entusiasmo e otimismo aos projetos",
+            "Prefere a independência e a supervisão mínima",
+            "Excelente em ver o quadro geral e as possibilidades",
+            "Pode lutar com detalhes e acompanhamento",
+            "Valores de trabalho ético e significativo",
+            "Funciona bem com diversas equipes e culturas"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Sagitário governa os quadris, coxas, fígado e circulação sanguínea.Os indivíduos de Sagitário geralmente têm boa resistência e atletismo natural, mas podem estar propensos a questões relacionadas aos quadris, coxas e fígado quando desequilibrados.",
+        "common_health_issues": [
+            "Problemas de quadril e coxa",
+            "Dor ciática",
+            "Questões hepáticas de excesso de indulgência",
+            "Lesões pequenas de esportes ou aventuras",
+            "Inquietação e tensão nervosa",
+            "Problemas digestivos de comida rica",
+            "Problemas respiratórios que afetam a liberdade de movimento"
+        ],
+        "wellness_advice": "Equilibre seu amor pela aventura com descanso e recuperação adequados.Preste atenção à saúde do fígado através da moderação em alimentos e álcool.Mantenha a flexibilidade e a saúde das articulações por meio de alongamento regular e aquecimentos adequados antes das atividades físicas.",
+        "exercise_preferences": [
+            "Atividades e esportes ao ar livre",
+            "Execução de longa distância",
+            "Caminhadas e escalada",
+            "Aventuras baseadas em viagens",
+            "Esportes coletivos que envolvem estratégia"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 traz oportunidades interessantes de expansão e aventura para indivíduos de Sagitário.Seu otimismo natural atrai circunstâncias favoráveis ​​e abre portas para novas experiências.Equilibre sua busca pelo conhecimento com aplicação prática para o crescimento máximo.",
+            "love": "As conexões românticas florescem através de aventuras compartilhadas e discussões filosóficas.Os sagitários únicos podem atender a parceiros em potencial enquanto viajam ou buscam interesses educacionais.Os relacionamentos existentes se beneficiam de excitação renovada e objetivos compartilhados.",
+            "career": "Os horizontes profissionais se expandem através de conexões internacionais ou atividades de ensino superior.Suas idéias visionárias inspiram colegas e superiores.Oportunidades para ensinar ou publicar sua experiência emergem na segunda metade do ano.",
+            "health": "Concentre -se na força do quadril e da coxa através de atividades que combinam aventura com fitness.O bem-estar mental melhora com o tempo regular gasto na natureza.Equilibre sua energia entusiasmada com descanso e recuperação adequados.",
+            "finances": "Oportunidades inesperadas de crescimento financeiro por meio da educação, publicação ou empreendimentos relacionados a viagens.Considere uma abordagem equilibrada entre investir em experiências e criar segurança a longo prazo."
+        },
+        "2026": {
+            "overall": "2026 é um ano de desempenho profissional e reconhecimento público de Sagitário.Sua visão ousada e abordagem honesta ganham respeito de figuras influentes.Encontrar harmonia entre ambição e liberdade pessoal traz satisfação e sucesso sustentável.",
+            "love": "Os relacionamentos se beneficiam da comunicação clara sobre as metas de longo prazo.Parcerias estabelecidas se fortalecem através do apoio mútuo de aspirações de carreira.Os sagitários únicos atraem parceiros que admiram sua ambição e autenticidade.",
+            "career": "Surgem oportunidades de liderança que combinam perfeitamente com seus talentos naturais.O meio do ano traz a chance de implementar idéias inovadoras em estruturas tradicionais.Sua capacidade de inspirar os outros se torna seu maior ativo profissional.",
+            "health": "Balance o trabalho exige com atividade física consistente.Preste atenção à saúde esquelética por meio de postura e ergonomia adequadas.O gerenciamento do estresse se torna essencial à medida que as responsabilidades aumentam.",
+            "finances": "A estabilidade financeira melhora através do avanço e reconhecimento da carreira.Considere investimentos relacionados ao seu setor ou experiência.O apoio financeiro inesperado pode vir através de figuras de mentores ou autoridades."
+        },
+        "2027": {
+            "overall": "2027 destaca a conexão social e a visão coletiva para Sagitário.Sua capacidade de unir diversos grupos em torno de metas otimistas cria um impacto significativo da comunidade.O equilíbrio entre liberdade individual e responsabilidade de grupo leva a conquistas notáveis.",
+            "love": "As amizades podem evoluir para conexões românticas mais profundas.Os parceiros apreciam sua natureza social enquanto fornecem influência fundamental.Os sagitários únicos encontram relacionamentos significativos por meio de atividades de grupo alinhadas com valores pessoais.",
+            "career": "Projetos colaborativos trazem satisfação e crescimento profissional.Suas habilidades naturais de rede abrem portas para oportunidades interessantes.Considere papéis que combinam sua experiência com objetivos humanitários ou focados na comunidade.",
+            "health": "As atividades de fitness em grupo oferecem benefícios físicos e conexão social.Preste atenção à circulação através do movimento regular ao longo do dia.Equilibre os compromissos sociais com espaço pessoal adequado e tempo tranquilo.",
+            "finances": "Os empreendimentos financeiros compartilhados demonstram promessa quando alinhados com aliados confiáveis.Iniciativas econômicas baseadas na comunidade podem fornecer benefícios inesperados.Considere abordagens inovadoras para compartilhamento de recursos e suporte mútuo."
+        },
+        "2028": {
+            "overall": "2028 traz Sagitário a um período de crescimento espiritual e exploração interna.Sua natureza filosófica se aprofunda através de experiências de vida significativas.Equilibrar sua busca pela verdade com entendimento compassivo leva a uma profunda sabedoria pessoal.",
+            "love": "Relacionamentos românticos se aprofundam através de interesses espirituais ou filosóficos compartilhados.Os parceiros apreciam sua busca por significado e verdade autêntica.Sagitários únicos atraem conexões que apóiam a liberdade pessoal e a intimidade emocional.",
+            "career": "O trabalho que se alinha aos seus valores mais profundos traz satisfação além da recompensa financeira.Considere papéis que permitem expressar sua sabedoria ou apoiar o crescimento de outras pessoas.As inspirações criativas que fluem da contemplação silenciosa trazem reconhecimento profissional.",
+            "health": "As práticas holísticas de saúde trazem benefícios notáveis ​​para o corpo e o espírito.Preste atenção ao sistema imunológico por meio de descanso adequado e suporte nutricional.Meditação ou práticas contemplativas melhoram o bem -estar geral e a clareza mental.",
+            "finances": "O apoio financeiro inesperado chega através de canais anteriormente invisíveis.Confie em sua intuição em relação aos investimentos, mantendo salvaguardas práticas.A generosidade aumenta paradoxalmente sua própria abundância."
+        },
+        "2029": {
+            "overall": "2029 concentra -se na renovação e no início de Sagitário.Seu otimismo natural ajuda a transformar os desafios em oportunidades de crescimento.Encontrar equilíbrio entre honrar experiências passadas e abraçar novas possibilidades traz energia vibrante para todas as áreas da vida.",
+            "love": "Relacionamentos Experiência rejuvenescimento por meio de comunicação honesta e comprometimento renovado.Os parceiros apreciam seu entusiasmo pelo crescimento e mudança.Os sagitários únicos atraem novas conexões emocionantes que expandem seus horizontes.",
+            "career": "A reinvenção na carreira traz oportunidades inesperadas alinhadas com interesses em evolução.Seu espírito pioneiro abre portas em campos ou mercados emergentes.Considere empreendimentos empresariais que capitalizam sua experiência única e perspectiva visionária.",
+            "health": "A energia revitalizada vem através de abordagens experimentais e científicas do bem -estar.Preste atenção à saúde do fígado por meio de nutrição e desintoxicação adequadas.Novas rotinas de fitness estabelecidas este ano criam benefícios duradouros.",
+            "finances": "Financeiros financeiros permitem reposicionamento estratégico para crescimento futuro.Considere investimentos educacionais que expandem seu potencial de ganho.Os lucros inesperados podem chegar a investimentos passados ​​finalmente com frutos."
+        },
+        "2030": {
+            "overall": "2030 marca um período significativo de abundância e crescimento material para Sagitário.Sua abordagem otimista dos recursos atrai oportunidades inesperadas.O equilíbrio entre desfrutar da prosperidade atual e a construção de segurança futura cria sucesso sustentável.",
+            "love": "O conforto de material compartilhado aprimora os laços românticos.Os parceiros apreciam sua generosidade e ajudam a gerenciar os recursos com sabedoria.Sagitários únicos atraem relacionamentos que oferecem estabilidade emocional e material.",
+            "career": "Os setores financeiros ou funções de gerenciamento de recursos oferecem oportunidades de avanço.Sua capacidade de reconhecer o valor em áreas negligenciadas traz vantagem profissional.Considere desenvolver experiência em mercados emergentes ou gerenciamento de recursos sustentáveis.",
+            "health": "Abordagens nutricionais com foco na qualidade e abundância, e não na restrição, trazem vitalidade.Preste atenção às áreas de garganta e pescoço através de cuidados e alinhamentos adequados.Equilibre prazeres sensoriais com moderação para o bem -estar ideal.",
+            "finances": "Oportunidades de investimento em ativos físicos mostram promessas específicas.Considere diversificar as propriedades em diferentes categorias de recursos.Ganhos financeiros inesperados vêm através de posses ou talentos anteriormente subvalorizados."
+        },
+        "2031": {
+            "overall": "2031 enfatiza a comunicação e o crescimento intelectual de Sagitário.Suas habilidades naturais de ensino encontram expressão perfeita por meio de novas plataformas ou tecnologias.As conexões formadas este ano têm impacto duradouro em sua trajetória pessoal e profissional.",
+            "love": "A compatibilidade intelectual fortalece os laços românticos.Os parceiros apreciam sua brilhante conversa e profundidade filosófica.Sagitários únicos atraem conexões significativas através da expressão autêntica de idéias e crenças.",
+            "career": "Publicação, educação ou oportunidades de mídia emergem inesperadamente.Sua capacidade de comunicar idéias complexas de maneiras acessíveis traz avanço profissional.Considere o desenvolvimento de conhecimentos em tecnologias ou metodologias de comunicação emergentes.",
+            "health": "A estimulação mental através da aprendizagem contínua melhora o bem -estar geral.Preste atenção à saúde respiratória por meio de técnicas de respiração adequadas e qualidade do ar.Equilibre a atividade intelectual com movimento físico adequado para a função cerebral ideal.",
+            "finances": "Investimentos em tecnologias de comunicação ou plataformas educacionais produzem retornos.Considere monetizar seu conhecimento através do ensino, escrita ou consultoria.A renda inesperada pode chegar através de propriedade intelectual ou expressão criativa."
+        },
+        "2032": {
+            "overall": "2032 traz foco para as fundações domésticas e emocionais para Sagitário.Criar espaços que suportem sua necessidade de aventura e segurança se tornam importantes.O equilíbrio entre exploração e estabelecimento de raízes leva a uma profunda satisfação pessoal.",
+            "love": "As conexões familiares influenciam os padrões de relacionamento de maneiras surpreendentes.Os parceiros apreciam seus esforços para criar uma base que apóie aventuras compartilhadas.Sagitários únicos podem encontrar conexões significativas por meio de apresentações familiares ou eventos da comunidade.",
+            "career": "O equilíbrio entre vida profissional e pessoal se torna essencial para o sucesso sustentável.Considere papéis que permitem flexibilidade entre a base e a viagem.Sua capacidade de manter a produtividade e honrar as necessidades pessoais traz respeito profissional.",
+            "health": "O bem -estar emocional afeta diretamente a vitalidade física este ano.Preste atenção à saúde digestiva através de nutrição adequada e gerenciamento de estresse.As rotinas de bem-estar domésticas fornecem energia fundamental em meio a horários lotados.",
+            "finances": "Investimentos de propriedade ou melhorias domésticas produzem valor a longo prazo.Considere a criação de vários fluxos de renda que fornecem estabilidade e permitem flexibilidade.O planejamento financeiro da família traz segurança e apoia futuras aventuras."
+        },
+        "2033": {
+            "overall": "2033 enfatiza a expressão criativa e a vida alegre para Sagitário.Seu entusiasmo natural encontra pontos de venda perfeitos por meio de atividades artísticas ou recreativas.O equilíbrio entre exploração lúdica e prática disciplinada leva a realizações criativas notáveis.",
+            "love": "Os relacionamentos românticos prosperam quando infundidos com brincadeira e criatividade.Os parceiros apreciam sua maravilha infantil ao fornecer aterramento prático.Sagitários únicos atraem conexões por meio de auto-expressão autêntica e atividades recreativas.",
+            "career": "Indústrias ou funções criativas que exigem pensamento inovador oferecem oportunidades de avanço.Sua capacidade de abordar assuntos sérios com perspectiva refrescante traz reconhecimento profissional.Considere empreendimentos empresariais que capitalizam sua visão criativa única.",
+            "health": "Práticas de movimento alegre trazem benefícios físicos notáveis.Preste atenção à saúde do coração por meio de atividades que combinam prazer com o condicionamento cardiovascular.Equilibre a intensidade criativa com descanso e recuperação adequados.",
+            "finances": "Investimentos em artes, entretenimento ou indústrias recreativas mostram promessas.Considere monetizar talentos criativos por meio de empreendimentos laterais ou ofertas especializadas.Oportunidades financeiras inesperadas surgem através de conexões ou atividades recreativas."
+        },
+        "2034": {
+            "overall": "2034 traz atenção focada aos sistemas práticos e rotinas diárias para Sagitário.O estabelecimento de estruturas eficientes que apóiam sua visão maior cria progresso sustentável.O equilíbrio entre a atenção aos detalhes e a manutenção da perspectiva mais ampla leva a uma produtividade notável.",
+            "love": "Os relacionamentos se beneficiam do apoio prático e das responsabilidades compartilhadas.Os parceiros apreciam sua utilidade, mantendo o respeito pela independência.Sagitários únicos atraem conexões por meio de atividades orientadas a serviços ou ambientes no local de trabalho.",
+            "career": "A eficiência organizacional se torna sua superpotência profissional.Sua capacidade de melhorar os sistemas, mantendo um objetivo maior, em vista, traz oportunidades de avanço.Considere funções que permitem redesenhar os fluxos de trabalho ou implementar melhores metodologias.",
+            "health": "Os hábitos diários consistentes criam benefícios cumulativos de bem -estar.Preste atenção à saúde digestiva através de nutrição adequada e gerenciamento de estresse.Equilibre a atividade produtiva com recuperação adequada para o funcionamento físico ideal.",
+            "finances": "Os ganhos financeiros surgem através do aumento da eficiência e eliminação dos resíduos.Considere investimentos em tecnologias ou serviços que melhorem a produtividade.Oportunidades financeiras inesperadas surgem através de conexões no local de trabalho ou desenvolvimento de habilidades."
+        },
+        "2035": {
+            "overall": "2035 enfatiza parcerias equilibradas e conexões harmoniosas para Sagitário.Sua independência natural encontra complemento perfeito por meio de colaboração significativa.Encontrar o equilíbrio entre liberdade pessoal e comprometimento mútuo traz realização em todas as áreas de relacionamento.",
+            "love": "Relacionamentos românticos atingem novas profundezas de entendimento e apoio mútuo.Os parceiros apreciam sua honestidade e ajudam a refinar seu estilo de comunicação.Os sagitários únicos atraem conexões equilibradas que honram tanto a independência quanto a união.",
+            "career": "Os empreendimentos colaborativos trazem avanço e satisfação profissional.Sua capacidade de negociar acordos de ganha-ganha se torna um ativo valioso.Considere parcerias que complementam seus pontos fortes enquanto expandem seu alcance e influência.",
+            "health": "O equilíbrio se torna a chave para o bem -estar físico.Preste atenção às áreas renais e lombares através de hidratação adequada e práticas de suporte.A harmonia do relacionamento influencia diretamente a vitalidade física e a função do sistema nervoso.",
+            "finances": "Joint Ventures ou investimentos compartilhados mostram promessas específicas.Considere abordagens que equilibram riscos com segurança através da diversificação.Oportunidades financeiras inesperadas vêm por acordos contratuais ou parcerias formais."
+        }
+    },
+    "famous": [
+        {
+            "name": "Taylor Swift",
+            "birth_date": "13 de dezembro de 1989",
+            "description": "Cantor e compositor cujo sucesso internacional, letras honestas e vontade de se reinventar incorporam expansividade e autenticidade sagitárias"
+        },
+        {
+            "name": "Brad Pitt",
+            "birth_date": "18 de dezembro de 1963",
+            "description": "Ator e produtor cujos papéis diversos, trabalho humanitário e escolhas de carreira aventureira refletem o amor de Sagitário pela exploração e crescimento"
+        },
+        {
+            "name": "Bruce Lee",
+            "birth_date": "27 de novembro de 1940",
+            "description": "Artista marcial e filósofo cujo domínio físico, influência intercultural e ensinamentos filosóficos exemplificam a busca sagitária por excelência e verdade"
+        },
+        {
+            "name": "Tina Turner",
+            "birth_date": "26 de novembro de 1939",
+            "description": "Cantor cujas performances dinâmicas, resiliência e apelo internacional demonstram o entusiasmo de Sagitário, a natureza amante da liberdade e a capacidade de inspirar"
+        },
+        {
+            "name": "Jane Austen",
+            "birth_date": "16 de dezembro de 1775",
+            "description": "Autor cujas observações sociais, inteligência e idéias atemporais sobre a natureza humana refletem a curiosidade intelectual de Sagitário e a busca da verdade"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Hoje, equilibre a honestidade com a tatalidade em suas comunicações.Seu entusiasmo natural incentiva os outros quando expresso com consideração.",
+        "career": "Seu pensamento de grande porte ajuda a resolver um desafio no local de trabalho.Compartilhe sua visão enquanto permanece aberto a detalhes práticos da implementação.",
+        "health": "Preste atenção aos seus quadris e coxas durante a atividade física.O alongamento adequado apóia seu amor pelo movimento e aventura.",
+        "general": "Seu otimismo serve bem hoje quando equilibrado com planejamento realista.A busca da verdade leva a insights valiosos quando perseguidos com a mente aberta."
+    },
+    "tarot_associations": {
+        "major_arcana": "Temperança",
+        "explanation": "A temperança representa equilíbrio, moderação e combinação harmoniosa de diferentes elementos - qualidades que surpreendentemente complementam a natureza expansiva de Sagitário.Este cartão incorpora a jornada para a integração da verdade superior com a realidade prática, a mistura de diversas experiências na sabedoria e a moderação que torna a exploração a longo prazo sustentável."
+    },
+    "compatibility_details": {
+        "aries": "Sagitário e Áries criam um relacionamento entusiasmado e dinâmico como sinais de incêndio.Tanto valorizaram a independência quanto a aventura, incentivando o crescimento um do outro, compartilhando a paixão pelas experiências da vida.",
+        "taurus": "Sagitário e Touro enfrentam desafios com diferentes valores - Sagitário anseia por liberdade e variedade enquanto Touro busca estabilidade e consistência.É necessário um compromisso significativo para a compatibilidade.",
+        "gemini": "Sagitário e Gêmeos compartilham um amor pelo conhecimento, variedade e exploração intelectual.Esta combinação compatível gosta de estimular conversas e respeita a independência um do outro.",
+        "cancer": "Sagitário e câncer abordam a vida de maneira bastante diferente - Sagitário parece externo para aventura, enquanto o câncer cria segurança em casa.Encontrar equilíbrio entre exploração e conexão emocional requer esforço.",
+        "leo": "Sagitário e Leo formam uma excelente partida de sinais de incêndio com entusiasmo compartilhado e entusiasmo pela vida.Ambos são generosos, calorosos e apreciam o espírito e a criatividade independentes um do outro.",
+        "virgo": "Sagitário e Virgem representam diferentes visões de mundo - a ampla perspectiva de Sagitário contra o foco detalhado de Virgem.O respeito mútuo por essas abordagens complementares é essencial para a compatibilidade.",
+        "libra": "Sagitário e Libra compartilham interesses intelectuais, natureza social e otimismo.Esta partida compatível gosta de explorar idéias e experiências, equilibrando o desejo de Libra de harmonia com a busca pela verdade de Sagitário.",
+        "scorpio": "Sagitário e Escorpião enfrentam desafios com diferentes estilos emocionais - a abertura de Sagitário versus a privacidade de Escorpião.Compreender essas diferenças fundamentais é crucial para a conexão.",
+        "sagittarius": "Dois sagitários criam um relacionamento entusiasmado e amante da liberdade, cheio de aventura e exploração filosófica.Eles entendem a necessidade de independência um do outro, mas podem não ter estabilidade sem esforço.",
+        "capricorn": "Sagitário e Capricórnio trazem pontos fortes complementares - a visão de Sagitário e a praticidade de Capricórnio.Essa combinação pode ser poderosa quando aprecia suas diferentes abordagens da vida.",
+        "aquarius": "Sagitário e Aquário compartilham compatibilidade intelectual, independência e valores humanitários.Esta partida harmoniosa respeita a liberdade individual enquanto explora idéias não convencionais juntas.",
+        "pisces": "Sagitário e Peixes se conectam através do idealismo compartilhado e dos interesses espirituais.Eles podem inspirar o crescimento um do outro, com Sagitário fornecendo orientação para os sonhos e peixes de Peixes, oferecendo profundidade emocional à filosofia de Sagitário."
+    },
+    "astrological_influences": {
+        "sun_in": "O Sol em Sagitário traz otimismo, amor pela liberdade e busca pelo significado.Você aborda a vida com entusiasmo, buscando expandir seus horizontes através de diversas experiências e conhecimentos.",
+        "moon_in": "Moon em Sagitário cria necessidades emocionais centradas em liberdade, verdade e aventura.Seus sentimentos são expressos de maneira aberta e honesta, e você precisa de espaço para exploração e crescimento emocional.",
+        "rising": "Sagitário Rising dá a você uma aparência de entusiasmo, abertura e espírito aventureiro.Outros o vêem como otimista, direto e filosoficamente, desde a primeira reunião."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Desenvolvendo acompanhamento e consistência",
+            "Equilibrando a honestidade com a tacidade",
+            "Gerenciando inquietação e foco",
+            "Fundamentar grandes idéias na realidade prática",
+            "Aceitar limitações e responsabilidades necessárias"
+        ],
+        "growth_opportunities": [
+            "Usando uma visão expansiva para inspirar mudanças positivas",
+            "Desenvolvendo sabedoria através de diversas experiências",
+            "Bridging Cultural and Philosophical divide",
+            "Ensinar e compartilhar conhecimento com entusiasmo",
+            "Encontrando liberdade dentro do compromisso"
+        ],
+        "affirmations": [
+            "Eu sigo meus compromissos com entusiasmo",
+            "Eu expresso a verdade com honestidade e compaixão",
+            "Eu equilibro aventura com estabilidade",
+            "Meu otimismo cria oportunidades reais",
+            "Eu acho significado na vida cotidiana e nas grandes aventuras"
+        ]
+    },
+    "life_path": {
+        "purpose": "Os indivíduos de Sagitário geralmente têm a missão de expandir a consciência, explorar a verdade e inspirar outros com otimismo e visão.Seu objetivo envolve quebrar limites, conectar diversas perspectivas e encontrar significado na grande aventura da vida.",
+        "life_lessons": [
+            "Aprendendo a equilibrar a liberdade com a responsabilidade",
+            "Desenvolvendo sabedoria integrando diversas experiências",
+            "Encontrar a verdade que transcende diferenças culturais e filosóficas",
+            "Converter otimismo em ação prática e sustentada",
+            "Descobrindo que a liberdade real vem do domínio interno, não da circunstância externa"
+        ],
+        "spiritual_growth": "O desenvolvimento espiritual de Sagitário envolve encontrar a verdade unificada além do dogma e conectar a filosofia abstrata à experiência vivida.Práticas que exploram as tradições da sabedoria de múltiplas culturas, integram o movimento físico à busca espiritual e converte a inspiração em ação consistente, contribuindo para a evolução espiritual."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "As crianças de Sagitário são tipicamente entusiasmadas, curiosas e honestas desde tenra idade.Eles geralmente mostram interesse precoce em aprender, explorar ao ar livre e fazer grandes perguntas sobre a vida, enquanto não gostando de restrições e ambientes excessivamente estruturados.",
+            "parenting_advice": "Ofereça muitas oportunidades de exploração e aprendizado enquanto ensina o valor de concluir o que eles iniciam.Responda a suas perguntas filosóficas pensativamente e incentive seu otimismo, ajudando -as a desenvolver habilidades práticas para canalizar suas grandes idéias."
+        },
+        "in_friendship": {
+            "friendship_style": "Os amigos de Sagitário são entusiasmados, leais e inspiradores.Eles organizam aventuras, compartilham o conhecimento generosamente e trazem otimismo e honestidade às amizades, embora às vezes possam desaparecer em missões solo.",
+            "ideal_friends": "Sagitário prospera com amigos que compartilham seu amor pelo crescimento e exploração, respeitando sua necessidade de independência.Eles valorizam amizades que combinam estimulação intelectual, aventuras compartilhadas e conversas autênticas."
+        },
+        "shadow_side": {
+            "potential_issues": "Quando desequilibrado, Sagitário pode se tornar pregador, exagerar a verdade, fazer promessas de que não pode cumprir ou evitar a responsabilidade por meio de movimentos constantes.Seu otimismo pode se transformar em imprudência, e sua honestidade pode não ter compaixão.",
+            "growth_path": "O crescimento pessoal de Sagitário envolve o desenvolvimento de foco e acompanhamento, tempestando a honestidade com o tato e encontrando maneiras de manter a liberdade dentro do compromisso, em vez de evitá-lo completamente."
+        }
+    },
+    "seasonal_influences": {
+        "winter_approach": "Nascido como transição de outono para o inverno, Sagitário incorpora a busca expansiva de luz durante os dias de escurecimento.Esse momento infunde Sagitário com otimismo natural, a busca por uma verdade mais alta e o desejo de ver além das limitações imediatas a horizontes mais amplos.",
+        "mutable_quality": "Como um sinal mutável, Sagitário representa adaptabilidade e integração à medida que as estações mudam.Esta posição concede a eles flexibilidade filosófica, a capacidade de sintetizar diversas perspectivas e a capacidade de transformar a experiência em sabedoria."
+    },
+    "elemental_analysis": {
+        "fire_element_influence": "O elemento de fogo dá a Sagitário seu entusiasmo característico, otimismo e energia expansiva.O fogo representa inspiração, espiritualidade e o poder transformador da visão e da crença.",
+        "fire_balance": "Balanced Fire traz inspiração, entusiasmo e coragem para explorar um novo território.O fogo excessivo pode levar a inquietação, excesso de confiança e energia dispersa, enquanto o incêndio deficiente pode resultar em perda de inspiração, cinismo ou falta de fé nas possibilidades."
+    },
+    "planetary_rulership": {
+        "jupiter_influence": "Júpiter, planeta de expansão, abundância e aprendizado superior, regras de Sagitário.Essa influência planetária explica o otimismo do sinal, o amor ao conhecimento, a natureza filosófica e a capacidade de ver o quadro geral além das circunstâncias imediatas.",
+        "jupiter_aspects": "A posição e os aspectos de Júpiter no mapa de nascimento de um indivíduo afetam significativamente a expressa energia de Sagitário.Os aspectos fortes de Júpiter aumentam a visão, a sorte e a expansão, mas também podem aumentar as tendências em relação ao excesso ou excesso de confiança."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Na economia global e baseada em informações de hoje, Sagitário se destaca em desenvolvimento internacional de negócios, consultoria intercultural, educação on-line, criação de conteúdo de viagens e campos que exigem visão interdisciplinar e inovação otimista.",
+        "relationship_in_modern_context": "Os relacionamentos modernos se beneficiam da honestidade e flexibilidade de Sagitário em uma era de mudar os paradigmas de relacionamento.Seu conforto com diversidade e capacidade de manter a independência na conexão os serve bem com namoro em idade digital e relacionamentos globais."
+    }
+}

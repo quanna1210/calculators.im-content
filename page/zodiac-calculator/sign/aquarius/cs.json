@@ -1,0 +1,336 @@
+{
+    "sign": "Aquarius",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/aquarius.svg",
+    "local_name": "Vodnář",
+    "date_range": "20. ledna - 18. února",
+    "element": "Vzduch",
+    "ruling_planet": "Uran, Saturn (tradiční)",
+    "symbol": "Vodní nositel",
+    "lucky_numbers": [
+        "4",
+        "7",
+        "11",
+        "22",
+        "29"
+    ],
+    "lucky_colors": [
+        "Elektrická modrá",
+        "Tyrkysový",
+        "Stříbro"
+    ],
+    "lucky_days": [
+        "sobota",
+        "čtvrtek"
+    ],
+    "lucky_stones": [
+        "Ametyst",
+        "Granát",
+        "Obsidian"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Progresivní",
+            "Originál",
+            "Nezávislý",
+            "Humanitární",
+            "Intelektuální",
+            "Vynalézavá",
+            "Idealistický"
+        ],
+        "weaknesses": [
+            "Oddělený",
+            "Tvrdohlavý",
+            "Rezervovaný",
+            "Nepředvídatelné",
+            "Vzpurný",
+            "Emocionálně vzdálený",
+            "Neosobní"
+        ]
+    },
+    "personality": {
+        "overview": "Aquarius je jedenácté znamení zvěrokruhu, symbolizující inovace, sociální vědomí a intelektuální nezávislost.Jednotlivci Vodnáře jsou známí svou perspektivou pro sebe, humanitární ideály a nekonvenční přístup k životu.Jsou vizionáři zvěrokruhu a neustále pracují na zlepšování společnosti prostřednictvím inovativních myšlenek a progresivních hodnot.",
+        "detailed_traits": [
+            "Inovativní myšlení s jedinečnou perspektivou",
+            "Silné humanitární hodnoty a ideály",
+            "Nezávislé a hodnoty svobody myšlení",
+            "Intelektuální přístup k porozumění světu",
+            "Přátelský při udržování osobní vzdálenosti",
+            "Výhledové a progresivní myšlení",
+            "Hodnotí autentičnost a originalitu",
+            "Pohodlné s nekonvenčními nápady",
+            "Objektivní a racionální rozhodování",
+            "Zájem o technologii a vědecký pokrok"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Jednotlivci Vodnáře jsou intelektuálně stimulující, partneři respektující svobodu, kteří si cení rovnosti a přátelství ve vztazích.Vyjadřují lásku úctou k nezávislosti, zapojení do hlubokých rozhovorů a sdílení jejich jedinečných perspektiv a zájmů.",
+        "compatibility": {
+            "most_compatible": [
+                "Blíženci",
+                "Váhy",
+                "Střelec",
+                "Aries"
+            ],
+            "least_compatible": [
+                "Býk",
+                "Štír",
+                "Rakovina"
+            ]
+        },
+        "relationship_advice": "Jednotlivci Vodnáře musí vyvážit intelektuální spojení s emocionálním spojením.Pracujte na vyjadřování pocitů otevřeněji než ustupují k racionální analýze.Pamatujte, že emoční zranitelnost posiluje vztahy a že osobní spojení doplňuje vaše přirozené sociální vědomí.",
+        "love_style": [
+            "Hodnotit přátelství jako základ pro romantiku",
+            "Respektuje nezávislost a osobní svobodu",
+            "Intelektuálně poutavý a stimulující partner",
+            "Může bojovat s tradičními projevy romantiky",
+            "Přistupuje k vztahů s jedinečnou perspektivou",
+            "Nemá rád vlastnictví nebo emocionální požadavky",
+            "Ukazuje lásku přijetím jedinečnosti partnera"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Jednotlivci Vodnáře vynikají v kariéře, které zahrnují inovace, sociální pokrok a intelektuální svobodu.Mají přirozený talent pro vidění budoucích trendů, přemýšlení mimo konvenční hranice a spolupráci při zachování nezávislosti.",
+        "suitable_careers": [
+            "Věda a výzkum",
+            "Technologie a digitální inovace",
+            "Sociální aktivismus a nezisková práce",
+            "Environmentální věda",
+            "Alternativní medicína",
+            "Psychologie a sociologie",
+            "Astrologie a metafyzické studie",
+            "Humanitární pole",
+            "Vynález a vývoj produktů",
+            "Politická reforma a rozvoj politiky"
+        ],
+        "financial_habits": "Jednotlivci Vodnáře mají často nekonvenční přístupy k penězům, někdy střídají mezi praktickým řízením a spontánními rozhodnutími.Mohou investovat spíše do humanitárních příčin, inovativních technologií nebo jedinečných obchodních modelů než tradičních finančních nástrojů.",
+        "work_style": [
+            "Funguje dobře nezávisle nebo ve skupinách spolupráce",
+            "Přináší inovativní řešení problémů",
+            "Nemá rád rigidní hierarchie a mikromanagement",
+            "Hodnotí rovnost a spravedlnost na pracovišti",
+            "Může odolat rutinní nebo tradiční postupy",
+            "Vyniká v projektech koncepčních a dopředu",
+            "Pracuje pro význam nad rámec finanční kompenzace"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Vodnář ovládá oběhový systém, kotníky a dolní nohy.Jednotlivci Vodnáře mají obvykle dobrou fyzickou odolnost, ale mohou být náchylní k problémům souvisejícím s oběhem, náhlými změnami zdraví nebo stresem z mentální nadměrné stimulace.",
+        "common_health_issues": [
+            "Poranění kotníku a podvrtnutí",
+            "Problémy s oběhem",
+            "Křečové žíly",
+            "Nesrovnalosti nervového systému",
+            "Stres z mentální nadměrné aktivity",
+            "Problémy z nepravidelných rutin",
+            "Oční napětí související s technologií"
+        ],
+        "wellness_advice": "Vyrovnáte intelektuální stimulaci s fyzickou aktivitou a postupech uzemnění.Věnujte pozornost oběhu pravidelným pohybem po celý den.Rozvíjet konzistentní vzorce spánku navzdory vaší tendenci k nepravidelným rozvrhům.",
+        "exercise_preferences": [
+            "Skupinové fitness aktivity s individuální svobodou",
+            "Nekonvenční cvičení a nové fitness trendy",
+            "Pěší turistika a venkovní průzkum",
+            "Cyklistika a činnosti zahrnující nohy",
+            "Týmové sporty se strategickými prvky"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 přináší příležitosti pro inovativní projekty a rozšířené sociální sítě pro jednotlivce Vodnáře.Vaše nápady na myšlení dopředu dostávají podporu a uznání.Rovnovážte intelektuální pronásledování s osobními spojeními pro holistický růst.",
+            "love": "Vztahy se rozvíjejí prostřednictvím intelektuálního spojení a sdílených hodnot.Jednotliví Vodnáři se mohou setkat s potenciálními partnery prostřednictvím skupinových aktivit nebo sociálních příčin.Stávající vztahy se prohlubují s čestnou komunikací o budoucích vizích.",
+            "career": "Profesionální růst přichází prostřednictvím zahrnutí technologických změn a projektů spolupráce.Vaše inovativní nápady získávají trakci v polovině roku.V oblastech zahrnujících sociální dopad nebo technologický pokrok mohou nastat příležitosti vůdců.",
+            "health": "Zaměřte se na zdraví oběhu pravidelným pohybem a správnou hydratací.Duševní pohoda se zlepšuje s rovnováhou mezi sociální angažovaností a osobními prostoji.Během fyzických aktivit věnujte zvláštní pozornost péči o kotníky a nohou.",
+            "finances": "Neočekávané příležitosti pro finanční růst prostřednictvím inovativních podniků nebo nekonvenčních investic.Zvažte vyvážený přístup mezi podpůrnými příčinami, kterým věříte a budování osobního zabezpečení."
+        },
+        "2026": {
+            "overall": "2026 je rok osobní transformace a duchovního růstu pro Vodnáře.Vaše humanitární hodnoty řídí důležitá rozhodnutí o životě.Nalezení harmonie mezi vašimi vizionářskými ideály a praktickou realitou přináší naplnění a pokrok.",
+            "love": "Hlubší emoční spojení se rozvíjejí, když se stanete pohodlnějším vyjadřováním zranitelnosti.Zavedené vztahy těží z obnovených sdílených činností.Jednotliví Vodnáři přitahují partnery, kteří oceňují vaši nezávislost i hloubku.",
+            "career": "Zaměřte se na projekty, které jsou v souladu s vašimi základními hodnotami a dlouhodobou vizí.V polovině roku přináší příležitosti k vedení iniciativ zahrnujících udržitelné inovace.Profesionální sítě se rozšiřují prostřednictvím platforem virtuální spolupráce.",
+            "health": "Praktiky mysli a těla, jako je jóga nebo Tai Chi, přinášejí pozoruhodné výhody.Věnujte pozornost zdraví nervového systému prostřednictvím pravidelných digitálních detoxikací.Experimentování s výživou na bázi rostlin může přinést pozitivní změny energie.",
+            "finances": "Finanční stabilita se zlepšuje pečlivým dlouhodobým plánováním.Zvažte udržitelné nebo etické investiční příležitosti, které odpovídají vašim hodnotám.Do druhé části roku může dorazit neočekávané dědictví nebo bonus."
+        },
+        "2027": {
+            "overall": "2027 zdůrazňuje spojení komunity a kolektivní pokrok pro Vodnáře.Vaše schopnost sjednotit rozmanité skupiny kolem společných cílů přináší pozoruhodné úspěchy.Rovnováha mezi inovacemi a tradicí vytváří trvalý dopad.",
+            "love": "Romantické vztahy se daří, když se sdílené sociální zájmy stanou ohniskové body.Partneři oceňují vaši vizionářskou perspektivu a zároveň pomáhají ukládat vaše nápady.Jednotliví Vodnáři mohou najít smysluplné spojení prostřednictvím intelektuálních nebo humanitárních pronásledování.",
+            "career": "V oblasti sloučení technologie s lidským blahobytem se objevily příležitosti vůdců.Vaše schopnost předvídat budoucí trendy vám dává konkurenční výhodu.Zvažte mentorování ostatních, aby rozšířili váš profesionální vliv.",
+            "health": "Pozornost si zaslouží cirkulace a respirační zdraví.Pravidelné outdoorové aktivity v přirozeném prostředí přinášejí fyzické i mentální výhody.Prozkoumejte komunitní wellness programy, které kombinují sociální spojení se zdravotními cíli.",
+            "finances": "Kolaborativní finanční podniky ukazují slib.Váš inovativní přístup ke sdílení zdrojů vytváří nové toky příjmů.Zvažte formování investičních skupin s podobně smýšlejícími jednotlivci, aby shromáždili zdroje pro větší dopad."
+        },
+        "2028": {
+            "overall": "2028 přináší Vodnáře do období intelektuálního průlomu a kreativní renesance.Vaše nekonvenční myšlení dostává uznání v širších kruzích.Vyvážení analytického myšlení s intuitivními poznatky vede k pozoruhodnému osobnímu objevu.",
+            "love": "Romantické vztahy se prohlubují prostřednictvím intelektuálního průzkumu a filozofické diskuse.Partneři oceňují vaše autentické sebevyjádření.Jednotliví Vodnáři přitahují pozornost prostřednictvím svých jedinečných perspektiv a skutečného komunikačního stylu.",
+            "career": "Akademické nebo výzkumné příležitosti se mohou neočekávaně objevit.Vaše schopnost syntetizovat komplexní informace do přístupných formátů přináší profesionální uznání.Zvažte širší publikování nebo sdílení vašich inovativních nápadů.",
+            "health": "Zaměřte se na zdraví mozku prostřednictvím kognitivních výzev a správné výživy.Vzory spánku vyžadují pozornost, jak se zvyšuje mentální aktivita.Rovnovážte intelektuální stimulaci s adekvátním odpočinkem pro optimální pohodu.",
+            "finances": "Duševní vlastnictví nebo kreativní díla mohou generovat neočekávaný příjem.Zvažte diverzifikaci toků příjmů prostřednictvím digitálních platforem nebo podniků pro sdílení znalostí.Výchova k finanční gramotnosti přináší dlouhodobé výhody."
+        },
+        "2029": {
+            "overall": "2029 se zaměřuje na domácí a rodinné základy pro Vodnáře.Vytváření prostorů, které odrážejí vaše jedinečné hodnoty, se stává důležitým.Nalezení rovnováhy mezi vaší potřebou zapojení komunity a osobní svatyni přináší splnění.",
+            "love": "Domácí harmonie se stává prioritou ve vztazích.Partneři oceňují vaše úsilí vytvořit nekonvenční, ale pohodlné sdílené prostory.Jednotliví Vodnáři mohou najít spojení prostřednictvím domácích komunit nebo sdílených životních uspořádání.",
+            "career": "Vzdálené pracovní příležitosti jsou v souladu s vašimi preferencemi pro autonomní produktivitu.Zvažte vytvoření domácí kanceláře nebo pracovního prostoru, který zvyšuje kreativitu.Profesionální uznání přichází spíše konzistentním výkonem než viditelností.",
+            "health": "Uzemňovací postupy zlepšují celkovou pohodu.Pravidelně se spojte s přírodou a resetujte svůj elektrický systém.Domácí cvičební rutiny zavedené v tomto roce vytvářejí trvalé výhody wellness.",
+            "finances": "Investice do nemovitostí nebo vylepšení domů přinášejí dlouhodobou hodnotu.Zvažte energeticky účinné upgrady nebo udržitelné domácí technologie.Rodinné finanční plánování přináší bezpečnost a klid."
+        },
+        "2030": {
+            "overall": "2030 znamená významný komunikační průlom pro Vodnáře.Vaše vizionářské nápady nacházejí perfektní výraz prostřednictvím nových platforem nebo technologií.Spojení vytvořená letos má trvalý dopad na vaši osobní a profesionální trajektorii.",
+            "love": "Jasná a soucitná komunikace transformuje vztahy.Partneři se cítí skutečně pochopeni prostřednictvím vašich vylepšených poslechových schopností.Jednotliví Vodnáři přitahují smysluplné spojení prostřednictvím autentického sebevyjádření v psaní nebo řeči.",
+            "career": "Neočekávaně se objevují publikování, média nebo vzdělávací příležitosti.Vaše schopnost překládat komplexní koncepty pro rozmanité publikum přináší profesionální pokrok.Zvažte vývoj osobní značky, která zdůrazňuje vaši jedinečnou perspektivu.",
+            "health": "Vokální a respirační zdraví vyžadují pozornost.Komunikační technologie mohou mít dopad na držení těla a zdraví očí, takže vytvářejí ergonomické praktiky.Techniky mysli těla, které zahrnují zvukové nebo dechové práce, přinášejí pozoruhodné výhody.",
+            "finances": "Investice do komunikačních technologií nebo platforem poskytují výnosy.Zvažte zpeněžení svých znalostí prostřednictvím kurzů, psaní nebo konzultací.Neočekávaný příjem může dorazit prostřednictvím duševního vlastnictví nebo tvůrčího vyjádření."
+        },
+        "2031": {
+            "overall": "2031 se zaměřuje na zabezpečení materiálu a správu zdrojů pro Vodnáře.Váš inovativní přístup k udržitelnosti vytváří osobní hojnost i komunitní výhody.Nalezení rovnováhy mezi akvizicí a štědrostí přináší naplnění.",
+            "love": "Sdílené hodnoty kolem zdrojů a komfortu materiálu posilují vztahy.Partneři oceňují váš praktický, ale nekonvenční přístup k zabezpečení budování.Jednotliví Vodnáři přitahují stabilitu smýšlející, ale progresivní potenciální partnery.",
+            "career": "Finanční sektory nebo role správy zdrojů nabízejí možnosti postupu.Vaše schopnost předpovídat trendy vám dává výhodu na trzích nebo organizačním plánování.Zvažte role, které kombinují technologické inovace s optimalizací zdrojů.",
+            "health": "Výživa se stává klíčovou oblastí zaměření.Zkoumání inovativních, ale praktických přístupů k dietě přináší energetické zlepšení.Věnujte pozornost oblasti krku a krku prostřednictvím správných ergonomií a praktik péče o sebe.",
+            "finances": "Dlouhodobé investice do udržitelných technologií ukazují slibné.Zvažte stanovení pasivních příjmových toků prostřednictvím inovativního využití nemovitosti nebo intelektuálních aktiv.Neočekávané finanční neočekávání procházejí dříve přehlíženými zdroji."
+        },
+        "2032": {
+            "overall": "2032 přináší pro Vodnáře osobní znovuobjevení a sebepoznání.Vaše autentická sebevyjádření rezonuje s neočekávaným publikem.Rovnováha mezi ctí vaší jedinečné perspektivy a spojením s ostatními vede k pozoruhodnému osobnímu růstu.",
+            "love": "Vztahy se daří, když jsou postaveny na vzájemném respektu k individualitě.Partneři oceňují vaši obnovenou sebevědomí a jasnost.Jednotliví Vodnáři přitahují smysluplné spojení prostřednictvím skutečné sebevyjádření a zranitelnosti.",
+            "career": "Objeví se příležitosti vůdcovství, které vám umožní vyjádřit autentickou vizi.Váš jedinečný přístup k řešení problémů získává uznání z vlivných postav.Zvažte role, které umožňují kreativní autonomii a zároveň slouží kolektivním cílům.",
+            "health": "Fyzický vzhled a vitalita se zlepšují prostřednictvím holistických přístupů.Experimentální, ale vědecky znějící wellness praktiky přinášejí pozoruhodné výsledky.Věnujte pozornost zdraví srdce prostřednictvím emocionální i fyzické péče.",
+            "finances": "Osobní branding nebo podniky založené na identitě ukazují finanční slib.Zvažte investice, které odpovídají vašim autentickým hodnotám a zájmům.Neočekávané finanční příležitosti vyvstávají prostřednictvím osobních sítí, které oceňují vaše jedinečné vlastnosti."
+        },
+        "2033": {
+            "overall": "2033 zdůrazňuje duchovní růst a intuitivní vývoj pro Vodnáře.Vaše spojení s kolektivním vědomím přináší hluboké poznatky.Rovnováha mezi racionální analýzou a intuitivním vědomím vede k pozoruhodným osobním a kolektivním průlomům.",
+            "love": "Duchovní spojení prohlubuje romantické pouta.Partneři oceňují vaši zvýšenou empatii a emoční inteligenci.Jednotliví Vodnáři přitahují vztahy s hlubokými duchovními nebo intelektuálními dimenzemi.",
+            "career": "Humanitární nebo práce na zvyšování vědomí přináší profesionální naplnění.Vaše schopnost propojit různorodé nápady vytváří jedinečná řešení pro složité problémy.Zvažte role, které vám umožní sloužit kolektivnímu vývoji a pomocí analytických sil.",
+            "health": "Kvalita spánku a zkušenosti snů poskytují cenné poznatky.Postupy, které vyvažují váš elektrický systém s přírodními rytmy, přinášejí pozoruhodné výhody.Věnujte zvláštní pozornost imunitnímu systému prostřednictvím správného zvládání odpočinku a stresu.",
+            "finances": "Neočekávaná finanční podpora přichází prostřednictvím dříve neviditelných kanálů.Zvažte investice do wellness technologií nebo zdrojů rozšiřujících vědomí.Velkorysost a charitativní dávání paradoxně zvyšuje vaši hojnost."
+        },
+        "2034": {
+            "overall": "2034 označuje začátek významného 7letého cyklu pro Vodnáře.Budování základů v souladu s vašimi nejvyššími hodnotami vytváří trvalý dopad.Vaše vizionářské nápady nacházejí praktický výraz prostřednictvím neočekávané spolupráce.",
+            "love": "Vztahy vztahy postavené na sdílené dlouhodobé vizi prospívají.Partneři oceňují váš závazek vytvářet smysluplné dědictví společně.Jednotliví Vodnáři přitahují spojení s podstatným růstovým potenciálem a zarovnanými hodnotami.",
+            "career": "Dlouhodobé plánování kariéry přináší jasnost a směr.Vaše schopnost předvídat budoucí potřeby pozice výhodně ve vyvíjejících se polích.Zvažte rozvoj odborných znalostí v rozvíjejících se oblastech, které kombinují technologii s lidským blahobytem.",
+            "health": "Kosterní a strukturální zdraví vyžadují pozornost.Návyky na základě pohybu a výživy přinášejí trvalé výhody.Prozkoumejte integrativní přístupy, které kombinují starověké moudrost s moderním vědeckým porozuměním.",
+            "finances": "Dlouhodobé finanční plánování vytváří budoucí bezpečnost.Zvažte zavedení důvěryhodných nebo dědických investic.Investice do nemovitostí nebo půdy v souladu s udržitelnými hodnotami ukazují zvláštní slib."
+        },
+        "2035": {
+            "overall": "2035 přináší rozsáhlý růst a průzkum pro Vodnáře.Vaše inovativní nápady nacházejí receptivní publikum v mezinárodních nebo mezikulturních kontextech.Rovnováha mezi rozšířením horizontů a udržováním základních hodnot vede k smysluplnému příspěvku.",
+            "love": "Vztahy se rozšiřují prostřednictvím sdíleného učení a zkoumání.Partneři oceňují vaši filozofickou hloubku a kulturní zvědavost.Jednotliví Vodnáři přitahují spojení prostřednictvím vzdělávacích pronásledování nebo mezikulturních výměn.",
+            "career": "Mezinárodní nebo globální příležitosti se nečekaně objevují.Vaše schopnost syntetizovat rozmanité perspektivy vytváří cenná řešení složitých problémů.Zvažte role, které vám umožní překlenout různé znalostní tradice nebo kulturní kontexty.",
+            "health": "Holistické přístupy z různých kulturních tradic přinášejí pozoruhodné výhody.Prozkoumejte pohybové postupy, které zlepšují flexibilitu kyčle a stehna.Nutriční přístupy zdůrazňující protizánětlivé složky zlepšují celkovou vitalitu.",
+            "finances": "Zahraniční investice nebo mezinárodní podniky ukazují slib.Zvažte diverzifikaci měnových podílů nebo zkoumání rozvíjejících se trhů.Vzdělávací investice přinášejí intelektuální i finanční výnosy."
+        }
+    },
+    "famous": [
+        {
+            "name": "Oprah Winfrey",
+            "birth_date": "29. ledna 1954",
+            "description": "Mediální magnát a filantrop, jehož humanitární vize, progresivní perspektivy a schopnost spojit se s různými diváky dokládat akváriánské sociální vědomí"
+        },
+        {
+            "name": "Abraham Lincoln",
+            "birth_date": "12. února 1809",
+            "description": "Americký prezident, jehož vizionářské vedení, humanitární hodnoty a progresivní postoj proti otroctví prokázaly závazek Vodnáře k sociální reformě"
+        },
+        {
+            "name": "Ellen DeGeneres",
+            "birth_date": "26. ledna 1958",
+            "description": "Hostitel komik a talk show, jehož autentická sebevyjádření, obhajoba rovnosti a přátelská, ale poněkud oddělená osobnost odráží vodní vlastnosti"
+        },
+        {
+            "name": "Galileo Galilei",
+            "birth_date": "15. února 1564",
+            "description": "Vědec, jehož revoluční myšlenky, intelektuální nezávislost a ochota zpochybnit zavedenou autoritu pro pravdu ztělesňují inovativní duch Aquarius"
+        },
+        {
+            "name": "Shakira",
+            "birth_date": "2. února 1977",
+            "description": "Zpěvák a filantrop, jehož jedinečný hudební styl, humanitární práce a globální perspektiva prokazují originalitu Aquarius a sociální vědomí"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Dnes vyrovnávejte intelektuální spojení s emoční přítomností.Vaše jedinečná perspektiva je cenná, ale jiní také musí cítit vaše osobní angažovanost.",
+        "career": "Vaše inovativní myšlení pomáhá vyřešit výzvu na pracovišti.Sdílejte nápady a přitom zůstávají otevřené pro kolaborativní zdokonalení.",
+        "health": "Věnujte pozornost oběhu pravidelným pohybem po celý den.Zůstaňte hydratovaní, abyste podpořili celkovou funkci systému.",
+        "general": "Vaše humanitární hodnoty dnes řídí smysluplná rozhodnutí.Rovnováha vizionářského myšlení s praktickými kroky k progresivní změně."
+    },
+    "tarot_associations": {
+        "major_arcana": "Hvězda",
+        "explanation": "Hvězda představuje naději, inspiraci a duchovní spojení - vlastnosti, které hluboce rezonují s vizionářskou povahou Aquarius a humanitárními ideály.Tato karta ztělesňuje hlavní světlo vyššího vědomí, inovace, které slouží lidstvu, a příslib lepší budoucnosti prostřednictvím autentické cesty člověka."
+    },
+    "compatibility_details": {
+        "aries": "Aquarius a Aries sdílejí stimulační intelektuální spojení, vzájemný respekt k nezávislosti a inovativní energii.Tento kompatibilní zápas má rád zkoumání nových nápadů a respektuje autonomii druhého.",
+        "taurus": "Aquarius a Taurus čelí výzvám se zásadně odlišnými přístupy - změny a inovace Vodnáře, zatímco Taurus hledá stabilitu a tradici.Nalezení vzájemného respektu vyžaduje značné úsilí.",
+        "gemini": "Aquarius a Gemini tvoří vynikající zápas vzduchu se sdílenými intelektuálními zájmy a hodnotou pro komunikaci.Oba si užívají zkoumání myšlenek a respektují navzájem potřebu nezávislosti.",
+        "cancer": "Vodnář a rakovina přistupují k emocionálnímu životu zcela odlišně - Aquariusovo intelektuální oddělení versus emocionální hloubku rakoviny.Přemostění jejich zřetelných emocionálních jazyků vyžaduje vědomé úsilí.",
+        "leo": "Aquarius a Leo tvoří opačné znaky s fascinující atrakcí.Osobní kreativita Leo doplňuje Aquariusovu sociální vizi, i když jejich přístupy k pozornosti a uznání se výrazně liší.",
+        "virgo": "Aquarius i Panna mají analytické mysli, ale aplikují je jinak - Vodnář na koncepční inovace a Pannu pro praktické zlepšení.To vytváří stimulační konverzaci, ale potenciální konflikty životního stylu.",
+        "libra": "Aquarius a Libra sdílejí vynikající kompatibilitu jako letecké znaky se sdílenými hodnotami pro spravedlnost, intelektuální výměnu a sociální harmonii.Oba přistupují k vztahům s objektivitou při oceňování spojení.",
+        "scorpio": "Aquarius a Scorpio představují zásadně odlišné přístupy - Aquariusovo intelektuální oddělení versus emoční intenzitu Scorpia.To vytváří fascinaci i frustrace.",
+        "sagittarius": "Aquarius a Sagittarius sdílejí doplňkové vizionářské vlastnosti, nezávislost a progresivní hodnoty.Tento kompatibilní zápas má intelektuální průzkum a respektuje osobní svobodu.",
+        "capricorn": "Aquarius a Kozoroh představují progresivní a tradiční přístupy.To vytváří napětí, ale také potenciál pro vyváženou perspektivu, když si cení jejich doplňkových hledisek.",
+        "aquarius": "Dva Vodnáři vytvářejí vztah založený na intelektuálním spojení, úctě k nezávislosti a sdílení humanitárních hodnot.Rozumí si navzájem jedinečnou perspektivu, ale možná budou muset rozvíjet emoční intimitu.",
+        "pisces": "Aquarius a Ryby sdílejí vizionářské vlastnosti vyjádřené odlišně - Vodnář prostřednictvím intelektuálních konceptů a ryb prostřednictvím emoční intuice.Při ocenění těchto doplňkových přístupů se mohou navzájem inspirovat."
+    },
+    "astrological_influences": {
+        "sun_in": "Slunce ve Vodnáři přináší inovativní myšlení, humanitární hodnoty a intelektuální nezávislost.Přistupujete k životu s původní perspektivou a touhou přispívat k sociálnímu pokroku.",
+        "moon_in": "Měsíc ve Vodnáři vytváří emoční potřeby soustředěné na svobodu, intelektuální stimulaci a sociální spojení.Vaše pocity jsou zpracovávány objektivně a potřebujete prostor pro nezávislé emoční zpracování.",
+        "rising": "Aquarius Rising vám dává vzhled přívětivosti kombinované s jedinečnou individualitou.Jiní vás vidí jako originální, poněkud oddělené a intelektuálně orientované od prvního setkání."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Vyvážení intelektuálního oddělení s emocionálním spojení",
+            "Uzemnění vizionářských nápadů v praktické aplikaci",
+            "Rozvíjení trpělivosti s těmi, kteří odolávají změnám",
+            "Uznání hodnoty tradice spolu s inovacemi",
+            "Pěstování hlubších osobních vztahů nad rámec skupinových spojení"
+        ],
+        "growth_opportunities": [
+            "Používání inovativního myšlení k vyřešení smysluplných problémů",
+            "Přemostění rozmanitých skupin prostřednictvím inkluzivního vidění",
+            "Náročné zastaralé systémy s konstruktivními alternativami",
+            "Přijímání jedinečnosti při zachování lidského spojení",
+            "Vyrovnávání budoucí orientace s současným zapojením"
+        ],
+        "affirmations": [
+            "Vyvažuji intelektuální porozumění s emocionálním spojením",
+            "Přináším své inovativní nápady do praktické reality",
+            "Vážím si osobních dluhopisů stejně jako humanitární příčiny",
+            "Ctím tradici a přijímám nezbytnou změnu",
+            "Moje jedinečnost slouží většímu účelu"
+        ]
+    },
+    "life_path": {
+        "purpose": "Jednotlivci Vodnáře mají často poslání prosazovat lidstvo prostřednictvím progresivních myšlenek, technologických inovací nebo sociální reformy.Jejich účel zahrnuje náročné zastaralé systémy, sdružování lidí v komunitě a vytváření spravedlivějších modelů pro spolupráci člověka.",
+        "life_lessons": [
+            "Naučit se vyrovnat vědomí skupiny s osobním spojením",
+            "Rozvíjení emoční inteligence spolu s intelektuální brilancí",
+            "Pochopení toho, že trvalá změna vyžaduje vizi i praktické kroky",
+            "Nalezení osobního významu v rámci větších sociálních hnutí",
+            "Integrace jedinečnosti s lidským propojením"
+        ],
+        "spiritual_growth": "Duchovní vývoj pro Vodnáře zahrnuje spojování intelektuálního porozumění se srdeční moudrostí.Praktiky, které spojují univerzální vědomí s osobní zkušeností, sociální akce jako duchovní praxe a nalezení božského vzoru ve vědeckém porozumění, přispívají k duchovnímu evoluci."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Vodnářské děti jsou obvykle nezávislé, intelektuálně zvědavé a poněkud nekonvenční od raného věku.Často projevují zájem o to, jak věci fungují, kladou neobvyklé otázky a projevují silný pocit spravedlnosti a obavy pro ostatní.",
+            "parenting_advice": "Povzbuzujte jejich přirozenou zvědavost a nezávislé myšlení a zároveň jim pomáhají rozvíjet emoční inteligenci.Poskytněte vysvětlení spíše než jen pravidla, vystavte je různorodým lidem a nápadům a pomozte jim porozumět emocionálním aspektům lidského spojení."
+        },
+        "in_friendship": {
+            "friendship_style": "Přátelé Vodnáře jsou intelektuálně stimulující, přijímají rozdíly a loajální k jejich ideálům.Vynikají tím, že spojují různé lidi, sdílejí jedinečné perspektivy a postaví se pro přátele, kteří se zacházejí nespravedlivě.",
+            "ideal_friends": "Aquarius se daří s přáteli, kteří oceňují intelektuální výměnu, respektují nezávislost a sdílejí humanitární hodnoty.Cení si přátelství, která kombinují stimulaci konverzace, přijetí jedinečnosti a spolupráci pro smysluplné příčiny."
+        },
+        "shadow_side": {
+            "potential_issues": "Když je Vodnář nevyvážený, může být emocionálně oddělený, rigidně ideologický nebo vzpurný bez účelu.Jejich odloučení se může proměnit v chlad, jejich jedinečnost v excentricitu pro sebe a jejich progresivní myšlení do úsudku tradičnějších přístupů.",
+            "growth_path": "Osobní růst pro Vodnáře zahrnuje integraci emocionálního tepla s intelektuální brilancí, hledání způsobů, jak prakticky provádět vizionářské myšlenky a rozvíjet hluboké osobní spojení spolu s humanitárními obavami."
+        }
+    },
+    "seasonal_influences": {
+        "mid_winter": "Aquarius se narodil v srdci zimy, když přežití vyžaduje komunitní spolupráci, ztělesňuje potřebu kolektivního myšlení a inovativních řešení sezóny.Toto načasování naplňuje Vodnáře přirozeným porozuměním toho, jak individuální příspěvek podporuje skupinové blaho během náročných dob.",
+        "fixed_quality": "Jako pevné znamení představuje Vodnář stabilizaci a rozvoj zimní intelektuální jasnosti.Tato pozice jim poskytuje schopnost udržovat revoluční vidění navzdory odporu, drží se humanitárních principů a rozvíjí inovativní myšlenky s trvalým zaměřením."
+    },
+    "elemental_analysis": {
+        "air_element_influence": "Letecký prvek dává Aquariusovi jejich charakteristický intelektuální přístup, komunikační dovednosti a sociální povědomí.Vzduch představuje myšlenku, spojení a výměnu myšlenek prostřednictvím koncepčního porozumění a skupinového vědomí.",
+        "air_balance": "Vyvážený vzduch přináší jasné myšlení, efektivní komunikaci a produktivní sociální spojení.Nadměrný vzduch může vést k mentálnímu ohromení, emocionálnímu oddělení a nepraktickému idealismu, zatímco nedostatečný vzduch může vést k potížím s konceptualizací nebo propojení myšlenek s větším obrazem."
+    },
+    "planetary_rulership": {
+        "uranus_influence": "Uran, planeta revoluce, inovace a náhlá změna, je moderní vládce Aquarius.Tento planetární vliv vysvětluje progresivní myšlení, originalitu a pohodlí znamení s náročnými stanovenými normami pro zlepšení.",
+        "saturn_influence": "Saturn, tradiční vládce Aquarius, přispívá ke struktuře, odpovědnosti a praktické aplikaci na znamení.Zatímco Uran poskytuje inovativní vizi, Saturn pomáhá Vodnáři budovat systémy a struktury pro implementaci jejich revolučních nápadů.",
+        "planetary_aspects": "Pozice a aspekty Uranu a Saturn v žebříčku narození jednotlivce významně ovlivňují to, jak je vyjádřena energie Aquarius.Silné aspekty Uranu zvyšují originalitu a humanitární vizi, ale mohou také zvýšit tendence k nepředvídatelnosti nebo oddělení."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "V dnešní společnosti založené na technologii vyniká Vodnář v oblasti vývoje umělé inteligence, inovace sociálních sítí, technologie životního prostředí, online platformy a oblastí vyžadující jak technologické porozumění, tak sociální vědomí.",
+        "relationship_in_modern_context": "Moderní vztahy těží z progresivního přístupu Aquarius v éře vyvíjejících se struktur vztahů.Jejich pohodlí s nekonvenčními uspořádáními, úctou k individuální svobodě a schopností udržovat spojení bez držení jim dobře slouží v současných vztazích."
+    }
+}

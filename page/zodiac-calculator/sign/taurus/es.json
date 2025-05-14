@@ -1,0 +1,333 @@
+{
+    "sign": "Taurus",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/taurus.svg",
+    "local_name": "Tauro",
+    "date_range": "20 de abril - 20 de mayo",
+    "element": "Tierra",
+    "ruling_planet": "Venus",
+    "symbol": "Toro",
+    "lucky_numbers": [
+        "2",
+        "6",
+        "9",
+        "12",
+        "24"
+    ],
+    "lucky_colors": [
+        "Verde",
+        "Rosa",
+        "Azul"
+    ],
+    "lucky_days": [
+        "Viernes",
+        "Lunes"
+    ],
+    "lucky_stones": [
+        "Esmeralda",
+        "Cuarzo de rosa",
+        "Jade"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Paciente",
+            "Confiable",
+            "Práctico",
+            "Dedicado",
+            "Responsable",
+            "Estable",
+            "Persistente"
+        ],
+        "weaknesses": [
+            "Tenaz",
+            "Posesivo",
+            "Intransigente",
+            "Inflexible",
+            "Materialista",
+            "Resistente al cambio"
+        ]
+    },
+    "personality": {
+        "overview": "Tauro es el segundo signo del zodiaco, simbolizando la estabilidad, la sensualidad y la firmeza.Los individuos de Tauro son conocidos por su naturaleza persistente y determinada y su amor por la comodidad, la belleza y el lujo.Son los constructores del zodiaco, creando bases sólidas para sus vidas y los que los rodean.",
+        "detailed_traits": [
+            "Fuerte ética de trabajo con notable poder de permanencia",
+            "Apreciando la belleza, el arte y los placeres de los sentidos",
+            "Extremadamente leal y confiable en las relaciones",
+            "Paciente y determinado para lograr objetivos",
+            "Enfoque práctico y fundamentado de la vida",
+            "Cauteloso y metódico en la toma de decisiones",
+            "Resistente al cambio o riesgos innecesarios",
+            "Profundamente conectado a la naturaleza y al mundo físico",
+            "Excelentes habilidades de gestión de recursos",
+            "Prefiere la estabilidad y la seguridad en todos los aspectos de la vida."
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "Los individuos de Tauro son parejas dedicadas, sensuales y leales que valoran las relaciones a largo plazo.Expresan amor a través del toque físico, el apoyo práctico y el compromiso inquebrantable en lugar de los grandes gestos o exhibiciones emocionales.",
+        "compatibility": {
+            "most_compatible": [
+                "Virgo",
+                "Capricornio",
+                "Cáncer",
+                "Piscis"
+            ],
+            "least_compatible": [
+                "León",
+                "Acuario",
+                "Escorpión"
+            ]
+        },
+        "relationship_advice": "Las personas de Tauro necesitan trabajar en flexibilidad y compromiso en las relaciones.Evite la posesividad y trate de estar más abierto al cambio y nuevas experiencias.Exprese sus emociones más abiertamente en lugar de embotellarlas hasta llegar a un punto de ruptura.",
+        "love_style": [
+            "Sensual y físicamente cariñoso",
+            "Valores de estabilidad y seguridad en las relaciones",
+            "Lento para confiar pero profundamente leal una vez cometido",
+            "Expresa amor a través de actos prácticos de devoción",
+            "Tiende a ser posesivo y celoso cuando insegura",
+            "Prefiere rutinas predecibles y cómodas con socio",
+            "Valores de calidad Tiempo juntos sobre grandes gestos"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "Los individuos de Tauro se destacan en carreras que ofrecen estabilidad, resultados tangibles y crecimiento constante.Tienen un tremendo poder de permanencia y pueden trabajar de manera persistente hacia objetivos a largo plazo sin perder el enfoque.",
+        "suitable_careers": [
+            "Finanzas y banca",
+            "Gestión de bienes raíces y propiedades",
+            "Agricultura y horticultura",
+            "Industria culinaria de artes y alimentos",
+            "Diseño de interiores y arquitectura",
+            "Artículos de lujo y venta minorista",
+            "Música y artes",
+            "Terapia de masaje y bienestar",
+            "Construcción y artesanía",
+            "Planificación contable y financiera"
+        ],
+        "financial_habits": "Los individuos de Tauro suelen ser excelentes con dinero, tendiendo a ahorrar e invertir sabiamente.Tienen un talento natural para acumular riqueza a través de estrategias de pacientes a largo plazo en lugar de empresas riesgosas.Sin embargo, ocasionalmente pueden disfrutar de compras de lujo.",
+        "work_style": [
+            "Metódico y minucioso en el enfoque",
+            "Prefiere instrucciones claras y expectativas definidas",
+            "Excelente para seguir los compromisos",
+            "Resistente a la microgestión",
+            "Valores resultados tangibles sobre conceptos abstractos",
+            "Prefiere entornos de trabajo estables con sorpresas mínimas",
+            "Extremadamente confiable y puntual"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Tauro gobierna el cuello, la garganta y la glándula tiroides.Por lo general, bendecido con una fuerte constitución y buena resistencia, las personas de Tauro tienden a disfrutar de una buena salud física cuando mantienen el equilibrio y evitan la exceso de indulgencia.",
+        "common_health_issues": [
+            "Problemas de garganta y problemas de tiroides",
+            "Dolor de cuello y rigidez",
+            "Problemas dentales",
+            "Aumento de peso del amor a la buena comida",
+            "Problemas digestivos por estrés o indulgencia excesiva",
+            "La terquedad que conduce a problemas con flexibilidad"
+        ],
+        "wellness_advice": "Mantenga el equilibrio en su dieta y haga ejercicio regularmente para evitar la tendencia hacia la indulgencia excesiva.Practicar ejercicios de flexibilidad para contrarrestar la rigidez física y mental.Pase tiempo en la naturaleza para restaurar la energía de su elemento terrestre.",
+        "exercise_preferences": [
+            "Jardinería y actividades al aire libre",
+            "Yoga y estiramiento",
+            "Caminando en la naturaleza",
+            "Entrenamiento de fuerza y ​​levantamiento de pesas",
+            "Tai Chi y otras prácticas de conexión a tierra"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025 trae estabilidad y crecimiento material para los individuos de Tauro.Sus esfuerzos persistentes en años anteriores comienzan a mostrar resultados tangibles.El equilibrio entre la dedicación laboral y los placeres sensoriales crea un ritmo de vida satisfactorio.",
+            "love": "Las relaciones se profundizan a través de experiencias sensuales compartidas y apoyo práctico.Los taureanos individuales pueden cumplir con los socios potenciales a través de intereses creativos o culinarios.Las relaciones existentes fortalecen con una apreciación renovada por la confiabilidad de los demás.",
+            "career": "El avance profesional se produce a través de la demostración de confiabilidad y habilidades prácticas.Su capacidad para crear resultados tangibles obtiene el reconocimiento del liderazgo.Las oportunidades de crecimiento financiero surgen a través de una cuidadosa gestión de recursos.",
+            "health": "Concéntrese en el cuidado del cuello y la garganta a través de la ergonomía adecuada y el descanso vocal.El bienestar físico mejora con rutinas de ejercicio consistentes y suaves.Preste especial atención a mantener hábitos alimenticios saludables que nutren sin exceso.",
+            "finances": "Crecimiento financiero constante a través de enfoques de inversión conservadores.Considere el equilibrio entre las indulgencias de lujo y la construcción de seguridad a largo plazo.Propiedad o inversiones relacionadas con las artes muestran una promesa particular."
+        },
+        "2026": {
+            "overall": "2026 enfatiza la comunicación y las conexiones locales para Tauro.Su sabiduría práctica encuentra una expresión valiosa en las interacciones cotidianas.Encontrar el equilibrio entre escuchar y compartir crea relaciones armoniosas en su entorno inmediato.",
+            "love": "Los lazos románticos se fortalecen a través de una mejor comunicación y breves aventuras compartidas.Los socios aprecian su nueva expresividad y curiosidad.Los tauranos solteros pueden encontrar conexiones significativas a través de actividades del vecindario o actividades educativas.",
+            "career": "Las oportunidades de escribir, hablar o capacitar mejoran su posición profesional.Su capacidad para explicar conceptos complejos en términos accesibles trae reconocimiento.Considere desarrollar habilidades de comunicación que muestren su experiencia práctica.",
+            "health": "La flexibilidad respiratoria y del hombro merece atención.Las roturas de movimiento cortos y frecuentes durante el trabajo mejoran el bienestar general.Explore las prácticas respiratorias que combinan la relajación con una mayor eficiencia de oxígeno.",
+            "finances": "Las oportunidades económicas locales son promesas.Considere las inversiones en desarrollos de vecindad o negocios regionales.Los objetivos financieros a corto plazo logrados este año crean un impulso para proyectos futuros más grandes."
+        },
+        "2027": {
+            "overall": "2027 se centra en las bases del hogar y la familia para Tauro.Crear espacios de crianza que reflejen sus valores se vuelve importante.Tus talentos naturales para cultivar la belleza y la comodidad traen curación a quienes te rodean.",
+            "love": "La armonía doméstica se vuelve central para la satisfacción de la relación.Las parejas aprecian sus esfuerzos para crear espacios compartidos hermosos y cómodos.Los taureanos solteros pueden encontrar conexiones a través de reuniones en el hogar o presentaciones familiares.",
+            "career": "Las oportunidades de trabajo desde el hogar se alinean con su deseo de comodidad y eficiencia.Su capacidad para crear entornos productivos trae ventajas profesionales.Considere carreras que involucran diseño de interiores, servicios para el hogar o apoyo familiar.",
+            "health": "Se beneficia a la salud digestiva de las comidas preparadas en el hogar y comer conscientemente.La creación de santuarios del sueño mejora la calidad del descanso.Las prácticas de jardinería o movimiento en el hogar traen beneficios físicos y emocionales.",
+            "finances": "Las inversiones inmobiliarias o las mejoras en el hogar producen rendimientos sustanciales.Considere establecer fondos de emergencia para la seguridad familiar.Las ganancias financieras inesperadas pueden venir a través de conexiones familiares o apreciación de la propiedad."
+        },
+        "2028": {
+            "overall": "2028 trae renacimiento creativo y una autoexpresión alegre para Tauro.Sus talentos artísticos reciben reconocimiento y aprecio.El equilibrio entre la práctica disciplinada y el juego espontáneo conduce a una notable realización personal.",
+            "love": "Las relaciones románticas prosperan a través de actividades creativas compartidas e interacción lúdica.Los socios aprecian su auténtica autoexpresión y calidez.Los tauro solteros atraen la atención a través de esfuerzos artísticos o entusiasmo genuino.",
+            "career": "Los campos creativos ofrecen oportunidades inesperadas para el avance.Su capacidad para reunir la belleza y la funcionalidad obtiene el reconocimiento profesional.Considere empresas empresariales que muestran su visión estética única.",
+            "health": "Las áreas del corazón y la parte superior de la espalda se benefician de las actividades que traen alegría y risa.La circulación mejora a través del movimiento regular que se siente placentero en lugar de obligatorio.La expresión creativa en sí se convierte en una práctica curativa.",
+            "finances": "Las inversiones en artes, entretenimiento o educación infantil muestran promesa.Considere enfoques equilibrados para empresas especulativas, mezclando participaciones conservadoras con riesgos calculados seleccionados.Los proyectos secundarios creativos pueden convertirse en fuentes de ingresos inesperadas."
+        },
+        "2029": {
+            "overall": "2029 enfatiza el servicio y la optimización de la salud para Tauro.Su enfoque práctico para el bienestar crea mejoras de estilo de vida sostenibles.Encontrar el equilibrio entre ayudar a otros y mantener límites personales trae el cumplimiento.",
+            "love": "Las relaciones se profundizan a través del apoyo mutuo durante los desafíos diarios.Los socios aprecian su presencia confiable y su asistencia práctica.Los taureanos individuales pueden encontrar conexiones a través de actividades de bienestar o trabajo voluntario.",
+            "career": "Los campos de salud, servicio o analíticos ofrecen oportunidades de avance.Su atención al detalle y la mejora del proceso trae reconocimiento profesional.Considere roles que le permiten crear sistemas más eficientes dentro de las organizaciones.",
+            "health": "La salud digestiva e intestinal requiere una atención enfocada.Las rutinas de bienestar prácticas y consistentes traen mejoras notables.Explore la conexión entre nutrición, salud intestinal y bienestar emocional.",
+            "finances": "Las inversiones en tecnologías o servicios de salud obtienen rendimientos.Considere establecer fondos dedicados para el bienestar y la atención preventiva.Reducir el gasto derrochador crea una sorprendente libertad financiera."
+        },
+        "2030": {
+            "overall": "2030 trae el enfoque de la relación y las oportunidades de asociación para Tauro.Su confiabilidad y practicidad atraen empresas colaborativas.El equilibrio entre la independencia y la interdependencia crea conexiones armoniosas en todas las áreas de vida.",
+            "love": "Las relaciones comprometidas alcanzan nuevas profundidades de comprensión y apoyo mutuo.Los socios aprecian su firmeza y su presencia sensual.Los tauranos solteros atraen perspectivas de relaciones serias a través de auténticas auto-presentación.",
+            "career": "Las asociaciones comerciales o las relaciones con los clientes ofrecen oportunidades de crecimiento.Su capacidad para crear arreglos para ganar-ganar trae un avance profesional.Considere empresas colaborativas que combinan fortalezas complementarias.",
+            "health": "Las áreas de riñón y de espalda baja merecen atención preventiva.Las actividades de equilibrio mejoran la estabilidad general y evitan las lesiones.La conexión entre la armonía de la relación y el bienestar físico se hace evidente.",
+            "finances": "Las empresas conjuntas o las inversiones compartidas muestran una promesa particular.Considere refinanciar o reestructurar las deudas existentes por mejores términos.Las oportunidades financieras inesperadas surgen a través de asociaciones comerciales o contratos."
+        },
+        "2031": {
+            "overall": "2031 se centra en la transformación y la gestión de recursos para Tauro.Su capacidad para crear valor a partir de activos pasados ​​por alto trae una abundancia inesperada.Encontrar consuelo con los ciclos naturales de finalización y comienzo de la vida trae una sabiduría profunda.",
+            "love": "Las relaciones íntimas se profundizan a través de la vulnerabilidad y el intercambio auténtico.Las parejas aprecian su profundidad emocional debajo del exterior práctico.Los tauranos solteros atraen conexiones poderosas a través de la autoconciencia genuina y la honestidad.",
+            "career": "Los campos financieros, terapéuticos o de investigación ofrecen oportunidades de avance.Su capacidad para revitalizar proyectos con dificultades trae reconocimiento profesional.Considere roles que involucran la transformación de recursos o gestión de crisis.",
+            "health": "Los sistemas de reproducción y eliminación se benefician de las prácticas de desintoxicación.El bienestar psicológico mejora al expresar en lugar de suprimir las emociones.La conexión entre la liberación emocional y la vitalidad física se vuelve clara.",
+            "finances": "Las inversiones en tecnologías de reciclaje, renovación o transformación son promesas.Considere la herencia de reestructuración o asuntos de seguros para un beneficio óptimo.Las ganancias financieras inesperadas pueden surgir a través de las viejas deudas o reclamos."
+        },
+        "2032": {
+            "overall": "2032 trae expansión filosófica y crecimiento educativo para Tauro.Su sabiduría práctica encuentra aplicación en contextos más amplios.Los viajes o las experiencias multiculturales ofrecen nuevas perspectivas que mejoran su enfoque de vida naturalmente basado en la vida.",
+            "love": "Las relaciones se expanden a través de aventuras de aprendizaje compartidas y exploración filosófica.Los socios aprecian su disposición a explorar nuevos territorio mientras mantienen los valores centrales.Los tauro solteros atraen conexiones a través de actividades educativas o viajes.",
+            "career": "La enseñanza, la publicación o las oportunidades comerciales internacionales surgen inesperadamente.Su capacidad para hacer conceptos abstractos prácticos trae reconocimiento profesional.Considere roles que le permiten compartir su sabiduría con audiencias más amplias.",
+            "health": "La flexibilidad de la cadera y el muslo merecen atención a través del estiramiento apropiado.Explorar las prácticas de movimiento de varias tradiciones culturales trae beneficios.La conexión entre las perspectivas ampliadas y la libertad física se hace evidente.",
+            "finances": "Las inversiones internacionales o las empresas relacionadas con la educación son promesas.Considere diversificar las tenencias de divisas o explorar los mercados extranjeros.Surgen oportunidades financieras inesperadas a través de plataformas de publicación o intercambio de conocimientos."
+        },
+        "2033": {
+            "overall": "2033 enfatiza el avance profesional y el reconocimiento público para Tauro.Sus años de experiencia en la construcción y reputación culminan en logros significativos.El equilibrio entre la ambición profesional y el cumplimiento personal crea un éxito sostenible.",
+            "love": "Las relaciones se benefician del apoyo mutuo de las metas a largo plazo y los roles públicos.Los socios aprecian su determinación e integridad.Los tauranos solteros atraen conexiones a través de redes profesionales o puestos de liderazgo comunitario.",
+            "career": "Los puestos de liderazgo o autoridad ofrecen un avance significativo.Su capacidad para crear resultados tangibles en circunstancias desafiantes trae reconocimiento profesional.Considere roles que le permiten establecer estructuras o sistemas duraderos.",
+            "health": "El sistema esquelético, especialmente las rodillas y las articulaciones, requiere atención preventiva.La mejora de la postura trae múltiples beneficios para la salud.La conexión entre la autoridad adecuada en su vida y la alineación física se vuelve clara.",
+            "finances": "Las estrategias de inversión a largo plazo producen rendimientos significativos.Considere establecer fondos de jubilación o heredado.Las ganancias financieras inesperadas pueden venir a través del avance o reconocimiento profesional."
+        },
+        "2034": {
+            "overall": "2034 trae conexión social y participación humanitaria para Tauro.Su enfoque práctico para crear impacto comunitario genera un cambio significativo.Encontrar el equilibrio entre los ideales visionarios y la acción fundamentada conduce a logros colectivos notables.",
+            "love": "Las relaciones prosperan cuando los valores sociales compartidos se convierten en puntos focales.Los socios aprecian sus contribuciones prácticas a las causas que ambos valoran.Los tauranos solteros atraen conexiones a través de la participación de la comunidad o las actividades grupales.",
+            "career": "Los campos sin fines de lucro, tecnología o orientados a la comunidad ofrecen oportunidades de avance.Su capacidad para manifestar resultados tangibles de visiones idealistas trae reconocimiento profesional.Considere roles que combinan la innovación con la implementación práctica.",
+            "health": "La circulación y la fuerza del tobillo merecen atención.Encontrar programas de ejercicio basados ​​en la comunidad mejora la consistencia y el disfrute.La conexión entre el bienestar social y la salud física se hace evidente.",
+            "finances": "Las inversiones en tecnologías sostenibles o empresas sociales son promesas.Considere enfoques equilibrados para las donaciones caritativas que crean ventajas de impacto y impuestos.Las oportunidades financieras inesperadas surgen a través de conexiones de red."
+        },
+        "2035": {
+            "overall": "2035 se centra en el crecimiento espiritual y la paz interior para Tauro.Su conexión con los ritmos naturales profundiza la sabiduría intuitiva.Encontrar el equilibrio entre la comodidad material y el cumplimiento espiritual crea una vida de riqueza y significado extraordinarios.",
+            "love": "Las relaciones se profundizan a través de prácticas espirituales compartidas o compañía tranquila.Las parejas aprecian su base y su presencia pacífica.Los tauro solteros atraen conexiones conmovedoras a través de la autoexpresión auténtica y el trabajo interno.",
+            "career": "Los campos de curación, asesoramiento o creativos ofrecen oportunidades satisfactorias.Su capacidad para crear espacios santuario trae reconocimiento profesional.Considere roles que le permiten combinar habilidades prácticas con una comprensión intuitiva.",
+            "health": "El sistema inmunitario y los pies requieren atención especial.Las prácticas restauradoras mejoran la resiliencia y la vitalidad generales.La conexión entre el bienestar espiritual y la salud física se vuelve cada vez más clara.",
+            "finances": "Las inversiones alineadas con los valores espirituales o éticos son prometedoras.Considere simplificar los asuntos financieros para una mayor tranquilidad.Los recursos inesperados aparecen cuando es necesario, reforzando la confianza en la abundancia natural."
+        }
+    },
+    "famous": [
+        {
+            "name": "Dwayne Johnson",
+            "birth_date": "2 de mayo de 1972",
+            "description": "Actor y ex luchador conocido como 'The Rock', ejemplificando la fuerza, la persistencia y la ética de trabajo de Tauro"
+        },
+        {
+            "name": "Adele",
+            "birth_date": "5 de mayo de 1988",
+            "description": "Cantante ganador del Grammy con una voz poderosa, que muestra la conexión de Tauro con la garganta y la sensual aprecio de la belleza"
+        },
+        {
+            "name": "Audrey Hepburn",
+            "birth_date": "4 de mayo de 1929",
+            "description": "Actriz icónica y humanitaria, que representa el aprecio de Tauro por la belleza, la confiabilidad y la determinación"
+        },
+        {
+            "name": "William Shakespeare",
+            "birth_date": "23 de abril de 1564",
+            "description": "Dramaturgo y poeta revolucionario, demostrando la resistencia creativa y la capacidad de Tauro para construir obras duraderas"
+        },
+        {
+            "name": "Reina Isabel II",
+            "birth_date": "21 de abril de 1926",
+            "description": "El monarca más antiguo de Gran Bretaña, que encarna la lealtad, la persistencia y el compromiso de Tauro."
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Hoy, concéntrese en expresar su aprecio por aquellos que les importa.Pequeños gestos de afecto pueden fortalecer sus enlaces.",
+        "career": "Tu persistencia será recompensada hoy.Manténgase enfocado en sus tareas y evite las distracciones.",
+        "health": "Presta atención a tu cuello y hombros.Tome descansos del trabajo de la computadora para estirar y relajar estas áreas.",
+        "general": "Hoy es bueno para actividades de conexión a tierra que lo conectan con sus sentidos físicos.Disfruta de la naturaleza, la buena comida o la música hermosa."
+    },
+    "tarot_associations": {
+        "major_arcana": "El hierofante",
+        "explanation": "El hierofante representa la tradición, la sabiduría convencional y las estructuras establecidas, cualidades que resuenan con la apreciación de Tauro por la estabilidad y los enfoques probados por el tiempo.Esta carta también encarna la búsqueda del significado espiritual a través de la experiencia terrenal."
+    },
+    "compatibility_details": {
+        "aries": "Tauro y Aries pueden crear una relación equilibrada con la iniciativa de Aries que complementa la estabilidad de Tauro.Sin embargo, ambos son tercos y deben aprender a comprometerse.",
+        "taurus": "Dos personas de Taurus crean una relación extremadamente estable y cómoda.Entienden la necesidad de seguridad de los demás, pero pueden ponerse demasiado puestos en sus formas sin influencia externa.",
+        "gemini": "Tauro y Géminis enfrentan desafíos debido a diferentes enfoques de la vida.Tauro valora la estabilidad, mientras que Géminis anhela la variedad y el cambio.",
+        "cancer": "Tauro y el cáncer comparten una profunda apreciación por la seguridad y la comodidad, creando una relación armoniosa y enriquecedora con fuertes lazos emocionales.",
+        "leo": "Tauro y Leo pueden luchar con diferentes necesidades: Leo quiere admiración mientras Tauro busca estabilidad.Ambos son tercos y deben aprender a apreciar sus diferencias.",
+        "virgo": "Tauro y Virgo crean una relación práctica y armoniosa.Ambos signos de la Tierra valoran la estabilidad y el enfoque de la vida metódicamente, apoyando los objetivos de los demás.",
+        "libra": "Tauro y Libra comparten el gobernación de Venus, creando aprecio mutuo por la belleza y la armonía.Sin embargo, la terquedad de Tauro puede chocar con el deseo de equilibrio de Libra.",
+        "scorpio": "Tauro y Scorpio crean una relación intensa y apasionada como signos opuestos.Ambos son profundamente leales pero extremadamente tercos, creando luchas de poder.",
+        "sagittarius": "Tauro y Sagitario enfrentan desafíos con diferentes valores: Tauro anhela la estabilidad, mientras que Sagitario desea libertad y aventura.",
+        "capricorn": "Tauro y Capricornio forman una fuerte combinación de signo de tierra con valores compartidos de paciencia, practicidad y ambición.Crean bases sólidas juntos.",
+        "aquarius": "Tauro y Acuario luchan con diferencias fundamentales: Tauro valora la tradición, mientras que Acuario abarca la innovación y la falta de convencionalidad.",
+        "pisces": "Tauro y Piscis pueden crear una relación complementaria con Tauro que proporciona estabilidad para la naturaleza soñadora de Piscis, mientras que Piscis ayuda a Taurus a conectarse con las emociones."
+    },
+    "astrological_influences": {
+        "sun_in": "El sol en Tauro trae paciencia, determinación y aprecio por los placeres sensuales.Valora la estabilidad y aborda la vida con persistencia constante.",
+        "moon_in": "Moon in Taurus crea estabilidad emocional y una necesidad de seguridad.Tus sentimientos son estables y encuentras consuelo en un entorno rutinario y familiar.",
+        "rising": "Taurus Rising le da una apariencia de estabilidad y confiabilidad.Otros te ven como castigado, práctico y a veces terco."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Superar la resistencia al cambio necesario",
+            "Desarrollar flexibilidad en el pensamiento y el comportamiento",
+            "Reducir la posesividad en las relaciones",
+            "Equilibrar preocupaciones materiales con el crecimiento espiritual",
+            "Aprender a expresar emociones más abiertamente"
+        ],
+        "growth_opportunities": [
+            "Utilizando la persistencia para lograr objetivos significativos",
+            "Desarrollar prácticas sostenibles en todas las áreas de la vida",
+            "Creando belleza y armonía en el medio ambiente",
+            "Construyendo relaciones duraderas a través de la lealtad",
+            "Conectarse profundamente con la naturaleza y el mundo físico"
+        ],
+        "affirmations": [
+            "Adopto el cambio positivo como una oportunidad para el crecimiento",
+            "Equilibro la estabilidad con flexibilidad en mi enfoque de la vida.",
+            "Expreso mis emociones de manera clara y honesta",
+            "Aprecio la abundancia mientras practico moderación",
+            "Mi persistencia me ayuda a crear un valor duradero en el mundo"
+        ]
+    },
+    "life_path": {
+        "purpose": "Los individuos de Tauro a menudo tienen la misión de crear estabilidad, belleza y abundancia sostenible.Su propósito implica construir estructuras duraderas que proporcionen seguridad para ellos y para los demás.",
+        "life_lessons": [
+            "Aprender la diferencia entre persistencia saludable y terquedad dañina",
+            "Comprender el valor verdadero más allá de las posesiones materiales",
+            "Encontrar seguridad en lugar de únicamente en circunstancias externas",
+            "Equilibrar el disfrute de los placeres físicos con moderación",
+            "Desarrollar flexibilidad mientras mantiene los valores centrales"
+        ],
+        "spiritual_growth": "El desarrollo espiritual para Tauro implica trascender el apego material y al mismo tiempo aprecia la belleza terrenal.Conectarse con la naturaleza, practicar sensación consciente y desarrollar estabilidad interna contribuye a la evolución espiritual."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "Los niños de Tauro suelen ser tranquilos, pacientes y determinados desde una edad temprana.A menudo muestran una fuerte conexión con la naturaleza, el aprecio por la belleza y el amor por la comodidad y la rutina.",
+            "parenting_advice": "Proporcionar rutinas consistentes y afecto físico.Enseñar flexibilidad junto con la determinación.Fomentar la expresión creativa a través de la música, el arte o la cocina.Establezca expectativas claras y sea paciente con su necesidad de comprender el valor práctico de las lecciones."
+        },
+        "in_friendship": {
+            "friendship_style": "Los amigos de Taurus son leales, confiables y solidarios.Valoran las amistades a largo plazo y muestran su cuidado a través de la ayuda práctica y la presencia firme en lugar de las declaraciones emocionales.",
+            "ideal_friends": "Tauro prospera con amigos que aprecian su confiabilidad y no los presionan para un cambio constante.Disfrutan de amistades que involucran experiencias sensoriales compartidas como buenas comidas, música o tiempo en la naturaleza."
+        },
+        "shadow_side": {
+            "potential_issues": "Cuando está desequilibrado, el tauro puede volverse excesivamente materialista, terco hasta el punto de auto-sabotaje o indulgente en los placeres físicos.Su necesidad de seguridad puede manifestarse como posesividad o resistencia al crecimiento necesario.",
+            "growth_path": "El crecimiento personal para Tauro implica aprender a adoptar el cambio como una parte natural de la estabilidad, desarrollar la seguridad interior que no depende de las posesiones y el equilibrio entre el disfrute y la moderación."
+        }
+    },
+    "seasonal_influences": {
+        "spring_energy": "Nacido a mediados de la primavera, Tauro encarna la energía de crecimiento, florecimiento y abundancia de la temporada.Este tiempo infunde a Tauro con una conexión natural con la fertilidad y la capacidad productiva de la Tierra.",
+        "fixed_quality": "Como signo fijo, Tauro representa la energía estabilizadora que mantiene y desarrolla lo que se ha iniciado.Esta posición les otorga un tremendo poder de permanencia y un talento para construir estructuras duraderas."
+    },
+    "elemental_analysis": {
+        "earth_element_influence": "El elemento de la Tierra le da a Tauro su practicidad característica, sensualidad y conexión con el mundo físico.La Tierra representa la estabilidad, la nutrición y la manifestación en forma tangible.",
+        "earth_balance": "La tierra equilibrada trae practicidad, confiabilidad y fundamento.La tierra excesiva puede conducir a la terquedad, el materialismo y la resistencia al cambio, mientras que la Tierra deficiente puede provocar la desconexión de la realidad física."
+    },
+    "planetary_rulership": {
+        "venus_influence": "Venus, el planeta del amor, la belleza y los valores, gobierna Tauro.Esta influencia planetaria explica la apreciación del signo por los placeres sensoriales, el arte y la armonía, así como su enfoque en lo que realmente les importa.",
+        "venus_aspects": "La posición y los aspectos de Venus en la tabla de nacimiento de un individuo afectan significativamente la forma en que se expresa la energía de Tauro.Los aspectos fuertes de Venus mejoran la apreciación artística y la sensualidad, pero también pueden aumentar las tendencias hacia la indulgencia."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "En la economía que cambia rápidamente hoy, Tauro se destaca en la creación de modelos comerciales sostenibles, marcas de lujo éticas e integrar la artesanía tradicional con la tecnología moderna.",
+        "relationship_in_modern_context": "Las relaciones modernas se benefician de la lealtad y confiabilidad de Tauro en medio de la cultura de las aplicaciones de citas.Su enfoque fundamental proporciona estabilidad, aunque pueden necesitar desarrollar comodidad con la comunicación virtual y las relaciones a larga distancia."
+    }
+}

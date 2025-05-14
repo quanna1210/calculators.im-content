@@ -1,0 +1,335 @@
+{
+    "sign": "Leo",
+    "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/sign/leo.svg",
+    "local_name": "Leo",
+    "date_range": "23 Temmuz - 22 Ağustos",
+    "element": "Ateş",
+    "ruling_planet": "Güneş",
+    "symbol": "Aslan",
+    "lucky_numbers": [
+        "1",
+        "5",
+        "9",
+        "10",
+        "19"
+    ],
+    "lucky_colors": [
+        "Altın",
+        "Turuncu",
+        "Kırmızı"
+    ],
+    "lucky_days": [
+        "Pazar",
+        "Salı"
+    ],
+    "lucky_stones": [
+        "Yakut",
+        "Kehribar",
+        "Kaplanın Gözü"
+    ],
+    "general_traits": {
+        "strengths": [
+            "Kendinden emin",
+            "Cömert",
+            "Sadık",
+            "Yaratıcı",
+            "Karizmatik",
+            "Sıcak kalpli",
+            "Liderlik"
+        ],
+        "weaknesses": [
+            "Kibirli",
+            "İnatçı",
+            "Kendi merkezli",
+            "Otoriter",
+            "Esnek olmayan",
+            "Dikkat çeken",
+            "Gururlu"
+        ]
+    },
+    "personality": {
+        "overview": "Leo, kendini ifade, yaratıcılık ve liderliği simgeleyen Zodyak'ın beşinci işaretidir.Leo bireyleri karizmatik varlıkları, doğal güvenleri ve sıcak kalpli cömertlikleriyle bilinir.Zodyakın doğal yıldızlarıdır, enerjiyi yayar ve yaratıcı vizyonları ve coşkulu yaşam yaklaşımıyla başkalarına ilham verir.",
+        "detailed_traits": [
+            "Ortaya çıkan varlık ile doğal liderlik yetenekleri",
+            "Sevdiklerinizle cömert ve büyük kalpli",
+            "Çeşitli şekillerde yaratıcı ifade",
+            "Güçlü kişisel haysiyet ve gurur duygusu",
+            "Arkadaşlara ve aileye sarsılmaz sadakat",
+            "Dramatik yetenek ve tiyatro sevgisi",
+            "Sıcaklık ve pozitif enerji yayar",
+            "Tanınma ve takdir arzuları",
+            "Başkalarına ilham vermek ve motive etmek için doğal yetenek",
+            "Çocuksu coşku ile oynak ruh"
+        ]
+    },
+    "love_and_relationships": {
+        "romantic_traits": "LEO bireyleri, ilişkilerde sadakat ve hayranlığa değer veren tutkulu, sadık ve etkileyici ortaklardır.Büyük jestler, tutkulu sevgi gösterileri ve seçtikleri partner için değişmez bağlılıkla sevgiyi gösterirler.",
+        "compatibility": {
+            "most_compatible": [
+                "Koç burcu",
+                "Yay",
+                "İkizler burcu",
+                "Terazi"
+            ],
+            "least_compatible": [
+                "Boğa burcu",
+                "Akrep",
+                "Kova"
+            ]
+        },
+        "relationship_advice": "LEO bireyleri, dikkat arzusunu eşlerinin ihtiyaçlarına gerçek bir ilgi ile dengelemelidir.Konuştuğunuz kadar dinlemeye çalışın ve sağlıklı ilişkilerin sadece sizin için övgü değil, karşılıklı hayranlık gerektirdiğini unutmayın.Spot ışığını paylaşın ve ilişkilerinizi zayıflatmak yerine güvenlik açığının güçlendiğini kabul edin.",
+        "love_style": [
+            "Duygularla tutkulu ve etkileyici",
+            "Büyük jestler ve sürprizlerle romantik",
+            "Sadık ve bir zamanlar kararlı",
+            "Partnerden hayranlık ve takdir arzuları",
+            "Sevdiklerinin korunması",
+            "Eşlerinin dikkatinin merkezi olmaktan hoşlanıyor",
+            "Sevgi ve hediyelerle cömert"
+        ]
+    },
+    "career_and_finances": {
+        "career_traits": "LEO bireyleri, yaratıcılıklarını ifade etmelerini, liderliğini kullanmalarını ve katkılarından dolayı tanınmalarını sağlayan kariyerlerde mükemmeldir.Başkalarına ilham vermek ve onları gündeme getiren pozisyonlarda gelişmek için doğal bir yeteneğe sahiptirler.",
+        "suitable_careers": [
+            "Eğlence ve Sahne Sanatları",
+            "Yönetici Liderlik ve Yönetim",
+            "Siyaset ve kamu hizmeti",
+            "Pazarlama ve Halkla İlişkiler",
+            "Öğretim ve Eğitim",
+            "Etkinlik planlaması ve misafirperverliği",
+            "Yaratıcı Yön ve Tasarım",
+            "Satış ve Motivasyonel Konuşma",
+            "Girişimcilik",
+            "Koçluk ve Mentorluk"
+        ],
+        "financial_habits": "LEO bireyleri genellikle parayla karmaşık bir ilişkiye sahiptir, kalite ve bazen lüks, aynı zamanda başkalarıyla da cömert olurlar.Sevinç veya statü getiren şeylere cömertçe harcayabilirler, ancak uzun vadeli hedeflerle motive edildiğinde finansal yönetimde şaşırtıcı derecede iyi olabilirler.",
+        "work_style": [
+            "İnisiyatif ve doğal liderlik rolü alır",
+            "Projelere coşku ve pozitif enerji getiriyor",
+            "Parlayabilecekleri işbirlikçi ortamlarda mükemmel",
+            "Katkılar için tanınmayı tercih eder",
+            "Yeteneklerini takdir eden kuruluşlara sadık",
+            "Cesur fikirlerle yaratıcı problem çözücü",
+            "Ayrıntılı veya sahne arkası işleriyle mücadele edebilir"
+        ]
+    },
+    "health_and_wellness": {
+        "physical_health": "Leo kalbi, omurgayı ve üst sırtını yönetir.LEO bireyleri tipik olarak güçlü bir canlılığa sahiptir ve iyi ruhlardayken hastalıktan hızlı bir şekilde iyileşir.Sağlıkları genellikle duygusal refahları ve amaç duygusu ile bağlantılıdır.",
+        "common_health_issues": [
+            "Kalp ve Dolaşım Sorunları",
+            "Sırt ve Omurga Sorunları",
+            "Yüksek tansiyon",
+            "Stresle ilgili koşullar",
+            "Göz gerilimi veya görme problemleri",
+            "Isı hassasiyeti",
+            "İltihaplanma"
+        ],
+        "wellness_advice": "Doğal sürücünüzü yeterli dinlenme ve rahatlama ile dengeleyin.Kalp sağlığını korumak için stres azaltma teknikleri uygulayın.Düzenli ılımlı egzersiz, özellikle doğada açık havada ancak aşırı güneşten korunan, canlılığınızı korumaya yardımcı olur.",
+        "exercise_preferences": [
+            "Liderlik becerilerinin parladığı takım sporları",
+            "Dans ve Sahne Sanatları",
+            "Yüksek enerjili fitness dersleri",
+            "Sosyal unsurlarla açık hava etkinlikleri",
+            "Çekirdek ve geri odaklanan kuvvet antrenmanı"
+        ]
+    },
+    "yearly_horoscope": {
+        "2025": {
+            "overall": "2025, LEO bireyleri için yaratıcı kendini ifade etme ve liderlik fırsatları getiriyor.Doğal karizmanız hayranlık ve yeni işbirlikçi girişimler çeker.Kişisel hırs ve diğerleriyle gerçek bağlantı arasındaki denge, sürdürülebilir başarıya yol açar.",
+            "love": "İlişkiler yürekten ifade ve karşılıklı hayranlık yoluyla gelişir.Tek LEO'lar, otantik tutkularını ve cömertliklerini takdir eden ortakları çekebilir.Mevcut ilişkiler, paylaşılan yaratıcı etkinlikler ve gerçek takdirle derinleşir.",
+            "career": "Profesyonel tanıma cesur girişimler ve yaratıcı liderlikten gelir.Başkalarına ilham verme yeteneğiniz, yıl ortasında ilerleme fırsatları getiriyor.Örgüt kültürü üzerinde hem görünürlük hem de anlamlı etkiye izin veren rolleri düşünün.",
+            "health": "Kalp ve omurga sağlığı özel ilgiyi hak ediyor.Enerji seviyeleri, yeterli dinlenme ile dengelenmiş düzenli kardiyovasküler aktivite ile iyileşir.Yaratıcı ifade, değerli stres rahatlaması ve duygusal düzenleme olarak işlev görür.",
+            "finances": "Yaratıcı girişimlere veya kişisel markalaşmaya yatırımlar söz veriyor.Lüks öz bakım ile uzun vadeli güvenlik arasındaki dengeli yaklaşımı düşünün.Performans veya liderlik rolleri ile beklenmedik finansal fırsatlar ortaya çıkabilir."
+        },
+        "2026": {
+            "overall": "2026, Leo için kişisel özgünlüğü ve yaratıcı yenilemeyi vurgulamaktadır.Gerçek kendini ifade etmeniz etkili kitlelerle derinden yankılanıyor.Dramatik yetenek ve pratik takip arasında uyum bulmak dikkate değer başarılar getiriyor.",
+            "love": "Romantik ilişkiler karşılıklı hayranlık ve yaratıcı ilham konusunda gelişir.Ortaklar hem gücünüzü hem de kırılganlığınızı takdir ediyor.Tek LEO'lar sanatsal arayışlar veya topluluk liderliği ile anlamlı bağlantılar çeker.",
+            "career": "Liderlik fırsatları yaratıcı veya eğitim sektörlerinde ortaya çıkar.Kişisel örnekle başkalarını motive etme yeteneğiniz profesyonel ilerleme getirir.Eşsiz yeteneklerinizi ve perspektifinizi vurgulayan imza yaklaşımları geliştirmeyi düşünün.",
+            "health": "Canlılık neşeli hareket uygulamalarıyla gelişir.Hem duygusal hem de fiziksel bakım rutinleri aracılığıyla kalp sağlığına dikkat edin.Performans sanatlarını veya ifadeye dayalı egzersizi keşfetmek önemli faydalar sağlar.",
+            "finances": "Yaratıcı girişimler veya kişisel marka geliştirme getiri getirileri.Tutkuyu pratiklikle birleştiren yatırımları düşünün.Beklenmedik finansal destek, işinizin veya liderliğinizin hayranlarından gelir."
+        },
+        "2027": {
+            "overall": "2027, Leo için Aile Bağlantıları ve Ev Vakfı'nı vurgular.Cömert ruhunuzu yansıtan alanlar yaratmak önemli hale gelir.Kamuoyunun tanınması ve özel beslenme arasındaki denge tatmin ve duygusal güvenlik getirir.",
+            "love": "Yurtiçi uyum ilişkilerde bir öncelik haline gelir.Ortaklar, sıcak ve hoş paylaşılan alanlar yaratma çabalarınızı takdir ediyor.Tek LEO'lar aile toplantıları veya ev tabanlı topluluklar aracılığıyla anlamlı bağlantılar bulabilir.",
+            "career": "Miras, gelenek veya aile işletmelerini içeren profesyonel projeler vaat ediyor.Sadık, aile benzeri ekipler yaratma yeteneğiniz organizasyonel faydalar sağlar.Güçlü yönlerinizi sergilerken başkalarına rehberlik etmenizi sağlayan liderlik rollerini düşünün.",
+            "health": "Sindirim sistemi sağlığı dikkati hak eder.Hem canlılığı hem de duygusal refahı destekleyen beslenme dikkate değer faydalar sağlar.Ev tabanlı sağlık uygulamaları uzun vadeli sağlık için önemli temeller oluşturur.",
+            "finances": "Mülk yatırımları veya ev iyileştirmeleri uzun vadeli değer verir.Aile finansal mirasları veya eğitim fonları kurmayı düşünün.Beklenmedik kaynaklar aile bağlantıları veya miras aracılığıyla gelebilir."
+        },
+        "2028": {
+            "overall": "2028, Leo'yu yaratıcı bir iletişim ve etkileyici atılım dönemine getiriyor.Doğal hikaye anlatma yetenekleriniz daha geniş kitlelere ulaşır.Cesur kendini ifade etmenin özenli dinleme ile dengelenmesi etkili bağlantılara yol açar.",
+            "love": "Romantik iletişim ilişkilerde merkezden geçiyor.Ortaklar yürekten ifadelerinizi ve gerçek ilginizi takdir ediyor.Tek LEO'lar, karizmatik iletişim ve otantik kendini ifade ederek dikkat çeker.",
+            "career": "Topluluk önünde konuşma, medya veya eğitim fırsatları beklenmedik bir şekilde ortaya çıkmaktadır.İletişim yoluyla ilham verme yeteneğiniz profesyonel tanınırlık getirir.Benzersiz kişiliğinizi sergileyen fikirler sunmaya yönelik imza yaklaşımları geliştirmeyi düşünün.",
+            "health": "Vokal sağlığı ve solunum sistemi dikkat gerektirir.Enerjik ifadeyi optimal refah için yeterli dinlenme ile dengeleyin.Yaratıcı yazma veya konuşma değerli duygusal işleme görevi görür.",
+            "finances": "İletişim projeleri, yayınlar veya medya girişimleri gelir elde eder.İletişim teknolojilerine veya platformlarına yatırım yapmayı düşünün.Beklenmedik finansal fırsatlar, değerli perspektifleri ifade etme yeteneğinizle ortaya çıkar."
+        },
+        "2029": {
+            "overall": "2029, LEO için yapı malzemesi güvenliği ve kaynak yönetimi üzerine odaklanmaktadır.Cömert doğanız düşünceli bolluk yoluyla ifade bulur.Lüks deneyimler ve pratik yatırımlar arasında denge bulmak kalıcı istikrar getirir.",
+            "love": "Konfor ve cömertlik etrafında paylaşılan değerler ilişkileri güçlendirir.Ortaklar pratik sevgi gösterilerinizi takdir ediyorlar.Tek LEO'lar istikrarlı ama sıcak kalpli potansiyel ortaklar çeker.",
+            "career": "Finans sektörleri veya kaynak yönetimi rolleri ilerleme fırsatları sunar.Pratik hedefler etrafında coşku yaratma yeteneğiniz, takımın başarısını getirir.Yaratıcı liderliği kaynak optimizasyonu ile birleştiren rolleri düşünün.",
+            "health": "Boğaz ve boyun bölgeleri özel bakımı hak eder.Duygusal ifade ile fiziksel refah arasındaki bağlantıyı araştırmak değerli bilgiler getirir.Lüks ama etkili kişisel bakım uygulamaları önemli temeller oluşturur.",
+            "finances": "Kalite deneyimlerine ve mallara yatırım memnuniyet sağlar.Yaratıcı yeteneklerinizi kullanan birden fazla gelir akışı oluşturmayı düşünün.Beklenmedik finansal fırsatlar daha önce gözden kaçan kaynaklarla ortaya çıkar."
+        },
+        "2030": {
+            "overall": "2030, Leo için önemli bir kişisel yeniden icadı işaret ediyor.Otantik kendini ifade etmeniz yeni arıtma ve etki seviyelerine dönüşür.Dramatik sunum ve gerçek madde arasındaki denge, önemli çevrelerde kalıcı etki yaratır.",
+            "love": "İlişkiler karşılıklı büyüme ve yaratıcı evrim ile derinleşir.Ortaklar, yenilenen güven ve amaç netliğinizi takdir ederler.Tek LEO'lar, gerçek özlerini tanıyan ve kutlayan bağlantılar çeker.",
+            "career": "Gelişmiş vizyonunuzu ifade etmenize izin veren liderlik fırsatları ortaya çıkar.Motivasyon ve takım oluşturma konusundaki benzersiz yaklaşımınız, etkili figürlerden tanınır.Başkalarında otantik performansa ilham verme yeteneğinizi sergileyen rolleri düşünün.",
+            "health": "Genel canlılık, refaha entegre yaklaşımlarla gelişir.Uygun hareket ve duruş yoluyla kalp ve omurga hizalamasına dikkat edin.Yaratıcı ifade, temel duygusal ve ruhsal beslenme olarak hizmet eder.",
+            "finances": "Kişisel marka veya imza girişimleri finansal vaat göstermektedir.Gelişmiş değerlerinizi ve estetiğinizi yansıtan yatırımları düşünün.Beklenmedik finansal fırsatlar, otantik kendini ifade etmenin hayranları aracılığıyla ortaya çıkar."
+        },
+        "2031": {
+            "overall": "2031, Leo için anlamlı ortaklıklar ve işbirlikçi girişimleri vurgulamaktadır.Doğal liderliğiniz gerçek işbirliği ile mükemmel bir denge bulur.Bağımsızlık ve karşılıklı bağımlılık arasında uyum bulmak dikkate değer başarılar getirir.",
+            "love": "Romantik ortaklıklar yeni karşılıklı destek ve hayranlık seviyelerine ulaşır.Yerleşik ilişkiler, yenilenen taahhüt törenlerinden veya ortak hedeflerden yararlanır.Tek LEO'lar, karşılıklı saygı ve hayranlığa dayalı dengeli ortaklıklar çeker.",
+            "career": "İşbirlikçi liderlik pozisyonları profesyonel tatmin getirir.Başkalarını yükseltirken parlama yeteneğiniz benzersiz takım dinamikleri yaratır.Maksimum etki için tamamlayıcı güçleri birleştiren ortak girişimleri düşünün.",
+            "health": "Denge ve koordinasyon, ortak temelli faaliyetler yoluyla gelişir.Uygun hidrasyon ve destekleyici uygulamalar yoluyla böbreğe dikkat edin ve geri dönün.İlişki uyumu genel refaha önemli ölçüde katkıda bulunur.",
+            "finances": "Ortak girişimler veya ortak yatırımlar vaat ediyor.Hem paylaşılan hem de bireysel finansal hedefleri onurlandıran açık anlaşmalar yapmayı düşünün.Beklenmedik finansal fırsatlar iş ortaklıkları veya yasal yerleşimler yoluyla ortaya çıkar."
+        },
+        "2032": {
+            "overall": "2032 Leo'yu bir dönüşüm ve yenilenme dönemine getirir.Gölge yönleriyle yüzleşmede cesaretiniz olağanüstü kişisel güç yaratır.Değişimi kucaklarken imza ışıltınızı korumak arasındaki denge, derin kişisel evrime yol açar.",
+            "love": "Samimi ilişkiler duygusal dürüstlük ve kırılganlık ile derinleşir.Ortaklar, otantik bağlantıda cesaretinizi takdir ediyor.Tek LEO'lar hem gücü hem de hassasiyeti onurlandıran dönüştürücü ilişkiler çeker.",
+            "career": "Araştırma, soruşturma veya dönüşüm odaklı roller umut vaat ediyor.Zorlu geçişler yoluyla başkalarına liderlik etme yeteneğiniz profesyonel tanınır.Anlamlı organizasyonel evrimi kolaylaştırmanızı sağlayan pozisyonları düşünün.",
+            "health": "Üreme ve eliminatif sistemler dikkat gerektirir.Detoksifikasyon uygulamaları dikkate değer enerji iyileştirmeleri getirir.Duygusal işleme ve fiziksel rejenerasyon arasındaki bağlantıyı araştırmak değerli bilgiler verir.",
+            "finances": "Ortak kaynaklar veya paylaşılan yatırımlar getiri sağlar.Varlıkların veya kaynakların dönüşümünü içeren finansal stratejileri göz önünde bulundurun.Beklenmedik finansal destek miras veya sigorta konuları yoluyla gelebilir."
+        },
+        "2033": {
+            "overall": "2033, Leo için genişleme ve felsefi büyümeyi vurgulamaktadır.Doğal bilgeliğiniz öğretim veya mentorluk yoluyla ifade bulur.Kendinden emin bilgi paylaşımı ile devam eden öğrenme arasındaki denge, tatmin ve entelektüel canlılık getirir.",
+            "love": "İlişkiler ortak öğrenme ve macera yoluyla genişler.Ortaklar, büyüme deneyimlerine olan hevesinizi takdir ediyor.Tek LEO'lar, eğitim arayışları veya seyahat maceraları ile bağlantılar çeker.",
+            "career": "Eğitim liderliği veya yayınlama fırsatları beklenmedik bir şekilde ortaya çıkar.Optimass'a ilham verme ve olasılıklara inanma yeteneğiniz, örgütsel faydalar sağlar.Ufuklarınızı genişletmeye devam ederken bilgeliği paylaşmanıza izin veren rolleri düşünün.",
+            "health": "Kalça esnekliği ve karaciğer sağlığı ilgiyi hak ediyor.Seyahat veya dış mekan maceraları hem fiziksel hem de zihinsel faydalar sağlar.Felsefi veya manevi gelenekleri keşfetmek duygusal refaha katkıda bulunur.",
+            "finances": "Eğitim yatırımları veya yayın girişimleri getiri getirir.Farklı kültürel veya coğrafi bağlamlardaki yatırımları çeşitlendirmeyi düşünün.Beklenmedik finansal fırsatlar yabancı bağlantılar veya uzun mesafeli girişimlerle ortaya çıkar."
+        },
+        "2034": {
+            "overall": "2034, Leo için profesyonel doruk noktası ve halkın tanınması getiriyor.Yıllarca süren otantik liderliğiniz kalıcı miras yaratır.Kariyer başarısı ve kişisel yerine getirme arasındaki denge, sürdürülebilir başarıya ve anlamlı katkıya yol açar.",
+            "love": "İlişkiler mesleki taahhütlere karşılıklı saygıdan yararlanır.Ortaklar, anlamlı etki yaratma bağlılığınızı takdir ederler.Tek LEO'lar, duygusal destek sunarken hırslarına hayran olan bağlantıları çeker.",
+            "career": "En yüksek örgütsel seviyelerde liderlik mümkün olur.Büyük ölçekli girişimleri öngörme ve uygulama yeteneğiniz profesyonel tanınır.Güçlü yönlerinizi sergilerken örgüt kültürünü şekillendirmenize izin veren rolleri düşünün.",
+            "health": "İskelet sistemi ve eklemler dikkat gerektirir.Profesyonel faaliyet ve yeterli dinlenme arasındaki denge, sürekli enerji sağlar.Duruma uygun kişisel bakım uygulamaları, uzun vadeli refah için önemli temeller oluşturmaktadır.",
+            "finances": "Profesyonel başarılar önemli ödüller yaratır.Miras odaklı finansal yapılar veya hayırsever temeller kurmayı düşünün.Finansal müzakerelerde itibar değerli para birimi haline gelir."
+        },
+        "2035": {
+            "overall": "2035, LEO için topluluk bağlantısı ve vizyoner projeleri vurgulamaktadır.Liderliğiniz anlamlı hedeflere doğru toplu eylemlere ilham veriyor.Bireysel tanıma ve grup katkısı arasındaki denge, önemli nedenler üzerinde kalıcı bir etki yaratır.",
+            "love": "İlişkiler ortak idealler ve toplum katılımı yoluyla gelişir.Ortaklar, kolektif refaha cömert katkınızı takdir ederler.Tek LEO'lar insani faaliyetler veya toplum liderliği ile bağlantılar çeker.",
+            "career": "Kâr amacı gütmeyen sektörler veya toplum odaklı roller yerine getirme sunar.Kolektif eyleme ilham verme yeteneğiniz organizasyonel başarıyı getirir.Önemli sosyal nedenlere hizmet ederken liderlik etmenizi sağlayan pozisyonları düşünün.",
+            "health": "Dolaşım ve alt ekstremiteler dikkati hak eder.Toplum temelli sağlık faaliyetleri hem fiziksel hem de sosyal faydalar sağlar.Sosyal katılım ve kişisel yenileme arasında denge bulmak sürdürülebilir enerji modelleri oluşturur.",
+            "finances": "Topluluk odaklı yatırımlar veya sosyal işletmeler söz veriyor.Paylaşılan kaynak sistemleri veya topluluk destek fonları oluşturmayı düşünün.Ağ bağlantıları veya grup girişimleri yoluyla beklenmedik finansal fırsatlar ortaya çıkar."
+        }
+    },
+    "famous": [
+        {
+            "name": "Barack Obama",
+            "birth_date": "4 Ağustos 1961",
+            "description": "Karizmatik Liderliği, Onurlu Varlığı ve Güçlü Hüteti Leo'nun Doğal Liderlik Yeteneklerini Örnekleyen Eski ABD Başkanı"
+        },
+        {
+            "name": "Jennifer Lopez",
+            "birth_date": "24 Temmuz 1969",
+            "description": "Leo'nun yıldız kalitesini, yaratıcı çok yönlülüğünü ve merkez sahne için iddialı sürüşü somutlaştıran çok yetenekli sanatçı"
+        },
+        {
+            "name": "Jason Momoa",
+            "birth_date": "1 Ağustos 1979",
+            "description": "Güçlü varlığı, aslan benzeri yele ve aileye sadık bağlılığı klasik leo özelliklerini yansıtan aktör"
+        },
+        {
+            "name": "Daniel Radcliffe",
+            "birth_date": "23 Temmuz 1989",
+            "description": "Spot ışığında büyüyen ancak Leo'nun gerçek sıcaklığını koruyan ve performanslarıyla kalıcı bir miras yaratan aktör"
+        },
+        {
+            "name": "Madonna",
+            "birth_date": "16 Ağustos 1958",
+            "description": "Yeniden icat, yaratıcı vizyonu ve sınır zahmetli kendini ifade eden ikonik sanatçı, Leo'nun yıldız gücünü ve sanatsal cesaretini tanımlar"
+        }
+    ],
+    "daily_advice": {
+        "relationship": "Bugün, başkalarının bakış açılarını dinlemekle liderlik etme arzunuzu dengeleyin.Sıcaklığınız otantik bağlantı için alan yaratır.",
+        "career": "Yaratıcı fikirleriniz bugün meslektaşlarına ilham veriyor.İşbirlikçi iyileştirmeye açık kalırken vizyonunuzu paylaşın.",
+        "health": "Duruş ve geri hizalamaya dikkat edin.Kısa esneme molaları gün boyunca omurga sağlığınızı destekler.",
+        "general": "Doğal güveniniz, başkalarının bugün kendilerine inanmasına yardımcı olur.Etrafınızdaki kişileri yükseltmek için etkinizi kullanın."
+    },
+    "tarot_associations": {
+        "major_arcana": "Kuvvet",
+        "explanation": "Güç kartı, Leo'nun doğal liderliği ve kalp merkezli gücüyle rezonansa giren nitelikler - çiğ kuvvet üzerindeki merhametin cesaretini, iç gücü ve şefkatin zaferini temsil eder.Bu kart aynı zamanda Leos Master'ı geliştiren güç ve yumuşaklık arasındaki dengeyi de somutlaştırıyor."
+    },
+    "compatibility_details": {
+        "aries": "Leo ve Koç, enerji ve paylaşılan coşku dolu tutkulu, dinamik bir ilişki yaratır.Her iki yangın işareti de birbirlerinin güvenini ve yaşam için lezzetini takdir ederek güçlü bir ortaklık yaratıyor.",
+        "taurus": "Leo ve Boğa farklı ihtiyaçlarla mücadele edebilir - Toros istikrar ararken Leo hayranlık istiyor.Her ikisi de, karşılıklı saygı ve uzlaşma gerektiren güçlü vasiyetlere sahip sabit işaretlerdir.",
+        "gemini": "Leo ve Gemini, teşvik edici, eğlenceli bir ortaklık oluşturur.İkizler'in zekası ve merakı Leo'nun yaratıcılığını ve sıcaklığını tamamlayarak aktivite ve katılımla dolu bir ilişki yaratıyor.",
+        "cancer": "Leo ve kanser, farklı duygusal stillerini anladıklarında birbirlerini dengeleyebilirler.Kanser, Leo'nun hayalleri için beslenme sağlarken, Leo kanserin hayatına sıcaklık ve cesaret getirir.",
+        "leo": "İki LEO'lar tutku, yaratıcılık ve karşılıklı hayranlıkla dolu bir ilişki yaratır.Dikkatli bir denge olmadan dikkat için rekabet edebilirler, ancak birbirlerinin tanıma ihtiyacını anlarlar.",
+        "virgo": "Leo ve Başak hayata oldukça farklı yaklaşıyor - Leo, dramatik yetenek ve Başak ile dikkatli analizlerle.Leo, Başak'ın pratikliğini takdir ederse ve Başak Leo'nun yaratıcılığını kabul ederse birbirlerini tamamlayabilirler.",
+        "libra": "Leo ve Terazi güzellik, romantizm ve sosyal uyum için bir takdir paylaşıyor.Bu uyumlu maç, Leo'nun liderliğini Terazi'nin diplomasisi ile dengeler ve karşılıklı hayranlık ilişkisi yaratır.",
+        "scorpio": "Leo ve Akrep hem tutkulu hem de yoğun sabit işaretlerdir, güçlü ama potansiyel olarak zorlu bir ilişki yaratır.Her ikisi de farklı güçlerine derin saygı duymadıkça güç mücadeleleri ortaya çıkabilir.",
+        "sagittarius": "Leo ve Sagittarius, yangın işaretleri olarak mükemmel uyumluluğu paylaşıyor.Hem özgürlük, iyimserlik ve maceraya değer vererek büyüme dolu geniş, hevesli bir ortaklık yaratıyor.",
+        "capricorn": "Leo ve Oğlak, hayata farklı yaklaşımları temsil eder - Leo'nun Oğlak'ın ayrılmış pratikliğine karşı etkileyici sıcaklığı.Bu tamamlayıcı nitelikleri takdir ederek dengeli bir ortaklık yaratabilirler.",
+        "aquarius": "Leo ve Kova, büyüleyici bir cazibe ile zıt işaretler oluştururlar.Leo'nun kişisel yaratıcılığı, Kova'nın yenilikçi vizyonunu tamamlar, ancak tanıma ve dikkat konusundaki yaklaşımları önemli ölçüde farklılık gösterir.",
+        "pisces": "Leo ve Balık, farklı stillerini kapattıklarında ilham verici, yaratıcı bir ilişki yaratabilirler.Leo'nun kendinden emin liderliği Balık'ın hayalleri için yön verirken, Balık Leo duygusal derinliği sunar."
+    },
+    "astrological_influences": {
+        "sun_in": "Emer pozisyonu Leo'daki güneş canlılık, kendini ifade etme ve doğal liderlik getiriyor.Hayata güven ve yaratıcı enerji ile yaklaşıyorsunuz, doğal olarak başkalarını sıcaklığınıza ve vizyonunuza çekiyorsunuz.",
+        "moon_in": "Leo'daki Moon, tanınma, yaratıcılık ve yürekten ifade etrafında merkezlenmiş duygusal ihtiyaçlar yaratır.Duygularınız dramatik ve otantiktir ve duygusal olarak güvende hissetmek için gerçek bir takdire ihtiyacınız vardır.",
+        "rising": "Leo Rising size komuta eden bir varlık, doğal karizma ve parlak ilk izlenim verir.Diğerleri sizi konuşmadan önce bile kendinden emin, sıcak ve liderlik edebiliyor."
+    },
+    "self_improvement": {
+        "challenges": [
+            "Güveni alçakgönüllülükle dengelemek",
+            "Daha az dramatik kişiliklerle sabır geliştirmek",
+            "Spot ışığını ve tanınmayı paylaşmayı öğrenmek",
+            "Yaralı gurur olmadan eleştiriyi kabul etmek",
+            "Başkalarının dikkat ve övgü ihtiyaçlarını tanımak"
+        ],
+        "growth_opportunities": [
+            "Olumlu değişim için karizma ve liderliği kullanmak",
+            "Başkalarına kendi yeteneklerini keşfetmeleri için ilham vermek",
+            "Başkalarını içeren yaratıcı vizyon geliştirmek",
+            "Herhangi bir ortamda sıcaklık ve sevinç yaratmak",
+            "Otantik kalp merkezli cesaretle liderlik etmek"
+        ],
+        "affirmations": [
+            "Kendinden emin kendini ifade etmeyi başkalarına gerçek ilgi ile dengeliyorum",
+            "Hem cesaret hem de şefkatle liderlik ediyorum",
+            "Yaratıcılığım kişisel tanınmanın ötesinde bir amaca hizmet ediyor",
+            "Işığımı başkalarını aydınlatacak şekilde parlıyorum",
+            "Kalbim eylemlerime cömertlik ve sıcaklık ile rehberlik ediyor"
+        ]
+    },
+    "life_path": {
+        "purpose": "Leo bireyleri genellikle yaratıcı kendini ifade, cesur liderlik ve kalp merkezli eylem yoluyla başkalarına ilham verme misyonuna sahiptir.Amaçları, daha fazla ışığa ihtiyaç duyan bir dünyaya sevinç, sıcaklık ve otantik kendini ifade etmeyi içerir.",
+        "life_lessons": [
+            "Hakimiyetten ziyade ilham yoluyla liderlik etmeyi öğrenmek",
+            "Ego bağlılığının ötesinde otantik kendini ifade etmek",
+            "Başkalarının ihtiyaçlarına gerçekten hizmet eden cömertlik geliştirmek",
+            "Gerçek takdir vermekle hayranlık uyandırmayı dengelemek",
+            "Güvenlik açığının gücü azaltmak yerine arttığını keşfetmek"
+        ],
+        "spiritual_growth": "Leo için manevi gelişim, otantik kendini ifade ederken egoyu aşmayı içerir.Yaratıcı enerjiyi kişisel olarak tanınmadan daha büyük bir şeye yönlendirmeyi, kalp merkezli farkındalık geliştirmeyi ve karizmayı olumlu değişim için bir güç olarak kullanmayı öğrenmek, manevi evrime katkıda bulunur."
+    },
+    "detailed_interpretation": {
+        "child": {
+            "characteristics": "LEO çocukları tipik olarak erken yaşlardan itibaren etkileyici, dramatik ve doğal sanatçılardır.Genellikle liderlik eğilimleri, yaratıcı yetenekler ve başarıları için tanınma ve övgü arzusu gösterirler.",
+            "parenting_advice": "Yaratıcı ifade ve olumlu ilgi için birçok fırsat sağlayın.Empati öğretimi ve başkaları için düşünme ile övgü.Takım faaliyetleri aracılığıyla doğal liderlik yeteneklerini olumlu yönde kanalize etmelerine yardımcı olun."
+        },
+        "in_friendship": {
+            "friendship_style": "Leo arkadaşları sadık, cömert ve eğlencelidir.Toplantılar düzenlerler, yetenekli özel günleri hatırlarlar ve arkadaşlıklara sıcaklık ve coşku getirirler.Hayranlığa değer veriyorlar, ancak karşılığında gerçek bir sevgi ve koruma sunuyorlar.",
+            "ideal_friends": "Leo, spot ışığını paylaşacak kadar güvenli iken sıcaklıklarını ve enerjilerini takdir eden arkadaşlarla gelişir.Paylaşılan yaratıcı etkinlikler, sosyal geziler ve karşılıklı hayranlık içeren dostluklardan hoşlanırlar."
+        },
+        "shadow_side": {
+            "potential_issues": "Dengesiz olduğunda, Leo bencil, otoriter veya aşırı gurur duyabilir.Tanıma ihtiyaçları, dikkat arama davranışı, statü takıntısı veya eşit olarak işbirliği yapamama olarak ortaya çıkabilir.",
+            "growth_path": "LEO için kişisel gelişim, doğal liderlik yeteneklerini statü yerine hizmete yönlendirmeyi, başkalarının benzersiz nitelikleri için takdir geliştirmeyi ve dış validasyondan ziyade öz-değer bulmayı içerir."
+        }
+    },
+    "seasonal_influences": {
+        "midsummer_energy": "Yazın yüksekliğinde doğan Leo, sezonun dolgunluğunu, sıcaklığını ve parlak enerjisini somutlaştırır.Bu zamanlama, LEO'yu doğal canlılık, yaratıcı güç ve güneşin zirvesinde geniş, cömert nitelikleri ile aşılar.",
+        "fixed_quality": "Sabit bir işaret olarak Leo, yaz enerjisinin stabilizasyonunu ve ifadesini temsil eder.Bu pozisyon onlara muazzam yaratıcı kalma gücü, vizyonlarına sadakat ve değişen koşullar yoluyla sıcaklığı ve coşkuyu sürdürme yeteneği verir."
+    },
+    "elemental_analysis": {
+        "fire_element_influence": "Ateş elemanı Leo'ya karakteristik sıcaklık, tutku ve yaratıcı enerjilerini verir.Ateş ilham, dönüşüm ve yaşam gücünün hayati kıvılcımını temsil eder.",
+        "fire_balance": "Dengeli ateş coşku, yaratıcı ilham ve sıcak liderlik getiriyor.Aşırı ateş tahakküm, kibir ve dikkat arama davranışına yol açabilirken, yetersiz ateş güven eksikliğine ve yaratıcı bloklara neden olabilir."
+    },
+    "planetary_rulership": {
+        "sun_influence": "Güneş sistemimizin merkezi ve ışık ve yaşam kaynağı olan güneş, Leo'yu yönetir.Bu gezegensel etki, tabelanın doğal merkeziyetini, ışıltısını ve başkalarını yörüngelerine çeken hayati enerjisini açıklar.",
+        "sun_aspects": "Bir bireyin doğum tablosundaki güneşin konumu ve yönleri LEO enerjisinin nasıl ifade edildiğini önemli ölçüde etkiler.Güçlü güneş yönleri liderlik yeteneklerini ve yaratıcı ifadeyi geliştirir, ancak gurur veya hakimiyet eğilimlerini de artırabilir."
+    },
+    "modern_applications": {
+        "career_in_digital_age": "Bugünün yaratıcı ekonomisinde Leo, kişisel marka, sosyal medya etkisi, yaratıcı yön ve teknolojiyi insan bağlantısı ve ilham ile birleştiren liderlik rollerinde mükemmeldir.",
+        "relationship_in_modern_context": "Modern ilişkiler, Leo'nun dijital bağlantı çağındaki sadakatinden ve etkileyici sıcaklığından yararlanır.Anlamlı kutlamalar ve sevinç anları yaratma yetenekleri, kısmen teknoloji yoluyla yürütülen ilişkilerle hayati insan bağlantısı getirir."
+    }
+}

@@ -36,7 +36,8 @@
         "orders": "4"
     },
     {
-        "id": "1","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "id": "1",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "Υπολογιστής υποθηκών",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -48,7 +49,8 @@
         "orders": "10000"
     },
     {
-         "id": "2","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "id": "2",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Αριθμομηχανή δανείου απόσβεσης",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -60,7 +62,8 @@
         "orders": "10000"
     },
     {
-        "id": "3","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "id": "3",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "Αριθμομηχανή πληρωμής",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -72,7 +75,8 @@
         "orders": "10000"
     },
     {
-        "id": "4", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "id": "4",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "Αριθμομηχανή τόκων",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -84,7 +88,8 @@
         "orders": "10000"
     },
     {
-         "id": "11","thumb":"https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "id": "11",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Αριθμομηχανή δάνειο αναβαλλόμενης πληρωμής",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -95,7 +100,8 @@
         "is_show": "0"
     },
     {
-        "id": "12","thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "id": "12",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Προκαθορισμένη αριθμομηχανή δανείου ποσού",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -250,7 +256,8 @@
         "orders": "2"
     },
     {
-        "id": "23", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "id": "23",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "Υπολογιστής ΔΜΣ",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -262,7 +269,8 @@
         "orders": "10000"
     },
     {
-        "id": "24", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "id": "24",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "Υπολογιστής BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -274,7 +282,8 @@
         "orders": "10000"
     },
     {
-        "id": "25", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "id": "25",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Αριθμομηχανή ποσοστού σωματικού λίπους",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -322,7 +331,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Γεννήτρια κωδικών πρόσβασης",
         "slug": "password-generator",
         "parent_id": "15",
@@ -334,7 +344,8 @@
         "orders": "10000"
     },
     {
-        "id": "29", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "id": "29",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Τρέχουσα αριθμομηχανή PACE",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -382,7 +393,8 @@
         "orders": "10000"
     },
     {
-       "id": "33", "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "id": "33",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "Μετατροπέας νομισμάτων",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -437,6 +449,19 @@
         "meta_title": "Υπολογιστής BAC - Υπολογίστε τη συγκέντρωση αλκοόλ αίματος",
         "meta_description": "Χρησιμοποιήστε τον ελεύθερο υπολογισμό BAC για να εκτιμήσετε τη συγκέντρωση αλκοόλ στο αίμα με βάση τα ποτά, το βάρος και το χρόνο - Quick, Simple και Online!",
         "meta_keyword": "Ο υπολογιστής BAC, ο υπολογιστής αλκοόλ αίματος, ο υπολογιστής επιπέδου αλκοόλ, ο υπολογιστής οδήγησης ποτών, ο υπολογιστής κατανάλωσης αλκοόλ, ο υπολογιστής περιεχομένου αλκοόλ αίματος, ο υπολογισμός της συγκέντρωσης αλκοόλης στο αίμα (BAC), ο υπολογιστής online bac για τα όρια ασφαλούς κατανάλωσης, ο υπολογισμός του BAC, ο υπολογισμός του κρασιού και του νόμιμου κρασιού, του κρασιού και του κρασιού, χώρα.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+       "id": "38",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "title": "Ζωδιακής αριθμομηχανής",
+        "slug": "zodiac-calculator",
+        "parent_id": "15",
+        "meta_title": "Υπολογιστής ζωδιακών σημείων | Ανακαλύψτε τι αποκαλύπτει ο πίνακας γεννήσεων σας",
+        "meta_description": "Ανακαλύψτε τι αποκαλύπτει το ζώδιο σας για εσάς. Ο υπολογιστής μας παρέχει ακριβείς αναγνώσεις με γνώσεις σχετικά με τον χαρακτήρα, τις σχέσεις και το πεπρωμένο σας.",
+        "meta_keyword": "Ο υπολογιστής ζωδιακής σημασίας, ο υπολογιστής γεννήσεων, ποιο είναι το ζωδιακό μου σημάδι, ο διάγραμμα γεννήσεων της αστρολογίας, ο ελεύθερος διάγραμμα γεννήσεων, ο υπολογιστής του γενέθλου, ο υπολογιστής σημείων αυξανόμενης σημασίας, ο υπολογιστής σημείων φεγγαριού, ο υπολογιστής του ζωδιακού συστήματος, ο υπολογιστής του Zodiac Calculature, ο Vedic Helculator chart Αστρολογικό διάγραμμα γεννήσεων, Zodiac Finder, Υπολογίστε το ζωδιακό σημάδι, ζωδιακό γενέθλια, ελεύθερο γενέθλιο διάγραμμα, αριθμομηχανή χρόνου γέννησης, πλήρες διάγραμμα γεννήσεων, αριθμομηχανή αστρολογίας, ζωδιακό σύμβολο κατά ημερομηνία γέννησης, μεγάλες τρεις αριθμομηχανές, ακριβής γεννημένος διάγραμμα",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
