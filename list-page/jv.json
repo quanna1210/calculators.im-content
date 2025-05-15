@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Kalkulator zodiak",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Kalkulator tandha Zodiak | Temokake apa Chart bahagia sampeyan",
         "meta_description": "Temokake apa tandha zodiak sampeyan babagan sampeyan. Kalkulator kita nyedhiyakake wacan sing akurat kanthi wawasan babagan karakter, hubungan sampeyan, lan takdir.",
         "meta_keyword": "Kalkulator tandha zodiac, kalkulator grafik lah, apa tandha zodiakku, kalkulator bahaya, kalkulator tanda-bulan, panalitator tanda-tanda, calculator srengenge, kalkulator Zodiak, Kalkulator bagan Sidereal, kalkulator horoskop, kalkulator grafik lahir, Chart Zodiak, kalkulator wektu lahir, Chart Time Lair, Chart Time Lair, Big Calculator, Chart Big Tiga, Chart Big Tiga",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro Timer",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Ngembangake produktivitas kanthi alat fokus & sinau alat Timer",
+        "meta_description": "Pomodoro Timer gratis kanggo ningkatake produktivitas. Custom 25/5 menit interval, fokus fitur musik lan nelusuri. Sampurna kanggo pakaryan, sinau lan fokus. Coba saiki!",
+        "meta_keyword": "Pomodoro Timer, Teknik Pomodoro, Wektu Produktivitas, Timer Tomato, Wektu Fokus Pomodoro, Titik Pomodoro, Tanduran Pemeramatan Wektu, Kalkulator Perangkat Lunak, Paling Apik Pomodoro Timer, Pomodoro Timer Kanthi Musik, Timer Fokus Online, Pomodoro Timer, Timer Pomodoro, Kalkulator Rasa, Pomodoro Timer Kanggo Bisa",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

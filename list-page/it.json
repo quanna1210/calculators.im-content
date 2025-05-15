@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Calcolatrice zodiacale",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Calcolatrice del segno zodiacale | Scopri cosa rivela la tua carta natale",
         "meta_description": "Scopri cosa rivela il tuo segno zodiacale su di te. Il nostro calcolatore fornisce letture accurate con approfondimenti sul tuo personaggio, relazioni e destino.",
         "meta_keyword": "Calcolatore del segno zodiacale, calcolatore del diagramma navale, qual è il mio segno zodiaco, grafico natale astrologico, diagramma di nascita libera, calcolatore del grafico natale, calcolatore del segno in aumento, calcolatore del segno luna, trova il mio segno zodiaco Calcolatrice, calcolatore del diagramma navale vedico, tabella natale astrologica, ricerca zodiacale, calcolo del segno zodiacale, zodiaco di compleanno, grafico natale libero, calcolatore del tempo di nascita, tabella delle nascite complete, calcolatore del grafico astrologico, segno zodiacale per data di nascita, calcolatore di tre grandi tre",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Timer Pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro timer | Aumenta la produttività con focus e strumento timer di studio",
+        "meta_description": "Timer Pomodoro gratuito per aumentare la produttività. Intervalli personalizzati di 25/5 minuti, Focus Music e Tracking. Perfetto per lavoro, studio e concentrazione. Prova ora!",
+        "meta_keyword": "Timer Pomodoro, tecnica Pomodoro, timer di messa a fuoco, timer di produttività, timer di pomodoro, timer di studio, timer di lavoro, strumento di gestione del tempo, timer 25 minuti, pomodoro tracker, app pomodoro, tecnica di messa a fuoco, metodo di produttività di produttività, timer di produzione di produttività, timer di rottura pomodore Timer Pomodoro, timer Pomodoro con musica, timer di messa a fuoco online, timer e pianificatore Pomodoro, timer personalizzabile, timer Pomodoro gratuito, Pomodoro digitale, strumento di produttività Web, calcolatore di gestione del tempo, timer Pomodoro per lavoro",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Zodyak hesap makinesi",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Zodyak İşaret Hesap Makinesi | Doğum tablonuzun ne ortaya çıkardığını keşfedin",
         "meta_description": "Zodyak işaretinizin sizin hakkınızda ne ortaya çıkardığını keşfedin. Hesap makinemiz, karakteriniz, ilişkileriniz ve kaderiniz hakkında bilgiler içeren doğru okumalar sağlar.",
         "meta_keyword": "Zodyak İşaret Hesap Makinesi, Doğum Grafiği Hesap Makinesi, Zodyak İşaretim Nedir, Astroloji Doğum Grafiği, Ücretsiz Doğum Grafiği, Doğum Grafik Hesap Makinesi, Ay İşaret Hesap Makinesi, Bul Zodyak İşaretimi Bul Zodyak Uyumluluk Hesap Makinesi, Doğum Grafik Okuma, Astroloji Hesaplayıcı, Güneş Ayı Yükselen Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Ascential Hesaplayıcı, Zodyak Hesaplayıcı, Askım Hesap Makinesi, Vedik Doğum Grafik Hesap Makinesi, Astrolojik Doğum Grafiği, Zodyak Bulucu, Zodyak İşareti, Doğum Günü Zodyak, Ücretsiz Doğum Grafiği, Doğum Süresi Hesap Makinesi, Tam Doğum Grafiği, Astroloji Grafik Hesap Makinesi, Zodyak İşareti Doğum Tarihi, Büyük Üç Hesap Makinesi, Doğru Doğum Grafik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro zamanlayıcı",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Zamanlayıcı | Odak ve Çalışma Zamanlayıcı Aracı ile Verimliliği Artırın",
+        "meta_description": "Verimliliği artırmak için ücretsiz Pomodoro zamanlayıcı. Özel 25/5 dakikalık aralıklar, odak müzik ve izleme özellikleri. İş, çalışma ve odak için mükemmel. Şimdi deneyin!",
+        "meta_keyword": "Pomodoro Zamanlayıcı, Pomodoro Tekniği, Odak Zamanlayıcısı, Verimlilik Zamanlayıcısı, Domates Zamanlayıcı, Çalışma Zamanlayıcısı, Çalışma Zamanlayıcısı, Zaman Yönetim Aracı, 25 Dakika Zamanlayıcı, Pomodoro Tracker, Pomodoro Uygulama, Odak Tekniği, Verimlilik Yöntemi, Break Zamanlayıcı, Pomodoro Çevrimiçi, Pomodoro, Çalışma Zamanlayıcı, Zaman Basma Aracı, Çalışma Zamanlayıcı Kesim, Üretici Kesdirim Pomodoro zamanlayıcı, müzikli Pomodoro zamanlayıcı, çevrimiçi odak zamanlayıcısı, pomodoro zamanlayıcı ve planlayıcı, özelleştirilebilir zamanlayıcı, ücretsiz pomodoro zamanlayıcı, dijital pomodoro, web verimlilik aracı, zaman yönetimi hesap makinesi, pomodoro zamanlayıcı iş için",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

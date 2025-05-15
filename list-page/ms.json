@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Kalkulator Zodiac",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Zodiac Sign Calculator | Ketahui apa yang diturunkan oleh carta kelahiran anda",
         "meta_description": "Ketahui apa tanda zodiak anda mendedahkan tentang anda. Kalkulator kami memberikan bacaan yang tepat dengan pandangan tentang watak, hubungan, dan takdir anda.",
         "meta_keyword": "Kalkulator tanda zodiak, kalkulator carta kelahiran, apakah tanda zodiak saya, carta kelahiran astrologi, carta kelahiran percuma, kalkulator carta natal, kalkulator tanda yang semakin meningkat, kalkulator tanda bulan, cari tanda zodiak saya, kalkulator keserasian zodiak, kalkulator zodia, kalkulator, kalkulator carta sidereal, kalkulator horoskop, kalkulator carta kelahiran vedik, carta kelahiran astrologi, pencari zodiak, kiraan tanda zodiak, zodiak hari jadi, carta natal percuma, kalkulator masa kelahiran, carta kelahiran penuh, carta astrologi, carta astrologi, zodiak dengan tarikh kelahiran,",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pemasa Pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pemasa Pomodoro | Meningkatkan Produktiviti dengan Alat Pemasa Fokus & Kajian",
+        "meta_description": "Pemasa Pomodoro percuma untuk meningkatkan produktiviti. Selang 25/5 minit adat, fokus muzik dan ciri penjejakan. Sempurna untuk kerja, belajar dan fokus. Cuba sekarang!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pemasa pomodoro, pemasa pomodoro dengan muzik, pemasa fokus dalam talian, pemasa pomodoro dan perancang, pemasa yang disesuaikan, pemasa pomodoro percuma, pomodoro digital, alat produktiviti web, kalkulator pengurusan masa, pemasa pomodoro untuk kerja",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Калькулятор зодиака",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Калькулятор знака зодиака | Узнайте, что раскрывает ваша схема рождения",
         "meta_description": "Узнайте, что ваш знак зодиака раскрывает о вас. Наш калькулятор предоставляет точные показания с пониманием вашего персонажа, отношений и судьбы.",
         "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, Калькулятор ведической схемы при рождении, астрологическая схема рождения, поиск зодиака, рассчитайте знак зодиака, зодиак на день рождения, свободная натальная карта, калькулятор времени рождения, схема полной родов, калькулятор астрологии, зодиака",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Помодоро таймер",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Помодоро таймер | Повышение производительности с помощью инструмента Timer Focus & Study Timer",
+        "meta_description": "Бесплатный таймер Pomodoro для повышения производительности. Индивидуальные интервалы 25/5 минутов, фокус -музыка и функции отслеживания. Идеально подходит для работы, изучения и фокуса. Попробуйте сейчас!",
+        "meta_keyword": "Таймер Pomodoro, техника Pomodoro, таймер фокусировки, таймер производительности, таймер томата, таймер обучения, время работы, инструмент управления временем, 25 -минутный таймер, трекер Pomodoro, приложение Pomodoro, метод фокусировки, метод продуктивности, перерыв таймер, Pomodoro Timer Online, Timer Timer, Timer Focus Focus, Time Slocking Slaving S., Pomodor Pomodor Таймер, таймер PomoDoro с музыкой, таймер онлайн -фокус, таймер и планировщик PomoDoro, настраиваемый таймер, бесплатный таймер Pomodoro, цифровой Pomodoro, инструмент веб -производительности, калькулятор управления временем, таймер PomoDoro для работы.",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

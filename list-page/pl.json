@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Kalkulator zodiaku",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Kalkulator znaku zodiaku | Odkryj, co ujawnia Twoja tabela urodzenia",
         "meta_description": "Odkryj, co ujawnia o tobie znak zodiaku. Nasz kalkulator zapewnia dokładne odczyty w spostrzeżeniach na temat twojej postaci, relacji i przeznaczenia.",
         "meta_keyword": "Kalkulator znaku zodiaku, kalkulator wykresu urodzeniowego, jaki jest mój znak zodiaku, wykres urodzeniowy astrologii, bezpłatny wykres porodu, kalkulator wykresu Natal, kalkulator znaku wschodzącego, kalkulator znaku księżyca, Znajdź mój znak zodiaku, kalkulator kompatybilności Zodiaku, odczyt wykresu urodzeniowego, kalkulator astrologiczny, kalkulator słoneczny, kalkulator, kalkulator awanda Kalkulator, kalkulator mapy porodu wedyjskiego, astrologiczna tabela urodzeniowa, Zodiak, Oblicz znak zodiaku, urodzinowy zodiak, bezpłatny wykres narodzin, kalkulator czasu urodzenia, pełny wykres porodu, kalkulator wykresu astrologicznego, znak zodiaku według daty urodzenia, Kalkulator Big Trej, dokładny wykres porodu, dokładny wykres porodu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Timer pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Timer pomodoro | Zwiększ produktywność dzięki narzędziowi skupienia i studiowania",
+        "meta_description": "Darmowy licznik czasu pomodoro w celu zwiększenia wydajności. Niestandardowe odstępy 25/5 minut, muzyka ostrości i funkcje śledzenia. Idealny do pracy, nauki i skupienia. Spróbuj teraz!",
+        "meta_keyword": "Timer pomodoro, technika pomodoro, timer fokusowy, licznik produktywności, timer pomidora, licznik studiów, czas roboczy, narzędzie do zarządzania czasem, 25 -minutowy timer, Timer Pomodoro, aplikacja pomodoro, aplikacja Focus, Metoda produktywności, najlepsza liczba czasu, najlepiej pomodor. Timer, Timer Pomodoro z muzyką, online timer ostrości, Timer Pomodoro i planner, dostosowywany timer, bezpłatny licznik pomodoro, cyfrowy pomodoro, narzędzie do produktywności sieci, kalkulator zarządzania czasem, czas pomodoru do pracy",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Kalkulator Zodiak",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Kalkulator tanda zodiak | Temukan apa yang diungkapkan bagan kelahiran Anda",
         "meta_description": "Temukan apa yang diungkapkan tanda zodiak Anda tentang Anda. Kalkulator kami memberikan pembacaan yang akurat dengan wawasan tentang karakter, hubungan, dan takdir Anda.",
         "meta_keyword": "Kalkulator tanda zodiak, kalkulator bagan kelahiran, apa tanda zodiak saya, grafik kelahiran astrologi, bagan kelahiran gratis, kalkulator bagan kelahiran, kalkulator tanda yang naik, kalkulator tanda bulan, temukan tanda zodiak saya, kalkulator kompatibilitas zodiak, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator, kalkulator. Bagan Kelahiran Astrologi, Pencari Zodiak, Hitung Tanda Zodiak, Zodiak Ulang Tahun, Bagan Natal Gratis, Kalkulator Waktu Lahir, Bagan Kelahiran Penuh, Kalkulator Bagan Astrologi, Tanda Zodiak berdasarkan Tanggal Lahir, Kalkulator Tiga Besar, Bagan Kelahiran yang Akurat",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Timer Pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Timer Pomodoro | Tingkatkan produktivitas dengan alat pengatur waktu fokus & studi",
+        "meta_description": "Pengatur waktu pomodoro gratis untuk meningkatkan produktivitas. Interval khusus 25/5 menit, fokus musik dan pelacakan fokus. Sempurna untuk bekerja, belajar, dan fokus. Coba sekarang!",
+        "meta_keyword": "Timer Pomodoro, Teknik Pomodoro, Pengatur Waktu Fokus, Pengatur Waktu Produktivitas, Timer Tomat, Pengatur Waktu Studi, Pengatur Waktu Kerja, Alat Manajemen Waktu, Pengatur Waktu 25 Menit, Pelacak Pomodoro, Pomodoro Aplikasi, Timer Fokus, Timer Produktivitas, POMODOR POMODORO Online, Timer Fokus Work, Studi Fokus Studi Fokus Studi Fokus Studies Time Timer, Timer Pomodoro dengan Musik, Pengatur Waktu Fokus Online, Timer dan Perencana Pomodoro, Timer yang Dapat Disesuaikan, Timer Pomodoro Gratis, Pomodoro Digital, Alat Produktivitas Web, Kalkulator Manajemen Waktu, Timer Pomodoro untuk Bekerja",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

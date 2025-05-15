@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Calculateur de zodiaque",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Calculateur de signe du zodiaque | Découvrez ce que votre organisme de naissance révèle",
         "meta_description": "Découvrez ce que votre signe du zodiaque révèle sur vous. Notre calculatrice fournit des lectures précises avec des informations sur votre caractère, vos relations et votre destin.",
         "meta_keyword": "Calculateur de signe du zodiaque, calculatrice du graphique de naissance, qu'est-ce que mon signe du zodiaque, le graphique de naissance en astrologie, le graphique de naissance gratuit, la calculatrice du diagramme natal, la calculatrice de signes en hausse, la calculatrice de signes de la lune, le signe du zodiaque, la calculatrice de compatibilité du zodiaque, la lecture du graphique de naissance, le calculatrice de la lune de la lune, le calculatrice de celles Calculatrice du tableau de naissance védique, carte de naissance astrologique, recherche de zodiaque, calcul du signe du zodiaque, zodiaque d'anniversaire, carte natale libre, calculatrice de temps de naissance, carte de naissance complète, calculateur d'astrologie, signe du zodiaque",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Minuterie de pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Booster la productivité avec l'outil de mise au point et d'étude",
+        "meta_description": "Timer Pomodoro gratuit pour stimuler la productivité. Intervalles personnalisés de 25/5 minutes, fonctionnalités de musique et de suivi. Parfait pour le travail, l'étude et la concentration. Essayez maintenant!",
+        "meta_keyword": "Pomodoro Timer, technique Pomodoro, minuteur de mise au point, minuteur de productivité, minuteur de tomate, minuteur d'étude, minuteur de travail, outil de gestion du temps, temporisateur de 25 minutes, Pomodoro Tracker, application Pomodoro, Technique de mise au point, méthode de productivité, outil de chronométrage, application de temporisation de la pomodoro minuterie, minuteur de pomodoro avec musique, minuteur de mise au point en ligne, minuteur de pomodoro et planificateur, minuterie personnalisable, tireur de pomodoro gratuit, pomodoro numérique, outil de productivité Web, calculatrice de gestion du temps, temporisateur Pomodoro pour le travail",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

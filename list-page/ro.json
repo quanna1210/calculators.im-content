@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Calculator zodiac",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Calculatorul semnului zodiacal | Descoperiți ce vă dezvăluie graficul dvs. de naștere",
         "meta_description": "Descoperiți ce vă dezvăluie semnul dvs. Zodiac despre voi. Calculatorul nostru oferă lecturi exacte cu informații despre caracterul, relațiile și destinul tău.",
         "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, vedic Calculator grafic de naștere, grafic de naștere astrologică, căutător de zodiac, calculați semnul zodiacului, zodiacul de ziua de naștere, graficul natal gratuit, calculatorul timpului de naștere, graficul complet de naștere, calculatorul graficului de astrologie, semnul zodiacului până la data nașterii, calculatorul trei mari, graficul de naștere precis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Timer pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Sporiți productivitatea cu instrumentul de cronometru Focus și Study",
+        "meta_description": "Cronometru Pomodoro gratuit pentru a stimula productivitatea. Intervale personalizate de 25/5 minute, muzică focalizată și caracteristici de urmărire. Perfect pentru muncă, studiu și concentrare. Încearcă acum!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro Timer, Pomodoro Timer cu muzică, Timer Focus Online, Timer Pomodoro și Planificator, Timer personalizabil, Timer Pomodoro gratuit, Pomodoro digital, Instrument de productivitate Web, Calculator de gestionare a timpului, Pomodoro Timer pentru lucru",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

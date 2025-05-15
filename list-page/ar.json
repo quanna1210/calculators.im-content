@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "حاسبة زودياك",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "حاسبة علامة زودياك | اكتشف ما يكشفه مخطط ميلادك",
         "meta_description": "اكتشف ما تكشفه علامة البروج عنك. توفر حاسبةنا قراءات دقيقة مع رؤى حول شخصيتك وعلاقاتك ومصيرك.",
         "meta_keyword": "آلة حاسبة لعلامة البروج ، حاسبة مخطط المواليد ، ما هي علامة البروج ، مخطط ميلاد علم التنجيم ، مخطط ميلاد مجاني ، حاسبة مخطط الرسم البياني ، حاسبة لافتة الصعود ، حاسبة علامة القمر ، ابحث عن علامة زودياك الخاصة بي ، حاسبة توافق zodiac ، حاسبة كاتوليات ، صينية ، حاسبة كاتبة ، صينية ، حاسبة ، حاسبة مخطط الولادة الفيدية ، مخطط الولادة الفلكي ، الباحث البروجي ، حساب علامة البروج ، زودياك عيد ميلاد ، مخطط خالٍ من الولادة ، حاسبة وقت الميلاد ، مخطط الولادة الكامل ، حاسبة مخطط التنجيم ، علامة زودياك حسب تاريخ الولادة ، آلة حاسبة ثلاثية كبيرة ، مخطط ميلاد دقيق للولادة.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "POMODORO TIMER",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | زيادة الإنتاجية مع أداة توقيت التركيز والدراسة",
+        "meta_description": "مجانا Pomodoro Timer لتعزيز الإنتاجية. فترات مخصصة لمدة 25/5 دقيقة ، وتركيز الموسيقى وميزات التتبع. مثالي للعمل والدراسة والتركيز. حاول الآن!",
+        "meta_keyword": "Pomodoro Timer ، تقنية Pomodoro ، توقيت التركيز ، مؤقت الإنتاجية ، مؤقت الطماطم ، مؤقت الدراسة ، توقيت العمل ، أداة إدارة الوقت ، توقيت 25 دقيقة ، Pomodoro Tracker ، Pomodoro App ، Time Transique ، Time Pomodo Timer ، Pomodo Timer Timer Timer على الإنترنت ، توقيت التركيز على Time Pomodo ، Pomodo Timer App ، Pomodo Timer App ، Pomodo Timer App ، Timer ، Timer Pomodoro مع الموسيقى ، توقيت التركيز عبر الإنترنت ، Pomodoro Timer and Planner ، Timerable Timer ، Timer Free Pomodoro ، Pomodoro الرقمية ، أداة إنتاجية الويب ، حاسبة إدارة الوقت ، Timer Pomodoro للعمل",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

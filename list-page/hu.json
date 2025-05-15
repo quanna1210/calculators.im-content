@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Állatöv számológép",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Zodiac jel számológép | Fedezze fel, mit fed fel a születési táblázata",
         "meta_description": "Fedezze fel, amit a zodiákus jele feltár rólad. Számolónk pontos leolvasást nyújt a karakteredről, a kapcsolatokról és a sorsodról.",
         "meta_keyword": "Zodiac jel számológép, születési diagram -kalkulátor, mi a zodiac jel, asztrológia születési diagram, ingyenes születési táblázat, natal diagram -kalkulátor, emelkedő jel számológép, holdjel -számológép, keresése a zodiac jelem, a zodiac kompatibilitási számológép, a születési diagram leolvasása, az asztrológia számológép, a naphold -számológép, az Ascendant kalkulátor, a Zodiac születési diagram, a kínai zodiac számológép, a Sidereals Dragulator, a Horroly Caloszkóp, a Horoszkóp számológép, Számológép, asztrológiai születési diagram, állatöv -kereső, Zodiac jel kiszámítása, születésnapi zodiac, ingyenes szülési diagram, születési idő kalkulátor, teljes születési diagram, asztrológiai diagram -kalkulátor, állatöv jel születési dátum szerint, nagy három számológép, pontos születési diagram",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro időzítő",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro időzítő | Fokozza a termelékenységet a fókusz és a tanulmányi időzítő eszközzel",
+        "meta_description": "Ingyenes pomodoro időzítő a termelékenység fokozására. Egyéni 25/5 perces intervallumok, fókuszzene és nyomkövetési funkciók. Tökéletes munkához, tanulmányozáshoz és összpontosításhoz. Próbáld ki most!",
+        "meta_keyword": "Pomodoro időzítő, pomodoro technika, fókusz időzítő, termelékenységi időzítő, paradicsomos időzítő, tanulmányi időzítő, munkaidőzítő, időkezelő eszköz, 25 perces időzítő, pomodoro tracker, pomodoro alkalmazás, fókusz technika, termelékenységi módszer, break időzítő, pomodoro időzítő online, munkafókusz -időzítő, tanulmányi fókuszos időzítő, időblokkoló eszköz, pomodoro alkalmazás, Pomodoro Timer, Perm Predicity, Perm Predicity, Perm Perm Paterivity, Perm Perm Paterivity, Predice Timer, Permetice Timer, Permetice Timer, Permetice Timer, Predice Timer, Predice Timer, Permetive Timer, Termékek, a Pomodoro Timer, a Poomodoro Timer, Időzítő, pomodoro időzítő zenével, online fókusz időzítő, pomodoro időzítő és tervező, testreszabható időzítő, ingyenes pomodoro időzítő, digitális pomodoro, webes termelékenységi eszköz, időkezelési számológép, Pomodoro időzítő a munkához",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

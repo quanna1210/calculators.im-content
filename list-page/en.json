@@ -465,5 +465,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro Timer",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Boost Productivity with Focus & Study Timer Tool",
+        "meta_description": "Free Pomodoro Timer to boost productivity. Custom 25/5 minute intervals, focus music and tracking features. Perfect for work, study and focus. Try now!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro timer, pomodoro timer with music, online focus timer, pomodoro timer and planner, customizable timer, free pomodoro timer, digital pomodoro, web productivity tool, time management calculator, pomodoro timer for work",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

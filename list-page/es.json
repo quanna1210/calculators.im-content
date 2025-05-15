@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Calculadora del zodiaco",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Calculadora de signo del zodiaco | Descubre lo que revela su tabla de nacimiento",
         "meta_description": "Descubra lo que revela su signo del zodiaco sobre usted. Nuestra calculadora proporciona lecturas precisas con ideas sobre su carácter, relaciones y destino.",
         "meta_keyword": "Calculadora de signos de zodiaco, calculadora de gráficos nacionales, cuál es mi signo del zodiaco, tabla de nacimiento de la astrología, tabla de nacimiento libre, calculadora de gráficos natal, calculadora de signos ascendentes, calculadora de signos lunares, encontrar mi signo zodiaco, calculadora de compatibilidad zodiacal, lectura de la tabla de natalidad, calculador de calculator del horófope de la luna solar, calculador ascendente, cazmulador de natalidad zodiac, cartón de cártulas de natalidad, calculator de la tabla de natalidad, calculator del horizonte del horizonte de la luna, el calculador ascendente, el cartel natal de Zodiac, el calculador de la tabla del sider del sideral, el calculador del calculador del sideral del sider, el calculador del horizonte de la luna. Calculadora de gráficos nacionales védicos, gráfico de natalidad astrológica, buscador de zodiacos, calcule el signo del zodiaco, zodiaco de cumpleaños, gráfico natal libre, calculadora de tiempo de nacimiento, tabla de natal",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Temporizador de pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Temporizador de Pomodoro | Aumentar la productividad con la herramienta de temporizador de enfoque y estudio",
+        "meta_description": "Temporizador de pomodoro libre para aumentar la productividad. Intervalos personalizados de 25/5 minutos, música de enfoque y características de seguimiento. Perfecto para el trabajo, el estudio y el enfoque. ¡Intenta ahora!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro Temporizador, Temporizador Pomodoro con música, temporizador de enfoque en línea, temporizador y planificador de Pomodoro, temporizador personalizable, temporizador de pomodoro libre, Pomodoro digital, herramienta de productividad web, calculadora de administración de tiempo, temporizador de Pomodoro para trabajar",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

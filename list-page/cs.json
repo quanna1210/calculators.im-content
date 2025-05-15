@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Kalkulačka zvěrokruhu",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Kalkulačka znamení zvěrokruhu | Objevte, co odhaluje váš narození",
         "meta_description": "Objevte, co o vás odhaluje vaše znamení zvěrokruhu. Naše kalkulačka poskytuje přesné odečty s poznatky o vašem charakteru, vztazích a osudu.",
         "meta_keyword": "kalkulačka znaku zvěrokruhu, kalkulačka grafu narození, jaká je moje znamení zvěrokruhu, astrologický graf narození, graf narození, kalkulačka narození, kalkulačka na rostoucí značce, kalkulačka měsíce, najděte můj znak Zodiac, Kalkulačka Zodiac Compatibility, Číncov, čínská kalkulační počítač, HorcOnt, sirscopel, Síra, stravovače, stravová konclulace, stravová strana, stravová strana, stravová konstrukce, stravová strana, stravová strana. Kalkulačka kalkulačky, kalkulačka narození védského narození, astrologický graf narození, vyhledávač zvěrokruhu, vypočítat znamení zvěrokruhu, Zodiac Birthday, Free Natal Graf, Kalkulačka narození, graf celého narození, Kalkulačka astrologie, Značka Zodiac, značka Zodiac, Big Three Calculator, přesný graf narození, přesný narození graf",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Časovač Pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro časovač | Zvyšte produktivitu s nástrojem Focus & Study Timer",
+        "meta_description": "Zdarma časovač Pomodoro pro zvýšení produktivity. Vlastní intervaly 25/5 minuty, zaostření hudby a sledovací funkce. Ideální pro práci, studium a zaměření. Zkuste to hned!",
+        "meta_keyword": "Časovač Pomodoro, technika Pomodoro, časovač zaostření, časovač produktivity, časovač rajčat, časovač studie, pracovní časovač, nástroj pro správu času, 25minutový časovač, sledovač Pomodoro, App Pomodoro, Technika zaostření, metoda produktivity, nejlépe, časovač, nejlépe, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač, časovač. Časovač Pomodoro, časovač Pomodoro s hudbou, časovač online zaostření, časovač a plánovač Pomodoro, přizpůsobitelný časovač, časovač Pomodoro, digitální Pomodoro, nástroj pro produktivitu webu, kalkulačka pro správu času, Pomodoro časovač pro práci",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

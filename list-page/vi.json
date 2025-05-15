@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Máy tính hoàng đạo",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Máy tính dấu hiệu Zodiac | Khám phá những gì biểu đồ sinh của bạn tiết lộ",
         "meta_description": "Khám phá những gì dấu hiệu hoàng đạo của bạn tiết lộ về bạn. Máy tính của chúng tôi cung cấp các bài đọc chính xác với những hiểu biết về tính cách, mối quan hệ và định mệnh của bạn.",
         "meta_keyword": "Máy tính dấu hiệu hoàng đạo, máy tính biểu đồ sinh, dấu hiệu hoàng đạo của tôi là gì, biểu đồ sinh chiêm tinh, biểu đồ sinh miễn phí, máy tính biểu đồ natal, máy tính dấu hiệu tăng, máy tính dấu hiệu mặt trăng, tìm dấu hiệu hoàng đạo của tôi Máy tính biểu đồ sinh Vệ đà, biểu đồ sinh chiêm tinh, công cụ tìm hoàng đạo, tính toán hoàng đạo, cung hoàng đạo sinh nhật, biểu đồ tự do, máy tính thời gian sinh, biểu đồ sinh đầy đủ, máy tính biểu đồ chiêm tinh",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Hẹn giờ pomodoro",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Hẹn giờ pomodoro | Tăng năng suất với công cụ hẹn giờ tập trung và nghiên cứu",
+        "meta_description": "Hẹn giờ pomodoro miễn phí để tăng năng suất. Khoảng thời gian 25/5 tùy chỉnh, tập trung vào nhạc và tính năng theo dõi. Hoàn hảo cho công việc, học tập và tập trung. Hãy thử ngay bây giờ!",
+        "meta_keyword": "Đồng hồ bấm giờ, kỹ thuật Pomodoro, hẹn giờ tập trung, hẹn giờ năng suất, hẹn giờ cà chua, hẹn giờ học, bộ hẹn giờ làm việc, công cụ quản lý thời gian, hẹn giờ 25 phút, máy theo dõi pomodoro, ứng dụng pomodoro, thời gian làm việc của máy tính thời gian, thời gian làm việc của POMODORO. hẹn giờ, đồng hồ bấm giờ pomodoro với âm nhạc, hẹn giờ tập trung trực tuyến, đồng hồ bấm giờ pomodoro, bộ hẹn giờ có thể tùy chỉnh, hẹn giờ pomodoro miễn phí, pomodoro kỹ thuật số, công cụ năng suất web, máy tính quản lý thời gian, hẹn giờ pomodoro cho công việc",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Zodiac -calculator",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Zodiac tekencalculator | Ontdek wat uw geboortekaartje onthult",
         "meta_description": "Ontdek wat uw sterrenbeeld aan u onthult. Onze calculator biedt nauwkeurige metingen met inzichten over uw karakter, relaties en bestemming.",
         "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, Vedische geboortekaartcalculator, astrologisch geboortekaart, dierenriemzoeker, bereken sterrenbeeld, verjaardagsterren, gratis geboortetijdcalculator, geboortetijd, volledige geboortekaart, astrologiecalculator, sterrenbeeld door geboortedatum, grote drie rekenmachine, nauwkeurige geboortekaart",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro -timer",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Boost de productiviteit met focus & studietimer tool",
+        "meta_description": "Gratis pomodoro -timer om de productiviteit te stimuleren. Aangepaste intervallen van 25/5 minuten, focus muziek en trackingfuncties. Perfect voor werk, studie en focus. Probeer het nu!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro Timer, pomodoro -timer met muziek, online focus timer, pomodoro timer en planner, aanpasbare timer, gratis pomodoro -timer, digitale pomodoro, webproductiviteitstool, time management calculator, pomodoro timer voor werk",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

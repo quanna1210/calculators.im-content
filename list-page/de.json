@@ -454,14 +454,26 @@
         "orders": "10000"
     },
     {
-       "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "id": "38",
         "title": "Tierkreisrechner",
         "slug": "zodiac-calculator",
         "parent_id": "15",
         "meta_title": "Tierkreiszeichenrechner | Entdecken Sie, was Ihre Geburtsdiagramm enthüllt",
         "meta_description": "Entdecken Sie, was Ihr Tierkreiszeichen über Sie zeigt. Unser Taschenrechner bietet genaue Messwerte mit Einsichten über Ihren Charakter, Ihre Beziehungen und Ihr Schicksal.",
         "meta_keyword": "zodiac sign calculator, birth chart calculator, what is my zodiac sign, astrology birth chart, free birth chart, natal chart calculator, rising sign calculator, moon sign calculator, find my zodiac sign, zodiac compatibility calculator, birth chart reading, astrology calculator, sun moon rising calculator, ascendant calculator, zodiac birth chart, chinese zodiac calculator, sidereal chart calculator, horoscope calculator, vedic birth chart Taschenrechner, astrologische Geburtsdiagramm, Zodiac -Finder, Berechnung des Tierkreiszeichens, Geburtstagskreisgottesschild, freies Geburtshilfe -Taschenrechner, Vollgeburtsdiagramm, Astrologie -Tabellenrechner, Tierkreiszeichen nach Geburtsdatum, Big Three Calculator, genaue Geburtsdiagramm",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "39",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "title": "Pomodoro -Timer",
+        "slug": "pomodoro-timer",
+        "parent_id": "15",
+        "meta_title": "Pomodoro Timer | Steigern Sie die Produktivität mit Focus & Study Timer Tool",
+        "meta_description": "Kostenloser Pomodoro -Timer zur Steigerung der Produktivität. Benutzerdefinierte 25/5 -Minuten -Intervalle, Fokusmusik und Tracking -Funktionen. Perfekt für Arbeit, Studium und Fokus. Versuchen Sie es jetzt!",
+        "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro Timer, Pomodoro -Timer mit Musik, Online -Fokus -Timer, Pomodoro -Timer und Planer, anpassbarer Timer, kostenloser Pomodoro -Timer, digitaler Pomodoro, Webproduktivitätstool, Zeitmanagement -Rechner, Pomodoro -Timer für Arbeit",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
