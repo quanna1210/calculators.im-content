@@ -46,6 +46,8 @@
         "Fixed Payment",
         "Monthly Payment Required To Clear Debt",
         "Time Required To Clear Debt",
-        "A monthly payment of $300.00 is not enough to pay off the principal and interest of the loan. A monthly payment of more than $500.00 is needed to reduce the debt on the loan."
+        "A monthly payment of $300.00 is not enough to pay off the principal and interest of the loan. A monthly payment of more than $500.00 is needed to reduce the debt on the loan.",
+        "Payment Calculator: Loan Calculation Tool",
+        "The Payment Calculator helps you easily estimate monthly loan payments based on interest rate, loan amount, and term length"
     ]
 }
