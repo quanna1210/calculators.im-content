@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Generador de código QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Generador de código QR gratuito en línea | Crear códigos QR personalizados con logotipo",
+        "meta_description": "Cree códigos QR personalizados gratuitos para URL, texto, contacto, WiFi, correo electrónico, SMS, teléfono, mapa, evento, pago, criptografía, pago de la UE, producto, social y PDF. ¡Track escaneos y descargue al instante!",
+        "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code for Menú, código QR para contacto, código QR con logoretryclaude puede cometer errores. Por favor, verifique las fuentes citadas.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

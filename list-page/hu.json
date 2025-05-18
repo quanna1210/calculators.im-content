@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR kódgenerátor",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Ingyenes QR -kódgenerátor online | Hozzon létre egyéni QR -kódokat logóval",
+        "meta_description": "Hozzon létre ingyenes egyéni QR -kódokat az URL, a szöveg, a kapcsolattartó, a wifi, az e -mail, az SMS, a telefon, a térkép, az esemény, a fizetés, a kripto, az EU fizetés, a termék, a társadalmi és a PDF számára. Kövesse nyomon a szkennelést és töltse le azonnal!",
+        "meta_keyword": "QR kódgenerátor, ingyenes QR -kódgenerátor, online QR -kódgenerátor, QR -kódkészítő, Egyéni QR kód, QR kód létrehozása, QR kód beolvasása, dinamikus QR -kód, QR -kód -szkenner, QR -kód, QR QR kód, VCARD QR kód, PDF Kód, QR kód, QR -kód, QR -kód, qR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR -kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód QR -kód a kapcsolattartóhoz, a QR -kód logoretryclaude -val hibákat követhet el. Kérjük, ellenőrizze duplán ellenőrizze az idézett forrásokat.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

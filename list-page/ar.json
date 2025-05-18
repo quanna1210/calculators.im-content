@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "مولد رمز الاستجابة السريعة",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "مولد رمز QR مجاني على الانترنت | إنشاء رموز QR مخصصة مع الشعار",
+        "meta_description": "قم بإنشاء رموز QR مخصصة مجانية لعنوان URL ، والنص ، والاتصال ، والواي فاي ، والبريد الإلكتروني ، والرسائل القصيرة ، والهاتف ، والخريطة ، والدفع ، والتشفير ، ودفع الاتحاد الأوروبي ، والمنتج ، والاجتماعية ، و PDF. تتبع عمليات المسح والتنزيل على الفور!",
+        "meta_keyword": "مولد رمز QR ، مولد رمز QR مجاني ، مولد رمز QR عبر الإنترنت ، صانع رمز QR ، رمز QR مخصص ، رمز QR CREATE ، مسح رمز QR ، رمز QR الديناميكي ، ماسحة رمز QR ، رمز QR لموقع الويب ، رمز QR بطاقة العمل ، رمز QR ، رمز QR ، رمز QR ، red red ، red red ، red red ، red red ، القائمة ، رمز الاستجابة السريعة للاتصال ، يمكن أن يرتكب رمز الاستجابة السريعة مع LogoretryClaude أخطاء. يرجى التحقق المزدوج مصادر.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

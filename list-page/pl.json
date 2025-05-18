@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Generator kodu QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Darmowy generator kodu QR online | Utwórz niestandardowe kody QR za pomocą logo",
+        "meta_description": "Utwórz bezpłatne niestandardowe kody QR dla adresu URL, tekstu, kontaktu, Wi -Fi, e -maila, SMS, telefonu, mapy, zdarzenia, płatności, kryptografii, wynagrodzenia EU, produktu, społecznościowego i pdf. Śledź skanowanie i pobieraj natychmiast!",
+        "meta_keyword": "Generator kodu QR, bezpłatny generator kodu QR, Online QR Generator kodu, producent kodu QR, niestandardowy kod QR, kod QR Utwórz, skanuj kod QR, dynamiczny kod QR, kod kodu QR, kod QR dla strony internetowej, kod qr kod qr kod qr kod kod qr kod kod qr kod kod qr Code Projekt kod QR, qrr, qr W menu kod QR do kontaktu, kod QR z LogoretricClaude może popełniać błędy. Prosimy o dwukrotnie sprawdzone cytowane źródła.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

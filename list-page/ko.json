@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR 코드 생성기",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "무료 QR 코드 생성기 온라인 | 로고로 사용자 정의 QR 코드를 만듭니다",
+        "meta_description": "URL, 텍스트, 연락처, Wi -Fi, 이메일, SMS, 전화,지도, 이벤트, 지불, Crypto, EU Pay, 제품, 소셜 및 PDF에 대한 무료 사용자 정의 QR 코드를 만듭니다. 스캔을 추적하고 즉시 다운로드하십시오!",
+        "meta_keyword": "QR 코드 생성기, 무료 QR 코드 생성기, 온라인 QR 코드 생성기, QR 코드 메이커, 사용자 정의 QR 코드, QR 코드 작성, QR 코드 스캔, QR 코드 스캔, 동적 QR 코드, 웹 사이트 용 QR 코드, 비즈니스 카드 QR 코드, VCARD QR 코드, PDF QR 코드, QR 코드 추적, QR 코드 다운로드, QR 코드, QR 코드, QR 코드, QR 코드, QR 코드, QR 코드, QR 코드, 메뉴, 연락처 QR 코드, logoretryclaude가있는 QR 코드는 실수를 할 수 있습니다. 인용 된 출처를 다시 확인하십시오.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

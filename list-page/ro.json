@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Generator de cod QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Generator de cod QR gratuit online | Creați coduri QR personalizate cu logo",
+        "meta_description": "Creați coduri QR personalizate gratuite pentru URL, text, contact, WiFi, e -mail, SMS, telefon, hartă, eveniment, plată, cripto, salariu UE, produs, social și PDF. Urmăriți scanări și descărcați instantaneu!",
+        "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code Pentru meniu, codul QR pentru contact, codul QR cu LogoretryClaude poate face greșeli. Vă rugăm să verificați dublu surse citate.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

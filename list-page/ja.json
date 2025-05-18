@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QRコードジェネレーター",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "無料のQRコードジェネレーターオンライン|ロゴを使用してカスタムQRコードを作成します",
+        "meta_description": "URL、テキスト、連絡先、WiFi、電子メール、SMS、電話、マップ、イベント、イベント、支払い、Crypto、EU Pay、製品、ソーシャル、PDFの無料のカスタムQRコードを作成します。スキャンを追跡し、すぐにダウンロードしてください！",
+        "meta_keyword": "QRコードジェネレーター、無料QRコードジェネレーター、オンラインQRコードジェネレーター、QRコードメーカー、カスタムQRコード、QRコードの作成、スキャンQRコード、ダイナミックQRコード、QRコードスキャン、QRコード、QRコードのWebサイト、名刺QRコード、VCARD QRコード、PDF QRコード、QRコード追跡、QRコードアニュアル、QRコード、QRコード、QRコード、QRコード、QRコードコードメニュー、連絡先のQRコードの場合、logoretryClaudeを使用したQRコードは間違いを犯す可能性があります。引用されたソースを再確認してください。",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

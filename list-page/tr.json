@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR kod üreticisi",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Ücretsiz QR Kod Jeneratörü Online | Logo ile özel QR kodları oluşturun",
+        "meta_description": "URL, Metin, İletişim, WiFi, E -posta, SMS, Telefon, Harita, Etkinlik, Ödeme, Kripto, AB Ödeme, Ürün, Sosyal ve PDF için ücretsiz özel QR kodları oluşturun. Taramaları takip edin ve anında indirin!",
+        "meta_keyword": "QR Kod Üreticisi, Ücretsiz QR Kod Üreticisi, Çevrimiçi QR Kod Üreticisi, QR Kod Yapımcısı, Özel QR Kodu, QR Kod oluşturma, Tarama QR Kod, Dinamik QR Kodu, Vcard QR Kod, Kart Kodu, Vcard QR Kod, Kart Kodu, Vcard QR Kod, PDF QR Kodu, QR Kod Kod, QR Kod Kod, QR Kod Kod İzleme, QR Kod İzleme, QR Kod Kod, PD Qu QR kodu, QR kod kodu, kartı q için q için, qr kodu, q için Menü için qr kodu iletişim, logoRetryClaude ile QR kodu hata yapabilir. Lütfen alıntı yapılan kaynakları iki kez kontrol edin.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

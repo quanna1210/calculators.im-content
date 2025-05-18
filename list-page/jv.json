@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR kode Generator",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Qr kode generator online | Gawe kode QR Custom kanthi logo",
+        "meta_description": "Gawe kode QR Adat khusus kanggo URL, Teks, Hubungi, Wifi, Email, SMS, Paypto, Pay, Product, Sosial, lan Pdf. Trek Scan lan Download Langsung!",
+        "meta_keyword": "generator QR kode, Generator QR kode QR, Generator Kode QR, kode QR Code, kode QR Code, QR Code, QR Code, QR Code, QR Code, QR Code, QR Code, Code QR, kode QR, kode QR, kode QR, kode QR Kode QR kanggo kontak, QR Code karo logacretryClaude bisa nggawe kesalahan. Mangga priksa sumber sing dikutip pindho.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

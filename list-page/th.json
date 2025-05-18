@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "เครื่องกำเนิดรหัส QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "เครื่องกำเนิดรหัส QR ฟรีออนไลน์ | สร้างรหัส QR ที่กำหนดเองด้วยโลโก้",
+        "meta_description": "สร้างรหัส QR ที่กำหนดเองฟรีสำหรับ URL, ข้อความ, ติดต่อ, wifi, อีเมล, SMS, โทรศัพท์, แผนที่, กิจกรรม, การชำระเงิน, crypto, EU Pay, ผลิตภัณฑ์, Social และ PDF ติดตามสแกนและดาวน์โหลดทันที!",
+        "meta_keyword": "เครื่องกำเนิดรหัส QR, เครื่องกำเนิดรหัส QR ฟรี, ตัวสร้างรหัส QR ออนไลน์, เครื่องสร้างรหัส QR, รหัส QR ที่กำหนดเอง, รหัส QR สร้าง, สแกนรหัส QR, รหัส QR แบบไดนามิก, สแกนเนอร์รหัส QR, รหัส QR รหัสธุรกิจ QCARD, รหัส QC สำหรับเมนูรหัส QR สำหรับการติดต่อรหัส QR ที่มี logoretryClaude สามารถทำผิดพลาดได้ โปรดตรวจสอบแหล่งข้อมูลที่อ้างถึงสองครั้ง",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

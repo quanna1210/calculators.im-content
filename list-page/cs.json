@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Generátor kódu QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Zdarma generátor QR kódu online | Vytvořte vlastní QR kódy s logem",
+        "meta_description": "Vytvořte bezplatné vlastní QR kódy pro URL, text, kontakt, WiFi, e -mail, SMS, telefon, mapa, událost, platbu, krypto, eu, produkt, sociální a PDF. Sledujte skenování a stahujte okamžitě!",
+        "meta_keyword": "Generátor QR kódu, generátor QR kódu zdarma, generátor QR kódu, generátor QR kódu, výrobce QR kódu, vlastní QR kód, QR kód, skenování QR kódu, dynamický QR kód, QR kód, QR kód pro webové stránky, kód qr kódu, QR kód, QR kód pro QR kód pro qr kód pro qr kód pro qr kód pro qr kód pro qr kód, qr kód pro qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód, qr kód. Nabídka, QR kód pro kontakt, QR kód s logoretryclaude může dělat chyby. Zdroje citovaného prosím dvakrát zkontrolujte.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

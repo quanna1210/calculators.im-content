@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR -код генератор",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Бесплатный QR -код генератор онлайн | Создать пользовательские QR -коды с помощью логотипа",
+        "meta_description": "Создайте бесплатные пользовательские QR -коды для URL, текста, контакта, Wi -Fi, электронной почты, SMS, телефона, карты, событий, оплаты, криптографии, оплаты ЕС, продукта, социального и PDF. Сканирование треков и скачать мгновенно!",
+        "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code Для меню, QR -кода для контакта, QR -код с LogoretryClaude может совершать ошибки. Пожалуйста, проверьте, цитируемые источники.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

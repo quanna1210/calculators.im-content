@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Generator kode QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Generator Kode QR Gratis Online | Buat kode QR khusus dengan logo",
+        "meta_description": "Buat kode QR khusus gratis untuk URL, teks, kontak, wifi, email, SMS, telepon, peta, acara, pembayaran, crypto, pembayaran UE, produk, sosial, dan pdf. Lacak pemindaian dan unduh secara instan!",
+        "meta_keyword": "generator kode qr, generator kode qr gratis, generator kode qr online, pembuat kode qr, kode qr khusus, kode qr buat, pemindaian kode qr, kode qr dinamis, pemindai kode qr, kode qr kode qr, kode qr kartu qr, qr code, qr code, qr code qr code, qr code qr code, qr code qr anance qr, qr code qr code qr, qr code qr code qr, qr code qr code qr code qr, qr code qr code qr, qr code qr code qr, qr code qr code qr, qr code qr code qr code qr qr Untuk menu, kode QR untuk kontak, kode QR dengan LogoretryClaude dapat membuat kesalahan. Harap periksa kembali sumber yang dikutip.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

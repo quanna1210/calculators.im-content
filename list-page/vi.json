@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "Trình tạo mã QR",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Trình tạo mã QR miễn phí trực tuyến | Tạo mã QR tùy chỉnh với logo",
+        "meta_description": "Tạo mã QR tùy chỉnh miễn phí cho URL, văn bản, liên hệ, wifi, email, SMS, điện thoại, bản đồ, sự kiện, thanh toán, tiền điện tử, thanh toán EU, sản phẩm, xã hội và pdf. Theo dõi quét và tải xuống ngay lập tức!",
+        "meta_keyword": "Trình tạo mã mã QR, Trình tạo mã QR miễn phí, Trình tạo mã QR trực tuyến, Nhà sản xuất mã QR, Mã QR tùy chỉnh, Mã QR, Quét mã QR, Mã QR động, Máy quét mã QR, Mã QR, Mã QR, mã QR, mã QR Menu, mã QR cho liên hệ, mã QR với LogoretyClaude có thể mắc lỗi. Vui lòng kiểm tra kỹ các nguồn được trích dẫn.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

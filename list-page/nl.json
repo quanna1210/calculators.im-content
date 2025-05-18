@@ -477,5 +477,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "40",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "title": "QR -codegenerator",
+        "slug": "qr-code-generator",
+        "parent_id": "15",
+        "meta_title": "Gratis QR -codegenerator online | Maak aangepaste QR -codes met logo",
+        "meta_description": "Maak gratis aangepaste QR -codes voor URL, tekst, contact, wifi, e -mail, sms, telefoon, kaart, evenement, betaling, crypto, EU -betaling, product, sociaal en PDF. Volg scans en download direct!",
+        "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code Voor menu, QR -code voor contact, QR -code met LogoretryClade kan fouten maken. Controleer de aangehaalde bronnen dubbel.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
