@@ -1,5 +1,20 @@
 [
     {
+        "id": "27",
+        "title": "QR Codes for Small Business: Proven Growth Strategies That Delivered 1,396% ROI in 2025",
+        "intro" : "Discover how small businesses are leveraging QR codes to boost customer engagement, streamline payments, and achieve remarkable ROI. This comprehensive guide reveals practical strategies and real success stories from businesses that transformed simple pixels into profit.",
+        "slug": "qr-codes-for-small-business-proven-growth-strategies-that-delivered-1396-roi-in-2025",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/image/27/thumb.jpg",
+        "meta_title": "QR Codes for Small Business: Growth Strategies & Success Stories | 2025 Guide",
+        "meta_description": "Discover how small businesses are achieving remarkable growth with QR code technology. Learn implementation strategies, ROI benefits, and real success stories to boost your business in 2025.",
+        "meta_keyword": "QR codes for small business, small business QR implementation, QR code success stories, QR code marketing strategies, QR code ROI, small business growth, contactless technology, customer engagement QR",
+        "status": "1",
+        "category": "Utilities",
+        "relate_id": "",
+        "relate_link": "/qr-code-generator",
+        "created_date_int" : "1746847429"
+    },
+    {
         "id": "26",
         "title": "Discover Your Cosmic Identity: Calculate Your Zodiac Sign & Exact Age Together",
         "intro" : "Find your zodiac sign by birthdate and calculate your exact age with our free calculator. Discover cosmic insights about your personality, compatibility, and life path in seconds!",
@@ -9,7 +24,7 @@
         "meta_description": "Find your zodiac sign by birthdate and calculate your exact age with our free calculator. Discover cosmic insights about your personality, compatibility, and life path in seconds!",
         "meta_keyword": "zodiac sign calculator, age calculator, birth chart calculator, calculate zodiac sign by birthdate, calculate age online, zodiac compatibility calculator, birth date calculator, zodiac sign finder, calculate age from birth date, zodiac sign by date of birth, find my zodiac sign, accurate age calculator, zodiac sign dates, online zodiac calculator, astrology birth chart calculator, birthday calculator age, what is my zodiac sign, birth date to age calculator, horoscope calculator, rising sign calculator, calculate your zodiac sign, age difference calculator, lunar age calculator, moon sign calculator, sun sign calculator, ascendant calculator, planetary age calculator, astrology age calculator, star sign calculator, personalized zodiac reading",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "21,23,25",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746847429"
@@ -24,7 +39,7 @@
         "meta_description": "Discover how our insurance age calculator helps you find better rates and policy terms. Learn exact calculation methods trusted by experts for accurate insurance quotes.",
         "meta_keyword": "age calculator for insurance, insurance age calculator, policy age calculator, insurance premium calculator by age, how to calculate insurance age, age calculation for life insurance, insurance policy age calculator, age calculator for insurance quotes, insurance rates by age calculator, how to use age calculator for insurance, best age calculator for insurance policies, insurance age calculation methods, insurance premium by age calculator, age determination for insurance policies, insurance policy term calculator, exact age calculation insurance, insurance policy eligibility calculator, insurance age rounding calculator, insurance birthday rule calculator, calculate insurance rate based on age",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "20,22,21",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746773847"
@@ -39,7 +54,7 @@
         "meta_description": "Discover how our medical age calculator accurately determines patient age for health records. Healthcare professionals trust our tool for chronological age calculation and efficient patient data management.",
         "meta_keyword": "age calculator health records, medical age calculator, calculate biological age, health age calculator, patient age calculator, medical records age calculation, chronological age calculator, electronic health records age tool, age calculation for medical history, age calculator for healthcare professionals, how to calculate patient age, age verification in health records, date of birth calculator for medical use, age calculator healthcare, accurate age calculation for medical records, medical age tracking, health record age management, age calculation in EHR, age computation tool medical, healthcare age verification calculator",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "20,22,21",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746764315"
@@ -54,7 +69,7 @@
         "meta_description": "Learn how to build age calculators for web apps. Get JavaScript code, API tips and responsive design solutions for accurate age calculations.",
         "meta_keyword": "age calculator, online age calculator, age calculator tool, birthday calculator, age difference calculator, how old am I, calculate my age, age calculator web app, age calculation formula, date of birth calculator, developer age calculator, age calculator api, javascript age calculator, age calculator code, age calculator website, age calculator function, custom age calculator, responsive age calculator, best age calculator, how to calculate age from date of birth, age calculator for website, age calculator in years months days, exact age calculator, implement age calculator, age calculator web application, age calculator script, calculate age between dates, free online age calculator, mobile age calculator, user-friendly age calculator",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "19,22,21",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746676339"
@@ -69,7 +84,7 @@
         "meta_description": "Calculate your ideal retirement age with our free planning tool. Estimate savings needs and create a personalized retirement plan for your future.",
         "meta_keyword": "retirement calculator, age calculator, retirement age calculator, retirement planning calculator, pension calculator, when can I retire, social security calculator, retirement savings calculator, 401k calculator, retirement income calculator, retirement planner, retirement age by birth year, age to retire, retirement withdrawal calculator, how much to save for retirement, retirement planning tool, retirement estimator, retirement goal calculator, early retirement calculator, roth ira calculator",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "23,24,25",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746629801"
@@ -84,7 +99,7 @@
         "meta_description": "Our free Age Calculator for School instantly determines if your child meets admission requirements. Enter birthdate to check eligibility for all grade levels across global education systems.",
         "meta_keyword": "age calculator, school admission age calculator, age calculator for school, school eligibility calculator, school admission requirements, kindergarten age calculator, school admission age requirements, grade eligibility calculator, primary school admission age, school entry age calculator, admission age criteria, preschool eligibility calculator, school age cutoff calculator, calculate school admission age, school admissions tool, age requirement calculator, school grade calculator by age, school age verification, academic year eligibility, school enrollment age, admission eligibility checker",
         "status": "1",
-        "category": "Math",
+        "category": "Timer",
         "relate_id": "22,23,24",
         "relate_link": "/age-calculator",
         "created_date_int" : "1746607262"
