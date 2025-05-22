@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "Financiële rekenmachines",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "Wiskundige rekenmachines",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "Andere rekenmachines",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "Wetenschappelijke rekenmachine",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "Percentage calculator",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "Perimetercalculator",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "Gebiedscalculator",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "Volumecalculator",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "Leeftijdscalculator",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "Datumcalculator",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "Tijdcalculator",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "Uren calculator",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "Breukcalculator",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "Gemengde calculator",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "Gezondheid en fitnesscalculators",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Eenheidsconverteur",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "Priemgetalcalculator",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "Countdown -timer",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE -calculator",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "Gegevensconverter",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "Caloriecalculator",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "Sprongjaarcontrole",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "Weerkanaal",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Zwangerschapsverklaarcalculator",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Bloedalcoholconcentratie (BAC) Calculator",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "Gratis QR -codegenerator online | Maak aangepaste QR -codes met logo",
         "meta_description": "Maak gratis aangepaste QR -codes voor URL, tekst, contact, wifi, e -mail, sms, telefoon, kaart, evenement, betaling, crypto, EU -betaling, product, sociaal en PDF. Volg scans en download direct!",
         "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code Voor menu, QR -code voor contact, QR -code met LogoretryClade kan fouten maken. Controleer de aangehaalde bronnen dubbel.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "Afgeleide calculator",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "Gratis afgeleide calculator online met stappen | Math Solver Tool",
+        "meta_description": "Gratis online afgeleide calculator met stapsgewijze oplossingen. Bereken derivaten direct voor elke functie. Gemakkelijk te gebruiken wiskundetool voor calculusstudenten.",
+        "meta_keyword": "derivative calculator, derivative calculator online, calculate derivative, derivative solver, free derivative calculator, derivative calculator with steps, find derivative, derivative tool, calculus derivative calculator, derivative finder, online derivative solver, derivative calculator step by step, math derivative calculator, derivative of function calculator, how to calculate derivative online, calculus derivative solver, derivative Calculatiemool, wiskundige derivatencalculator, afgeleide oplosservrij, calculusderivatenzoeker, derivatieve berekening online, derivatencalculator Symbolab Alternatief, gratis calculusderivatieve calculator, online calculus derivatenoplosser, afgeleide calculator met oplossingsstappen",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

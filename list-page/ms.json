@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "Kalkulator kewangan",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "Kalkulator matematik",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "Kalkulator lain",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "Kalkulator saintifik",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "Kalkulator peratusan",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "Kalkulator perimeter",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "Kalkulator Kawasan",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "Kalkulator kelantangan",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "Kalkulator umur",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "Kalkulator tarikh",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "Kalkulator Masa",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "Kalkulator jam",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "Kalkulator pecahan",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "Kalkulator Nombor Campuran",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "Kalkulator Kesihatan & Kecergasan",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Penukar unit",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "Kalkulator Nombor Perdana",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "Pemasa Countdown",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE Calculator",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "Penukar Data",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "Kalkulator kalori",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "Pemeriksa Tahun Leap",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "Saluran Cuaca",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Kalkulator Tarikh Akhir Kehamilan",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Kalkulator Kepekatan Alkohol Darah (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "Penjana Kod QR Percuma Dalam Talian | Buat kod QR tersuai dengan logo",
         "meta_description": "Buat kod QR tersuai percuma untuk URL, teks, kenalan, WiFi, e -mel, SMS, telefon, peta, acara, pembayaran, crypto, gaji EU, produk, sosial, dan PDF. Trek imbasan dan muat turun dengan serta -merta!",
         "meta_keyword": "qr code generator, free qr code generator, online qr code generator, qr code maker, custom qr code, qr code create, scan qr code, dynamic qr code, qr code scanner, qr code for website, business card qr code, vcard qr code, pdf qr code, qr code tracking, qr code analytics, qr code download, generate qr code, qr code app, qr code design, qr code Untuk menu, kod QR untuk kenalan, kod QR dengan LogoretryClaude boleh membuat kesilapan. Sila semakan semula sumber.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "Kalkulator Derivatif",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Derivatif Percuma Dalam Talian Dengan Langkah | Alat Solver Matematik",
+        "meta_description": "Kalkulator derivatif dalam talian percuma dengan penyelesaian langkah demi langkah. Kirakan derivatif dengan serta -merta untuk sebarang fungsi. Alat matematik yang mudah digunakan untuk pelajar kalkulus.",
+        "meta_keyword": "derivative calculator, derivative calculator online, calculate derivative, derivative solver, free derivative calculator, derivative calculator with steps, find derivative, derivative tool, calculus derivative calculator, derivative finder, online derivative solver, derivative calculator step by step, math derivative calculator, derivative of function kalkulator, bagaimana mengira derivatif dalam talian, solver derivatif kalkulus, alat kalkulator derivatif, kalkulator derivatif derivatif, pengiraan derivatif derivatif,",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "Calcolatori finanziari",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "Calcolatori di matematica",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "Altri calcolatori",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "Calcolatrice scientifica",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "Calcolatore percentuale",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "Calcolatrice perimetrale",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "Calcolatore dell'area",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "Calcolatrice del volume",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "Calcolatore di età",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "Calcolatore della data",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "Calcolatrice del tempo",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "Calcolatore delle ore",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "Calcolatore della frazione",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "Calcolatrice di numeri misti",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "Calcolatori di salute e fitness",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Convertitore unità",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "Calcolatrice del numero principale",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "TIMER CONTRITURE",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "Calcolatore TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "Convertitore di dati",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "Calcolatrice calorica",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "Checker del salto",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "Canale meteorologico",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Calcolatore della data di scadenza della gravidanza",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Calcolatore di concentrazione di alcol nel sangue (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "Generatore di codice QR gratuito online | Crea codici QR personalizzati con logo",
         "meta_description": "Crea codici QR personalizzati gratuiti per URL, testo, contatto, WiFi, e -mail, SMS, telefono, mappa, evento, pagamento, criptovaluta, retribuzione UE, prodotto, social e PDF. Traccia scansioni e scarica istantaneamente!",
         "meta_keyword": "Generatore di codice QR, generatore di codice QR gratuito, generatore di codice QR online, produttore di codice QR, codice QR personalizzato, codice QR Crea, scansione codice QR, codice QR dinamico, scanner di codice QR, codice QR per sito Web, codice QR di scheda aziendale, codice QR VCARD, QR Codice QR per codice QR per codice QR Menu, codice QR per contatto, codice QR con logoretryclaude può commettere errori. Si prega di ricontrollare le fonti citate.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "Calcolatrice derivata",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "Calcolatore derivato gratuito online con passaggi | Strumento di risoluzione di matematica",
+        "meta_description": "Calcolatore derivato online gratuito con soluzioni passo-passo. Calcola istantaneamente i derivati ​​per qualsiasi funzione. Strumento di matematica facile da usare per gli studenti di calcolo.",
+        "meta_keyword": "Calcolatore derivato, calcolatore derivato online, calcolo derivato, solutore derivato, calcolatore derivato libero, calcolatore derivato con passi, trovare derivato, strumento derivato, calcolatrice derivata del calcolo, calcolo del calcolo del calcolo online Solver derivato, strumento di calcolatore derivato, calcolatore derivato matematico, solutore derivato libero, ricerca derivata di calcolo, calcolo derivato online, calcolatrice derivata alternativa, calcolatore derivato calco",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

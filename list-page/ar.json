@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "الآلات الحاسبة المالية",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "الآلات الحاسبة الرياضيات",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "الآلات الحاسبة الأخرى",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "حاسبة علمية",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "حاسبة النسبة المئوية",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "حاسبة المحيط",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "حاسبة المنطقة",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "حاسبة الحجم",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "حاسبة العمر",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "حاسبة التاريخ",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "حاسبة الوقت",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "حاسبة ساعات",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "حاسبة الكسر",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "حاسبة الأرقام المختلطة",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "الآلات الحاسبة الصحية واللياقة",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "وحدة محول الوحدة",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "حاسبة العدد الرئيسي",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "مؤقت العد التنازلي",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "حاسبة tdee",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "محول البيانات",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "حاسبة السعرات الحرارية",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "قفزة سنة المدقق",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "قناة الطقس",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "حاسبة تاريخ استحقاق الحمل",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "حاسبة تركيز الكحول في الدم (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "مولد رمز QR مجاني على الانترنت | إنشاء رموز QR مخصصة مع الشعار",
         "meta_description": "قم بإنشاء رموز QR مخصصة مجانية لعنوان URL ، والنص ، والاتصال ، والواي فاي ، والبريد الإلكتروني ، والرسائل القصيرة ، والهاتف ، والخريطة ، والدفع ، والتشفير ، ودفع الاتحاد الأوروبي ، والمنتج ، والاجتماعية ، و PDF. تتبع عمليات المسح والتنزيل على الفور!",
         "meta_keyword": "مولد رمز QR ، مولد رمز QR مجاني ، مولد رمز QR عبر الإنترنت ، صانع رمز QR ، رمز QR مخصص ، رمز QR CREATE ، مسح رمز QR ، رمز QR الديناميكي ، ماسحة رمز QR ، رمز QR لموقع الويب ، رمز QR بطاقة العمل ، رمز QR ، رمز QR ، رمز QR ، red red ، red red ، red red ، red red ، القائمة ، رمز الاستجابة السريعة للاتصال ، يمكن أن يرتكب رمز الاستجابة السريعة مع LogoretryClaude أخطاء. يرجى التحقق المزدوج مصادر.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "حاسبة مشتقة",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "حاسبة مشتقة مجانية على الانترنت مع خطوات | أداة حلال الرياضيات",
+        "meta_description": "حاسبة مشتقة مجانية عبر الإنترنت مع حلول خطوة بخطوة. حساب المشتقات على الفور لأي وظيفة. أداة الرياضيات سهلة الاستخدام لطلاب حساب التفاضل والتكامل.",
+        "meta_keyword": "حاسبة مشتقة ، حاسبة مشتقة عبر الإنترنت ، حساب مشتق ، حلال المشتق ، حاسبة مشتقة مجانية ، حاسبة مشتقة مع خطوات ، ابحث عن أداة مشتقة ، مشتق ، حاسبة مشتقة من حساب الحاسبة ، مشتقة من المشتقة ، مشتقات المشتق عبر الإنترنت ، أداة الآلة الحاسبة ، حاسبة مشتقة رياضية ، خالية من المحاليل المشتق ، اكتشاف مشتق حساب ، حساب مشتق عبر الإنترنت ، حاسبة الحاسبة المشتقة البديل ، حاسبة مشتقة لحساب حساب التفاضل والتكامل الحرة ، محلل مشتق على الإنترنت ، حاسبة مشتقة بخطوات محلول",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

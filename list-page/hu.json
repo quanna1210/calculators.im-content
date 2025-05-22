@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "Pénzügyi számológépek",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "Matematikai számológépek",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "Egyéb számológépek",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "Tudományos számológép",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "Százalékos számológép",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "Kerületi számológép",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "Körzeti számológép",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "Hangerő számológép",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "Életkorú számológép",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "Dátumszámológép",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "Időszámológép",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "Órás számológép",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "Frakciószámológép",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "Vegyes számszámológép",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "Egészségügyi és fitnesz számológépek",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Egységváltó",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "Prímszám -számológép",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "Visszaszámláló időzítő",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE számológép",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "Adatátalakító",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "Kalória számológép",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "Leap Year Checker",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "Időjárási csatorna",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Terhességi esedékességi számológép",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Vér alkohol -koncentráció (BAC) számológép",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "Ingyenes QR -kódgenerátor online | Hozzon létre egyéni QR -kódokat logóval",
         "meta_description": "Hozzon létre ingyenes egyéni QR -kódokat az URL, a szöveg, a kapcsolattartó, a wifi, az e -mail, az SMS, a telefon, a térkép, az esemény, a fizetés, a kripto, az EU fizetés, a termék, a társadalmi és a PDF számára. Kövesse nyomon a szkennelést és töltse le azonnal!",
         "meta_keyword": "QR kódgenerátor, ingyenes QR -kódgenerátor, online QR -kódgenerátor, QR -kódkészítő, Egyéni QR kód, QR kód létrehozása, QR kód beolvasása, dinamikus QR -kód, QR -kód -szkenner, QR -kód, QR QR kód, VCARD QR kód, PDF Kód, QR kód, QR -kód, QR -kód, qR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR -kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód, QR -kód QR -kód a kapcsolattartóhoz, a QR -kód logoretryclaude -val hibákat követhet el. Kérjük, ellenőrizze duplán ellenőrizze az idézett forrásokat.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "Származékos számológép",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "Ingyenes származékos számológép online lépésekkel | Matematikai megoldó eszköz",
+        "meta_description": "Ingyenes online származékos számológép lépésről lépésre. Számítsa ki a származékokat minden funkcióhoz. Könnyen használható matematikai eszköz a kalkulus hallgatók számára.",
+        "meta_keyword": "származékos számológép, származékos számológép online, kiszámítás a származékos, származékos megoldó, ingyenes származékos számológép, származékos számológép lépések, származékos származékos szerszám, kalkulus -származékos számológép, származékos kereső, online származékos oldószer, származékos számológép lépésről lépésre, matematikai származtatott számológép, származékszámológép, a funkciók számológépének számológépének, a számológépről, az online származékos származtatott származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékos származékosító szerekhez, az online származékos származtatott származtatott származékos származtatott származékos származtatott származékos származékos származtatott származékos származékosító. Szerszám, matematikai származékos számológép, származékos megoldásmentes, kalkulus származékos kereső, származékos számítás online, származékos számológép Symbolab alternatíva, ingyenes kalkulus származékos számológép, online kalkulus származékos megoldó, származékos számológép megoldás lépéseivel",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

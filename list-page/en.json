@@ -516,5 +516,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "Derivative Calculator",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "Free Derivative Calculator Online with Steps | Math Solver Tool",
+        "meta_description": "Free online derivative calculator with step-by-step solutions. Calculate derivatives instantly for any function. Easy-to-use math tool for calculus students.",
+        "meta_keyword": "derivative calculator, derivative calculator online, calculate derivative, derivative solver, free derivative calculator, derivative calculator with steps, find derivative, derivative tool, calculus derivative calculator, derivative finder, online derivative solver, derivative calculator step by step, math derivative calculator, derivative of function calculator, how to calculate derivative online, calculus derivative solver, derivative calculator tool, mathematical derivative calculator, derivative solver free, calculus derivative finder, derivative calculation online, derivative calculator symbolab alternative, free calculus derivative calculator, online calculus derivative solver, derivative calculator with solution steps",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "เครื่องคิดเลขทางการเงิน",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +13,6 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "เครื่องคำนวณคณิตศาสตร์",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +25,6 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "เครื่องคิดเลขอื่น ๆ",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -116,7 +113,6 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "เครื่องคิดเลขทางวิทยาศาสตร์",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +125,6 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "เปอร์เซ็นต์เครื่องคิดเลข",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +137,6 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "เครื่องคิดเลขปริมณฑล",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +149,6 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "เครื่องคำนวณพื้นที่",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +161,6 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "เครื่องคิดเลขปริมาตร",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +173,6 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "เครื่องคำนวณอายุ",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +185,6 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "เครื่องคำนวณวันที่",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +197,6 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "เครื่องคำนวณเวลา",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +209,6 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "เครื่องคิดเลขชั่วโมง",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +221,6 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "เครื่องคิดเลขเศษส่วน",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +233,6 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "เครื่องคิดเลขจำนวนผสม",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +245,6 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "เครื่องคำนวณสุขภาพและฟิตเนส",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -311,7 +296,6 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "เครื่องแปลงหน่วย",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +308,6 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "เครื่องคิดเลขหมายเลขนายก",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +320,6 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "ตัวจับเวลานับถอยหลัง",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -376,7 +358,6 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "เครื่องคิดเลข tdee",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +370,6 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "ตัวแปลงข้อมูล",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +382,6 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "เครื่องคิดเลขแคลอรี่",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -428,7 +407,6 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "LEAP Year Checker",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +419,6 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "ช่องอากาศ",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +431,6 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "เครื่องคิดเลขวันครบกำหนดตั้งครรภ์",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +443,6 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "เครื่องคำนวณความเข้มข้นของแอลกอฮอล์ในเลือด (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -512,6 +487,19 @@
         "meta_title": "เครื่องกำเนิดรหัส QR ฟรีออนไลน์ | สร้างรหัส QR ที่กำหนดเองด้วยโลโก้",
         "meta_description": "สร้างรหัส QR ที่กำหนดเองฟรีสำหรับ URL, ข้อความ, ติดต่อ, wifi, อีเมล, SMS, โทรศัพท์, แผนที่, กิจกรรม, การชำระเงิน, crypto, EU Pay, ผลิตภัณฑ์, Social และ PDF ติดตามสแกนและดาวน์โหลดทันที!",
         "meta_keyword": "เครื่องกำเนิดรหัส QR, เครื่องกำเนิดรหัส QR ฟรี, ตัวสร้างรหัส QR ออนไลน์, เครื่องสร้างรหัส QR, รหัส QR ที่กำหนดเอง, รหัส QR สร้าง, สแกนรหัส QR, รหัส QR แบบไดนามิก, สแกนเนอร์รหัส QR, รหัส QR รหัสธุรกิจ QCARD, รหัส QC สำหรับเมนูรหัส QR สำหรับการติดต่อรหัส QR ที่มี logoretryClaude สามารถทำผิดพลาดได้ โปรดตรวจสอบแหล่งข้อมูลที่อ้างถึงสองครั้ง",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "41",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "title": "เครื่องคิดเลขอนุพันธ์",
+        "slug": "derivative-calculator",
+        "parent_id": "10",
+        "meta_title": "เครื่องคิดเลขอนุพันธ์ฟรีออนไลน์ด้วยขั้นตอน | เครื่องมือแก้ปัญหาคณิตศาสตร์",
+        "meta_description": "เครื่องคิดเลขอนุพันธ์ออนไลน์ฟรีพร้อมโซลูชันทีละขั้นตอน คำนวณอนุพันธ์ทันทีสำหรับฟังก์ชั่นใด ๆ เครื่องมือคณิตศาสตร์ที่ใช้งานง่ายสำหรับนักเรียนแคลคูลัส",
+        "meta_keyword": "เครื่องคิดเลขอนุพันธ์เครื่องคิดเลขอนุพันธ์ออนไลน์คำนวณอนุพันธ์ตัวแก้อนุพันธ์เครื่องคิดเลขอนุพันธ์ฟรีเครื่องคิดเลขอนุพันธ์พร้อมขั้นตอนค้นหาอนุพันธ์เครื่องมืออนุพันธ์เครื่องคิดเลขอนุพันธ์แคลคูลัส เครื่องมือเครื่องคิดเลข, เครื่องคิดเลขอนุพันธ์ทางคณิตศาสตร์, ตัวแก้อนุพันธ์ฟรี, ตัวค้นหาอนุพันธ์แคลคูลัส, การคำนวณอนุพันธ์ออนไลน์, เครื่องคิดเลขอนุพันธ์ทางเลือกอื่น",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
