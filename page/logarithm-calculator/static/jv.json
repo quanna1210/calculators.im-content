@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Input kudu luwih gedhe tinimbang 0",
+        "Basis kudu luwih gedhe tinimbang 0 lan ora padha karo 1",
+        "Nilai (x)",
+        "Lebokna angka positif",
+        "Basis (b)",
+        "Basis (gawan: 10)",
+        "Iki tegese",
+        "Grafik Logaritma",
+        "Riwayat Pitungan",
+        "Busak Riwayat",
+        "Wektu",
+        "Ekspresi",
+        "Asil",
+        "Durung ana pitungan",
+        "Babagan Logaritma",
+        "Logaritma yaiku pangkat sing kudu dipangkatake ing sawijining angka (basis) kanggo ngasilake angka tartamtu. Yen b^y = x, banjur y yaiku logaritma saka x kanthi basis b, ditulis minangka y = log<sub>b</sub>(x).",
+        "Jenis Logaritma Umum",
+        "Logaritma Umum (log₁₀): Basis 10, akeh digunakake ing ilmu pengetahuan lan teknik",
+        "Logaritma Alam (ln utawa log_e): Basis e (≈2.718), digunakake ing kalkulus lan ilmu alam",
+        "Logaritma Biner (log₂): Basis 2, digunakake ing ilmu komputer lan teori informasi",
+        "Sifat-sifat Utama",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

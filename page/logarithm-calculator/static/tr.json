@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Giriş 0'dan büyük olmalıdır",
+        "Taban 0'dan büyük ve 1'e eşit olmamalıdır",
+        "Değer (x)",
+        "Pozitif bir sayı girin",
+        "Taban (b)",
+        "Taban (varsayılan: 10)",
+        "Bu şu demektir",
+        "Logaritma Grafiği",
+        "Hesaplama Geçmişi",
+        "Geçmişi Temizle",
+        "Zaman",
+        "İfade",
+        "Sonuç",
+        "Henüz hesaplama yok",
+        "Logaritmalar Hakkında",
+        "Logaritma, bir sayının (taban) belirli bir sayıyı üretmek için yükseltilmesi gereken kuvvettir. Eğer b^y = x ise, y, x'in b tabanındaki logaritmasıdır ve y = log<sub>b</sub>(x) olarak yazılır.",
+        "Yaygın Logaritma Türleri",
+        "Ondalık Logaritma (log₁₀): Taban 10, bilim ve mühendislikte yaygın olarak kullanılır",
+        "Doğal Logaritma (ln veya log_e): Taban e (≈2,718), kalkülüs ve doğa bilimlerinde kullanılır",
+        "İkili Logaritma (log₂): Taban 2, bilgisayar bilimi ve bilgi teorisinde kullanılır",
+        "Temel Özellikler",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

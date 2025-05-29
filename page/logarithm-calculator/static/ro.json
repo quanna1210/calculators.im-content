@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Intrarea trebuie să fie mai mare decât 0",
+        "Baza trebuie să fie mai mare decât 0 și să nu fie egală cu 1",
+        "Valoare (x)",
+        "Introduceți un număr pozitiv",
+        "Baza (b)",
+        "Baza (implicit: 10)",
+        "Aceasta înseamnă",
+        "Graficul Logaritmului",
+        "Istoricul Calculelor",
+        "Șterge Istoricul",
+        "Timp",
+        "Expresie",
+        "Rezultat",
+        "Încă nu există calcule",
+        "Despre Logaritmi",
+        "Un logaritm este puterea la care trebuie ridicat un număr (baza) pentru a produce un număr dat. Dacă b^y = x, atunci y este logaritmul lui x în baza b, scris ca y = log<sub>b</sub>(x).",
+        "Tipuri Comune de Logaritmi",
+        "Logaritm Zecimal (log₁₀): Baza 10, folosit pe scară largă în știință și inginerie",
+        "Logaritm Natural (ln sau log_e): Baza e (≈2,718), folosit în calcul și științele naturii",
+        "Logaritm Binar (log₂): Baza 2, folosit în informatică și teoria informației",
+        "Proprietăți Cheie",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

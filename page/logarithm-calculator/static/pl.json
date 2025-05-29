@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Dane wejściowe muszą być większe od 0",
+        "Podstawa musi być większa od 0 i różna od 1",
+        "Wartość (x)",
+        "Wprowadź liczbę dodatnią",
+        "Podstawa (b)",
+        "Podstawa (domyślnie: 10)",
+        "To oznacza",
+        "Wykres Logarytmu",
+        "Historia Obliczeń",
+        "Wyczyść Historię",
+        "Czas",
+        "Wyrażenie",
+        "Wynik",
+        "Brak obliczeń",
+        "O Logarytmach",
+        "Logarytm to potęga, do której należy podnieść liczbę (podstawę), aby uzyskać daną liczbę. Jeśli b^y = x, to y jest logarytmem x o podstawie b, zapisywanym jako y = log<sub>b</sub>(x).",
+        "Popularne Typy Logarytmów",
+        "Logarytm Dziesiętny (log₁₀): Podstawa 10, szeroko używany w nauce i inżynierii",
+        "Logarytm Naturalny (ln lub log_e): Podstawa e (≈2,718), używany w analizie matematycznej i naukach przyrodniczych",
+        "Logarytm Binarny (log₂): Podstawa 2, używany w informatyce i teorii informacji",
+        "Kluczowe Właściwości",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

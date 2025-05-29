@@ -161,7 +161,7 @@
         "parent_id": "10",
         "meta_title": "Area Calculator: Simplify Your Calculation of Area",
         "meta_description": "Quickly calculate the area of squares, rectangles, circles, and triangles with our easy-to-use tool. Ideal for all your basic geometry needs.",
-        "meta_keyword": "calculation of area, area of circle, area calculator, area of rectangle, area of polygon, area of square, area of triangle,area of parallelogram, area of trapezoid",
+        "meta_keyword": "area calculator, calculate area, area calculation, area formula, square footage calculator, area of rectangle, area of circle, area of triangle, room area calculator, land area calculator, floor area calculator, geometric area calculator, calculate square footage, area converter, area measurement tool, online area calculator, free area calculator, area calculator tool, square meter calculator, area of polygon, area of rectangle calculator, area of circle calculator, area of triangle calculator, how to calculate area, calculate room area, calculate land area, calculate floor area, square feet calculator online, area calculation formula, area measurement calculator, room size calculator, house area calculator, property area calculator, calculate area of irregular shape, area calculator with measurements, area calculator for home, calculate area online free, area calculator square feet, calculate building area, construction area calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -362,7 +362,7 @@
         "orders": "10000"
     },
     {
-        "id": "29",
+        "id": "43",
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "Running Pace Calculator",
         "slug": "running-pace-calculator",
@@ -526,6 +526,19 @@
         "meta_title": "Free Derivative Calculator Online with Steps | Math Solver Tool",
         "meta_description": "Free online derivative calculator with step-by-step solutions. Calculate derivatives instantly for any function. Easy-to-use math tool for calculus students.",
         "meta_keyword": "derivative calculator, derivative calculator online, calculate derivative, derivative solver, free derivative calculator, derivative calculator with steps, find derivative, derivative tool, calculus derivative calculator, derivative finder, online derivative solver, derivative calculator step by step, math derivative calculator, derivative of function calculator, how to calculate derivative online, calculus derivative solver, derivative calculator tool, mathematical derivative calculator, derivative solver free, calculus derivative finder, derivative calculation online, derivative calculator symbolab alternative, free calculus derivative calculator, online calculus derivative solver, derivative calculator with solution steps",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "42",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "title": "Calcolatrice Logaritmi",
+        "slug": "logarithm-calculator",
+        "parent_id": "10",
+        "meta_title": "Calcolatrice Logaritmi Gratuita | Log Base 2, 10, e e Base Personalizzata",
+        "meta_description": "Calcola i logaritmi istantaneamente con la nostra calcolatrice logaritmi gratuita online. Supporta basi 2, 10, e (ln) e basi personalizzate. Include visualizzazione grafica.",
+        "meta_keyword": "calcolatrice logaritmi, calcolatrice log, calcolatrice logaritmo naturale, calcolatrice log base 10, calcolatrice log base 2, calcolatrice logaritmica, calcolatrice logaritmi online, calcolatrice log gratuita, calcolatrice log matematica, risolutore logaritmi, calcolatrice equazioni logaritmiche, calcolatrice antilog, calcolatrice formula logaritmo, calcolatrice esponenziale, calcolatrice ln, calcolatrice logaritmo scientifico, calcolatrice log con passaggi, risolutore equazioni logaritmiche, calcolatrice logaritmo comune, calcolatrice log binario, calcolatrice proprietà logaritmi, calcolatrice regole logaritmi, calcolatrice grafico logaritmi, calcolare logaritmo online, calcolatrice conversione logaritmo, calcolatrice tabella logaritmi, calcolatrice logaritmo inverso, calcolatrice log base e, strumenti matematici logaritmi, calcolatrice per logaritmi",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

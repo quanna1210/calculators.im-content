@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "A bemenet nagyobb kell legyen, mint 0",
+        "Az alap nagyobb kell legyen, mint 0 és nem egyenlő 1-gyel",
+        "Érték (x)",
+        "Adjon meg egy pozitív számot",
+        "Alap (b)",
+        "Alap (alapértelmezett: 10)",
+        "Ez azt jelenti",
+        "Logaritmus Grafikon",
+        "Számítási Előzmények",
+        "Előzmények Törlése",
+        "Idő",
+        "Kifejezés",
+        "Eredmény",
+        "Még nincsenek számítások",
+        "A Logaritmusokról",
+        "A logaritmus az a hatványkitevő, amelyre egy számot (az alapot) emelni kell egy adott szám előállításához. Ha b^y = x, akkor y az x logaritmusa b alapon, y = log<sub>b</sub>(x) formában írva.",
+        "Gyakori Logaritmus Típusok",
+        "Tízes Logaritmus (log₁₀): 10-es alap, széles körben használt tudományban és mérnöki területen",
+        "Természetes Logaritmus (ln vagy log_e): e alap (≈2,718), analízisben és természettudományokban használt",
+        "Kettes Logaritmus (log₂): 2-es alap, informatikában és információelméletben használt",
+        "Főbb Tulajdonságok",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

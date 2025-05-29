@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Input harus lebih besar dari 0",
+        "Basis harus lebih besar dari 0 dan tidak sama dengan 1",
+        "Nilai (x)",
+        "Masukkan angka positif",
+        "Basis (b)",
+        "Basis (default: 10)",
+        "Ini berarti",
+        "Grafik Logaritma",
+        "Riwayat Perhitungan",
+        "Hapus Riwayat",
+        "Waktu",
+        "Ekspresi",
+        "Hasil",
+        "Belum ada perhitungan",
+        "Tentang Logaritma",
+        "Logaritma adalah pangkat yang harus dipangkatkan pada suatu bilangan (basis) untuk menghasilkan bilangan tertentu. Jika b^y = x, maka y adalah logaritma dari x dengan basis b, ditulis sebagai y = log<sub>b</sub>(x).",
+        "Jenis Logaritma Umum",
+        "Logaritma Umum (log₁₀): Basis 10, banyak digunakan dalam sains dan teknik",
+        "Logaritma Natural (ln atau log_e): Basis e (≈2.718), digunakan dalam kalkulus dan ilmu alam",
+        "Logaritma Biner (log₂): Basis 2, digunakan dalam ilmu komputer dan teori informasi",
+        "Sifat-sifat Utama",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

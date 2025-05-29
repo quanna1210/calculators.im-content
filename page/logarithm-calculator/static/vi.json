@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Giá trị đầu vào phải lớn hơn 0",
+        "Cơ số phải lớn hơn 0 và không bằng 1",
+        "Giá trị (x)",
+        "Nhập một số dương",
+        "Cơ số (b)",
+        "Cơ số (mặc định: 10)",
+        "Điều này có nghĩa là",
+        "Đồ thị Logarithm",
+        "Lịch sử Tính toán",
+        "Xóa Lịch sử",
+        "Thời gian",
+        "Biểu thức",
+        "Kết quả",
+        "Chưa có phép tính nào",
+        "Về Logarithm",
+        "Logarithm là số mũ mà một số (cơ số) phải được nâng lên để tạo ra một số cho trước. Nếu b^y = x, thì y là logarithm của x theo cơ số b, được viết là y = log<sub>b</sub>(x).",
+        "Các Loại Logarithm Phổ biến",
+        "Logarithm Thường (log₁₀): Cơ số 10, được sử dụng rộng rãi trong khoa học và kỹ thuật",
+        "Logarithm Tự nhiên (ln hoặc log_e): Cơ số e (≈2.718), được sử dụng trong giải tích và khoa học tự nhiên",
+        "Logarithm Nhị phân (log₂): Cơ số 2, được sử dụng trong khoa học máy tính và lý thuyết thông tin",
+        "Tính chất Chính",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

@@ -1,0 +1,31 @@
+
+{
+    "trans": [
+        "Input must be greater than 0",
+        "Base must be greater than 0 and not equal to 1",
+        "Value (x)",
+        "Enter a positive number",
+        "Base (b)",
+        "Base (default: 10)",
+        "This means",
+        "Logarithm Graph",
+        "Calculation History",
+        "Clear History",
+        "Time",
+        "Expression",
+        "Result",
+        "No calculations yet",
+        "About Logarithms",
+        "A logarithm is the power to which a number (the base) must be raised to produce a given number. If b^y = x, then y is the logarithm of x to base b, written as y = log<sub>b</sub>(x).",
+        "Common Logarithm Types",
+        "Common Logarithm (log₁₀): Base 10, widely used in science and engineering",
+        "Natural Logarithm (ln or log_e): Base e (≈2.718), used in calculus and natural sciences",
+        "Binary Logarithm (log₂): Base 2, used in computer science and information theory",
+        "Key Properties",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

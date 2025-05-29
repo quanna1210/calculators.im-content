@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Vstup musí být větší než 0",
+        "Základ musí být větší než 0 a nesmí se rovnat 1",
+        "Hodnota (x)",
+        "Zadejte kladné číslo",
+        "Základ (b)",
+        "Základ (výchozí: 10)",
+        "To znamená",
+        "Graf logaritmu",
+        "Historie výpočtů",
+        "Vymazat historii",
+        "Čas",
+        "Výraz",
+        "Výsledek",
+        "Zatím žádné výpočty",
+        "O logaritmech",
+        "Logaritmus je mocnina, na kterou musí být umocněno číslo (základ), aby vzniklo dané číslo. Pokud b^y = x, pak y je logaritmus x se základem b, zapisuje se jako y = log<sub>b</sub>(x).",
+        "Běžné typy logaritmů",
+        "Běžný logaritmus (log₁₀): Základ 10, široce používaný ve vědě a inženýrství",
+        "Přirozený logaritmus (ln nebo log_e): Základ e (≈2,718), používaný v kalkulu a přírodních vědách",
+        "Binární logaritmus (log₂): Základ 2, používaný v informatice a teorii informace",
+        "Klíčové vlastnosti",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

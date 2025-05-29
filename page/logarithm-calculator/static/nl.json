@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Invoer moet groter zijn dan 0",
+        "Grondtal moet groter zijn dan 0 en niet gelijk aan 1",
+        "Waarde (x)",
+        "Voer een positief getal in",
+        "Grondtal (b)",
+        "Grondtal (standaard: 10)",
+        "Dit betekent",
+        "Logaritme Grafiek",
+        "Berekeningsgeschiedenis",
+        "Geschiedenis Wissen",
+        "Tijd",
+        "Uitdrukking",
+        "Resultaat",
+        "Nog geen berekeningen",
+        "Over Logaritmen",
+        "Een logaritme is de macht waartoe een getal (het grondtal) moet worden verheven om een gegeven getal te produceren. Als b^y = x, dan is y de logaritme van x met grondtal b, geschreven als y = log<sub>b</sub>(x).",
+        "Veelvoorkomende Logaritme Types",
+        "Gewone Logaritme (log₁₀): Grondtal 10, veel gebruikt in wetenschap en techniek",
+        "Natuurlijke Logaritme (ln of log_e): Grondtal e (≈2,718), gebruikt in calculus en natuurwetenschappen",
+        "Binaire Logaritme (log₂): Grondtal 2, gebruikt in informatica en informatietheorie",
+        "Belangrijke Eigenschappen",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

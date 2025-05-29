@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Input mestilah lebih besar daripada 0",
+        "Asas mestilah lebih besar daripada 0 dan tidak sama dengan 1",
+        "Nilai (x)",
+        "Masukkan nombor positif",
+        "Asas (b)",
+        "Asas (lalai: 10)",
+        "Ini bermaksud",
+        "Graf Logaritma",
+        "Sejarah Pengiraan",
+        "Padam Sejarah",
+        "Masa",
+        "Ungkapan",
+        "Keputusan",
+        "Tiada pengiraan lagi",
+        "Mengenai Logaritma",
+        "Logaritma adalah kuasa yang mana suatu nombor (asas) mesti dinaikkan untuk menghasilkan nombor tertentu. Jika b^y = x, maka y adalah logaritma x kepada asas b, ditulis sebagai y = log<sub>b</sub>(x).",
+        "Jenis Logaritma Biasa",
+        "Logaritma Biasa (log₁₀): Asas 10, digunakan secara meluas dalam sains dan kejuruteraan",
+        "Logaritma Semula Jadi (ln atau log_e): Asas e (≈2.718), digunakan dalam kalkulus dan sains semula jadi",
+        "Logaritma Perduaan (log₂): Asas 2, digunakan dalam sains komputer dan teori maklumat",
+        "Sifat-sifat Utama",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}

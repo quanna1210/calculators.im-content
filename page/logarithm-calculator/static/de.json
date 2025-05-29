@@ -1,0 +1,30 @@
+{
+    "trans": [
+        "Eingabe muss größer als 0 sein",
+        "Basis muss größer als 0 und ungleich 1 sein",
+        "Wert (x)",
+        "Geben Sie eine positive Zahl ein",
+        "Basis (b)",
+        "Basis (Standard: 10)",
+        "Das bedeutet",
+        "Logarithmus-Diagramm",
+        "Berechnungsverlauf",
+        "Verlauf löschen",
+        "Zeit",
+        "Ausdruck",
+        "Ergebnis",
+        "Noch keine Berechnungen",
+        "Über Logarithmen",
+        "Ein Logarithmus ist die Potenz, zu der eine Zahl (die Basis) erhoben werden muss, um eine gegebene Zahl zu erzeugen. Wenn b^y = x, dann ist y der Logarithmus von x zur Basis b, geschrieben als y = log<sub>b</sub>(x).",
+        "Häufige Logarithmus-Typen",
+        "Dekadischer Logarithmus (log₁₀): Basis 10, weit verbreitet in Wissenschaft und Technik",
+        "Natürlicher Logarithmus (ln oder log_e): Basis e (≈2,718), verwendet in Analysis und Naturwissenschaften",
+        "Binärer Logarithmus (log₂): Basis 2, verwendet in Informatik und Informationstheorie",
+        "Wichtige Eigenschaften",
+        "log<sub>b</sub>(xy) = log<sub>b</sub>(x) + log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x/y) = log<sub>b</sub>(x) - log<sub>b</sub>(y)",
+        "log<sub>b</sub>(x^n) = n · log<sub>b</sub>(x)",
+        "log<sub>b</sub>(1) = 0",
+        "log<sub>b</sub>(b) = 1"
+    ]
+}
