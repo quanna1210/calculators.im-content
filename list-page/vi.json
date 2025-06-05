@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Máy Tính Kỹ Thuật",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Máy Tính Kỹ Thuật - Công Cụ Online Miễn Phí | Calculator Hub",
+        "meta_description": "Bộ sưu tập đầy đủ các máy tính kỹ thuật miễn phí cho kỹ thuật kết cấu, cơ khí, điện, xây dựng. Tính tải trọng, ứng suất, công suất, lưu lượng & nhiều hơn nữa ngay lập tức.",
+        "meta_keyword": "máy tính kỹ thuật, máy tính kết cấu, công cụ kỹ thuật cơ khí, máy tính điện, máy tính kỹ thuật xây dựng, máy tính tải trọng, phân tích ứng suất, tính toán công suất, máy tính lưu lượng, máy tính dầm, máy tính bê tông, máy tính thép, máy tính điện áp, máy tính dòng điện, máy tính điện trở, công cụ chuyển đổi kỹ thuật, máy tính kỹ thuật, công cụ kỹ thuật chuyên nghiệp",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Máy Tính Công Suất Điện",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Công Suất Điện - Công Suất AC/DC, Điện Áp & Dòng Điện",
+        "meta_description": "Máy tính công suất điện miễn phí cho mạch AC/DC. Tính công suất, điện áp, dòng điện, điện trở sử dụng định luật Ohm. Hỗ trợ tính toán một pha, ba pha ngay lập tức.",
+        "meta_keyword": "máy tính công suất điện, tính toán công suất, máy tính điện áp, máy tính dòng điện, máy tính định luật ohm, máy tính công suất AC, máy tính công suất DC, máy tính công suất ba pha, công suất một pha, máy tính kỹ thuật điện, máy tính watt, máy tính ampe, máy tính điện trở, máy tính mạch điện, máy tính tiêu thụ điện, máy tính kilowatt, máy tính tải điện",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

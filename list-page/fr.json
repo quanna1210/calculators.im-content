@@ -544,5 +544,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Calculatrices d'Ingénierie",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatrices d'Ingénierie - Outils en Ligne Gratuits | Calculator Hub",
+        "meta_description": "Collection complète de calculatrices d'ingénierie gratuites pour l'ingénierie structurelle, mécanique, électrique et civile. Calculez les charges, contraintes, puissance, débits et plus instantanément.",
+        "meta_keyword": "calculatrices d'ingénierie, calculatrice structurelle, outils d'ingénierie mécanique, calculatrices électriques, calculatrice d'ingénierie civile, calculatrice de charge, analyse des contraintes, calcul de puissance, calculatrice de débit, calculatrice de poutre, calculatrice de béton, calculatrice d'acier, calculatrice de tension, calculatrice de courant, calculatrice de résistance, outils de conversion d'ingénierie, calculatrices techniques, outils d'ingénierie professionnels",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Calculatrice de Puissance Électrique",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculatrice de Puissance Électrique - Puissance AC/DC, Tension et Courant",
+        "meta_description": "Calculatrice gratuite de puissance électrique pour circuits AC/DC. Calculez puissance, tension, courant, résistance en utilisant la loi d'Ohm. Supporte les calculs monophasés, triphasés instantanément.",
+        "meta_keyword": "calculatrice puissance électrique, calcul de puissance, calculatrice tension, calculatrice courant, calculatrice loi ohm, calculatrice puissance AC, calculatrice puissance DC, calculatrice puissance triphasée, puissance monophasée, calculatrice génie électrique, calculatrice watts, calculatrice ampérage, calculatrice résistance, calculatrice circuit électrique, calculatrice consommation énergie, calculatrice kilowatts, calculatrice charge électrique",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -36,7 +36,7 @@
         "meta_keyword": "Useful calculators collection, other calculators tools, versatile calculation tools, online calculators variety, popular calculation tools",
         "status": "1",
         "is_show": "1",
-        "orders": "4"
+        "orders": "5"
     },
     {
         "id": "1",
@@ -268,7 +268,7 @@
         "meta_keyword": "BMI Calculator, Calorie Counter, Body Fat Calculator, Fitness Tracker Tools, Health Metrics Calculator",
         "status": "1",
         "is_show": "1",
-        "orders": "2"
+        "orders": "1"
     },
     {
         "id": "23",
@@ -533,14 +533,41 @@
     {
         "id": "42",
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
-        "title": "Calcolatrice Logaritmi",
+        "title": "Logarithm Calculator",
         "slug": "logarithm-calculator",
         "parent_id": "10",
-        "meta_title": "Calcolatrice Logaritmi Gratuita | Log Base 2, 10, e e Base Personalizzata",
-        "meta_description": "Calcola i logaritmi istantaneamente con la nostra calcolatrice logaritmi gratuita online. Supporta basi 2, 10, e (ln) e basi personalizzate. Include visualizzazione grafica.",
-        "meta_keyword": "calcolatrice logaritmi, calcolatrice log, calcolatrice logaritmo naturale, calcolatrice log base 10, calcolatrice log base 2, calcolatrice logaritmica, calcolatrice logaritmi online, calcolatrice log gratuita, calcolatrice log matematica, risolutore logaritmi, calcolatrice equazioni logaritmiche, calcolatrice antilog, calcolatrice formula logaritmo, calcolatrice esponenziale, calcolatrice ln, calcolatrice logaritmo scientifico, calcolatrice log con passaggi, risolutore equazioni logaritmiche, calcolatrice logaritmo comune, calcolatrice log binario, calcolatrice proprietà logaritmi, calcolatrice regole logaritmi, calcolatrice grafico logaritmi, calcolare logaritmo online, calcolatrice conversione logaritmo, calcolatrice tabella logaritmi, calcolatrice logaritmo inverso, calcolatrice log base e, strumenti matematici logaritmi, calcolatrice per logaritmi",
+        "meta_title": "Free Logarithm Calculator | Log Base 2, 10, e & Custom Base",
+        "meta_description": "Calculate logarithms instantly with our free online log calculator. Supports base 2, 10, e (ln) & custom bases. Graph visualization included.",
+        "meta_keyword": "logarithm calculator, log calculator, natural log calculator, log base 10 calculator, log base 2 calculator, logarithmic calculator, online logarithm calculator, free log calculator, math log calculator, logarithm solver, log equation calculator, antilog calculator, logarithm formula calculator, exponential calculator, ln calculator, scientific logarithm calculator, log calculator with steps, logarithmic equation solver, common logarithm calculator, binary log calculator, logarithm properties calculator, log rules calculator, logarithm graph calculator, calculate logarithm online, logarithm conversion calculator, logarithm table calculator, logarithm inverse calculator, log calculator base e, math tools logarithm, calculator for logarithms",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Engineering Calculators",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Engineering Calculators - Free Online Tools | Calculator Hub",
+        "meta_description": "Comprehensive collection of free engineering calculators for structural, mechanical, electrical, civil engineering. Calculate load, stress, power, flow rates & more instantly.",
+        "meta_keyword": "engineering calculators, structural calculator, mechanical engineering tools, electrical calculators, civil engineering calculator, load calculator, stress analysis, power calculation, flow rate calculator, beam calculator, concrete calculator, steel calculator, voltage calculator, current calculator, resistance calculator, engineering conversion tools, technical calculators, professional engineering tools",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Electrical Power Calculator",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Electrical Power Calculator - AC/DC Power, Voltage & Current",
+        "meta_description": "Free electrical power calculator for AC/DC circuits. Calculate power, voltage, current, resistance using Ohm's law. Supports single-phase, three-phase calculations instantly.",
+        "meta_keyword": "electrical power calculator, power calculation, voltage calculator, current calculator, ohms law calculator, AC power calculator, DC power calculator, three phase power calculator, single phase power, electrical engineering calculator, watt calculator, amperage calculator, resistance calculator, electrical circuit calculator, power consumption calculator, kilowatt calculator, electrical load calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     }
+    
 ]

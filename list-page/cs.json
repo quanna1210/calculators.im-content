@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Inženýrské Kalkulačky",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Inženýrské Kalkulačky - Bezplatné Online Nástroje | Calculator Hub",
+        "meta_description": "Komplexní sbírka bezplatných inženýrských kalkulaček pro stavební, strojní, elektrické a stavební inženýrství. Vypočítejte zatížení, napětí, výkon, průtoky a další okamžitě.",
+        "meta_keyword": "inženýrské kalkulačky, stavební kalkulačka, nástroje strojního inženýrství, elektrické kalkulačky, stavební inženýrská kalkulačka, kalkulačka zatížení, analýza napětí, výpočet výkonu, kalkulačka průtoku, kalkulačka nosníku, betonová kalkulačka, ocelová kalkulačka, voltová kalkulačka, proudová kalkulačka, odporová kalkulačka, inženýrské převodní nástroje, technické kalkulačky, profesionální inženýrské nástroje",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Kalkulačka Elektrického Výkonu",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulačka Elektrického Výkonu - AC/DC Výkon, Napětí & Proud",
+        "meta_description": "Bezplatná kalkulačka elektrického výkonu pro AC/DC obvody. Vypočítejte výkon, napětí, proud, odpor pomocí Ohmova zákona. Podporuje výpočty jednofázové, třífázové okamžitě.",
+        "meta_keyword": "kalkulačka elektrického výkonu, výpočet výkonu, kalkulačka napětí, kalkulačka proudu, kalkulačka ohmova zákona, kalkulačka AC výkonu, kalkulačka DC výkonu, kalkulačka třífázového výkonu, jednofázový výkon, kalkulačka elektrotechniky, kalkulačka wattů, kalkulačka ampérů, kalkulačka odporu, kalkulačka elektrických obvodů, kalkulačka spotřeby energie, kalkulačka kilowattů, kalkulačka elektrického zatížení",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

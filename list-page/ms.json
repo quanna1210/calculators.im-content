@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Kalkulator Kejuruteraan",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Kejuruteraan - Alat Dalam Talian Percuma | Calculator Hub",
+        "meta_description": "Koleksi lengkap kalkulator kejuruteraan percuma untuk kejuruteraan struktur, mekanikal, elektrik, awam. Kira beban, tegasan, kuasa, kadar aliran & lebih banyak lagi dengan serta-merta.",
+        "meta_keyword": "kalkulator kejuruteraan, kalkulator struktur, alat kejuruteraan mekanikal, kalkulator elektrik, kalkulator kejuruteraan awam, kalkulator beban, analisis tegasan, pengiraan kuasa, kalkulator kadar aliran, kalkulator rasuk, kalkulator konkrit, kalkulator keluli, kalkulator voltan, kalkulator arus, kalkulator rintangan, alat penukaran kejuruteraan, kalkulator teknikal, alat kejuruteraan profesional",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Kalkulator Kuasa Elektrik",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Kuasa Elektrik - Kuasa AC/DC, Voltan & Arus",
+        "meta_description": "Kalkulator kuasa elektrik percuma untuk litar AC/DC. Kira kuasa, voltan, arus, rintangan menggunakan hukum Ohm. Menyokong pengiraan satu fasa, tiga fasa dengan serta-merta.",
+        "meta_keyword": "kalkulator kuasa elektrik, pengiraan kuasa, kalkulator voltan, kalkulator arus, kalkulator hukum ohm, kalkulator kuasa AC, kalkulator kuasa DC, kalkulator kuasa tiga fasa, kuasa satu fasa, kalkulator kejuruteraan elektrik, kalkulator watt, kalkulator ampere, kalkulator rintangan, kalkulator litar elektrik, kalkulator penggunaan kuasa, kalkulator kilowatt, kalkulator beban elektrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

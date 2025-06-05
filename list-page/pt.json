@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Calculadoras de Engenharia",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculadoras de Engenharia - Ferramentas Online Gratuitas | Calculator Hub",
+        "meta_description": "Coleção abrangente de calculadoras de engenharia gratuitas para engenharia estrutural, mecânica, elétrica e civil. Calcule cargas, tensões, potência, vazões e mais instantaneamente.",
+        "meta_keyword": "calculadoras de engenharia, calculadora estrutural, ferramentas de engenharia mecânica, calculadoras elétricas, calculadora de engenharia civil, calculadora de carga, análise de tensão, cálculo de potência, calculadora de vazão, calculadora de viga, calculadora de concreto, calculadora de aço, calculadora de voltagem, calculadora de corrente, calculadora de resistência, ferramentas de conversão de engenharia, calculadoras técnicas, ferramentas de engenharia profissional",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Calculadora de Potência Elétrica",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora de Potência Elétrica - Potência AC/DC, Tensão e Corrente",
+        "meta_description": "Calculadora gratuita de potência elétrica para circuitos AC/DC. Calcule potência, tensão, corrente, resistência usando a lei de Ohm. Suporta cálculos monofásicos, trifásicos instantaneamente.",
+        "meta_keyword": "calculadora potência elétrica, cálculo de potência, calculadora tensão, calculadora corrente, calculadora lei ohm, calculadora potência AC, calculadora potência DC, calculadora potência trifásica, potência monofásica, calculadora engenharia elétrica, calculadora watts, calculadora amperagem, calculadora resistência, calculadora circuito elétrico, calculadora consumo energia, calculadora quilowatts, calculadora carga elétrica",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

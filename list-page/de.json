@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Ingenieur-Rechner",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Ingenieur-Rechner - Kostenlose Online-Tools | Calculator Hub",
+        "meta_description": "Umfassende Sammlung kostenloser Ingenieur-Rechner für Bau-, Maschinen-, Elektro- und Bauingenieurwesen. Berechnen Sie Lasten, Spannungen, Leistung, Durchflussraten und mehr sofort.",
+        "meta_keyword": "ingenieur rechner, strukturrechner, maschinenbau werkzeuge, elektrische rechner, bauingenieur rechner, lastrechner, spannungsanalyse, leistungsberechnung, durchflussrechner, balkenrechner, betonrechner, stahlrechner, spannungsrechner, stromrechner, widerstandsrechner, ingenieur umrechnungstools, technische rechner, professionelle ingenieurwerkzeuge",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Elektrische Leistungsrechner",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Elektrische Leistungsrechner - AC/DC Leistung, Spannung & Strom",
+        "meta_description": "Kostenloser elektrischer Leistungsrechner für AC/DC-Schaltkreise. Berechnen Sie Leistung, Spannung, Strom, Widerstand mit dem Ohmschen Gesetz. Unterstützt Ein- und Dreiphasenberechnungen sofort.",
+        "meta_keyword": "elektrischer leistungsrechner, leistungsberechnung, spannungsrechner, stromrechner, ohmsches gesetz rechner, AC leistungsrechner, DC leistungsrechner, dreiphasen leistungsrechner, einphasen leistung, elektrotechnik rechner, watt rechner, ampere rechner, widerstandsrechner, elektrischer schaltkreis rechner, stromverbrauch rechner, kilowatt rechner, elektrische last rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Kalkulatory Inżynierskie",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulatory Inżynierskie - Darmowe Narzędzia Online | Calculator Hub",
+        "meta_description": "Kompleksowa kolekcja darmowych kalkulatorów inżynierskich dla inżynierii strukturalnej, mechanicznej, elektrycznej i budowniczej. Oblicz obciążenia, naprężenia, moc, przepływy i więcej natychmiast.",
+        "meta_keyword": "kalkulatory inżynierskie, kalkulator strukturalny, narzędzia inżynierii mechanicznej, kalkulatory elektryczne, kalkulator inżynierii budowniczej, kalkulator obciążeń, analiza naprężeń, obliczenie mocy, kalkulator przepływu, kalkulator belki, kalkulator betonu, kalkulator stali, kalkulator napięcia, kalkulator prądu, kalkulator oporu, narzędzia konwersji inżynierskiej, kalkulatory techniczne, profesjonalne narzędzia inżynierskie",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Kalkulator Mocy Elektrycznej",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Mocy Elektrycznej - Moc AC/DC, Napięcie i Prąd",
+        "meta_description": "Darmowy kalkulator mocy elektrycznej dla obwodów AC/DC. Oblicz moc, napięcie, prąd, opór używając prawa Ohma. Obsługuje obliczenia jednofazowe, trójfazowe natychmiast.",
+        "meta_keyword": "kalkulator mocy elektrycznej, obliczenie mocy, kalkulator napięcia, kalkulator prądu, kalkulator prawa ohma, kalkulator mocy AC, kalkulator mocy DC, kalkulator mocy trójfazowej, moc jednofazowa, kalkulator elektrotechniki, kalkulator watów, kalkulator amperażu, kalkulator oporu, kalkulator obwodu elektrycznego, kalkulator zużycia energii, kalkulator kilowatów, kalkulator obciążenia elektrycznego",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

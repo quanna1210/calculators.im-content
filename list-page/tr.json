@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Mühendislik Hesaplayıcıları",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Mühendislik Hesaplayıcıları - Ücretsiz Online Araçlar | Calculator Hub",
+        "meta_description": "Yapısal, makine, elektrik ve inşaat mühendisliği için kapsamlı ücretsiz mühendislik hesaplayıcıları koleksiyonu. Yükleri, gerilmeleri, gücü, akış oranlarını ve daha fazlasını anında hesaplayın.",
+        "meta_keyword": "mühendislik hesaplayıcıları, yapısal hesaplayıcı, makine mühendisliği araçları, elektrik hesaplayıcıları, inşaat mühendisliği hesaplayıcısı, yük hesaplayıcısı, gerilme analizi, güç hesaplama, akış oranı hesaplayıcısı, kiriş hesaplayıcısı, beton hesaplayıcısı, çelik hesaplayıcısı, voltaj hesaplayıcısı, akım hesaplayıcısı, direnç hesaplayıcısı, mühendislik dönüştürme araçları, teknik hesaplayıcılar, profesyonel mühendislik araçları",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Elektrik Güç Hesaplayıcısı",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Elektrik Güç Hesaplayıcısı - AC/DC Güç, Gerilim ve Akım",
+        "meta_description": "AC/DC devreleri için ücretsiz elektrik güç hesaplayıcısı. Ohm yasasını kullanarak güç, gerilim, akım, direnç hesaplayın. Tek faz, üç faz hesaplamalarını anında destekler.",
+        "meta_keyword": "elektrik güç hesaplayıcısı, güç hesaplama, gerilim hesaplayıcısı, akım hesaplayıcısı, ohm yasası hesaplayıcısı, AC güç hesaplayıcısı, DC güç hesaplayıcısı, üç faz güç hesaplayıcısı, tek faz güç, elektrik mühendisliği hesaplayıcısı, watt hesaplayıcısı, amper hesaplayıcısı, direnç hesaplayıcısı, elektrik devre hesaplayıcısı, güç tüketimi hesaplayıcısı, kilowatt hesaplayıcısı, elektrik yük hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Technische Rekenmachines",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Technische Rekenmachines - Gratis Online Tools | Calculator Hub",
+        "meta_description": "Uitgebreide verzameling gratis technische rekenmachines voor structurele, mechanische, elektrische en civiele techniek. Bereken belastingen, spanningen, vermogen, debieten en meer direct.",
+        "meta_keyword": "technische rekenmachines, structurele rekenmachine, werktuigbouwkundige tools, elektrische rekenmachines, civiele techniek rekenmachine, belasting rekenmachine, spanningsanalyse, vermogensberekening, debiet rekenmachine, balk rekenmachine, beton rekenmachine, staal rekenmachine, spanning rekenmachine, stroom rekenmachine, weerstand rekenmachine, technische conversie tools, technische rekenmachines, professionele technische tools",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Elektrisch Vermogen Rekenmachine",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Elektrisch Vermogen Rekenmachine - AC/DC Vermogen, Spanning & Stroom",
+        "meta_description": "Gratis elektrisch vermogen rekenmachine voor AC/DC circuits. Bereken vermogen, spanning, stroom, weerstand met de wet van Ohm. Ondersteunt enkelfase, driefase berekeningen direct.",
+        "meta_keyword": "elektrisch vermogen rekenmachine, vermogensberekening, spanning rekenmachine, stroom rekenmachine, ohm wet rekenmachine, AC vermogen rekenmachine, DC vermogen rekenmachine, driefase vermogen rekenmachine, enkelfase vermogen, elektrotechniek rekenmachine, watt rekenmachine, amperage rekenmachine, weerstand rekenmachine, elektrisch circuit rekenmachine, energieverbruik rekenmachine, kilowatt rekenmachine, elektrische belasting rekenmachine",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

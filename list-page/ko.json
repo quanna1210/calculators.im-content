@@ -544,5 +544,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "공학 계산기",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "공학 계산기 - 무료 온라인 도구 | Calculator Hub",
+        "meta_description": "구조, 기계, 전기, 토목 공학을 위한 포괄적인 무료 공학 계산기 모음. 하중, 응력, 전력, 유량 등을 즉시 계산하세요.",
+        "meta_keyword": "공학 계산기, 구조 계산기, 기계 공학 도구, 전기 계산기, 토목 공학 계산기, 하중 계산기, 응력 분석, 전력 계산, 유량 계산기, 보 계산기, 콘크리트 계산기, 강철 계산기, 전압 계산기, 전류 계산기, 저항 계산기, 공학 변환 도구, 기술 계산기, 전문 공학 도구",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "전력 계산기",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "전력 계산기 - AC/DC 전력, 전압 및 전류",
+        "meta_description": "AC/DC 회로용 무료 전력 계산기. 옴의 법칙을 사용하여 전력, 전압, 전류, 저항을 계산하세요. 단상, 삼상 계산을 즉시 지원합니다.",
+        "meta_keyword": "전력 계산기, 전력 계산, 전압 계산기, 전류 계산기, 옴의 법칙 계산기, AC 전력 계산기, DC 전력 계산기, 삼상 전력 계산기, 단상 전력, 전기 공학 계산기, 와트 계산기, 암페어 계산기, 저항 계산기, 전기 회로 계산기, 전력 소비 계산기, 킬로와트 계산기, 전기 부하 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

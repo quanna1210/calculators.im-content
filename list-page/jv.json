@@ -544,5 +544,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Kalkulator Teknik",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Teknik - Piranti Online Gratis | Calculator Hub",
+        "meta_description": "Koleksi lengkap kalkulator teknik gratis kanggo teknik struktur, mekanik, listrik, sipil. Ngitung beban, tegangan, daya, laju aliran & liyane kanthi cepet.",
+        "meta_keyword": "kalkulator teknik, kalkulator struktur, piranti teknik mekanik, kalkulator listrik, kalkulator teknik sipil, kalkulator beban, analisis tegangan, pitungan daya, kalkulator laju aliran, kalkulator balok, kalkulator beton, kalkulator besi, kalkulator tegangan listrik, kalkulator arus, kalkulator resistansi, piranti konversi teknik, kalkulator teknis, piranti teknik profesional",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Kalkulator Daya Listrik",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Daya Listrik - Daya AC/DC, Tegangan & Arus",
+        "meta_description": "Kalkulator daya listrik gratis kanggo sirkuit AC/DC. Ngitung daya, tegangan, arus, resistansi nggunakake hukum Ohm. Ndhukung pitungan siji fase, telung fase kanthi cepet.",
+        "meta_keyword": "kalkulator daya listrik, pitungan daya, kalkulator tegangan, kalkulator arus, kalkulator hukum ohm, kalkulator daya AC, kalkulator daya DC, kalkulator daya telung fase, daya siji fase, kalkulator teknik listrik, kalkulator watt, kalkulator ampere, kalkulator resistansi, kalkulator sirkuit listrik, kalkulator konsumsi daya, kalkulator kilowatt, kalkulator beban listrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

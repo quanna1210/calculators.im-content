@@ -543,5 +543,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "エンジニアリング計算機",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "エンジニアリング計算機 - 無料オンラインツール | Calculator Hub",
+        "meta_description": "構造、機械、電気、土木工学のための包括的な無料エンジニアリング計算機コレクション。荷重、応力、電力、流量などを瞬時に計算します。",
+        "meta_keyword": "エンジニアリング計算機, 構造計算機, 機械工学ツール, 電気計算機, 土木工学計算機, 荷重計算機, 応力解析, 電力計算, 流量計算機, 梁計算機, コンクリート計算機, 鋼鉄計算機, 電圧計算機, 電流計算機, 抵抗計算機, 工学変換ツール, 技術計算機, 専門工学ツール",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "電力計算機",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "電力計算機 - AC/DC電力、電圧と電流",
+        "meta_description": "AC/DC回路用の無料電力計算機。オームの法則を使用して電力、電圧、電流、抵抗を計算します。単相、三相計算を瞬時にサポートします。",
+        "meta_keyword": "電力計算機, 電力計算, 電圧計算機, 電流計算機, オームの法則計算機, AC電力計算機, DC電力計算機, 三相電力計算機, 単相電力, 電気工学計算機, ワット計算機, アンペア計算機, 抵抗計算機, 電気回路計算機, 消費電力計算機, キロワット計算機, 電気負荷計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

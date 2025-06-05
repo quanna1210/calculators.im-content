@@ -544,5 +544,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Mérnöki Számológépek",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Mérnöki Számológépek - Ingyenes Online Eszközök | Calculator Hub",
+        "meta_description": "Átfogó gyűjtemény ingyenes mérnöki számológépekből szerkezeti, gép-, elektromos és építőmérnöki munkákhoz. Számítsa ki a terheléseket, feszültségeket, teljesítményt, áramlási sebességeket és még többet azonnal.",
+        "meta_keyword": "mérnöki számológépek, szerkezeti számológép, gépészmérnöki eszközök, elektromos számológépek, építőmérnöki számológép, terhelés számológép, feszültségelemzés, teljesítményszámítás, áramlási sebesség számológép, tartó számológép, beton számológép, acél számológép, feszültség számológép, áram számológép, ellenállás számológép, mérnöki konverziós eszközök, műszaki számológépek, professzionális mérnöki eszközök",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Elektromos Teljesítmény Számológép",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Elektromos Teljesítmény Számológép - AC/DC Teljesítmény, Feszültség és Áram",
+        "meta_description": "Ingyenes elektromos teljesítmény számológép AC/DC áramkörökhez. Számítsa ki a teljesítményt, feszültséget, áramot, ellenállást az Ohm-törvény használatával. Támogatja az egyfázisú, háromfázisú számításokat azonnal.",
+        "meta_keyword": "elektromos teljesítmény számológép, teljesítményszámítás, feszültség számológép, áram számológép, ohm törvény számológép, AC teljesítmény számológép, DC teljesítmény számológép, háromfázisú teljesítmény számológép, egyfázisú teljesítmény, villamosmérnöki számológép, watt számológép, ampere számológép, ellenállás számológép, elektromos áramkör számológép, energiafogyasztás számológép, kilowatt számológép, elektromos terhelés számológép",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

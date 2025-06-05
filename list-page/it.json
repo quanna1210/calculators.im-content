@@ -544,5 +544,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Calcolatrici di Ingegneria",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Calcolatrici di Ingegneria - Strumenti Online Gratuiti | Calculator Hub",
+        "meta_description": "Collezione completa di calcolatrici di ingegneria gratuite per ingegneria strutturale, meccanica, elettrica e civile. Calcola carichi, tensioni, potenza, portate e altro istantaneamente.",
+        "meta_keyword": "calcolatrici di ingegneria, calcolatrice strutturale, strumenti di ingegneria meccanica, calcolatrici elettriche, calcolatrice di ingegneria civile, calcolatrice di carico, analisi delle tensioni, calcolo della potenza, calcolatrice di portata, calcolatrice di trave, calcolatrice di cemento, calcolatrice di acciaio, calcolatrice di voltaggio, calcolatrice di corrente, calcolatrice di resistenza, strumenti di conversione di ingegneria, calcolatrici tecniche, strumenti di ingegneria professionale",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Calcolatrice Potenza Elettrica",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatrice Potenza Elettrica - Potenza AC/DC, Tensione e Corrente",
+        "meta_description": "Calcolatrice gratuita di potenza elettrica per circuiti AC/DC. Calcola potenza, tensione, corrente, resistenza usando la legge di Ohm. Supporta calcoli monofase, trifase istantaneamente.",
+        "meta_keyword": "calcolatrice potenza elettrica, calcolo potenza, calcolatrice tensione, calcolatrice corrente, calcolatrice legge ohm, calcolatrice potenza AC, calcolatrice potenza DC, calcolatrice potenza trifase, potenza monofase, calcolatrice ingegneria elettrica, calcolatrice watt, calcolatrice amperaggio, calcolatrice resistenza, calcolatrice circuito elettrico, calcolatrice consumo energia, calcolatrice kilowatt, calcolatrice carico elettrico",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -542,5 +542,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "44",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "title": "Calculatoare de Inginerie",
+        "slug": "engineering-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatoare de Inginerie - Instrumente Online Gratuite | Calculator Hub",
+        "meta_description": "Colecție cuprinzătoare de calculatoare de inginerie gratuite pentru inginerie structurală, mecanică, electrică și civilă. Calculați sarcini, tensiuni, putere, debite și mai mult instantaneu.",
+        "meta_keyword": "calculatoare de inginerie, calculator structural, instrumente de inginerie mecanică, calculatoare electrice, calculator de inginerie civilă, calculator de sarcini, analiza tensiunilor, calculul puterii, calculator de debit, calculator de grindă, calculator de beton, calculator de oțel, calculator de tensiune, calculator de curent, calculator de rezistență, instrumente de conversie inginerie, calculatoare tehnice, instrumente de inginerie profesionale",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "45",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "title": "Calculator Putere Electrică",
+        "slug": "electrical-power-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Putere Electrică - Putere AC/DC, Tensiune și Curent",
+        "meta_description": "Calculator gratuit de putere electrică pentru circuite AC/DC. Calculați puterea, tensiunea, curentul, rezistența folosind legea lui Ohm. Suportă calcule monofazate, trifazate instant.",
+        "meta_keyword": "calculator putere electrică, calculul puterii, calculator tensiune, calculator curent, calculator legea ohm, calculator putere AC, calculator putere DC, calculator putere trifazată, putere monofazată, calculator inginerie electrică, calculator wați, calculator amperaj, calculator rezistență, calculator circuit electric, calculator consum energie, calculator kilowați, calculator sarcină electrică",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
