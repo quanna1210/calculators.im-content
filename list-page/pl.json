@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Konwerter jednostek",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Darmowy konwerter jednostek: Przeliczaj km na mile, kg na funty online",
         "meta_description": "Darmowy konwerter jednostek online dla długości, wagi, temperatury i innych. Przelicz km na mile, kg na funty, stopnie Celsjusza na Fahrenheita natychmiast na calculators.im!",
         "meta_keyword": "Konwerter jednostek, Konwerter metryczny, Konwerter długości, Konwerter wagi, Konwerter temperatury, Konwerter km na mile, Konwerter kg na funty",
@@ -565,6 +565,19 @@
         "meta_title": "Kalkulator Mocy Elektrycznej - Moc AC/DC, Napięcie i Prąd",
         "meta_description": "Darmowy kalkulator mocy elektrycznej dla obwodów AC/DC. Oblicz moc, napięcie, prąd, opór używając prawa Ohma. Obsługuje obliczenia jednofazowe, trójfazowe natychmiast.",
         "meta_keyword": "kalkulator mocy elektrycznej, obliczenie mocy, kalkulator napięcia, kalkulator prądu, kalkulator prawa ohma, kalkulator mocy AC, kalkulator mocy DC, kalkulator mocy trójfazowej, moc jednofazowa, kalkulator elektrotechniki, kalkulator watów, kalkulator amperażu, kalkulator oporu, kalkulator obwodu elektrycznego, kalkulator zużycia energii, kalkulator kilowatów, kalkulator obciążenia elektrycznego",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Kalkulator Oporu",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Oporu - Prawo Ohma, Przewód i Narzędzie Kodu Kolorów",
+        "meta_description": "Profesjonalny kalkulator oporu z 3 metodami obliczania. Oblicz opór elektryczny używając Prawa Ohma, właściwości materiałów lub paskach kolorowych rezystora natychmiast.",
+        "meta_keyword": "kalkulator oporu, kalkulator prawa ohma, kalkulator oporu przewodu, kalkulator kodu kolorów rezystora, opór elektryczny, kalkulator napięcia prądu mocy, kalkulator przewodu AWG, kalkulator oporności, kalkulator przewodności, narzędzia elektrotechniczne, kalkulator elektroniczny, kalkulator wartości rezystora, opór średnicy przewodu, oporność materiału, współczynnik temperaturowy oporu",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

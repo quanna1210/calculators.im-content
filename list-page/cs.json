@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Převodník jednotek",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Zdarma převodník jednotek: Převod km na míle, kg na libry online",
         "meta_description": "Zdarma online převodník jednotek pro délku, váhu, teplotu a další. Převeďte km na míle, kg na libry, stupně Celsia na Fahrenheita okamžitě na calculators.im!",
         "meta_keyword": "Převodník jednotek, Metrický převodník, Převodník délek, Převodník váhy, Převodník teploty, Online převodník jednotek pro délku, Zdarma převodník z metrických na imperiální jednotky, Převod km na míle online, Převodník váhy kg na libry, Převodník stupňů Celsia na Fahrenheita online",
@@ -565,6 +565,19 @@
         "meta_title": "Kalkulačka Elektrického Výkonu - AC/DC Výkon, Napětí & Proud",
         "meta_description": "Bezplatná kalkulačka elektrického výkonu pro AC/DC obvody. Vypočítejte výkon, napětí, proud, odpor pomocí Ohmova zákona. Podporuje výpočty jednofázové, třífázové okamžitě.",
         "meta_keyword": "kalkulačka elektrického výkonu, výpočet výkonu, kalkulačka napětí, kalkulačka proudu, kalkulačka ohmova zákona, kalkulačka AC výkonu, kalkulačka DC výkonu, kalkulačka třífázového výkonu, jednofázový výkon, kalkulačka elektrotechniky, kalkulačka wattů, kalkulačka ampérů, kalkulačka odporu, kalkulačka elektrických obvodů, kalkulačka spotřeby energie, kalkulačka kilowattů, kalkulačka elektrického zatížení",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Kalkulátor odporu",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulátor odporu - Ohmův zákon, drát a nástroj barevných pásků",
+        "meta_description": "Profesionální kalkulátor odporu se 3 metodami výpočtu. Vypočítejte elektrický odpor pomocí Ohmova zákona, vlastností materiálu nebo barevných pásků rezistoru okamžitě.",
+        "meta_keyword": "kalkulátor odporu, kalkulátor ohmova zákona, kalkulátor odporu drátu, kalkulátor barevného kódu rezistoru, elektrický odpor, kalkulátor napětí proudu výkonu, kalkulátor drátu AWG, kalkulátor rezistivity, kalkulátor vodivosti, nástroje elektrotechniky, elektronický kalkulátor, kalkulátor hodnoty rezistoru, odpor průřezu drátu, rezistivita materiálu, teplotní koeficient odporu",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

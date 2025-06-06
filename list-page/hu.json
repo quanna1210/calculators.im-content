@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Mértékegység Átváltó",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Ingyenes Mértékegység Átváltó: KM-ről Mérföldre, KG-ról Fontra Online",
         "meta_description": "Ingyenes online mértékegység átváltó hosszúság, súly, hőmérséklet és egyebek átváltásához. Alakítsd át km-t mérföldre, kg-t fontra, Celsius-t Fahrenheit-re azonnal a calculators.im oldalon!",
         "meta_keyword": "Mértékegység Átváltó, Metrikus Átváltó, Hosszúság Átváltó, Súly Átváltó, Hőmérséklet Átváltó, Online Mértékegység Átváltó Hosszúsághoz, Ingyenes Metrikus-Imperial Átváltó, KM-ről Mérföldre Átváltás Online, Súly Átváltó KG-ról Fontra, Celsius-Fahrenheit Átváltó Online",
@@ -567,6 +567,19 @@
         "meta_title": "Elektromos Teljesítmény Számológép - AC/DC Teljesítmény, Feszültség és Áram",
         "meta_description": "Ingyenes elektromos teljesítmény számológép AC/DC áramkörökhez. Számítsa ki a teljesítményt, feszültséget, áramot, ellenállást az Ohm-törvény használatával. Támogatja az egyfázisú, háromfázisú számításokat azonnal.",
         "meta_keyword": "elektromos teljesítmény számológép, teljesítményszámítás, feszültség számológép, áram számológép, ohm törvény számológép, AC teljesítmény számológép, DC teljesítmény számológép, háromfázisú teljesítmény számológép, egyfázisú teljesítmény, villamosmérnöki számológép, watt számológép, ampere számológép, ellenállás számológép, elektromos áramkör számológép, energiafogyasztás számológép, kilowatt számológép, elektromos terhelés számológép",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Ellenállás Kalkulátor",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Ellenállás Kalkulátor - Ohm törvény, Vezeték és Színkód Eszköz",
+        "meta_description": "Professzionális ellenállás kalkulátor 3 számítási módszerrel. Számítsa ki az elektromos ellenállást az Ohm törvény, anyag tulajdonságok vagy ellenállás színsávok használatával azonnal.",
+        "meta_keyword": "ellenállás kalkulátor, ohm törvény kalkulátor, vezeték ellenállás kalkulátor, ellenállás színkód kalkulátor, elektromos ellenállás, feszültség áram teljesítmény kalkulátor, AWG vezeték kalkulátor, ellenállás kalkulátor, vezetőképesség kalkulátor, elektrotechnikai eszközök, elektronikai kalkulátor, ellenállás érték kalkulátor, vezeték átmérő ellenállás, anyag ellenállás, hőmérsékleti együttható ellenállás",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

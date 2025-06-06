@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Unit Converter",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Free Unit Converter: Convert KM to Miles, KG to LBS Online",
         "meta_description": "Free online unit converter for length, weight, temperature, and more. Convert km to miles, kg to lbs, Celsius to Fahrenheit instantly at calculators.im!",
         "meta_keyword": "unit converter, metric converter, length converter, weight converter, temperature converter, online unit converter for length, free metric to imperial converter, convert km to miles online, weight converter kg to lbs, celsius to fahrenheit converter online",
@@ -568,6 +568,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Resistance Calculator",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Resistance Calculator - Ohm's Law, Wire & Color Band Tool",
+        "meta_description": "Professional resistance calculator with 3 calculation methods. Calculate electrical resistance using Ohm's Law, material properties, or resistor color bands instantly.",
+        "meta_keyword": "resistance calculator, ohms law calculator, wire resistance calculator, resistor color code calculator, electrical resistance, voltage current power calculator, AWG wire calculator, resistivity calculator, conductance calculator, electrical engineering tools, electronics calculator, resistor value calculator, wire gauge resistance, material resistivity, temperature coefficient resistance",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
-    
 ]

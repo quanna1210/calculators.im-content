@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Penukar Unit",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Penukar Unit Percuma: Tukar KM ke Batu, KG ke LBS Dalam Talian",
         "meta_description": "Penukar unit dalam talian percuma untuk panjang, berat, suhu, dan banyak lagi. Tukar km ke batu, kg ke lbs, Celsius ke Fahrenheit dengan segera di calculators.im!",
         "meta_keyword": "Penukar unit, Penukar metrik, Penukar panjang, Penukar berat, Penukar suhu, Penukar unit dalam talian untuk panjang, Penukar metrik ke imperial percuma, Tukar km ke batu dalam talian, Penukar berat kg ke lbs, Penukar Celsius ke Fahrenheit dalam talian",
@@ -565,6 +565,19 @@
         "meta_title": "Kalkulator Kuasa Elektrik - Kuasa AC/DC, Voltan & Arus",
         "meta_description": "Kalkulator kuasa elektrik percuma untuk litar AC/DC. Kira kuasa, voltan, arus, rintangan menggunakan hukum Ohm. Menyokong pengiraan satu fasa, tiga fasa dengan serta-merta.",
         "meta_keyword": "kalkulator kuasa elektrik, pengiraan kuasa, kalkulator voltan, kalkulator arus, kalkulator hukum ohm, kalkulator kuasa AC, kalkulator kuasa DC, kalkulator kuasa tiga fasa, kuasa satu fasa, kalkulator kejuruteraan elektrik, kalkulator watt, kalkulator ampere, kalkulator rintangan, kalkulator litar elektrik, kalkulator penggunaan kuasa, kalkulator kilowatt, kalkulator beban elektrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Kalkulator Rintangan",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Rintangan - Hukum Ohm, Wayar & Alat Jalur Warna",
+        "meta_description": "Kalkulator rintangan profesional dengan 3 kaedah pengiraan. Kira rintangan elektrik menggunakan Hukum Ohm, sifat bahan, atau jalur warna perintang secara serta-merta.",
+        "meta_keyword": "kalkulator rintangan, kalkulator hukum ohm, kalkulator rintangan wayar, kalkulator kod warna perintang, rintangan elektrik, kalkulator voltan arus kuasa, kalkulator wayar AWG, kalkulator kerintangan, kalkulator kekonduksian, alat kejuruteraan elektrik, kalkulator elektronik, kalkulator nilai perintang, rintangan tolok wayar, kerintangan bahan, rintangan pekali suhu",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

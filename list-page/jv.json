@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Konverter Unit",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Konverter Unit Gratis: Ngowahi KM dadi Mil, KG dadi LBS Online",
         "meta_description": "Konverter unit gratis online kanggo dawa, bobot, suhu, lan liya-liyane. Ngowahi km dadi mil, kg dadi lbs, Celsius dadi Fahrenheit kanthi cepet ing calculators.im!",
         "meta_keyword": "Konverter unit, Konverter metrik, Konverter dawa, Konverter bobot, Konverter suhu, Konverter unit online kanggo dawa, Konverter metrik dadi imperial gratis, Ngowahi km dadi mil online, Konverter bobot kg dadi lbs, Konverter Celsius dadi Fahrenheit online",
@@ -567,6 +567,19 @@
         "meta_title": "Kalkulator Daya Listrik - Daya AC/DC, Tegangan & Arus",
         "meta_description": "Kalkulator daya listrik gratis kanggo sirkuit AC/DC. Ngitung daya, tegangan, arus, resistansi nggunakake hukum Ohm. Ndhukung pitungan siji fase, telung fase kanthi cepet.",
         "meta_keyword": "kalkulator daya listrik, pitungan daya, kalkulator tegangan, kalkulator arus, kalkulator hukum ohm, kalkulator daya AC, kalkulator daya DC, kalkulator daya telung fase, daya siji fase, kalkulator teknik listrik, kalkulator watt, kalkulator ampere, kalkulator resistansi, kalkulator sirkuit listrik, kalkulator konsumsi daya, kalkulator kilowatt, kalkulator beban listrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Kalkulator Resistensi",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Resistensi - Hukum Ohm, Kawat & Piranti Kode Warna",
+        "meta_description": "Kalkulator resistensi profesional kanthi 3 cara pitungan. Etung resistensi listrik nggunakake Hukum Ohm, sifat materi, utawa pita warna resistor kanthi cepet.",
+        "meta_keyword": "kalkulator resistensi, kalkulator hukum ohm, kalkulator resistensi kawat, kalkulator kode warna resistor, resistensi listrik, kalkulator tegangan arus daya, kalkulator kawat AWG, kalkulator resistivitas, kalkulator konduktansi, piranti teknik listrik, kalkulator elektronik, kalkulator nilai resistor, resistensi ukuran kawat, resistivitas materi, resistensi koefisien suhu",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

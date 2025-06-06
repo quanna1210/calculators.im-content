@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Einheitenumrechner",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Kostenloser Einheitenumrechner: KM zu Meilen, KG zu LBS online umrechnen",
         "meta_description": "Kostenloser Online-Einheitenumrechner für Länge, Gewicht, Temperatur und mehr. Konvertieren Sie km zu Meilen, kg zu lbs, Celsius zu Fahrenheit sofort auf calculators.im!",
         "meta_keyword": "Einheitenumrechner, metrischer Umrechner, Längen-Umrechner, Gewichtsumrechner, Temperaturumrechner, Online-Einheitenumrechner für Länge, kostenloser metrischer zu imperialer Umrechner, km zu Meilen online umrechnen, Gewichtsumrechner kg zu lbs, Celsius zu Fahrenheit Umrechner online",
@@ -565,6 +565,19 @@
         "meta_title": "Elektrische Leistungsrechner - AC/DC Leistung, Spannung & Strom",
         "meta_description": "Kostenloser elektrischer Leistungsrechner für AC/DC-Schaltkreise. Berechnen Sie Leistung, Spannung, Strom, Widerstand mit dem Ohmschen Gesetz. Unterstützt Ein- und Dreiphasenberechnungen sofort.",
         "meta_keyword": "elektrischer leistungsrechner, leistungsberechnung, spannungsrechner, stromrechner, ohmsches gesetz rechner, AC leistungsrechner, DC leistungsrechner, dreiphasen leistungsrechner, einphasen leistung, elektrotechnik rechner, watt rechner, ampere rechner, widerstandsrechner, elektrischer schaltkreis rechner, stromverbrauch rechner, kilowatt rechner, elektrische last rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Widerstandsrechner",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Widerstandsrechner - Ohmsches Gesetz, Draht & Farbcode-Tool",
+        "meta_description": "Professioneller Widerstandsrechner mit 3 Berechnungsmethoden. Berechnen Sie den elektrischen Widerstand mit dem Ohmschen Gesetz, Materialeigenschaften oder Widerstandsfarbringen sofort.",
+        "meta_keyword": "widerstandsrechner, ohmsches gesetz rechner, drahtwiderstand rechner, widerstand farbcode rechner, elektrischer widerstand, spannung strom leistung rechner, AWG draht rechner, spezifischer widerstand rechner, leitfähigkeit rechner, elektrotechnik werkzeuge, elektronik rechner, widerstandswert rechner, drahtdurchmesser widerstand, material resistivität, temperatur koeffizient widerstand",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

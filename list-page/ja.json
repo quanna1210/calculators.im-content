@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "単位変換器",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "無料単位変換器：キロメートルをマイル、キログラムをポンドにオンライン変換",
         "meta_description": "長さ、重量、温度などをオンラインで無料で変換する単位変換器。calculators.imでキロメートルをマイル、キログラムをポンド、摂氏を華氏に瞬時に変換！",
         "meta_keyword": "単位変換器, メートル変換器, 長さ変換器, 重量変換器, 温度変換器, 長さ用オンライン単位変換器, 無料メートルからインペリアル変換器, オンラインでキロメートルをマイルに変換, キログラムからポンドへの重量変換器, オンラインで摂氏から華氏に変換",
@@ -566,6 +566,19 @@
         "meta_title": "電力計算機 - AC/DC電力、電圧と電流",
         "meta_description": "AC/DC回路用の無料電力計算機。オームの法則を使用して電力、電圧、電流、抵抗を計算します。単相、三相計算を瞬時にサポートします。",
         "meta_keyword": "電力計算機, 電力計算, 電圧計算機, 電流計算機, オームの法則計算機, AC電力計算機, DC電力計算機, 三相電力計算機, 単相電力, 電気工学計算機, ワット計算機, アンペア計算機, 抵抗計算機, 電気回路計算機, 消費電力計算機, キロワット計算機, 電気負荷計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "抵抗計算機",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "抵抗計算機 - オームの法則、配線およびカラーコードツール",
+        "meta_description": "3つの計算方法を持つプロフェッショナル抵抗計算機。オームの法則、材料特性、または抵抗器のカラーバンドを使用して電気抵抗を瞬時に計算します。",
+        "meta_keyword": "抵抗計算機, オームの法則計算機, 配線抵抗計算機, 抵抗器カラーコード計算機, 電気抵抗, 電圧電流電力計算機, AWG配線計算機, 抵抗率計算機, 導電率計算機, 電気工学ツール, 電子計算機, 抵抗値計算機, 配線ゲージ抵抗, 材料抵抗率, 温度係数抵抗",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

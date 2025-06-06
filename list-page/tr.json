@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Birim Dönüştürücü",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Ücretsiz Birim Dönüştürücü: KM’yi Mil’e, KG’yi LBS’ye Çevrimiçi Dönüştür",
         "meta_description": "Uzunluk, ağırlık, sıcaklık ve daha fazlası için ücretsiz çevrimiçi birim dönüştürücü. KM’yi mil’e, KG’yi LBS’ye, Celsius’u Fahrenheit’e anında çevirin!",
         "meta_keyword": "Birim dönüştürücü, metrik dönüştürücü, uzunluk dönüştürücü, ağırlık dönüştürücü, sıcaklık dönüştürücü, uzunluk için çevrimiçi birim dönüştürücü, ücretsiz metrik-imperiyal dönüştürücü, KM’yi mil’e çevrimiçi dönüştür, ağırlık dönüştürücü KG’yi LBS’ye, Celsius’tan Fahrenheit’e çevrimiçi dönüştürücü",
@@ -565,6 +565,19 @@
         "meta_title": "Elektrik Güç Hesaplayıcısı - AC/DC Güç, Gerilim ve Akım",
         "meta_description": "AC/DC devreleri için ücretsiz elektrik güç hesaplayıcısı. Ohm yasasını kullanarak güç, gerilim, akım, direnç hesaplayın. Tek faz, üç faz hesaplamalarını anında destekler.",
         "meta_keyword": "elektrik güç hesaplayıcısı, güç hesaplama, gerilim hesaplayıcısı, akım hesaplayıcısı, ohm yasası hesaplayıcısı, AC güç hesaplayıcısı, DC güç hesaplayıcısı, üç faz güç hesaplayıcısı, tek faz güç, elektrik mühendisliği hesaplayıcısı, watt hesaplayıcısı, amper hesaplayıcısı, direnç hesaplayıcısı, elektrik devre hesaplayıcısı, güç tüketimi hesaplayıcısı, kilowatt hesaplayıcısı, elektrik yük hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Direnç Hesaplayıcı",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Direnç Hesaplayıcı - Ohm Kanunu, Tel ve Renk Kodu Aracı",
+        "meta_description": "3 hesaplama yöntemi ile profesyonel direnç hesaplayıcı. Ohm Kanunu, malzeme özellikleri veya direnç renk bantları kullanarak elektriksel direnci anında hesaplayın.",
+        "meta_keyword": "direnç hesaplayıcı, ohm kanunu hesaplayıcı, tel direnç hesaplayıcı, direnç renk kodu hesaplayıcı, elektriksel direnç, gerilim akım güç hesaplayıcı, AWG tel hesaplayıcı, özdirenç hesaplayıcı, iletkenlik hesaplayıcı, elektrik mühendisliği araçları, elektronik hesaplayıcı, direnç değeri hesaplayıcı, tel çapı direnç, malzeme özdirenci, sıcaklık katsayısı direnç",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Convertitore Unità",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Convertitore Unità Gratuito: Converti KM in Miglia, KG in LBS Online",
         "meta_description": "Convertitore unità gratuito online per lunghezza, peso, temperatura e altro. Converti km in miglia, kg in lbs, Celsius in Fahrenheit istantaneamente su calculators.im!",
         "meta_keyword": "Convertitore unità, Convertitore metrico, Convertitore lunghezza, Convertitore peso, Convertitore temperatura, Convertitore unità online per lunghezza, Convertitore metrico a imperiale gratuito, Convertire km in miglia online, Convertitore peso kg in lbs, Convertitore Celsius in Fahrenheit online",
@@ -567,6 +567,19 @@
         "meta_title": "Calcolatrice Potenza Elettrica - Potenza AC/DC, Tensione e Corrente",
         "meta_description": "Calcolatrice gratuita di potenza elettrica per circuiti AC/DC. Calcola potenza, tensione, corrente, resistenza usando la legge di Ohm. Supporta calcoli monofase, trifase istantaneamente.",
         "meta_keyword": "calcolatrice potenza elettrica, calcolo potenza, calcolatrice tensione, calcolatrice corrente, calcolatrice legge ohm, calcolatrice potenza AC, calcolatrice potenza DC, calcolatrice potenza trifase, potenza monofase, calcolatrice ingegneria elettrica, calcolatrice watt, calcolatrice amperaggio, calcolatrice resistenza, calcolatrice circuito elettrico, calcolatrice consumo energia, calcolatrice kilowatt, calcolatrice carico elettrico",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Calcolatore di Resistenza",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatore di Resistenza - Legge di Ohm, Filo e Strumento Codice Colore",
+        "meta_description": "Calcolatore di resistenza professionale con 3 metodi di calcolo. Calcola la resistenza elettrica usando la Legge di Ohm, proprietà dei materiali o bande colorate del resistore istantaneamente.",
+        "meta_keyword": "calcolatore resistenza, calcolatore legge ohm, calcolatore resistenza filo, calcolatore codice colore resistore, resistenza elettrica, calcolatore tensione corrente potenza, calcolatore filo AWG, calcolatore resistività, calcolatore conduttanza, strumenti ingegneria elettrica, calcolatore elettronico, calcolatore valore resistore, resistenza calibro filo, resistività materiale, coefficiente temperatura resistenza",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

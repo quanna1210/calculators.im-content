@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Eenheden Converter",
         "slug": "unit-converter",
-        "parent_id": "10",
+        "parent_id": "44",
         "meta_title": "Gratis Eenheden Converter: Converteer KM naar Mijl, KG naar LBS Online",
         "meta_description": "Gratis online eenheden converter voor lengte, gewicht, temperatuur en meer. Converteer km naar mijl, kg naar lbs, Celsius naar Fahrenheit direct bij calculators.im!",
         "meta_keyword": "eenheden converter, metrische converter, lengte converter, gewicht converter, temperatuur converter, online eenheden converter voor lengte, gratis metrische naar imperiale converter, km naar mijl online converteren, gewicht converter kg naar lbs, celsius naar fahrenheit converter online",
@@ -565,6 +565,19 @@
         "meta_title": "Elektrisch Vermogen Rekenmachine - AC/DC Vermogen, Spanning & Stroom",
         "meta_description": "Gratis elektrisch vermogen rekenmachine voor AC/DC circuits. Bereken vermogen, spanning, stroom, weerstand met de wet van Ohm. Ondersteunt enkelfase, driefase berekeningen direct.",
         "meta_keyword": "elektrisch vermogen rekenmachine, vermogensberekening, spanning rekenmachine, stroom rekenmachine, ohm wet rekenmachine, AC vermogen rekenmachine, DC vermogen rekenmachine, driefase vermogen rekenmachine, enkelfase vermogen, elektrotechniek rekenmachine, watt rekenmachine, amperage rekenmachine, weerstand rekenmachine, elektrisch circuit rekenmachine, energieverbruik rekenmachine, kilowatt rekenmachine, elektrische belasting rekenmachine",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "46",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "title": "Weerstand Calculator",
+        "slug": "resistance-calculator",
+        "parent_id": "44",
+        "meta_title": "Weerstand Calculator - Wet van Ohm, Draad & Kleurcode Tool",
+        "meta_description": "Professionele weerstand calculator met 3 berekeningsmethoden. Bereken elektrische weerstand met de Wet van Ohm, materiaaleigenschappen of weerstand kleurbanden direct.",
+        "meta_keyword": "weerstand calculator, wet van ohm calculator, draad weerstand calculator, weerstand kleurcode calculator, elektrische weerstand, spanning stroom vermogen calculator, AWG draad calculator, resistiviteit calculator, geleidbaarheid calculator, elektrotechnische tools, elektronica calculator, weerstand waarde calculator, draad dikte weerstand, materiaal resistiviteit, temperatuur coëfficiënt weerstand",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
