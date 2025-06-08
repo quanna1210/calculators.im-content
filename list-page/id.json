@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Konverter Satuan",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Konverter Satuan Gratis: Konversi KM ke Mil, KG ke LBS Online",
         "meta_description": "Konverter satuan gratis online untuk panjang, berat, suhu, dan lainnya. Konversi km ke mil, kg ke lbs, Celsius ke Fahrenheit secara instan di calculators.im!",
         "meta_keyword": "Konverter satuan, Konverter metrik, Konverter panjang, Konverter berat, Konverter suhu, Konverter satuan online untuk panjang, Konverter metrik ke imperial gratis, Konversi km ke mil online, Konverter berat kg ke lbs, Konverter Celsius ke Fahrenheit online",
@@ -580,6 +580,19 @@
         "meta_title": "Kalkulator Resistansi - Hukum Ohm, Kawat & Alat Kode Warna",
         "meta_description": "Kalkulator resistansi profesional dengan 3 metode perhitungan. Hitung resistansi listrik menggunakan Hukum Ohm, properti material, atau pita warna resistor secara instan.",
         "meta_keyword": "kalkulator resistansi, kalkulator hukum ohm, kalkulator resistansi kawat, kalkulator kode warna resistor, resistansi listrik, kalkulator tegangan arus daya, kalkulator kawat AWG, kalkulator resistivitas, kalkulator konduktansi, alat teknik listrik, kalkulator elektronik, kalkulator nilai resistor, resistansi ukuran kawat, resistivitas material, resistansi koefisien suhu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Kalkulator Gaya",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Gaya - Hukum Kedua Newton | Tool Fisika Gratis",
+        "meta_description": "Kalkulator gaya gratis menggunakan hukum kedua Newton F=ma. Hitung gaya, massa, atau percepatan dengan konversi unit otomatis. Tool fisika sempurna untuk siswa.",
+        "meta_keyword": "kalkulator gaya, hukum kedua newton, kalkulator fisika, kalkulator F=ma, gaya massa percepatan, kalkulator newton, tool fisika, kalkulator mekanika, persamaan gaya, fisika online, kalkulator gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

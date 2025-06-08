@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Bộ chuyển đổi đơn vị",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Bộ chuyển đổi đơn vị miễn phí: Chuyển đổi KM sang Dặm, KG sang LBS trực tuyến",
         "meta_description": "Bộ chuyển đổi đơn vị trực tuyến miễn phí cho chiều dài, trọng lượng, nhiệt độ và hơn thế nữa. Chuyển đổi km sang dặm, kg sang lbs, Celsius sang Fahrenheit ngay lập tức tại calculators.im!",
         "meta_keyword": "Bộ chuyển đổi đơn vị, Bộ chuyển đổi hệ mét, Bộ chuyển đổi chiều dài, Bộ chuyển đổi trọng lượng, Bộ chuyển đổi nhiệt độ, Bộ chuyển đổi đơn vị trực tuyến cho chiều dài, Bộ chuyển đổi hệ mét sang hệ Anh miễn phí, Chuyển đổi km sang dặm trực tuyến, Bộ chuyển đổi trọng lượng kg sang lbs, Bộ chuyển đổi Celsius sang Fahrenheit trực tuyến",
@@ -578,6 +578,19 @@
         "meta_title": "Máy Tính Điện Trở - Định Luật Ohm, Dây Dẫn & Mã Màu",
         "meta_description": "Máy tính điện trở chuyên nghiệp với 3 phương pháp tính toán. Tính điện trở điện bằng Định luật Ohm, tính chất vật liệu hoặc dải màu điện trở ngay lập tức.",
         "meta_keyword": "máy tính điện trở, máy tính định luật ohm, máy tính điện trở dây dẫn, máy tính mã màu điện trở, điện trở điện, máy tính điện áp dòng điện công suất, máy tính dây AWG, máy tính điện trở suất, máy tính độ dẫn điện, công cụ kỹ thuật điện, máy tính điện tử, máy tính giá trị điện trở, điện trở kích thước dây, điện trở suất vật liệu, điện trở hệ số nhiệt độ",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Máy Tính Lực",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Lực - Định Luật Newton 2 | Công Cụ Vật Lý Free",
+        "meta_description": "Máy tính lực miễn phí dùng định luật Newton 2 F=ma. Tính lực, khối lượng, gia tốc với chuyển đổi đơn vị tự động. Công cụ vật lý hoàn hảo cho học sinh.",
+        "meta_keyword": "máy tính lực, định luật newton thứ hai, máy tính vật lý, máy tính F=ma, lực khối lượng gia tốc, máy tính newton, công cụ vật lý, máy tính cơ học, phương trình lực, vật lý online, máy tính miễn phí",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

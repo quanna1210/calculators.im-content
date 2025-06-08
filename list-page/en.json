@@ -581,5 +581,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Force Calculator",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Force Calculator - Newton's Second Law | Free Physics Tool",
+        "meta_description": "Free force calculator using Newton's second law F=ma. Calculate force, mass, or acceleration with automatic unit conversion. Perfect physics tool for students..",
+        "meta_keyword": "force calculator, newton second law, physics calculator, F=ma calculator, mass acceleration force, newton calculator, physics tools, mechanics calculator, force equation, online physics, free calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

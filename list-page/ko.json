@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "단위 변환기",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "무료 단위 변환기: KM에서 마일, KG에서 파운드로 온라인 변환",
         "meta_description": "길이, 무게, 온도 등을 위한 무료 온라인 단위 변환기입니다. calculators.im에서 km를 마일, kg를 파운드, 섭씨를 화씨로 즉시 변환하세요!",
         "meta_keyword": "단위 변환기, 미터법 변환기, 길이 변환기, 무게 변환기, 온도 변환기, 길이용 온라인 단위 변환기, 무료 미터법-영국식 변환기, 온라인 km에서 마일 변환, kg에서 파운드 무게 변환기, 섭씨에서 화씨로 변환기",
@@ -580,6 +580,19 @@
         "meta_title": "저항 계산기 - 옴의 법칙, 전선 및 컬러 코드 도구",
         "meta_description": "3가지 계산 방법을 제공하는 전문 저항 계산기. 옴의 법칙, 재료 특성 또는 저항기 컬러 밴드를 사용하여 전기 저항을 즉시 계산하세요.",
         "meta_keyword": "저항 계산기, 옴의 법칙 계산기, 전선 저항 계산기, 저항기 컬러 코드 계산기, 전기 저항, 전압 전류 전력 계산기, AWG 전선 계산기, 비저항 계산기, 전도도 계산기, 전기 공학 도구, 전자 계산기, 저항값 계산기, 전선 게이지 저항, 재료 비저항, 온도 계수 저항",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "힘 계산기",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "힘 계산기 - 뉴턴 제2법칙 | 무료 물리학 도구",
+        "meta_description": "뉴턴 제2법칙 F=ma를 사용하는 무료 힘 계산기. 자동 단위 변환으로 힘, 질량, 가속도를 계산하세요. 학생들을 위한 완벽한 물리학 도구입니다.",
+        "meta_keyword": "힘 계산기, 뉴턴 제2법칙, 물리학 계산기, F=ma 계산기, 힘 질량 가속도, 뉴턴 계산기, 물리학 도구, 역학 계산기, 힘 방정식, 온라인 물리학, 무료 계산기",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

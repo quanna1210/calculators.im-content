@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Conversor de Unidades",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Conversor de Unidades Gratuito: Converta KM para Milhas, KG para LBS Online",
         "meta_description": "Conversor de unidades online gratuito para comprimento, peso, temperatura e mais. Converta km para milhas, kg para lbs, Celsius para Fahrenheit instantaneamente no calculators.im!",
         "meta_keyword": "Conversor de unidades, Conversor métrico, Conversor de comprimento, Conversor de peso, Conversor de temperatura, Conversor de unidades online para comprimento, Conversor métrico para imperial gratuito, Converter km para milhas online, Conversor de peso kg para lbs, Conversor de Celsius para Fahrenheit online",
@@ -578,6 +578,19 @@
         "meta_title": "Calculadora de Resistência - Lei de Ohm, Fio e Ferramenta Código de Cores",
         "meta_description": "Calculadora de resistência profissional com 3 métodos de cálculo. Calcule a resistência elétrica usando a Lei de Ohm, propriedades do material ou faixas de cores do resistor instantaneamente.",
         "meta_keyword": "calculadora resistência, calculadora lei ohm, calculadora resistência fio, calculadora código cores resistor, resistência elétrica, calculadora tensão corrente potência, calculadora fio AWG, calculadora resistividade, calculadora condutância, ferramentas engenharia elétrica, calculadora eletrônica, calculadora valor resistor, resistência bitola fio, resistividade material, coeficiente temperatura resistência",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Calculadora de Força",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora Força - Segunda Lei Newton | Física Grátis",
+        "meta_description": "Calculadora força grátis usando segunda lei Newton F=ma. Calcule força, massa ou aceleração com conversão automática. Ferramenta física perfeita para estudantes.",
+        "meta_keyword": "calculadora força, segunda lei newton, calculadora física, calculadora F=ma, força massa aceleração, calculadora newton, ferramentas física, calculadora mecânica, equação força, física online, calculadora grátis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

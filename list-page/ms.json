@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Penukar Unit",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Penukar Unit Percuma: Tukar KM ke Batu, KG ke LBS Dalam Talian",
         "meta_description": "Penukar unit dalam talian percuma untuk panjang, berat, suhu, dan banyak lagi. Tukar km ke batu, kg ke lbs, Celsius ke Fahrenheit dengan segera di calculators.im!",
         "meta_keyword": "Penukar unit, Penukar metrik, Penukar panjang, Penukar berat, Penukar suhu, Penukar unit dalam talian untuk panjang, Penukar metrik ke imperial percuma, Tukar km ke batu dalam talian, Penukar berat kg ke lbs, Penukar Celsius ke Fahrenheit dalam talian",
@@ -578,6 +578,19 @@
         "meta_title": "Kalkulator Rintangan - Hukum Ohm, Wayar & Alat Jalur Warna",
         "meta_description": "Kalkulator rintangan profesional dengan 3 kaedah pengiraan. Kira rintangan elektrik menggunakan Hukum Ohm, sifat bahan, atau jalur warna perintang secara serta-merta.",
         "meta_keyword": "kalkulator rintangan, kalkulator hukum ohm, kalkulator rintangan wayar, kalkulator kod warna perintang, rintangan elektrik, kalkulator voltan arus kuasa, kalkulator wayar AWG, kalkulator kerintangan, kalkulator kekonduksian, alat kejuruteraan elektrik, kalkulator elektronik, kalkulator nilai perintang, rintangan tolok wayar, kerintangan bahan, rintangan pekali suhu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Kalkulator Daya",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Daya - Hukum Kedua Newton | Tool Fizik Percuma",
+        "meta_description": "Kalkulator daya percuma menggunakan hukum kedua Newton F=ma. Kira daya, jisim, atau pecutan dengan penukaran unit automatik. Tool fizik sempurna untuk pelajar.",
+        "meta_keyword": "kalkulator daya, hukum kedua newton, kalkulator fizik, kalkulator F=ma, daya jisim pecutan, kalkulator newton, tool fizik, kalkulator mekanik, persamaan daya, fizik online, kalkulator percuma",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

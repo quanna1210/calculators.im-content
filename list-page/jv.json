@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Konverter Unit",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Konverter Unit Gratis: Ngowahi KM dadi Mil, KG dadi LBS Online",
         "meta_description": "Konverter unit gratis online kanggo dawa, bobot, suhu, lan liya-liyane. Ngowahi km dadi mil, kg dadi lbs, Celsius dadi Fahrenheit kanthi cepet ing calculators.im!",
         "meta_keyword": "Konverter unit, Konverter metrik, Konverter dawa, Konverter bobot, Konverter suhu, Konverter unit online kanggo dawa, Konverter metrik dadi imperial gratis, Ngowahi km dadi mil online, Konverter bobot kg dadi lbs, Konverter Celsius dadi Fahrenheit online",
@@ -580,6 +580,19 @@
         "meta_title": "Kalkulator Resistensi - Hukum Ohm, Kawat & Piranti Kode Warna",
         "meta_description": "Kalkulator resistensi profesional kanthi 3 cara pitungan. Etung resistensi listrik nggunakake Hukum Ohm, sifat materi, utawa pita warna resistor kanthi cepet.",
         "meta_keyword": "kalkulator resistensi, kalkulator hukum ohm, kalkulator resistensi kawat, kalkulator kode warna resistor, resistensi listrik, kalkulator tegangan arus daya, kalkulator kawat AWG, kalkulator resistivitas, kalkulator konduktansi, piranti teknik listrik, kalkulator elektronik, kalkulator nilai resistor, resistensi ukuran kawat, resistivitas materi, resistensi koefisien suhu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Kalkulator Gaya",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Gaya - Hukum Kaloro Newton | Piranti Fisika",
+        "meta_description": "Kalkulator gaya gratis nganggo hukum kaloro Newton F=ma. Etung gaya, massa, utawa percepatan karo konversi unit otomatis. Piranti fisika sampurna kanggo siswa.",
+        "meta_keyword": "kalkulator gaya, hukum kaloro newton, kalkulator fisika, kalkulator F=ma, gaya massa percepatan, kalkulator newton, piranti fisika, kalkulator mekanika, persamaan gaya, fisika online, kalkulator gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

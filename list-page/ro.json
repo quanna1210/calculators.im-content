@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Convertor Unități",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Convertor Unități Gratuit: Convertește KM în Mile, KG în LBS Online",
         "meta_description": "Convertor unități gratuit online pentru lungime, greutate, temperatură și altele. Convertește km în mile, kg în lbs, Celsius în Fahrenheit instantaneu la calculators.im!",
         "meta_keyword": "Convertor unități, Convertor metric, Convertor lungime, Convertor greutate, Convertor temperatură, Convertor unități online pentru lungime, Convertor metric în imperial gratuit, Convertor km în mile online, Convertor greutate kg în lbs, Convertor Celsius în Fahrenheit online",
@@ -578,6 +578,19 @@
         "meta_title": "Calculator Rezistență - Legea lui Ohm, Fir și Instrument Cod Culori",
         "meta_description": "Calculator de rezistență profesional cu 3 metode de calcul. Calculați rezistența electrică folosind Legea lui Ohm, proprietățile materialului sau benzile de culoare ale rezistorului instantaneu.",
         "meta_keyword": "calculator rezistență, calculator legea lui ohm, calculator rezistență fir, calculator cod culori rezistor, rezistență electrică, calculator tensiune curent putere, calculator fir AWG, calculator rezistivitate, calculator conductanță, instrumente inginerie electrică, calculator electronic, calculator valoare rezistor, rezistență calibru fir, rezistivitate material, coeficient temperatură rezistență",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Calculator Forță",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Forță - A Doua Lege Newton | Fizică Gratis",
+        "meta_description": "Calculator forță gratuit folosind a doua lege Newton F=ma. Calculează forța, masa sau accelerația cu conversie automată. Unealtă fizică perfectă pentru studenți.",
+        "meta_keyword": "calculator forță, a doua lege newton, calculator fizică, calculator F=ma, forță masă accelerație, calculator newton, unelte fizică, calculator mecanică, ecuația forței, fizică online, calculator gratuit",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

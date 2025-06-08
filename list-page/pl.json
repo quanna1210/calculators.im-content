@@ -314,7 +314,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "Konwerter jednostek",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "Darmowy konwerter jednostek: Przeliczaj km na mile, kg na funty online",
         "meta_description": "Darmowy konwerter jednostek online dla długości, wagi, temperatury i innych. Przelicz km na mile, kg na funty, stopnie Celsjusza na Fahrenheita natychmiast na calculators.im!",
         "meta_keyword": "Konwerter jednostek, Konwerter metryczny, Konwerter długości, Konwerter wagi, Konwerter temperatury, Konwerter km na mile, Konwerter kg na funty",
@@ -578,6 +578,19 @@
         "meta_title": "Kalkulator Oporu - Prawo Ohma, Przewód i Narzędzie Kodu Kolorów",
         "meta_description": "Profesjonalny kalkulator oporu z 3 metodami obliczania. Oblicz opór elektryczny używając Prawa Ohma, właściwości materiałów lub paskach kolorowych rezystora natychmiast.",
         "meta_keyword": "kalkulator oporu, kalkulator prawa ohma, kalkulator oporu przewodu, kalkulator kodu kolorów rezystora, opór elektryczny, kalkulator napięcia prądu mocy, kalkulator przewodu AWG, kalkulator oporności, kalkulator przewodności, narzędzia elektrotechniczne, kalkulator elektroniczny, kalkulator wartości rezystora, opór średnicy przewodu, oporność materiału, współczynnik temperaturowy oporu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "Kalkulator Siły",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Siły - Druga Zasada Newton | Narzędzie Fizyki",
+        "meta_description": "Bezpłatny kalkulator siły używający drugiej zasady Newton F=ma. Oblicz siłę, masę lub przyspieszenie z automatyczną konwersją jednostek. Idealne narzędzie fizyki dla studentów.",
+        "meta_keyword": "kalkulator siły, druga zasada newton, kalkulator fizyki, kalkulator F=ma, siła masa przyspieszenie, kalkulator newton, narzędzia fizyki, kalkulator mechaniki, równanie siły, fizyka online, bezpłatny kalkulator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

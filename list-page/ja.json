@@ -316,7 +316,7 @@
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "単位変換器",
         "slug": "unit-converter",
-        "parent_id": "44",
+        "parent_id": "10",
         "meta_title": "無料単位変換器：キロメートルをマイル、キログラムをポンドにオンライン変換",
         "meta_description": "長さ、重量、温度などをオンラインで無料で変換する単位変換器。calculators.imでキロメートルをマイル、キログラムをポンド、摂氏を華氏に瞬時に変換！",
         "meta_keyword": "単位変換器, メートル変換器, 長さ変換器, 重量変換器, 温度変換器, 長さ用オンライン単位変換器, 無料メートルからインペリアル変換器, オンラインでキロメートルをマイルに変換, キログラムからポンドへの重量変換器, オンラインで摂氏から華氏に変換",
@@ -579,6 +579,19 @@
         "meta_title": "抵抗計算機 - オームの法則、配線およびカラーコードツール",
         "meta_description": "3つの計算方法を持つプロフェッショナル抵抗計算機。オームの法則、材料特性、または抵抗器のカラーバンドを使用して電気抵抗を瞬時に計算します。",
         "meta_keyword": "抵抗計算機, オームの法則計算機, 配線抵抗計算機, 抵抗器カラーコード計算機, 電気抵抗, 電圧電流電力計算機, AWG配線計算機, 抵抗率計算機, 導電率計算機, 電気工学ツール, 電子計算機, 抵抗値計算機, 配線ゲージ抵抗, 材料抵抗率, 温度係数抵抗",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "47",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "title": "力計算機",
+        "slug": "force-calculator",
+        "parent_id": "44",
+        "meta_title": "力計算機 - ニュートン第2法則 | 無料物理ツール",
+        "meta_description": "ニュートン第2法則F=maを使用する無料力計算機。自動単位変換で力、質量、加速度を計算。学生に最適な物理ツールです。",
+        "meta_keyword": "力計算機, ニュートン第2法則, 物理計算機, F=ma計算機, 力質量加速度, ニュートン計算機, 物理ツール, 力学計算機, 力方程式, オンライン物理, 無料計算機",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
