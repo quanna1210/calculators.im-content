@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Máy Tính Vận Tốc",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Vận Tốc - Công Cụ Vận Tốc Khoảng Cách Thời Gian",
+        "meta_description": "Máy tính vận tốc miễn phí với 3 phương pháp: cơ bản v=d/t, gia tốc và vận tốc trung bình. Tính vận tốc, khoảng cách, thời gian với chuyển đổi đơn vị.",
+        "meta_keyword": "máy tính vận tốc, máy tính tốc độ, máy tính khoảng cách, máy tính thời gian, máy tính vật lý, máy tính gia tốc, vận tốc trung bình, công thức vận tốc, vận tốc khoảng cách thời gian, máy tính v=d/t, máy tính động học, máy tính chuyển động, công cụ vật lý, máy tính online, máy tính miễn phí, chuyển đổi đơn vị vận tốc, chuyển đổi m/s km/h mph, trợ giúp bài tập vật lý, giải vận tốc",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

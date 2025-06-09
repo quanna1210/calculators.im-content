@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Kalkulator Halaju",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Halaju - Alat Halaju Jarak Masa",
+        "meta_description": "Kalkulator halaju percuma dengan 3 kaedah: asas v=d/t, pecutan & halaju purata. Kira halaju, jarak, masa dengan penukaran unit.",
+        "meta_keyword": "kalkulator halaju, kalkulator halaju, kalkulator jarak, kalkulator masa, kalkulator fizik, kalkulator pecutan, halaju purata, formula halaju, halaju jarak masa, kalkulator v=d/t, kalkulator kinematik, kalkulator gerakan, alat fizik, kalkulator dalam talian, kalkulator percuma, penukar unit halaju, penukar m/s km/j mph, bantuan kerja rumah fizik, penyelesai halaju",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

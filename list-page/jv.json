@@ -596,5 +596,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Kalkulator Kacepetan",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Kacepetan - Piranti Kacepetan Jarak Wektu",
+        "meta_description": "Kalkulator kacepetan gratis karo 3 cara: dhasar v=d/t, percepatan & kacepetan rata-rata. Etung kacepetan, jarak, wektu karo konversi satuan.",
+        "meta_keyword": "kalkulator kacepetan, kalkulator kacepetan, kalkulator jarak, kalkulator wektu, kalkulator fisika, kalkulator percepatan, kacepetan rata-rata, rumus kacepetan, kacepetan jarak wektu, kalkulator v=d/t, kalkulator kinematika, kalkulator gerakan, piranti fisika, kalkulator online, kalkulator gratis, konverter satuan kacepetan, konverter m/s km/h mph, bantuan pr fisika, pemecah kacepetan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

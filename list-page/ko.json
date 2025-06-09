@@ -596,5 +596,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "속도 계산기",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "속도 계산기 - 속도 거리 시간 도구",
+        "meta_description": "3가지 방법의 무료 속도 계산기: 기본 v=d/t, 가속도, 평균 속도. 단위 변환으로 속도, 거리, 시간을 계산하세요.",
+        "meta_keyword": "속도 계산기, 속도 계산기, 거리 계산기, 시간 계산기, 물리학 계산기, 가속도 계산기, 평균 속도, 속도 공식, 속도 거리 시간, v=d/t 계산기, 운동학 계산기, 운동 계산기, 물리학 도구, 온라인 계산기, 무료 계산기, 속도 단위 변환기, m/s km/h mph 변환기, 물리학 숙제 도움, 속도 해결사",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

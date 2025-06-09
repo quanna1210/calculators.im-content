@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Hız Hesaplayıcısı",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Hız Hesaplayıcısı - Hız Mesafe Zaman Aracı",
+        "meta_description": "3 yöntemli ücretsiz hız hesaplayıcısı: temel v=d/t, ivme ve ortalama hız. Birim dönüşümü ile hız, mesafe, zaman hesaplayın.",
+        "meta_keyword": "hız hesaplayıcısı, hız hesaplayıcısı, mesafe hesaplayıcısı, zaman hesaplayıcısı, fizik hesaplayıcısı, ivme hesaplayıcısı, ortalama hız, hız formülü, hız mesafe zaman, v=d/t hesaplayıcısı, kinematik hesaplayıcısı, hareket hesaplayıcısı, fizik araçları, online hesaplayıcı, ücretsiz hesaplayıcı, hız birimi dönüştürücü, m/s km/s mph dönüştürücü, fizik ödev yardımı, hız çözücü",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Geschwindigkeitsrechner",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Geschwindigkeitsrechner - Tool für Geschwindigkeit & Zeit",
+        "meta_description": "Kostenloser Geschwindigkeitsrechner mit 3 Methoden: Basis v=d/t, Beschleunigung & Durchschnittsgeschwindigkeit. Berechnen Sie Geschwindigkeit, Entfernung, Zeit.",
+        "meta_keyword": "geschwindigkeitsrechner, geschwindigkeitsrechner, entfernungsrechner, zeitrechner, physikrechner, beschleunigungsrechner, durchschnittsgeschwindigkeit, geschwindigkeitsformel, geschwindigkeit entfernung zeit, v=d/t rechner, kinematikrechner, bewegungsrechner, physiktools, online rechner, kostenloser rechner, geschwindigkeitseinheiten umrechner, m/s km/h mph umrechner, physik hausaufgaben hilfe, geschwindigkeitslöser",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

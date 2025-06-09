@@ -589,8 +589,21 @@
         "slug": "force-calculator",
         "parent_id": "44",
         "meta_title": "Force Calculator - Newton's Second Law | Free Physics Tool",
-        "meta_description": "Free force calculator using Newton's second law F=ma. Calculate force, mass, or acceleration with automatic unit conversion. Perfect physics tool for students..",
+        "meta_description": "Free force calculator using Newton's second law F=ma. Calculate force, mass, or acceleration with automatic unit conversion. Perfect physics tool for students.",
         "meta_keyword": "force calculator, newton second law, physics calculator, F=ma calculator, mass acceleration force, newton calculator, physics tools, mechanics calculator, force equation, online physics, free calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+     {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Velocity Calculator",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Velocity Calculator - Speed, Distance & Time Tool",
+        "meta_description": "Free velocity calculator with 3 methods: basic v=d/t, acceleration, & average velocity. Calculate speed, distance, time with unit conversion.",
+        "meta_keyword": "velocity calculator, speed calculator, distance calculator, time calculator, physics calculator, acceleration calculator, average velocity, velocity formula, speed distance time, v=d/t calculator, kinematics calculator, motion calculator, physics tools, online calculator, free calculator, velocity units converter, m/s km/h mph converter, physics homework help, velocity solver",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

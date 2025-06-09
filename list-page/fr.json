@@ -596,5 +596,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Calculateur de Vitesse",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculateur de Vitesse - Outil Vitesse Distance Temps",
+        "meta_description": "Calculateur de vitesse gratuit avec 3 méthodes: basique v=d/t, accélération et vitesse moyenne. Calculez vitesse, distance, temps avec conversion d'unités.",
+        "meta_keyword": "calculateur de vitesse, calculateur de vitesse, calculateur de distance, calculateur de temps, calculateur de physique, calculateur d'accélération, vitesse moyenne, formule de vitesse, vitesse distance temps, calculateur v=d/t, calculateur de cinématique, calculateur de mouvement, outils de physique, calculateur en ligne, calculateur gratuit, convertisseur unités vitesse, convertisseur m/s km/h mph, aide devoirs physique, solveur vitesse",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

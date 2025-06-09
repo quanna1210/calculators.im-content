@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Kalkulačka rychlosti",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulačka rychlosti - nástroj pro rychlost a vzdálenost",
+        "meta_description": "Zdarma kalkulačka rychlosti se 3 metodami: základní v=d/t, zrychlení a průměrná rychlost. Vypočítejte rychlost, vzdálenost, čas s převodem jednotek.",
+        "meta_keyword": "kalkulačka rychlosti, kalkulačka rychlosti, kalkulačka vzdálenosti, kalkulačka času, kalkulačka fyziky, kalkulačka zrychlení, průměrná rychlost, vzorec rychlosti, rychlost vzdálenost čas, kalkulačka v=d/t, kalkulačka kinematiky, kalkulačka pohybu, nástroje fyziky, online kalkulačka, zdarma kalkulačka, převodník jednotek rychlosti, převodník m/s km/h mph, pomoc s fyzikou, řešič rychlosti",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

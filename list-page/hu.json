@@ -596,5 +596,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Sebesség Kalkulátor",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Sebesség Kalkulátor - Sebesség Távolság Idő Eszköz",
+        "meta_description": "Ingyenes sebesség kalkulátor 3 módszerrel: alap v=d/t, gyorsulás és átlagsebesség. Számítson sebességet, távolságot, időt egység konverzióval.",
+        "meta_keyword": "sebesség kalkulátor, sebesség kalkulátor, távolság kalkulátor, idő kalkulátor, fizika kalkulátor, gyorsulás kalkulátor, átlagsebesség, sebesség képlet, sebesség távolság idő, v=d/t kalkulátor, kinematika kalkulátor, mozgás kalkulátor, fizika eszközök, online kalkulátor, ingyenes kalkulátor, sebesség egység konverter, m/s km/h mph konverter, fizika házi segítség, sebesség megoldó",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

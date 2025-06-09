@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Calculator de Viteză",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Viteză - Instrument Viteză Distanță Timp",
+        "meta_description": "Calculator viteză gratuit cu 3 metode: de bază v=d/t, accelerație și viteză medie. Calculează viteză, distanță, timp cu conversie unități.",
+        "meta_keyword": "calculator de viteză, calculator de viteză, calculator de distanță, calculator de timp, calculator de fizică, calculator de accelerație, viteză medie, formulă de viteză, viteză distanță timp, calculator v=d/t, calculator de cinematică, calculator de mișcare, instrumente de fizică, calculator online, calculator gratuit, convertor unități viteză, convertor m/s km/h mph, ajutor teme fizică, rezolvitor viteză",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

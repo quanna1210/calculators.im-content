@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Kalkulator Prędkości",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Prędkości - Narzędzie Prędkość Odległość Czas",
+        "meta_description": "Darmowy kalkulator prędkości z 3 metodami: podstawowa v=d/t, przyspieszenie i prędkość średnia. Oblicz prędkość, odległość, czas z konwersją jednostek.",
+        "meta_keyword": "kalkulator prędkości, kalkulator prędkości, kalkulator odległości, kalkulator czasu, kalkulator fizyki, kalkulator przyspieszenia, prędkość średnia, wzór prędkości, prędkość odległość czas, kalkulator v=d/t, kalkulator kinematyki, kalkulator ruchu, narzędzia fizyki, kalkulator online, darmowy kalkulator, konwerter jednostek prędkości, konwerter m/s km/h mph, pomoc zadania fizyka, rozwiązywacz prędkości",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

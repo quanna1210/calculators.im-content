@@ -595,5 +595,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "速度計算機",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "速度計算機 - 速度・距離・時間ツール",
+        "meta_description": "3つの方法を持つ無料速度計算機：基本v=d/t、加速度、平均速度。単位変換付きで速度、距離、時間を計算します。",
+        "meta_keyword": "速度計算機, 速度計算機, 距離計算機, 時間計算機, 物理計算機, 加速度計算機, 平均速度, 速度公式, 速度距離時間, v=d/t計算機, 運動学計算機, 運動計算機, 物理ツール, オンライン計算機, 無料計算機, 速度単位変換器, m/s km/h mph変換器, 物理宿題ヘルプ, 速度ソルバー",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -594,5 +594,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Snelheid Calculator",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Snelheid Calculator - Snelheid Afstand Tijd Tool",
+        "meta_description": "Gratis snelheid calculator met 3 methoden: basis v=d/t, versnelling & gemiddelde snelheid. Bereken snelheid, afstand, tijd met eenheid conversie.",
+        "meta_keyword": "snelheid calculator, snelheid calculator, afstand calculator, tijd calculator, natuurkunde calculator, versnelling calculator, gemiddelde snelheid, snelheid formule, snelheid afstand tijd, v=d/t calculator, kinematica calculator, beweging calculator, natuurkunde tools, online calculator, gratis calculator, snelheid eenheid converter, m/s km/u mph converter, natuurkunde huiswerk hulp, snelheid oplosser",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

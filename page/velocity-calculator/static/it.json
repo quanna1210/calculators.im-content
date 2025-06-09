@@ -1,0 +1,32 @@
+{
+  "trans": [
+    "Base",
+    "Accelerazione",
+    "Media",
+    "Velocità",
+    "Distanza",
+    "Tempo",
+    "Velocità finale",
+    "Velocità iniziale",
+    "Velocità media",
+    "Calcola:",
+    "Distanza:",
+    "Tempo:",
+    "Velocità:",
+    "v iniziale (u):",
+    "Accelerazione (a):",
+    "Tempo (t):",
+    "v finale:",
+    "Segmenti del viaggio:",
+    "v finale",
+    "v iniziale",
+    "Reset",
+    "Formula",
+    "Aggiungi segmento",
+    "Velocità",
+    "Tempo",
+    "Velocità di base",
+    "Con accelerazione",
+    "Velocità media"
+  ]
+}

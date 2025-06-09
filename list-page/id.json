@@ -596,5 +596,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "48",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "title": "Kalkulator Kecepatan",
+        "slug": "velocity-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Kecepatan - Alat Kecepatan Jarak Waktu",
+        "meta_description": "Kalkulator kecepatan gratis dengan 3 metode: dasar v=d/t, percepatan & kecepatan rata-rata. Hitung kecepatan, jarak, waktu dengan konversi satuan.",
+        "meta_keyword": "kalkulator kecepatan, kalkulator kecepatan, kalkulator jarak, kalkulator waktu, kalkulator fisika, kalkulator percepatan, kecepatan rata-rata, rumus kecepatan, kecepatan jarak waktu, kalkulator v=d/t, kalkulator kinematika, kalkulator gerak, alat fisika, kalkulator online, kalkulator gratis, konverter satuan kecepatan, konverter m/s km/h mph, bantuan pr fisika, pemecah kecepatan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
