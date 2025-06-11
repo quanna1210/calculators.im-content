@@ -609,5 +609,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Calcolatrice Pressione",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatrice Pressione - Convertire Unità & Calcolare P=F/A",
+        "meta_description": "Calcolatrice pressione online gratuita con convertitore unità, pressione base (P=F/A), idrostatica e calcoli relativa vs assoluta. Converte Pa, psi, bar istantaneamente.",
+        "meta_keyword": "calcolatrice pressione, convertitore pressione, unità pressione, convertitore pascal, calcolatrice psi, convertitore bar, calcolatrice formula pressione, pressione idrostatica, pressione relativa, pressione assoluta, calcolatrice P=F/A, strumento conversione pressione, calcolatrice pressione online, convertitore unità pressione, pressione forza area, calcolatrice pressione fluidi, convertitore pressione atmosferica, calcolatrice pressione vuoto",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

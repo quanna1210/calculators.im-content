@@ -609,5 +609,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Kalkulator Tekanan",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Tekanan - Ganti Unit & Itung P=F/A Online",
+        "meta_description": "Kalkulator tekanan online gratis karo pangowahan unit, tekanan dhasar (P=F/A), hidrostatik, lan petungan gauge vs absolut. Ganti Pa, psi, bar langsung.",
+        "meta_keyword": "kalkulator tekanan, pangowah tekanan, unit tekanan, pangowah pascal, kalkulator psi, pangowah bar, kalkulator rumus tekanan, tekanan hidrostatik, tekanan gauge, tekanan absolut, kalkulator P=F/A, piranti pangowahan tekanan, kalkulator tekanan online, pangowah unit tekanan, tekanan gaya area, kalkulator tekanan cairan, pangowah tekanan atmosfer, kalkulator tekanan vakum",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

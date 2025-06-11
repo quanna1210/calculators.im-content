@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Calculator Presiune",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Presiune - Convertește Unități & Calculează P=F/A",
+        "meta_description": "Calculator presiune online gratuit cu convertor unități, presiune de bază (P=F/A), hidrostatică și calcule manometrică vs absolută. Convertește Pa, psi, bar instant.",
+        "meta_keyword": "calculator presiune, convertor presiune, unități presiune, convertor pascal, calculator psi, convertor bar, calculator formulă presiune, presiune hidrostatică, presiune manometrică, presiune absolută, calculator P=F/A, instrument conversie presiune, calculator presiune online, convertor unități presiune, presiune forță suprafață, calculator presiune fluide, convertor presiune atmosferică, calculator presiune vid",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

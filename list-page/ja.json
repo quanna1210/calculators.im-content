@@ -608,5 +608,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "圧力計算機",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "圧力計算機 - 単位変換とP=F/A計算オンライン",
+        "meta_description": "無料オンライン圧力計算機、単位変換器付き、基本圧力(P=F/A)、静水圧、ゲージ圧vs絶対圧計算。Pa、psi、bar即座変換。",
+        "meta_keyword": "圧力計算機, 圧力変換器, 圧力単位, パスカル変換器, psi計算機, bar変換器, 圧力公式計算機, 静水圧, ゲージ圧, 絶対圧, P=F/A計算機, 圧力変換ツール, オンライン圧力計算機, 圧力単位変換器, 圧力力面積, 流体圧力計算機, 大気圧変換器, 真空圧力計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

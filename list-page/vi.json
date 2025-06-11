@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Máy Tính Áp Suất",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Áp Suất - Chuyển Đổi Đơn Vị & Tính P=F/A",
+        "meta_description": "Máy tính áp suất online miễn phí với chuyển đổi đơn vị, áp suất cơ bản (P=F/A), thủy tĩnh và tính toán gauge vs tuyệt đối. Chuyển đổi Pa, psi, bar ngay.",
+        "meta_keyword": "máy tính áp suất, chuyển đổi áp suất, đơn vị áp suất, chuyển đổi pascal, máy tính psi, chuyển đổi bar, máy tính công thức áp suất, áp suất thủy tĩnh, áp suất gauge, áp suất tuyệt đối, máy tính P=F/A, công cụ chuyển đổi áp suất, máy tính áp suất online, chuyển đổi đơn vị áp suất, áp suất lực diện tích, máy tính áp suất chất lỏng, chuyển đổi áp suất khí quyển, máy tính áp suất chân không",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

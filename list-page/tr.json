@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Basınç Hesaplayıcısı",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Basınç Hesaplayıcısı - Birim Çevir & P=F/A Hesapla",
+        "meta_description": "Ücretsiz online basınç hesaplayıcısı birim çevirici ile, temel basınç (P=F/A), hidrostatik ve gösterge vs mutlak hesaplamalar. Pa, psi, bar anında çevir.",
+        "meta_keyword": "basınç hesaplayıcısı, basınç çevirici, basınç birimleri, pascal çevirici, psi hesaplayıcısı, bar çevirici, basınç formülü hesaplayıcısı, hidrostatik basınç, gösterge basıncı, mutlak basınç, P=F/A hesaplayıcısı, basınç çevirme aracı, online basınç hesaplayıcısı, basınç birimi çevirici, basınç kuvvet alan, akışkan basıncı hesaplayıcısı, atmosferik basınç çevirici, vakum basıncı hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

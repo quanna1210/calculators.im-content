@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Kalkulačka Tlaku",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulačka Tlaku - Převod Jednotek & Výpočet P=F/A",
+        "meta_description": "Bezplatná online kalkulačka tlaku s převodníkem jednotek, základní tlak (P=F/A), hydrostatický a výpočty relativní vs absolutní. Převod Pa, psi, bar okamžitě.",
+        "meta_keyword": "kalkulačka tlaku, převodník tlaku, jednotky tlaku, převodník pascal, kalkulačka psi, převodník bar, kalkulačka vzorce tlaku, hydrostatický tlak, relativní tlak, absolutní tlak, kalkulačka P=F/A, nástroj převodu tlaku, online kalkulačka tlaku, převodník jednotek tlaku, tlak síla plocha, kalkulačka tlaku tekutin, převodník atmosférického tlaku, kalkulačka tlaku vakua",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

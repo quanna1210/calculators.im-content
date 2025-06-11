@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Kalkulator Tekanan",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Tekanan - Tukar Unit & Kira P=F/A Online",
+        "meta_description": "Kalkulator tekanan online percuma dengan penukar unit, tekanan asas (P=F/A), hidrostatik, dan pengiraan tolok vs mutlak. Tukar Pa, psi, bar serta-merta.",
+        "meta_keyword": "kalkulator tekanan, penukar tekanan, unit tekanan, penukar pascal, kalkulator psi, penukar bar, kalkulator formula tekanan, tekanan hidrostatik, tekanan tolok, tekanan mutlak, kalkulator P=F/A, alat penukaran tekanan, kalkulator tekanan online, penukar unit tekanan, tekanan daya kawasan, kalkulator tekanan bendalir, penukar tekanan atmosfera, kalkulator tekanan vakum",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

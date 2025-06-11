@@ -609,5 +609,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Kalkulator Tekanan",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Tekanan - Konversi Unit & Hitung P=F/A Online",
+        "meta_description": "Kalkulator tekanan online gratis dengan konverter unit, tekanan dasar (P=F/A), hidrostatik, dan perhitungan gauge vs absolut. Konversi Pa, psi, bar instan.",
+        "meta_keyword": "kalkulator tekanan, konverter tekanan, unit tekanan, konverter pascal, kalkulator psi, konverter bar, kalkulator rumus tekanan, tekanan hidrostatik, tekanan gauge, tekanan absolut, kalkulator P=F/A, alat konversi tekanan, kalkulator tekanan online, konverter unit tekanan, tekanan gaya area, kalkulator tekanan fluida, konverter tekanan atmosfer, kalkulator tekanan vakum",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

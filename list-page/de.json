@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Druckrechner",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Druckrechner - Einheiten Umrechnen & P=F/A Berechnen",
+        "meta_description": "Kostenloser Online-Druckrechner mit Einheitenumrechner, Grunddruck (P=F/A), hydrostatisch und Relativ- vs Absolutdruckberechnungen. Umrechnung Pa, psi, bar.",
+        "meta_keyword": "druckrechner, druckumrechner, druckeinheiten, pascal umrechner, psi rechner, bar umrechner, druckformel rechner, hydrostatischer druck, relativdruck, absolutdruck, P=F/A rechner, druckumrechnungswerkzeug, online druckrechner, druckeinheiten umrechner, druck kraft fläche, flüssigkeitsdruck rechner, atmosphärendruck umrechner, vakuumdruck rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -595,15 +595,28 @@
         "is_show": "1",
         "orders": "10000"
     },
-     {
+    {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
         "title": "Velocity Calculator",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Velocity Calculator - Speed, Distance & Time Tool",
         "meta_description": "Free velocity calculator with 3 methods: basic v=d/t, acceleration, & average velocity. Calculate speed, distance, time with unit conversion.",
         "meta_keyword": "velocity calculator, speed calculator, distance calculator, time calculator, physics calculator, acceleration calculator, average velocity, velocity formula, speed distance time, v=d/t calculator, kinematics calculator, motion calculator, physics tools, online calculator, free calculator, velocity units converter, m/s km/h mph converter, physics homework help, velocity solver",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Pressure Calculator",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Pressure Calculator - Convert Units & Calculate P=F/A Online",
+        "meta_description": "Free online pressure calculator with unit converter, basic pressure (P=F/A), hydrostatic, and gauge vs absolute calculations. Convert Pa, psi, bar instantly.",
+        "meta_keyword": "pressure calculator, pressure converter, pressure units, pascal converter, psi calculator, bar converter, pressure formula calculator, hydrostatic pressure, gauge pressure, absolute pressure, P=F/A calculator, pressure conversion tool, online pressure calculator, pressure unit converter, force area pressure, fluid pressure calculator, atmospheric pressure converter, vacuum pressure calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

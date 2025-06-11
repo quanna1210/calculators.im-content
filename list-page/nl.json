@@ -607,5 +607,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Druk Calculator",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Druk Calculator - Eenheden Omrekenen & P=F/A Berekenen",
+        "meta_description": "Gratis online druk calculator met eenheid omrekener, basis druk (P=F/A), hydrostatisch en overdruk vs absolute berekeningen. Reken Pa, psi, bar direct om.",
+        "meta_keyword": "druk calculator, druk omrekener, druk eenheden, pascal omrekener, psi calculator, bar omrekener, druk formule calculator, hydrostatische druk, overdruk, absolute druk, P=F/A calculator, druk omreken tool, online druk calculator, druk eenheid omrekener, druk kracht oppervlakte, vloeistof druk calculator, atmosferische druk omrekener, vacuüm druk calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

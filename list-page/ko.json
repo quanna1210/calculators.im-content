@@ -609,5 +609,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "압력 계산기",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "압력 계산기 - 단위 변환 및 P=F/A 계산 온라인",
+        "meta_description": "무료 온라인 압력 계산기 단위 변환기, 기본 압력 (P=F/A), 정수압 및 게이지 vs 절대압 계산. Pa, psi, bar 즉시 변환.",
+        "meta_keyword": "압력 계산기, 압력 변환기, 압력 단위, 파스칼 변환기, psi 계산기, bar 변환기, 압력 공식 계산기, 정수압, 게이지압, 절대압, P=F/A 계산기, 압력 변환 도구, 온라인 압력 계산기, 압력 단위 변환기, 압력 힘 면적, 유체 압력 계산기, 대기압 변환기, 진공 압력 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

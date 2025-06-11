@@ -609,5 +609,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "49",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "title": "Nyomás Kalkulátor",
+        "slug": "pressure-calculator",
+        "parent_id": "44",
+        "meta_title": "Nyomás Kalkulátor - Egység Átváltás & P=F/A Számítás",
+        "meta_description": "Ingyenes online nyomás kalkulátor egység átváltóval, alap nyomás (P=F/A), hidrosztatikus és túlnyomás vs abszolút számítások. Pa, psi, bar átváltás azonnal.",
+        "meta_keyword": "nyomás kalkulátor, nyomás átváltó, nyomás egységek, pascal átváltó, psi kalkulátor, bar átváltó, nyomás képlet kalkulátor, hidrosztatikus nyomás, túlnyomás, abszolút nyomás, P=F/A kalkulátor, nyomás átváltó eszköz, online nyomás kalkulátor, nyomás egység átváltó, nyomás erő terület, folyadék nyomás kalkulátor, légköri nyomás átváltó, vákuum nyomás kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
