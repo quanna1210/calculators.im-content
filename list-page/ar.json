@@ -1,7 +1,7 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "آلات حاسبة مالية",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +14,7 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "آلات حاسبة رياضية",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +27,7 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "آلات حاسبة أخرى",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -40,7 +40,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "آلة حاسبة الرهن العقاري",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "آلة حاسبة قرض الإطفاء",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +66,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "آلة حاسبة الدفعات",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +79,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "آلة حاسبة الفائدة",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -92,7 +92,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "آلة حاسبة قرض الدفع المؤجل",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "آلة حاسبة قرض المبلغ المحدد مسبقًا",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -116,7 +116,7 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "آلة حاسبة علمية",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +129,7 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "آلة حاسبة النسب المئوية",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +142,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "آلة حاسبة المحيط",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "آلة حاسبة المساحة",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "آلة حاسبة الحجم",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "آلة حاسبة العمر",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +194,7 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "آلة حاسبة التاريخ",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "آلة حاسبة الوقت",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "آلة حاسبة الساعات",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "آلة حاسبة الكسور",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "آلة حاسبة الأعداد المختلطة",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "آلات حاسبة الصحة واللياقة",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "آلة حاسبة مؤشر كتلة الجسم",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "آلة حاسبة معدل الأيض الأساسي",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "آلة حاسبة نسبة دهون الجسم",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "محول الوحدات",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "آلة حاسبة الأعداد الأولية",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "مؤقت العد التنازلي",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "مولد كلمات المرور",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "آلة حاسبة وتيرة الجري",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "آلة حاسبة إجمالي الإنفاق اليومي للطاقة",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +389,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "محول البيانات",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +402,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "آلة حاسبة السعرات الحرارية",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +415,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "محول العملات",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +428,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "مدقق السنة الكبيسة",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "قناة الطقس",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +454,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "آلة حاسبة تاريخ الولادة المتوقع",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "آلة حاسبة تركيز الكحول في الدم",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +480,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
         "title": "آلة حاسبة الأبراج",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,7 +493,7 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "مؤقت بومودورو",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "مولد رمز الاستجابة السريعة",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +519,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "آلة حاسبة المشتقات",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
         "title": "آلة حاسبة اللوغاريتمات",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "حاسبات الهندسة",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,7 +558,7 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "حاسبة القدرة الكهربائية",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "حاسبة المقاومة",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "حاسبة القوة",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,7 +597,7 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "حاسبة السرعة",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -610,13 +610,39 @@
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "حاسبة الضغط",
         "slug": "pressure-calculator",
         "parent_id": "44",
         "meta_title": "حاسبة الضغط - تحويل الوحدات وحساب P=F/A أونلاين",
         "meta_description": "حاسبة ضغط مجانية أونلاين مع محول وحدات، الضغط الأساسي (P=F/A)، الهيدروستاتيكي وحسابات القياس مقابل المطلق. تحويل Pa، psi، bar فوراً.",
         "meta_keyword": "حاسبة الضغط، محول الضغط، وحدات الضغط، محول باسكال، حاسبة psi، محول بار، حاسبة معادلة الضغط، الضغط الهيدروستاتيكي، ضغط القياس، الضغط المطلق، حاسبة P=F/A، أداة تحويل الضغط، حاسبة ضغط أونلاين، محول وحدات الضغط، ضغط القوة المساحة، حاسبة ضغط السوائل، محول الضغط الجوي، حاسبة ضغط الفراغ",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "50",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
+        "title": "حاسبة عزم الدوران",
+        "slug": "torque-calculator",
+        "parent_id": "44",
+        "meta_title": "حاسبة عزم الدوران المجانية | احسب القوة والمسافة والزاوية",
+        "meta_description": "احسب عزم الدوران أو القوة أو المسافة فوراً باستخدام حاسبة عزم الدوران المجانية عبر الإنترنت. أدخل أي قيمتين للحصول على نتائج دقيقة بوحدات متعددة.",
+        "meta_keyword": "حاسبة عزم الدوران, حاسبة القوة, حاسبة المسافة, حاسبة فيزياء, صيغة عزم الدوران, حاسبة الحركة الدورانية, أدوات هندسية, حاسبة نيوتن متر, حاسبة رطل قدم, حلول مسائل الفيزياء",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "51",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "title": "حاسبة قوة المواد",
+        "slug": "material-strength-calculator",
+        "parent_id": "44",
+        "meta_title": "حاسبة قوة المواد | حساب الإجهادات والقوة",
+        "meta_description": "احسب قوة المواد والإجهادات وعامل الأمان مع حاسبة مجانية عبر الإنترنت. تحليل الشد والضغط والقص وانحناء الحزمة لأكثر من 20 مادة مختلفة.",
+        "meta_keyword": "حاسبة قوة المواد, حاسبة الإجهادات, حاسبة الشد, حاسبة الضغط, حاسبة القص, انحناء الحزمة, تحليل المواد, عامل الأمان, قوة الصلب, قوة الألومنيوم, قوة الخرسانة, أدوات الهندسة, حساب الإنشاءات",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

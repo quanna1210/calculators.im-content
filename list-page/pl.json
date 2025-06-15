@@ -1,7 +1,7 @@
 [
     {
         "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "Kalkulatory finansowe",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +14,7 @@
     },
     {
         "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "Kalkulatory matematyczne",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +27,7 @@
     },
     {
         "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "Inne kalkulatory",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -40,7 +40,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "Kalkulator hipoteczny",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Kalkulator amortyzacji pożyczki",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +66,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "Kalkulator płatności",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +79,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "Kalkulator odsetek",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -92,7 +92,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Kalkulator pożyczki z odroczoną płatnością",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Kalkulator pożyczki o ustalonej kwocie",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -116,7 +116,7 @@
     },
     {
         "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "Kalkulator naukowy",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -129,7 +129,7 @@
     },
     {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "Kalkulator procentowy",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +142,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "Kalkulator obwodu",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "Kalkulator pola powierzchni",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "Kalkulator objętości",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "Kalkulator wieku",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +194,7 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "Kalkulator dat",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "Kalkulator czasu",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "Kalkulator godzin",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "Kalkulator ułamków",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "Kalkulator liczb mieszanych",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "Kalkulatory zdrowia i fitnessu",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "Kalkulator BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "Kalkulator BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Kalkulator procentu tkanki tłuszczowej",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "Konwerter jednostek",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "Kalkulator liczb pierwszych",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "Minutnik odliczający",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Generator haseł",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Kalkulator tempa biegu",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "Kalkulator TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +389,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "Konwerter danych",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +402,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "Kalkulator kalorii",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +415,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "Konwerter walut",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +428,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "Sprawdzanie roku przestępnego",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "Kanał pogodowy",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +454,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Kalkulator terminu porodu",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Kalkulator stężenia alkoholu we krwi (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +480,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
         "title": "Kalkulator znaków zodiaku",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,7 +493,7 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "Timer Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "Generator kodów QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +519,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "Kalkulator pochodnych",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
         "title": "Kalkulator logarytmów",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "Kalkulatory Inżynierskie",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,7 +558,7 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "Kalkulator Mocy Elektrycznej",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "Kalkulator Oporu",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "Kalkulator Siły",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,7 +597,7 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "Kalkulator Prędkości",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -610,13 +610,39 @@
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "Kalkulator Ciśnienia",
         "slug": "pressure-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulator Ciśnienia - Przelicz Jednostki & Oblicz P=F/A",
         "meta_description": "Darmowy kalkulator ciśnienia online z przelicznikiem jednostek, ciśnienie podstawowe (P=F/A), hydrostatyczne i obliczenia nadciśnienie vs bezwzględne. Przelicz Pa, psi, bar.",
         "meta_keyword": "kalkulator ciśnienia, przelicznik ciśnienia, jednostki ciśnienia, przelicznik pascal, kalkulator psi, przelicznik bar, kalkulator wzoru ciśnienia, ciśnienie hydrostatyczne, nadciśnienie, ciśnienie bezwzględne, kalkulator P=F/A, narzędzie przeliczania ciśnienia, kalkulator ciśnienia online, przelicznik jednostek ciśnienia, ciśnienie siła powierzchnia, kalkulator ciśnienia płynów, przelicznik ciśnienia atmosferycznego, kalkulator ciśnienia próżni",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "50",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
+        "title": "Kalkulator Momentu Obrotowego",
+        "slug": "torque-calculator",
+        "parent_id": "44",
+        "meta_title": "Darmowy Kalkulator Momentu | Oblicz Siłę i Odległość",
+        "meta_description": "Oblicz moment obrotowy, siłę lub odległość natychmiast z naszym darmowym kalkulatorem online. Wprowadź dwie wartości dla dokładnych wyników.",
+        "meta_keyword": "kalkulator momentu obrotowego, kalkulator siły, kalkulator odległości, kalkulator fizyki, wzór momentu, siła rotacyjna, narzędzia inżynierskie, newton metr, funt stopa",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "51",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "title": "Kalkulator Wytrzymałości Materiałów",
+        "slug": "material-strength-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Wytrzymałości Materiałów | Naprężenia",
+        "meta_description": "Oblicz wytrzymałość materiałów, naprężenia i współczynnik bezpieczeństwa z darmowym kalkulatorem online. Analiza rozciągania, ściskania, ścinania i zginania.",
+        "meta_keyword": "kalkulator wytrzymałości materiałów, kalkulator naprężeń, wytrzymałość na rozciąganie, wytrzymałość na ściskanie, wytrzymałość na ścinanie, zginanie belki, analiza materiałów, współczynnik bezpieczeństwa, wytrzymałość stali, wytrzymałość aluminium",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
