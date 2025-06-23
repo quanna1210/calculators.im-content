@@ -1,0 +1,27 @@
+{
+  "trans": [
+    "Temperatuurwaarde",
+    "Van eenheid",
+    "Eenheden omwisselen",
+    "Wissen",
+    "Alle conversies",
+    "Celsius (°C)",
+    "Fahrenheit (°F)",
+    "Kelvin (K)",
+    "Rankine (°R)",
+    "Voer temperatuur in",
+    "---",
+    "flex-1 h-fit mb-8 order-2",
+    "flex-2 order-3",
+    "lg:max-w-[400px] flex-2 order-1",
+    "Temperatuurrekenmachine",
+    "Converteer temperaturen tussen Celsius, Fahrenheit, Kelvin en Rankine",
+    "Temperatuur conversierekenmachine",
+    "Voer temperatuurwaarde in",
+    "Selecteer temperatuureenheid",
+    "Temperatuureenheden omwisselen",
+    "Alle invoer wissen",
+    "Ongeldige temperatuurwaarde",
+    "Voer een geldig getal in"
+  ]
+}

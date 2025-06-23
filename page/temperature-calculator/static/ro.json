@@ -1,0 +1,27 @@
+{
+  "trans": [
+    "Valoarea temperaturii",
+    "Din unitatea",
+    "Schimbă unitățile",
+    "Șterge",
+    "Toate conversiile",
+    "Celsius (°C)",
+    "Fahrenheit (°F)",
+    "Kelvin (K)",
+    "Rankine (°R)",
+    "Introduceți temperatura",
+    "---",
+    "flex-1 h-fit mb-8 order-2",
+    "flex-2 order-3",
+    "lg:max-w-[400px] flex-2 order-1",
+    "Calculator temperatură",
+    "Convertiți temperaturile între Celsius, Fahrenheit, Kelvin și Rankine",
+    "Calculator conversie temperatură",
+    "Introduceți valoarea temperaturii",
+    "Selectați unitatea de temperatură",
+    "Schimbă unitățile de temperatură",
+    "Șterge toate intrările",
+    "Valoare temperatură nevalidă",
+    "Vă rugăm să introduceți un număr valid"
+  ]
+}

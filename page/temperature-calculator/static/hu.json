@@ -1,0 +1,27 @@
+{
+  "trans": [
+    "Hőmérséklet érték",
+    "Kiindulási egység",
+    "Egységek cseréje",
+    "Törlés",
+    "Összes átváltás",
+    "Celsius (°C)",
+    "Fahrenheit (°F)",
+    "Kelvin (K)",
+    "Rankine (°R)",
+    "Adja meg a hőmérsékletet",
+    "---",
+    "flex-1 h-fit mb-8 order-2",
+    "flex-2 order-3",
+    "lg:max-w-[400px] flex-2 order-1",
+    "Hőmérséklet kalkulátor",
+    "Hőmérsékletek átváltása Celsius, Fahrenheit, Kelvin és Rankine között",
+    "Hőmérséklet átváltó kalkulátor",
+    "Adja meg a hőmérséklet értéket",
+    "Válassza ki a hőmérséklet egységet",
+    "Hőmérséklet egységek cseréje",
+    "Összes bevitel törlése",
+    "Érvénytelen hőmérséklet érték",
+    "Kérjük, adjon meg egy érvényes számot"
+  ]
+}

@@ -646,5 +646,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "52",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "title": "Temperature Calculator",
+        "slug": "temperature-calculator",
+        "parent_id": "44",
+        "meta_title": "Free Temperature Calculator - Convert °C, °F, K & °R Online",
+        "meta_description": "Convert temperatures instantly between Celsius, Fahrenheit, Kelvin & Rankine with our free online temperature calculator. Fast, accurate & mobile-friendly!",
+        "meta_keyword": "temperature calculator, temperature converter, celsius to fahrenheit, fahrenheit to celsius, kelvin converter, rankine converter, temperature conversion calculator, free temperature calculator online, celsius fahrenheit converter, temperature unit converter, convert celsius to fahrenheit calculator, temperature calculator online free, fahrenheit to celsius converter online, celsius to kelvin calculator, temperature conversion tool, unit conversion temperature, online temperature converter calculator, temperature scale converter, thermometer calculator, celsius fahrenheit kelvin rankine converter, temperature conversion formula calculator, instant temperature converter, accurate temperature calculator, mobile temperature converter, scientific temperature calculator, physics temperature calculator, temperature measurement calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

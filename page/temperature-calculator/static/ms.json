@@ -1,0 +1,27 @@
+{
+  "trans": [
+    "Nilai Suhu",
+    "Dari Unit",
+    "Tukar Unit",
+    "Padam",
+    "Semua Penukaran",
+    "Celsius (°C)",
+    "Fahrenheit (°F)",
+    "Kelvin (K)",
+    "Rankine (°R)",
+    "Masukkan suhu",
+    "---",
+    "flex-1 h-fit mb-8 order-2",
+    "flex-2 order-3",
+    "lg:max-w-[400px] flex-2 order-1",
+    "Kalkulator Suhu",
+    "Tukar suhu antara Celsius, Fahrenheit, Kelvin, dan Rankine",
+    "Kalkulator penukaran suhu",
+    "Masukkan nilai suhu",
+    "Pilih unit suhu",
+    "Tukar unit suhu",
+    "Padam semua input",
+    "Nilai suhu tidak sah",
+    "Sila masukkan nombor yang sah"
+  ]
+}

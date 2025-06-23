@@ -1,7 +1,7 @@
 [
     {
         "id": "9",
-        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
         "title": "財務計算機",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -14,7 +14,7 @@
     },
     {
         "id": "10",
-        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
         "title": "数学計算機",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -27,7 +27,7 @@
     },
     {
         "id": "15",
-        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
         "title": "その他の計算機",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -40,7 +40,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
         "title": "住宅ローン計算機",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
         "title": "ローン償却計算機",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +66,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
         "title": "支払い計算機",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +79,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
         "title": "利息計算機",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -92,7 +92,7 @@
     },
     {
         "id": "1",
-        "thumb": "https://static.calculators.im/upload/upload/predetermined.png",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/upload/predetermined.png",
         "title": "繰延支払ローン計算機",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -105,7 +105,7 @@
     },
     {
         "id": "12",
-        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "所定額ローン計算機",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -118,7 +118,7 @@
     },
     {
         "id": "13",
-        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
         "title": "科学計算機",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -131,7 +131,7 @@
     },
     {
         "id": "5",
-        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
         "title": "パーセント計算機",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -144,7 +144,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
         "title": "周囲計算機",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -157,7 +157,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
         "title": "面積計算機",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -170,7 +170,7 @@
     },
     {
         "id": "14",
-        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
         "title": "体積計算機",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -183,7 +183,7 @@
     },
     {
         "id": "16",
-        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
         "title": "年齢計算機",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -196,7 +196,7 @@
     },
     {
         "id": "17",
-        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
         "title": "日付計算機",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -209,7 +209,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
         "title": "時間計算機",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -222,7 +222,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
         "title": "時間計算機",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -235,7 +235,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
         "title": "分数計算機",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -248,7 +248,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
         "title": "帯分数計算機",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -261,7 +261,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
         "title": "健康・フィットネス計算機",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -274,7 +274,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
         "title": "BMI計算機",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -287,7 +287,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
         "title": "BMR計算機",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -300,7 +300,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "体脂肪率計算機",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -313,7 +313,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
         "title": "単位変換器",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -326,7 +326,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
         "title": "素数計算機",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -339,7 +339,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
         "title": "カウントダウンタイマー",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -352,7 +352,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "パスワードジェネレーター",
         "slug": "password-generator",
         "parent_id": "15",
@@ -365,7 +365,7 @@
     },
     {
         "id": "43",
-        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
         "title": "ランニングペース計算機",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -378,7 +378,7 @@
     },
     {
         "id": "30",
-        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE計算機",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -391,7 +391,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
         "title": "データ変換器",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -404,7 +404,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
         "title": "カロリー計算機",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -417,7 +417,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
         "title": "通貨変換器",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -430,7 +430,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
         "title": "うるう年チェッカー",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -443,7 +443,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
         "title": "天気チャンネル",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -456,7 +456,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "出産予定日計算機",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -469,7 +469,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "血中アルコール濃度（BAC）計算機",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -482,7 +482,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
         "title": "星座計算機",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -495,7 +495,7 @@
     },
     {
         "id": "39",
-        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
         "title": "ポモドーロタイマー",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -508,7 +508,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
         "title": "QRコードジェネレーター",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -521,7 +521,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
         "title": "微分計算機",
         "slug": "derivative-calculator",
         "meta_title": "無料オンライン微分計算機とステップ | 数学的問題解決ツール",
@@ -533,7 +533,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
         "title": "対数計算機",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -546,7 +546,7 @@
     },
     {
         "id": "44",
-        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
         "title": "エンジニアリング計算機",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -559,7 +559,7 @@
     },
     {
         "id": "45",
-        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
         "title": "電力計算機",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -572,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
         "title": "抵抗計算機",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -585,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
         "title": "力計算機",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -598,7 +598,7 @@
     },
     {
         "id": "48",
-        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
         "title": "速度計算機",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -611,7 +611,7 @@
     },
     {
         "id": "49",
-        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
         "title": "圧力計算機",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -624,7 +624,7 @@
     },
     {
         "id": "50",
-        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
         "title": "トルク計算機",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -637,13 +637,26 @@
     },
     {
         "id": "51",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
         "title": "材料強度計算機",
         "slug": "material-strength-calculator",
         "parent_id": "44",
         "meta_title": "材料強度計算機 | 応力と安全率を計算",
         "meta_description": "無料オンライン計算機で材料強度、応力、安全率を計算します。20種類以上の材料について引張、圧縮、せん断、梁の曲げ解析が可能です。",
         "meta_keyword": "材料強度計算機, 応力計算機, 引張強度計算機, 圧縮強度計算機, せん断強度計算機, 梁の曲げ, 材料解析, 安全率, 鋼材強度, アルミニウム強度, コンクリート強度, エンジニアリングツール, 構造計算",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "52",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "title": "温度計算機",
+        "slug": "temperature-calculator",
+        "parent_id": "44",
+        "meta_title": "無料温度計算機 - °C、°F、K、°Rオンライン変換",
+        "meta_description": "摂氏、華氏、ケルビン、ランキン間で瞬時に温度変換。無料オンライン温度計算機で高速・正確・モバイル対応の温度変換を実現！",
+        "meta_keyword": "温度計算機, 温度変換機, 摂氏華氏変換, 華氏摂氏変換, ケルビン変換, ランキン変換, 温度変換計算機, 無料温度計算機オンライン, 摂氏華氏変換機, 温度単位変換機, 摂氏華氏変換計算機, 温度計算機オンライン無料, 華氏摂氏変換機オンライン, 摂氏ケルビン計算機, 温度変換ツール, 単位変換温度, オンライン温度変換計算機, 温度スケール変換機, 温度計計算機, 摂氏華氏ケルビンランキン変換機, 温度変換公式計算機, 瞬時温度変換機, 正確温度計算機, モバイル温度変換機, 科学的温度計算機, 物理温度計算機, 温度測定計算機",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

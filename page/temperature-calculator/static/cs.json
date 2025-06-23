@@ -1,0 +1,27 @@
+{
+  "trans": [
+    "Hodnota teploty",
+    "Z jednotky",
+    "Prohodit jednotky",
+    "Vymazat",
+    "Všechny převody",
+    "Celsius (°C)",
+    "Fahrenheit (°F)",
+    "Kelvin (K)",
+    "Rankine (°R)",
+    "Zadejte teplotu",
+    "---",
+    "flex-1 h-fit mb-8 order-2",
+    "flex-2 order-3",
+    "lg:max-w-[400px] flex-2 order-1",
+    "Kalkulačka teploty",
+    "Převádějte teploty mezi Celsius, Fahrenheit, Kelvin a Rankine",
+    "Kalkulačka převodu teploty",
+    "Zadejte hodnotu teploty",
+    "Vyberte jednotku teploty",
+    "Prohodit jednotky teploty",
+    "Vymazat všechny vstupy",
+    "Neplatná hodnota teploty",
+    "Prosím zadejte platné číslo"
+  ]
+}

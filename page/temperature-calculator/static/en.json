@@ -1,0 +1,27 @@
+{
+    "trans": [
+        "Temperature Value",
+        "From Unit",
+        "Swap Units",
+        "Clear",
+        "All Conversions",
+        "Celsius (°C)",
+        "Fahrenheit (°F)",
+        "Kelvin (K)",
+        "Rankine (°R)",
+        "Enter temperature",
+        "---",
+        "flex-1 h-fit mb-8 order-2",
+        "flex-2 order-3",
+        "lg:max-w-[400px] flex-2 order-1",
+        "Temperature Calculator",
+        "Convert temperatures between Celsius, Fahrenheit, Kelvin, and Rankine",
+        "Temperature conversion calculator",
+        "Enter temperature value",
+        "Select temperature unit",
+        "Swap temperature units",
+        "Clear all inputs",
+        "Invalid temperature value",
+        "Please enter a valid number"
+    ]
+}
