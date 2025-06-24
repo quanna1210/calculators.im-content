@@ -674,5 +674,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Kalkulator Frekuensi Resonansi",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Frekuensi Resonansi - Piranti Sirkuit LC",
+        "meta_description": "Etung frekuensi resonansi sirkuit LC kanthi cepet nganggo piranti gratis kita. Ndhukung konversi induktansi & kapasitansi. Entuk asil frekuensi, periode & dawane gelombang.",
+        "meta_keyword": "kalkulator frekuensi resonansi, kalkulator sirkuit LC, kalkulator resonansi, kalkulator frekuensi, kalkulator induktansi kapasitansi, kalkulator frekuensi resonansi gratis, kalkulator resonansi LC online, piranti frekuensi resonansi sirkuit, kalkulator rumus frekuensi resonan, kalkulator frekuensi osilator LC, kalkulator frekuensi induktansi kapasitansi, kalkulator resonansi listrik, kalkulator frekuensi elektronik, kalkulator resonansi fisika, piranti frekuensi teknik, pitungan frekuensi sirkuit LC, piranti rumus frekuensi resonansi, kalkulator sirkuit RF, kalkulator frekuensi osilator, kalkulator sirkuit elektronik, kalkulator tangki LC, kalkulator sirkuit sing disetel, kalkulator resonansi paralel, kalkulator resonansi seri, kalkulator frekuensi dawane gelombang, kalkulator filter LC, kalkulator sirkuit RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

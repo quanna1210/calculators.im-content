@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parámetros del circuito",
+    "Resultados",
+    "Inductancia (L)",
+    "Capacitancia (C)",
+    "Ingrese el valor de inductancia",
+    "Ingrese el valor de capacitancia",
+    "Por favor ingrese un valor de inductancia positivo válido",
+    "Por favor ingrese un valor de capacitancia positivo válido",
+    "Frecuencia de resonancia",
+    "Período",
+    "Longitud de onda (en el espacio libre)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Ingrese los valores de inductancia y capacitancia para ver resultados",
+    "Los resultados aparecerán automáticamente mientras escribe",
+    "Limpiar todos los valores"
+  ]
+}

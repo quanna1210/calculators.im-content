@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Kalkulačka rezonanční frekvence",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulačka rezonanční frekvence - nástroj LC obvodu",
+        "meta_description": "Vypočítejte rezonanční frekvenci LC obvodu okamžitě s naším bezplatným nástrojem. Podporuje převody indukčnosti a kapacity. Získejte výsledky frekvence, periody a vlnové délky.",
+        "meta_keyword": "kalkulačka rezonanční frekvence, kalkulačka LC obvodu, kalkulačka rezonance, kalkulačka frekvence, kalkulačka indukčnosti a kapacity, bezplatná kalkulačka rezonanční frekvence, online kalkulačka LC rezonance, nástroj pro rezonanční frekvenci obvodu, kalkulačka vzorce rezonanční frekvence, kalkulačka frekvence LC oscilátoru, kalkulačka frekvence indukčnosti a kapacity, kalkulačka elektrické rezonance, kalkulačka frekvence elektroniky, kalkulačka fyzikální rezonance, nástroj inženýrské frekvence, výpočet frekvence LC obvodu, nástroj vzorce rezonanční frekvence, kalkulačka RF obvodu, kalkulačka frekvence oscilátoru, kalkulačka elektronického obvodu, kalkulačka LC nádrže, kalkulačka laděného obvodu, kalkulačka paralelní rezonance, kalkulačka sériové rezonance, kalkulačka frekvence vlnové délky, kalkulačka LC filtru, kalkulačka RLC obvodu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Schaltungsparameter",
+    "Ergebnisse",
+    "Induktivität (L)",
+    "Kapazität (C)",
+    "Induktivitätswert eingeben",
+    "Kapazitätswert eingeben",
+    "Bitte geben Sie einen gültigen positiven Induktivitätswert ein",
+    "Bitte geben Sie einen gültigen positiven Kapazitätswert ein",
+    "Resonanzfrequenz",
+    "Periode",
+    "Wellenlänge (im freien Raum)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Geben Sie Induktivitäts- und Kapazitätswerte ein, um Ergebnisse zu sehen",
+    "Ergebnisse werden automatisch beim Tippen angezeigt",
+    "Alle Werte löschen"
+  ]
+}

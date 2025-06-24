@@ -674,5 +674,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "공진 주파수 계산기",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "공진 주파수 계산기 - 무료 LC 회로 도구",
+        "meta_description": "무료 도구로 LC 회로 공진 주파수를 즉시 계산하세요. 인덕턴스 및 커패시턴스 변환을 지원합니다. 주파수, 주기 및 파장 결과를 얻으세요.",
+        "meta_keyword": "공진 주파수 계산기, LC 회로 계산기, 공진 계산기, 주파수 계산기, 인덕턴스 커패시턴스 계산기, 무료 공진 주파수 계산기, LC 공진 계산기 온라인, 회로 공진 주파수 도구, 공진 주파수 공식 계산기, LC 발진기 주파수 계산기, 인덕턴스 커패시턴스 주파수 계산기, 전기 공진 계산기, 전자 주파수 계산기, 물리 공진 계산기, 엔지니어링 주파수 도구, LC 회로 주파수 계산, 공진 주파수 공식 도구, RF 회로 계산기, 발진기 주파수 계산기, 전자 회로 계산기, LC 탱크 계산기, 튜닝된 회로 계산기, 병렬 공진 계산기, 직렬 공진 계산기, 주파수 파장 계산기, LC 필터 계산기, RLC 회로 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

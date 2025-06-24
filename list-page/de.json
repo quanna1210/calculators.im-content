@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Resonanzfrequenz-Rechner",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Resonanzfrequenz-Rechner - kostenloses LC-Schaltungs-Tool",
+        "meta_description": "Berechnen Sie die LC-Schaltungsresonanzfrequenz sofort mit unserem kostenlosen Tool. Unterstützt Induktivitäts- und Kapazitätsumrechnungen. Erhalten Sie Ergebnisse für Frequenz, Periode und Wellenlänge.",
+        "meta_keyword": "Resonanzfrequenz-Rechner, LC-Schaltungsrechner, Resonanzrechner, Frequenzrechner, Induktivitäts-Kapazitäts-Rechner, kostenloser Resonanzfrequenz-Rechner, LC-Resonanz-Rechner online, Schaltungsresonanzfrequenz-Tool, Resonanzfrequenzformel-Rechner, LC-Oszillatorfrequenz-Rechner, Induktivitäts-Kapazitäts-Frequenz-Rechner, elektrischer Resonanzrechner, Elektronikfrequenz-Rechner, Physik-Resonanzrechner, Ingenieurfrequenz-Tool, LC-Schaltungsfrequenzberechnung, Resonanzfrequenzformel-Tool, RF-Schaltungsrechner, Oszillatorfrequenz-Rechner, elektronischer Schaltungsrechner, LC-Tank-Rechner, abgestimmter Schaltungsrechner, Parallelresonanz-Rechner, Serienresonanz-Rechner, Frequenz-Wellenlängen-Rechner, LC-Filter-Rechner, RLC-Schaltungsrechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

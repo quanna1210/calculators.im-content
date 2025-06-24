@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parameter Sirkuit",
+    "Asil",
+    "Induktansi (L)",
+    "Kapasitansi (C)",
+    "Lebokno nilai induktansi",
+    "Lebokno nilai kapasitansi",
+    "Tulung lebokno nilai induktansi positif sing bener",
+    "Tulung lebokno nilai kapasitansi positif sing bener",
+    "Frekuensi Resonansi",
+    "Periode",
+    "Dawane Gelombang (ing papan bebas)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Lebokno nilai induktansi lan kapasitansi kanggo ndeleng asil",
+    "Asil bakal muncul otomatis nalika sampeyan ngetik",
+    "Busek kabeh nilai"
+  ]
+}

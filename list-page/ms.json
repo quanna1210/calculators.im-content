@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Kalkulator Frekuensi Resonans",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Frekuensi Resonans - Alat Litar LC Percuma",
+        "meta_description": "Kira frekuensi resonans litar LC serta-merta dengan alat percuma kami. Menyokong penukaran induktans & kapasitans. Dapatkan keputusan frekuensi, tempoh & panjang gelombang.",
+        "meta_keyword": "kalkulator frekuensi resonans, kalkulator litar LC, kalkulator resonans, kalkulator frekuensi, kalkulator induktans kapasitans, kalkulator frekuensi resonans percuma, kalkulator resonans LC dalam talian, alat frekuensi resonans litar, kalkulator formula frekuensi resonan, kalkulator frekuensi pengayun LC, kalkulator frekuensi induktans kapasitans, kalkulator resonans elektrik, kalkulator frekuensi elektronik, kalkulator resonans fizik, alat frekuensi kejuruteraan, pengiraan frekuensi litar LC, alat formula frekuensi resonans, kalkulator litar RF, kalkulator frekuensi pengayun, kalkulator litar elektronik, kalkulator tangki LC, kalkulator litar yang ditala, kalkulator resonans selari, kalkulator resonans bersiri, kalkulator frekuensi panjang gelombang, kalkulator penapis LC, kalkulator litar RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parametri del circuito",
+    "Risultati",
+    "Induttanza (L)",
+    "Capacità (C)",
+    "Inserisci il valore di induttanza",
+    "Inserisci il valore di capacità",
+    "Inserisci un valore di induttanza positivo valido",
+    "Inserisci un valore di capacità positivo valido",
+    "Frequenza di risonanza",
+    "Periodo",
+    "Lunghezza d'onda (nello spazio libero)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Inserisci i valori di induttanza e capacità per vedere i risultati",
+    "I risultati appariranno automaticamente mentre digiti",
+    "Cancella tutti i valori"
+  ]
+}

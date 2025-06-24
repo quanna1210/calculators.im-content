@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Resonantiefrequentie Calculator",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Resonantiefrequentie Calculator - gratis LC circuit tool",
+        "meta_description": "Bereken LC circuit resonantiefrequentie direct met onze gratis tool. Ondersteunt inductantie & capaciteit conversies. Krijg frequentie, periode & golflengte resultaten.",
+        "meta_keyword": "resonantiefrequentie calculator, LC circuit calculator, resonantie calculator, frequentie calculator, inductantie capaciteit calculator, gratis resonantiefrequentie calculator, LC resonantie calculator online, circuit resonantiefrequentie tool, resonante frequentie formule calculator, LC oscillator frequentie calculator, inductantie capaciteit frequentie calculator, elektrische resonantie calculator, elektronische frequentie calculator, fysieke resonantie calculator, engineering frequentie tool, LC circuit frequentie berekening, resonantiefrequentie formule tool, RF circuit calculator, oscillator frequentie calculator, elektronische circuit calculator, LC tank calculator, afgestemde circuit calculator, parallelle resonantie calculator, serie resonantie calculator, frequentie golflengte calculator, LC filter calculator, RLC circuit calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

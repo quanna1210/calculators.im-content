@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Circuitparameters",
+    "Resultaten",
+    "Inductantie (L)",
+    "Capaciteit (C)",
+    "Voer inductantiewaarde in",
+    "Voer capaciteitswaarde in",
+    "Voer een geldige positieve inductantiewaarde in",
+    "Voer een geldige positieve capaciteitswaarde in",
+    "Resonantiefrequentie",
+    "Periode",
+    "Golflengte (in vrije ruimte)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Voer inductantie- en capaciteitswaarden in om resultaten te zien",
+    "Resultaten verschijnen automatisch terwijl u typt",
+    "Alle waarden wissen"
+  ]
+}

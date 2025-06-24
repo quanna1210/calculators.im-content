@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Devre Parametreleri",
+    "Sonuçlar",
+    "Endüktans (L)",
+    "Kapasitans (C)",
+    "Endüktans değerini girin",
+    "Kapasitans değerini girin",
+    "Lütfen geçerli bir pozitif endüktans değeri girin",
+    "Lütfen geçerli bir pozitif kapasitans değeri girin",
+    "Rezonans Frekansı",
+    "Periyot",
+    "Dalga Boyu (boş uzayda)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Sonuçları görmek için endüktans ve kapasitans değerlerini girin",
+    "Siz yazarken sonuçlar otomatik olarak görünecek",
+    "Tüm değerleri temizle"
+  ]
+}

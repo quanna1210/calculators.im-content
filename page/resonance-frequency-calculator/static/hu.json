@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Áramkör paraméterei",
+    "Eredmények",
+    "Induktivitás (L)",
+    "Kapacitás (C)",
+    "Adja meg az induktivitás értékét",
+    "Adja meg a kapacitás értékét",
+    "Kérjük, adjon meg egy érvényes pozitív induktivitás értéket",
+    "Kérjük, adjon meg egy érvényes pozitív kapacitás értéket",
+    "Rezonancia frekvencia",
+    "Periódus",
+    "Hullámhossz (szabad térben)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Adja meg az induktivitás és kapacitás értékeket az eredmények megtekintéséhez",
+    "Az eredmények automatikusan megjelennek gépelés közben",
+    "Összes érték törlése"
+  ]
+}

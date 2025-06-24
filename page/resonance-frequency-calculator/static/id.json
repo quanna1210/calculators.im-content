@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parameter Sirkuit",
+    "Hasil",
+    "Induktansi (L)",
+    "Kapasitansi (C)",
+    "Masukkan nilai induktansi",
+    "Masukkan nilai kapasitansi",
+    "Harap masukkan nilai induktansi positif yang valid",
+    "Harap masukkan nilai kapasitansi positif yang valid",
+    "Frekuensi Resonansi",
+    "Periode",
+    "Panjang Gelombang (di ruang bebas)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Masukkan nilai induktansi dan kapasitansi untuk melihat hasil",
+    "Hasil akan muncul secara otomatis saat Anda mengetik",
+    "Hapus semua nilai"
+  ]
+}

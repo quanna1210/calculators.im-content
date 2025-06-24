@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parametry obvodu",
+    "Výsledky",
+    "Indukčnost (L)",
+    "Kapacita (C)",
+    "Zadejte hodnotu indukčnosti",
+    "Zadejte hodnotu kapacity",
+    "Zadejte prosím platnou kladnou hodnotu indukčnosti",
+    "Zadejte prosím platnou kladnou hodnotu kapacity",
+    "Rezonanční frekvence",
+    "Perioda",
+    "Vlnová délka (ve volném prostoru)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Zadejte hodnoty indukčnosti a kapacity pro zobrazení výsledků",
+    "Výsledky se zobrazí automaticky při psaní",
+    "Vymazat všechny hodnoty"
+  ]
+}

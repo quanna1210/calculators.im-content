@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parametry obwodu",
+    "Wyniki",
+    "Indukcyjność (L)",
+    "Pojemność (C)",
+    "Wprowadź wartość indukcyjności",
+    "Wprowadź wartość pojemności",
+    "Wprowadź prawidłową dodatnią wartość indukcyjności",
+    "Wprowadź prawidłową dodatnią wartość pojemności",
+    "Częstotliwość rezonansowa",
+    "Okres",
+    "Długość fali (w wolnej przestrzeni)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Wprowadź wartości indukcyjności i pojemności, aby zobaczyć wyniki",
+    "Wyniki pojawią się automatycznie podczas pisania",
+    "Wyczyść wszystkie wartości"
+  ]
+}

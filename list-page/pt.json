@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Calculadora de Frequência de Ressonância",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora Frequência Ressonância - ferramenta LC grátis",
+        "meta_description": "Calcule a frequência de ressonância do circuito LC instantaneamente com nossa ferramenta gratuita. Suporta conversões de indutância e capacitância. Obtenha resultados de frequência, período e comprimento de onda.",
+        "meta_keyword": "calculadora frequência ressonância, calculadora circuito LC, calculadora ressonância, calculadora frequência, calculadora indutância capacitância, calculadora frequência ressonância grátis, calculadora ressonância LC online, ferramenta frequência ressonância circuito, calculadora fórmula frequência ressonante, calculadora frequência oscilador LC, calculadora frequência indutância capacitância, calculadora ressonância elétrica, calculadora frequência eletrônica, calculadora ressonância física, ferramenta frequência engenharia, cálculo frequência circuito LC, ferramenta fórmula frequência ressonância, calculadora circuito RF, calculadora frequência oscilador, calculadora circuito eletrônico, calculadora tanque LC, calculadora circuito sintonizado, calculadora ressonância paralela, calculadora ressonância série, calculadora frequência comprimento onda, calculadora filtro LC, calculadora circuito RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

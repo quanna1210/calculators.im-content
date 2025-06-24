@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Tham số mạch",
+    "Kết quả",
+    "Độ tự cảm (L)",
+    "Điện dung (C)",
+    "Nhập giá trị độ tự cảm",
+    "Nhập giá trị điện dung",
+    "Vui lòng nhập giá trị độ tự cảm dương hợp lệ",
+    "Vui lòng nhập giá trị điện dung dương hợp lệ",
+    "Tần số cộng hưởng",
+    "Chu kỳ",
+    "Bước sóng (trong không gian tự do)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Nhập giá trị độ tự cảm và điện dung để xem kết quả",
+    "Kết quả sẽ hiển thị tự động khi bạn nhập",
+    "Xóa tất cả giá trị"
+  ]
+}

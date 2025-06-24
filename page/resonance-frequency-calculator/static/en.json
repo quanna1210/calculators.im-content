@@ -1,0 +1,21 @@
+{
+    "trans": [
+        "Circuit Parameters",
+        "Results",
+        "Inductance (L)",
+        "Capacitance (C)",
+        "Enter inductance value",
+        "Enter capacitance value",
+        "Please enter a valid positive inductance value",
+        "Please enter a valid positive capacitance value",
+        "Resonant Frequency",
+        "Period",
+        "Wavelength (in free space)",
+        "f₀ = 1 / (2π√LC)",
+        "T = 1 / f₀",
+        "λ = c / f₀",
+        "Enter inductance and capacitance values to see results",
+        "Results will appear automatically as you type",
+        "Clear all values"
+    ]
+}

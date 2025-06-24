@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Rezonans Frekansı Hesaplayıcısı",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Rezonans Frekansı Hesaplayıcısı - ücretsiz LC aracı",
+        "meta_description": "LC devre rezonans frekansını ücretsiz aracımızla anında hesaplayın. Endüktans ve kapasitans dönüşümlerini destekler. Frekans, periyot ve dalga boyu sonuçlarını alın.",
+        "meta_keyword": "rezonans frekansı hesaplayıcısı, LC devre hesaplayıcısı, rezonans hesaplayıcısı, frekans hesaplayıcısı, endüktans kapasitans hesaplayıcısı, ücretsiz rezonans frekansı hesaplayıcısı, LC rezonans hesaplayıcısı çevrimiçi, devre rezonans frekansı aracı, rezonant frekans formülü hesaplayıcısı, LC osilatör frekans hesaplayıcısı, endüktans kapasitans frekans hesaplayıcısı, elektrik rezonans hesaplayıcısı, elektronik frekans hesaplayıcısı, fizik rezonans hesaplayıcısı, mühendislik frekans aracı, LC devre frekans hesaplama, rezonans frekansı formül aracı, RF devre hesaplayıcısı, osilatör frekans hesaplayıcısı, elektronik devre hesaplayıcısı, LC tank hesaplayıcısı, ayarlı devre hesaplayıcısı, paralel rezonans hesaplayıcısı, seri rezonans hesaplayıcısı, frekans dalga boyu hesaplayıcısı, LC filtre hesaplayıcısı, RLC devre hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

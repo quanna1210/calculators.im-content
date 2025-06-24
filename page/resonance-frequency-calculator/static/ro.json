@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parametrii circuitului",
+    "Rezultate",
+    "Inductanță (L)",
+    "Capacitate (C)",
+    "Introduceți valoarea inductanței",
+    "Introduceți valoarea capacității",
+    "Vă rugăm să introduceți o valoare de inductanță pozitivă validă",
+    "Vă rugăm să introduceți o valoare de capacitate pozitivă validă",
+    "Frecvența de rezonanță",
+    "Perioadă",
+    "Lungimea de undă (în spațiul liber)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Introduceți valorile inductanței și capacității pentru a vedea rezultatele",
+    "Rezultatele vor apărea automat în timp ce tastați",
+    "Ștergeți toate valorile"
+  ]
+}

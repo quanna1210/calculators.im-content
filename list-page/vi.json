@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Máy tính tần số cộng hưởng",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy tính tần số cộng hưởng - công cụ mạch LC miễn phí",
+        "meta_description": "Tính toán tần số cộng hưởng mạch LC ngay lập tức với công cụ miễn phí của chúng tôi. Hỗ trợ chuyển đổi độ tự cảm và điện dung. Nhận kết quả tần số, chu kỳ và bước sóng.",
+        "meta_keyword": "máy tính tần số cộng hưởng, máy tính mạch LC, máy tính cộng hưởng, máy tính tần số, máy tính độ tự cảm điện dung, máy tính tần số cộng hưởng miễn phí, máy tính cộng hưởng LC trực tuyến, công cụ tần số cộng hưởng mạch, máy tính công thức tần số cộng hưởng, máy tính tần số bộ dao động LC, máy tính tần số độ tự cảm điện dung, máy tính cộng hưởng điện, máy tính tần số điện tử, máy tính cộng hưởng vật lý, công cụ tần số kỹ thuật, tính toán tần số mạch LC, công cụ công thức tần số cộng hưởng, máy tính mạch RF, máy tính tần số bộ dao động, máy tính mạch điện tử, máy tính bể LC, máy tính mạch điều chỉnh, máy tính cộng hưởng song song, máy tính cộng hưởng nối tiếp, máy tính tần số bước sóng, máy tính bộ lọc LC, máy tính mạch RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Calculator de frecvență de rezonanță",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator frecvență rezonanță - instrument circuit LC",
+        "meta_description": "Calculați frecvența de rezonanță a circuitului LC instantaneu cu instrumentul nostru gratuit. Suportă conversii de inductanță și capacitate. Obțineți rezultate pentru frecvență, perioadă și lungime de undă.",
+        "meta_keyword": "calculator frecvență rezonanță, calculator circuit LC, calculator rezonanță, calculator frecvență, calculator inductanță capacitate, calculator frecvență rezonanță gratuit, calculator rezonanță LC online, instrument frecvență rezonanță circuit, calculator formulă frecvență rezonantă, calculator frecvență oscilator LC, calculator frecvență inductanță capacitate, calculator rezonanță electrică, calculator frecvență electronică, calculator rezonanță fizică, instrument frecvență inginerie, calculul frecvenței circuit LC, instrument formulă frecvență rezonanță, calculator circuit RF, calculator frecvență oscilator, calculator circuit electronic, calculator rezervor LC, calculator circuit acordat, calculator rezonanță paralelă, calculator rezonanță serie, calculator frecvență lungime undă, calculator filtru LC, calculator circuit RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

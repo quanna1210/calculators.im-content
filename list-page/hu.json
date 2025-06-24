@@ -674,5 +674,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Rezonancia frekvencia kalkulátor",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Rezonancia frekvencia kalkulátor - ingyenes LC eszköz",
+        "meta_description": "Számítsa ki az LC áramkör rezonancia frekvenciáját azonnal ingyenes eszközünkkel. Támogatja az induktivitás és kapacitás átváltásokat. Szerezze meg a frekvencia, periódus és hullámhossz eredményeket.",
+        "meta_keyword": "rezonancia frekvencia kalkulátor, LC áramkör kalkulátor, rezonancia kalkulátor, frekvencia kalkulátor, induktivitás kapacitás kalkulátor, ingyenes rezonancia frekvencia kalkulátor, LC rezonancia kalkulátor online, áramkör rezonancia frekvencia eszköz, rezonáns frekvencia képlet kalkulátor, LC oszcillátor frekvencia kalkulátor, induktivitás kapacitás frekvencia kalkulátor, elektromos rezonancia kalkulátor, elektronika frekvencia kalkulátor, fizikai rezonancia kalkulátor, mérnöki frekvencia eszköz, LC áramkör frekvencia számítás, rezonancia frekvencia képlet eszköz, RF áramkör kalkulátor, oszcillátor frekvencia kalkulátor, elektronikus áramkör kalkulátor, LC tank kalkulátor, hangolt áramkör kalkulátor, párhuzamos rezonancia kalkulátor, soros rezonancia kalkulátor, frekvencia hullámhossz kalkulátor, LC szűrő kalkulátor, RLC áramkör kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

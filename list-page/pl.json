@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Kalkulator częstotliwości rezonansowej",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator częstotliwości rezonansowej - narzędzie LC",
+        "meta_description": "Oblicz częstotliwość rezonansową obwodu LC natychmiast za pomocą naszego darmowego narzędzia. Obsługuje konwersje indukcyjności i pojemności. Uzyskaj wyniki częstotliwości, okresu i długości fali.",
+        "meta_keyword": "kalkulator częstotliwości rezonansowej, kalkulator obwodu LC, kalkulator rezonansu, kalkulator częstotliwości, kalkulator indukcyjności pojemności, darmowy kalkulator częstotliwości rezonansowej, kalkulator rezonansu LC online, narzędzie częstotliwości rezonansowej obwodu, kalkulator wzoru częstotliwości rezonansowej, kalkulator częstotliwości oscylatora LC, kalkulator częstotliwości indukcyjności pojemności, kalkulator rezonansu elektrycznego, kalkulator częstotliwości elektroniki, kalkulator rezonansu fizycznego, narzędzie częstotliwości inżynieryjnej, obliczenie częstotliwości obwodu LC, narzędzie wzoru częstotliwości rezonansowej, kalkulator obwodu RF, kalkulator częstotliwości oscylatora, kalkulator obwodu elektronicznego, kalkulator zbiornika LC, kalkulator obwodu dostrojonego, kalkulator rezonansu równoległego, kalkulator rezonansu szeregowego, kalkulator częstotliwości długości fali, kalkulator filtra LC, kalkulator obwodu RLC",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

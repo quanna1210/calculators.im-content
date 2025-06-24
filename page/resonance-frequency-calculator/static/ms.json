@@ -1,0 +1,21 @@
+{
+  "trans": [
+    "Parameter Litar",
+    "Keputusan",
+    "Induktans (L)",
+    "Kapasitans (C)",
+    "Masukkan nilai induktans",
+    "Masukkan nilai kapasitans",
+    "Sila masukkan nilai induktans positif yang sah",
+    "Sila masukkan nilai kapasitans positif yang sah",
+    "Frekuensi Resonans",
+    "Tempoh",
+    "Panjang Gelombang (dalam ruang bebas)",
+    "f₀ = 1 / (2π√LC)",
+    "T = 1 / f₀",
+    "λ = c / f₀",
+    "Masukkan nilai induktans dan kapasitans untuk melihat keputusan",
+    "Keputusan akan muncul secara automatik semasa anda menaip",
+    "Padam semua nilai"
+  ]
+}

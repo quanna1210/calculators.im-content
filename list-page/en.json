@@ -672,5 +672,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "54",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "title": "Resonance Frequency Calculator",
+        "slug": "resonance-frequency-calculator",
+        "parent_id": "44",
+        "meta_title": "Resonance Frequency Calculator - Free LC Circuit Tool",
+        "meta_description": "Calculate LC circuit resonance frequency instantly with our free tool. Supports inductance & capacitance conversions. Get frequency, period & wavelength results.",
+        "meta_keyword": "resonance frequency calculator, LC circuit calculator, resonance calculator, frequency calculator, inductance capacitance calculator, free resonance frequency calculator, LC resonance calculator online, circuit resonance frequency tool, resonant frequency formula calculator, LC oscillator frequency calculator, inductance capacitance frequency calculator, electrical resonance calculator, electronics frequency calculator, physics resonance calculator, engineering frequency tool, LC circuit frequency calculation, resonance frequency formula tool, RF circuit calculator, oscillator frequency calculator, electronic circuit calculator, LC tank calculator, tuned circuit calculator, parallel resonance calculator, series resonance calculator, frequency wavelength calculator, LC filter calculator, RLC circuit calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
