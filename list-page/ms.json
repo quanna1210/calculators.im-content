@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kalkulator kapasitans",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator kapasitans percuma | Alat selari bersiri online",
+        "meta_description": "Kira jumlah kapasitans serta-merta untuk konfigurasi selari dan bersiri. Alat dalam talian percuma dengan unit berbilang (F, μF, nF, pF). Keputusan tepat sekarang!",
+        "meta_keyword": "kalkulator kapasitans, kalkulator kapasitor, kapasitans selari, kapasitans bersiri, kalkulator kapasitans dalam talian, kalkulator kapasitans percuma, formula kapasitans, nilai kapasitor, kalkulator elektrik, kalkulator elektronik, kalkulator kapasitans online, kalkulator kapasitor selari, kalkulator kapasitor bersiri, kalkulator gabungan kapasitor, alat pengiraan kapasitans, kalkulator kapasitans selari dan bersiri, kira jumlah kapasitans, kalkulator kapasitor dengan unit, kalkulator kapasitor dalam talian percuma, kalkulator farad, kalkulator mikrofarad, kalkulator nanofarad, kalkulator pikofarad, penukar unit kapasitor, kalkulator litar elektrik, analisis litar, kejuruteraan elektronik, komponen elektrik, spesifikasi kapasitor, kalkulator litar RC, kalkulator reaktans kapasitif, kalkulator kejuruteraan elektrik, kalkulator pengukuran kapasitans, kalkulator bank kapasitor, reka bentuk litar, litar elektronik, pengukuran elektrik, pengiraan litar, impedans elektrik, ujian kapasitor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -687,5 +687,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kalkulator kapasitansi",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator kapasitansi gratis | Alat paralel seri online",
+        "meta_description": "Itung total kapasitansi langsung kanggo konfigurasi paralel lan seri. Alat online gratis karo macem-macem satuan (F, μF, nF, pF). Entuk asil akurat saiki!",
+        "meta_keyword": "kalkulator kapasitansi, kalkulator kapasitor, kapasitansi paralel, kapasitansi seri, kalkulator kapasitansi online, kalkulator kapasitansi gratis, rumus kapasitansi, nilai kapasitor, kalkulator listrik, kalkulator elektronik, kalkulator kapasitansi online, kalkulator kapasitor paralel, kalkulator kapasitor seri, kalkulator kombinasi kapasitor, alat itung kapasitansi, kalkulator kapasitansi paralel lan seri, itung total kapasitansi, kalkulator kapasitor karo satuan, kalkulator kapasitor online gratis, kalkulator farad, kalkulator mikrofarad, kalkulator nanofarad, kalkulator pikofarad, konverter satuan kapasitor, kalkulator rangkaian listrik, analisis rangkaian, teknik elektronika, komponen listrik, spesifikasi kapasitor, kalkulator rangkaian RC, kalkulator reaktansi kapasitif, kalkulator teknik listrik, kalkulator pangukuran kapasitansi, kalkulator bank kapasitor, desain rangkaian, rangkaian elektronik, pangukuran listrik, itung rangkaian, impedansi listrik, tes kapasitor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

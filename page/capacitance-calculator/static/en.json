@@ -1,0 +1,37 @@
+
+{
+    "trans": [
+        "Configuration Type",
+        "Parallel",
+        "Series",
+        "Capacitor Values",
+        "Add Capacitor",
+        "Reset",
+        "Enter value",
+        "Unit",
+        "Remove",
+        "F (Farad)",
+        "mF (Millifarad)",
+        "μF (Microfarad)",
+        "nF (Nanofarad)",
+        "pF (Picofarad)",
+        "Result",
+        "Total",
+        "capacitance",
+        "Copy",
+        "Copied!",
+        "How it works",
+        "Capacitors connected in parallel add their capacitances directly.",
+        "Capacitors in series combine using the reciprocal formula, resulting in lower total capacitance.",
+        "Results are automatically converted to the most appropriate unit for readability.",
+        "Total %s capacitance",
+        "Config Type",
+        "Cap Values",
+        "Add Cap",
+        "Please enter a valid number",
+        "At least one capacitor is required",
+        "Calculate",
+        "Clear All",
+        "C"
+    ]
+}

@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kalkulačka kapacity",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Zdarma kalkulačka kapacity | Online nástroj paralelní série",
+        "meta_description": "Vypočítejte celkovou kapacitu okamžitě pro paralelní a sériové konfigurace. Zdarma online nástroj s více jednotkami (F, μF, nF, pF). Získejte přesné výsledky!",
+        "meta_keyword": "kalkulačka kapacity, kalkulačka kondenzátorů, paralelní kapacita, sériová kapacita, online kalkulačka kapacity, zdarma kalkulačka kapacity, vzorec kapacity, hodnoty kondenzátorů, elektrická kalkulačka, elektronická kalkulačka, kalkulačka kapacity online, kalkulačka paralelních kondenzátorů, kalkulačka sériových kondenzátorů, kalkulačka kombinace kondenzátorů, nástroj výpočtu kapacity, kalkulačka kapacity paralelní a sériové, vypočítat celkovou kapacitu, kalkulačka kondenzátorů s jednotkami, zdarma online kalkulačka kondenzátorů, kalkulačka faradů, kalkulačka mikrofaradů, kalkulačka nanofaradů, kalkulačka pikofaradů, převodník jednotek kondenzátorů, kalkulačka elektrických obvodů, analýza obvodů, elektronické inženýrství, elektrické komponenty, specifikace kondenzátorů, kalkulačka RC obvodů, kalkulačka kapacitní reaktance, kalkulačka elektrotechniky, kalkulačka měření kapacity, kalkulačka banky kondenzátorů, návrh obvodů, elektronické obvody, elektrická měření, výpočty obvodů, elektrická impedance, testování kondenzátorů",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

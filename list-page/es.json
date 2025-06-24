@@ -687,5 +687,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Calculadora de capacitancia",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora capacitancia gratis | Herramienta paralelo serie",
+        "meta_description": "Calcula la capacitancia total al instante para configuraciones paralelo y serie. Herramienta online gratis con múltiples unidades (F, μF, nF, pF). ¡Resultados ya!",
+        "meta_keyword": "calculadora de capacitancia, calculadora de condensadores, capacitancia paralelo, capacitancia serie, calculadora capacitancia online, calculadora capacitancia gratis, fórmula capacitancia, valores condensadores, calculadora eléctrica, calculadora electrónica, calculadora capacitancia en línea, calculadora condensadores paralelo, calculadora condensadores serie, calculadora combinación condensadores, herramienta cálculo capacitancia, calculadora capacitancia paralelo y serie, calcular capacitancia total, calculadora condensadores con unidades, calculadora condensadores gratis online, calculadora faradios, calculadora microfaradios, calculadora nanofaradios, calculadora picofaradios, convertidor unidades condensadores, calculadora circuitos eléctricos, análisis circuitos, ingeniería electrónica, componentes eléctricos, especificaciones condensadores, calculadora circuitos RC, calculadora reactancia capacitiva, calculadora ingeniería eléctrica, calculadora medición capacitancia, calculadora banco condensadores, diseño circuitos, circuitos electrónicos, mediciones eléctricas, cálculos circuitos, impedancia eléctrica, prueba condensadores",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

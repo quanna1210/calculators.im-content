@@ -687,5 +687,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Calculateur de capacité",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculateur capacité gratuit | Outil parallèle série online",
+        "meta_description": "Calculez la capacité totale instantanément pour configurations parallèle et série. Outil gratuit en ligne avec unités multiples (F, μF, nF, pF). Résultats maintenant!",
+        "meta_keyword": "calculateur de capacité, calculateur de condensateurs, capacité parallèle, capacité série, calculateur capacité en ligne, calculateur capacité gratuit, formule capacité, valeurs condensateurs, calculateur électrique, calculateur électronique, calculateur capacité online, calculateur condensateurs parallèle, calculateur condensateurs série, calculateur combinaison condensateurs, outil calcul capacité, calculateur capacité parallèle et série, calculer capacité totale, calculateur condensateurs avec unités, calculateur condensateurs gratuit en ligne, calculateur farad, calculateur microfarad, calculateur nanofarad, calculateur picofarad, convertisseur unités condensateurs, calculateur circuits électriques, analyse circuits, ingénierie électronique, composants électriques, spécifications condensateurs, calculateur circuits RC, calculateur réactance capacitive, calculateur génie électrique, calculateur mesure capacité, calculateur banc condensateurs, conception circuits, circuits électroniques, mesures électriques, calculs circuits, impédance électrique, test condensateurs",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

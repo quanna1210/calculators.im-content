@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Calculator de capacitate",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator capacitate gratuit | Instrument paralel serie online",
+        "meta_description": "Calculează capacitatea totală instant pentru configurații paralel și serie. Instrument online gratuit cu unități multiple (F, μF, nF, pF). Rezultate acum!",
+        "meta_keyword": "calculator de capacitate, calculator de condensatori, capacitate paralel, capacitate serie, calculator capacitate online, calculator capacitate gratuit, formula capacitate, valori condensatori, calculator electric, calculator electronic, calculator capacitate online, calculator condensatori paralel, calculator condensatori serie, calculator combinație condensatori, instrument calcul capacitate, calculator capacitate paralel și serie, calculează capacitate totală, calculator condensatori cu unități, calculator condensatori online gratuit, calculator farad, calculator microfarad, calculator nanofarad, calculator picofarad, convertor unități condensatori, calculator circuite electrice, analiză circuite, inginerie electronică, componente electrice, specificații condensatori, calculator circuite RC, calculator reactanță capacitivă, calculator inginerie electrică, calculator măsurare capacitate, calculator bancă condensatori, proiectare circuite, circuite electronice, măsurări electrice, calcule circuite, impedanță electrică, testare condensatori",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

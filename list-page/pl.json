@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kalkulator pojemności",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Darmowy kalkulator pojemności | Narzędzie równoległe szeregowe",
+        "meta_description": "Oblicz całkowitą pojemność natychmiast dla konfiguracji równoległych i szeregowych. Darmowe narzędzie online z wieloma jednostkami (F, μF, nF, pF). Wyniki teraz!",
+        "meta_keyword": "kalkulator pojemności, kalkulator kondensatorów, pojemność równoległa, pojemność szeregowa, kalkulator pojemności online, darmowy kalkulator pojemności, wzór pojemności, wartości kondensatorów, kalkulator elektryczny, kalkulator elektroniczny, kalkulator pojemności online, kalkulator kondensatorów równoległych, kalkulator kondensatorów szeregowych, kalkulator kombinacji kondensatorów, narzędzie obliczania pojemności, kalkulator pojemności równoległa i szeregowa, oblicz całkowitą pojemność, kalkulator kondensatorów z jednostkami, darmowy online kalkulator kondensatorów, kalkulator faradów, kalkulator mikrofaradów, kalkulator nanofaradów, kalkulator pikofaradów, konwerter jednostek kondensatorów, kalkulator obwodów elektrycznych, analiza obwodów, inżynieria elektroniczna, komponenty elektryczne, specyfikacje kondensatorów, kalkulator obwodów RC, kalkulator reaktancji pojemnościowej, kalkulator inżynierii elektrycznej, kalkulator pomiaru pojemności, kalkulator banku kondensatorów, projektowanie obwodów, obwody elektroniczne, pomiary elektryczne, obliczenia obwodów, impedancja elektryczna, testowanie kondensatorów",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

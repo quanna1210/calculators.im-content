@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Máy tính điện dung",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy tính điện dung miễn phí | Công cụ song song nối tiếp",
+        "meta_description": "Tính tổng điện dung ngay lập tức cho cấu hình song song và nối tiếp. Công cụ trực tuyến miễn phí với nhiều đơn vị (F, μF, nF, pF). Kết quả chính xác ngay!",
+        "meta_keyword": "máy tính điện dung, máy tính tụ điện, điện dung song song, điện dung nối tiếp, máy tính điện dung trực tuyến, máy tính điện dung miễn phí, công thức điện dung, giá trị tụ điện, máy tính điện, máy tính điện tử, máy tính điện dung online, máy tính tụ điện song song, máy tính tụ điện nối tiếp, máy tính kết hợp tụ điện, công cụ tính điện dung, máy tính điện dung song song và nối tiếp, tính tổng điện dung, máy tính tụ điện với đơn vị, máy tính tụ điện trực tuyến miễn phí, máy tính farad, máy tính microfarad, máy tính nanofarad, máy tính picofarad, bộ chuyển đổi đơn vị tụ điện, máy tính mạch điện, phân tích mạch, kỹ thuật điện tử, linh kiện điện, thông số kỹ thuật tụ điện, máy tính mạch RC, máy tính điện kháng dung, máy tính kỹ thuật điện, máy tính đo điện dung, máy tính ngân hàng tụ điện, thiết kế mạch, mạch điện tử, đo lường điện, tính toán mạch, trở kháng điện, kiểm tra tụ điện",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Calculadora de capacitância",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora capacitância grátis | Ferramenta paralelo série",
+        "meta_description": "Calcule a capacitância total instantaneamente para configurações paralelo e série. Ferramenta online grátis com múltiplas unidades (F, μF, nF, pF). Resultados agora!",
+        "meta_keyword": "calculadora de capacitância, calculadora de capacitores, capacitância paralelo, capacitância série, calculadora capacitância online, calculadora capacitância grátis, fórmula capacitância, valores capacitores, calculadora elétrica, calculadora eletrônica, calculadora capacitância online, calculadora capacitores paralelo, calculadora capacitores série, calculadora combinação capacitores, ferramenta cálculo capacitância, calculadora capacitância paralelo e série, calcular capacitância total, calculadora capacitores com unidades, calculadora capacitores online grátis, calculadora farad, calculadora microfarad, calculadora nanofarad, calculadora picofarad, conversor unidades capacitores, calculadora circuitos elétricos, análise circuitos, engenharia eletrônica, componentes elétricos, especificações capacitores, calculadora circuitos RC, calculadora reatância capacitiva, calculadora engenharia elétrica, calculadora medição capacitância, calculadora banco capacitores, projeto circuitos, circuitos eletrônicos, medições elétricas, cálculos circuitos, impedância elétrica, teste capacitores",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Capaciteit calculator",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Gratis capaciteit calculator | Parallel serie online tool",
+        "meta_description": "Bereken totale capaciteit direct voor parallelle en serieschakelingen. Gratis online tool met meerdere eenheden (F, μF, nF, pF). Nauwkeurige resultaten nu!",
+        "meta_keyword": "capaciteit calculator, condensator calculator, parallelle capaciteit, serie capaciteit, online capaciteit calculator, gratis capaciteit calculator, capaciteit formule, condensator waarden, elektrische calculator, elektronische calculator, capaciteit calculator online, parallelle condensator calculator, serie condensator calculator, condensator combinatie calculator, capaciteit berekenings tool, capaciteit calculator parallel en serie, totale capaciteit berekenen, condensator calculator met eenheden, gratis online condensator calculator, farad calculator, microfarad calculator, nanofarad calculator, picofarad calculator, condensator eenheid converter, elektrische circuit calculator, circuit analyse, elektronica engineering, elektrische componenten, condensator specificaties, RC circuit calculator, capacitieve reactantie calculator, elektrotechniek calculator, capaciteit meting calculator, condensator bank calculator, circuit ontwerp, elektronische circuits, elektrische metingen, circuit berekeningen, elektrische impedantie, condensator testen",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

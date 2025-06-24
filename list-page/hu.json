@@ -687,5 +687,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kapacitás kalkulátor",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Ingyenes kapacitás kalkulátor | Párhuzamos soros online eszköz",
+        "meta_description": "Számítsa ki az összes kapacitást azonnal párhuzamos és soros konfigurációkhoz. Ingyenes online eszköz több egységgel (F, μF, nF, pF). Pontos eredmények most!",
+        "meta_keyword": "kapacitás kalkulátor, kondenzátor kalkulátor, párhuzamos kapacitás, soros kapacitás, online kapacitás kalkulátor, ingyenes kapacitás kalkulátor, kapacitás képlet, kondenzátor értékek, elektromos kalkulátor, elektronikus kalkulátor, kapacitás kalkulátor online, párhuzamos kondenzátor kalkulátor, soros kondenzátor kalkulátor, kondenzátor kombináció kalkulátor, kapacitás számítási eszköz, kapacitás kalkulátor párhuzamos és soros, összes kapacitás számítása, kondenzátor kalkulátor egységekkel, ingyenes online kondenzátor kalkulátor, farad kalkulátor, mikrofarad kalkulátor, nanofarad kalkulátor, pikofarad kalkulátor, kondenzátor egység konverter, elektromos áramkör kalkulátor, áramkör elemzés, elektronikai mérnöki, elektromos alkatrészek, kondenzátor specifikációk, RC áramkör kalkulátor, kapacitív reaktancia kalkulátor, villamosmérnöki kalkulátor, kapacitás mérési kalkulátor, kondenzátor bank kalkulátor, áramkör tervezés, elektronikus áramkörök, elektromos mérések, áramkör számítások, elektromos impedancia, kondenzátor tesztelés",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

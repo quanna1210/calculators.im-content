@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Capacitance Calculator",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Free Capacitance Calculator | Parallel & Series Online Tool",
+        "meta_description": "Calculate total capacitance instantly for parallel and series configurations. Free online tool with multiple units (F, μF, nF, pF). Get accurate results now!",
+        "meta_keyword": "capacitance calculator, capacitor calculator, parallel capacitance, series capacitance, online capacitance calculator, free capacitance calculator, capacitance formula, capacitor values, electrical calculator, electronics calculator, capacitance calculator online, parallel capacitor calculator, series capacitor calculator, capacitor combination calculator, capacitance calculation tool, capacitance calculator parallel and series, calculate total capacitance, capacitor calculator with units, free online capacitor calculator, farad calculator, microfarad calculator, nanofarad calculator, picofarad calculator, capacitor unit converter, electrical circuit calculator, circuit analysis, electronics engineering, electrical components, capacitor specifications, RC circuit calculator, capacitive reactance calculator, electrical engineering calculator, capacitance measurement calculator, capacitor bank calculator, circuit design, electronic circuits, electrical measurements, circuit calculations, electrical impedance, capacitor testing",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kapasitans hesaplayıcısı",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Ücretsiz kapasitans hesaplayıcı | Paralel seri online araç",
+        "meta_description": "Paralel ve seri konfigürasyonlar için toplam kapasitansı anında hesaplayın. Çoklu birimli (F, μF, nF, pF) ücretsiz online araç. Şimdi doğru sonuçlar!",
+        "meta_keyword": "kapasitans hesaplayıcısı, kapasitör hesaplayıcısı, paralel kapasitans, seri kapasitans, online kapasitans hesaplayıcısı, ücretsiz kapasitans hesaplayıcısı, kapasitans formülü, kapasitör değerleri, elektrik hesaplayıcısı, elektronik hesaplayıcısı, kapasitans hesaplayıcısı online, paralel kapasitör hesaplayıcısı, seri kapasitör hesaplayıcısı, kapasitör kombinasyon hesaplayıcısı, kapasitans hesaplama aracı, kapasitans hesaplayıcısı paralel ve seri, toplam kapasitans hesaplama, birimli kapasitör hesaplayıcısı, ücretsiz online kapasitör hesaplayıcısı, farad hesaplayıcısı, mikrofarad hesaplayıcısı, nanofarad hesaplayıcısı, pikofarad hesaplayıcısı, kapasitör birim dönüştürücüsü, elektrik devre hesaplayıcısı, devre analizi, elektronik mühendisliği, elektrik bileşenleri, kapasitör özellikleri, RC devre hesaplayıcısı, kapasitif reaktans hesaplayıcısı, elektrik mühendisliği hesaplayıcısı, kapasitans ölçüm hesaplayıcısı, kapasitör bankası hesaplayıcısı, devre tasarımı, elektronik devreler, elektrik ölçümleri, devre hesaplamaları, elektrik empedansı, kapasitör testi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -685,5 +685,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "55",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "title": "Kapazitätsrechner",
+        "slug": "capacitance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kostenloser Kapazitätsrechner | Parallel & Serie Online Tool",
+        "meta_description": "Berechnen Sie die Gesamtkapazität sofort für parallele und serielle Konfigurationen. Kostenloses Online-Tool mit mehreren Einheiten (F, μF, nF, pF). Jetzt!",
+        "meta_keyword": "kapazitätsrechner, kondensatorrechner, parallelkapazität, serienkapazität, online kapazitätsrechner, kostenloser kapazitätsrechner, kapazitätsformel, kondensatorwerte, elektrischer rechner, elektronikrechner, kapazitätsrechner online, parallel kondensatorrechner, serien kondensatorrechner, kondensator kombinationsrechner, kapazitätsberechnungstool, kapazitätsrechner parallel und serie, gesamtkapazität berechnen, kondensatorrechner mit einheiten, kostenloser online kondensatorrechner, farad rechner, mikrofarad rechner, nanofarad rechner, pikofarad rechner, kondensator einheitenkonverter, elektrischer schaltkreisrechner, schaltkreisanalyse, elektronik engineering, elektrische komponenten, kondensatorspezifikationen, RC schaltkreisrechner, kapazitive reaktanz rechner, elektrotechnik rechner, kapazitätsmessungsrechner, kondensatorbank rechner, schaltkreisdesign, elektronische schaltkreise, elektrische messungen, schaltkreisberechnungen, elektrische impedanz, kondensatortests",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
