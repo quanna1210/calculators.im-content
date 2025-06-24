@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Kalkulator temperatury",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Darmowy kalkulator temperatury - °C, °F, K, °R online",
         "meta_description": "Konwertuj temperatury natychmiastowo między Celsius, Fahrenheit, Kelvin i Rankine z naszym darmowym kalkulatorem online. Szybki, dokładny i mobilny!",
         "meta_keyword": "kalkulator temperatury, konwerter temperatury, celsius na fahrenheit, fahrenheit na celsius, konwerter kelvin, konwerter rankine, kalkulator konwersji temperatury, darmowy kalkulator temperatury online, konwerter celsius fahrenheit, konwerter jednostki temperatury, kalkulator konwersji celsius na fahrenheit, kalkulator temperatury online darmowy, konwerter fahrenheit na celsius online, kalkulator celsius na kelvin, narzędzie konwersji temperatury, konwersja jednostki temperatury, online kalkulator konwerter temperatury, konwerter skali temperatury, kalkulator termometru, konwerter celsius fahrenheit kelvin rankine, kalkulator wzoru konwersji temperatury, natychmiastowy konwerter temperatury, dokładny kalkulator temperatury, mobilny konwerter temperatury, naukowy kalkulator temperatury, fizyczny kalkulator temperatury, kalkulator pomiaru temperatury",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Kalkulator Tolerancji",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Darmowy Kalkulator Tolerancji - Narzędzie Tolerancji Wymiarów",
+        "meta_description": "Profesjonalny kalkulator tolerancji dla inżynierów. Oblicz tolerancje dwustronne, asymetryczne i jednostronne natychmiast. Darmowa analiza tolerancji.",
+        "meta_keyword": "kalkulator tolerancji, tolerancja wymiarowa, kalkulator inżynieryjny, tolerancja dwustronna, tolerancja asymetryczna, tolerancja jednostronna, pole tolerancji, darmowy kalkulator tolerancji, tolerancja obróbcza, tolerancja produkcyjna, kalkulator GD&T, analiza tolerancji, granice tolerancji, tolerancja nominalna, kalkulator precyzji, oprogramowanie tolerancji, kalkulator wymiarowy, narzędzie tolerancji, kalkulator kontroli jakości, tolerancja ISO, tolerancja metryczna, konwerter tolerancji, odchylenie tolerancji, tolerancja CNC, kalkulator przemysłowy",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

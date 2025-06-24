@@ -651,13 +651,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Calcolatrice temperatura",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Calcolatrice temperatura gratis - °C, °F, K, °R online",
         "meta_description": "Converti temperature istantaneamente tra Celsius, Fahrenheit, Kelvin e Rankine con la nostra calcolatrice gratuita. Veloce, precisa e mobile-friendly!",
         "meta_keyword": "calcolatrice temperatura, convertitore temperatura, celsius in fahrenheit, fahrenheit in celsius, convertitore kelvin, convertitore rankine, calcolatrice conversione temperatura, calcolatrice temperatura gratis online, convertitore celsius fahrenheit, convertitore unità temperatura, calcolatrice convertire celsius in fahrenheit, calcolatrice temperatura online gratis, convertitore fahrenheit in celsius online, calcolatrice celsius in kelvin, strumento conversione temperatura, conversione unità temperatura, calcolatrice convertitore temperatura online, convertitore scala temperatura, calcolatrice termometro, convertitore celsius fahrenheit kelvin rankine, calcolatrice formula conversione temperatura, convertitore temperatura istantaneo, calcolatrice temperatura precisa, convertitore temperatura mobile, calcolatrice temperatura scientifica, calcolatrice temperatura fisica, calcolatrice misurazione temperatura",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Calcolatore di Tolleranze",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatore Tolleranze Gratis - Strumento Dimensionale",
+        "meta_description": "Calcolatore professionale di tolleranze per ingegneria. Calcola tolleranze bilaterali, asimmetriche e unilaterali istantaneamente. Analisi gratuita.",
+        "meta_keyword": "calcolatore tolleranze, tolleranza dimensionale, calcolatore ingegneria, tolleranza bilaterale, tolleranza asimmetrica, tolleranza unilaterale, zona tolleranza, calcolatore tolleranza gratis, tolleranza lavorazione, tolleranza manifattura, calcolatore GD&T, analisi tolleranza, limiti tolleranza, tolleranza nominale, calcolatore precisione, software tolleranza, calcolatore dimensionale, strumento tolleranza, calcolatore controllo qualità, tolleranza ISO, tolleranza metrica, convertitore tolleranza, deviazione tolleranza, tolleranza CNC, calcolatore industriale",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

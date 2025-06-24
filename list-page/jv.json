@@ -651,13 +651,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Kalkulator Suhu",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulator Suhu Gratis - Konversi °C, °F, K, °R Online",
         "meta_description": "Konversi suhu langsung antarane Celsius, Fahrenheit, Kelvin lan Rankine nganggo kalkulator suhu gratis online. Cepet, akurat lan mobile-friendly!",
         "meta_keyword": "kalkulator suhu, konverter suhu, celsius menyang fahrenheit, fahrenheit menyang celsius, konverter kelvin, konverter rankine, kalkulator konversi suhu, kalkulator suhu gratis online, konverter celsius fahrenheit, konverter satuan suhu, kalkulator konversi celsius menyang fahrenheit, kalkulator suhu online gratis, konverter fahrenheit menyang celsius online, kalkulator celsius menyang kelvin, alat konversi suhu, konversi satuan suhu, kalkulator konverter suhu online, konverter skala suhu, kalkulator termometer, konverter celsius fahrenheit kelvin rankine, kalkulator rumus konversi suhu, konverter suhu instan, kalkulator suhu akurat, konverter suhu mobile, kalkulator suhu ilmiah, kalkulator suhu fisika, kalkulator pengukuran suhu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Kalkulator Toleransi",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Toleransi Gratis - Piranti Toleransi Dimensi",
+        "meta_description": "Kalkulator toleransi profesional kanggo teknik. Ngetung toleransi bilateral, asimetris & unilateral kanthi cepet. Piranti analisis toleransi dimensi gratis.",
+        "meta_keyword": "kalkulator toleransi, toleransi dimensi, kalkulator teknik, toleransi bilateral, toleransi asimetris, toleransi unilateral, zona toleransi, kalkulator toleransi gratis, toleransi pemesinan, toleransi manufaktur, kalkulator GD&T, analisis toleransi, wates toleransi, toleransi nominal, kalkulator presisi, software toleransi, kalkulator dimensi, piranti toleransi, kalkulator kontrol kualitas, toleransi ISO, toleransi metrik, konverter toleransi, deviasi toleransi, toleransi CNC, kalkulator industri",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

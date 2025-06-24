@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Temperatuurrekenmachine",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Gratis temperatuur calculator - °C, °F, K, °R online",
         "meta_description": "Converteer temperaturen direct tussen Celsius, Fahrenheit, Kelvin en Rankine met onze gratis online temperatuurcalculator. Snel, nauwkeurig en mobiel!",
         "meta_keyword": "temperatuurrekenmachine, temperatuurconverter, celsius naar fahrenheit, fahrenheit naar celsius, kelvin converter, rankine converter, temperatuur conversie calculator, gratis temperatuurrekenmachine online, celsius fahrenheit converter, temperatuureenheid converter, celsius naar fahrenheit calculator, temperatuurrekenmachine online gratis, fahrenheit naar celsius converter online, celsius naar kelvin calculator, temperatuur conversie tool, eenheid conversie temperatuur, online temperatuurconverter calculator, temperatuurschaal converter, thermometer calculator, celsius fahrenheit kelvin rankine converter, temperatuur conversie formule calculator, directe temperatuurconverter, nauwkeurige temperatuurrekenmachine, mobiele temperatuurconverter, wetenschappelijke temperatuurrekenmachine, fysica temperatuurrekenmachine, temperatuurmeting calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Tolerantie Calculator",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Gratis Tolerantie Calculator - Dimensionale Tolerantie Tool",
+        "meta_description": "Professionele tolerantie calculator voor engineering. Bereken bilaterale, asymmetrische & unilaterale toleranties direct. Gratis dimensionale analyse tool.",
+        "meta_keyword": "tolerantie calculator, dimensionale tolerantie, engineering calculator, bilaterale tolerantie, asymmetrische tolerantie, unilaterale tolerantie, tolerantieveld, gratis tolerantie calculator, machining tolerantie, productie tolerantie, GD&T calculator, tolerantie analyse, tolerantiegrenzen, nominale tolerantie, precisie calculator, tolerantie software, dimensionale calculator, tolerantie tool, kwaliteitscontrole calculator, ISO tolerantie, metrische tolerantie, tolerantie converter, tolerantie afwijking, CNC tolerantie, industriële calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

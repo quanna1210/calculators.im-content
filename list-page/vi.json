@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Máy tính nhiệt độ",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Máy tính nhiệt độ miễn phí - Chuyển đổi °C, °F, K, °R",
         "meta_description": "Chuyển đổi nhiệt độ ngay lập tức giữa Celsius, Fahrenheit, Kelvin và Rankine với máy tính miễn phí. Nhanh, chính xác và thân thiện di động!",
         "meta_keyword": "máy tính nhiệt độ, bộ chuyển đổi nhiệt độ, celsius sang fahrenheit, fahrenheit sang celsius, bộ chuyển đổi kelvin, bộ chuyển đổi rankine, máy tính chuyển đổi nhiệt độ, máy tính nhiệt độ miễn phí online, bộ chuyển đổi celsius fahrenheit, bộ chuyển đổi đơn vị nhiệt độ, máy tính chuyển đổi celsius sang fahrenheit, máy tính nhiệt độ online miễn phí, bộ chuyển đổi fahrenheit sang celsius online, máy tính celsius sang kelvin, công cụ chuyển đổi nhiệt độ, chuyển đổi đơn vị nhiệt độ, máy tính bộ chuyển đổi nhiệt độ online, bộ chuyển đổi thang nhiệt độ, máy tính nhiệt kế, bộ chuyển đổi celsius fahrenheit kelvin rankine, máy tính công thức chuyển đổi nhiệt độ, bộ chuyển đổi nhiệt độ tức thì, máy tính nhiệt độ chính xác, bộ chuyển đổi nhiệt độ di động, máy tính nhiệt độ khoa học, máy tính nhiệt độ vật lý, máy tính đo nhiệt độ",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Máy Tính Dung Sai",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Dung Sai Miễn Phí - Công Cụ Dung Sai Kích Thước",
+        "meta_description": "Máy tính dung sai chuyên nghiệp cho kỹ thuật. Tính dung sai hai chiều, bất đối xứng và một chiều ngay lập tức. Công cụ phân tích dung sai miễn phí.",
+        "meta_keyword": "máy tính dung sai, dung sai kích thước, máy tính kỹ thuật, dung sai hai chiều, dung sai bất đối xứng, dung sai một chiều, vùng dung sai, máy tính dung sai miễn phí, dung sai gia công, dung sai sản xuất, máy tính GD&T, phân tích dung sai, giới hạn dung sai, dung sai danh nghĩa, máy tính độ chính xác, phần mềm dung sai, máy tính kích thước, công cụ dung sai, máy tính kiểm soát chất lượng, dung sai ISO, dung sai metric, bộ chuyển đổi dung sai, độ lệch dung sai, dung sai CNC, máy tính công nghiệp",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

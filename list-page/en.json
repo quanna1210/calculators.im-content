@@ -659,5 +659,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator.jpg",
+        "title": "Tolerance Calculator",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Free Tolerance Calculator - Dimensional Tolerance Tool",
+        "meta_description": "Professional tolerance calculator for engineering. Calculate bilateral, asymmetric & unilateral tolerances instantly. Free dimensional tolerance analysis tool.",
+        "meta_keyword": "tolerance calculator, dimensional tolerance, engineering calculator, bilateral tolerance, asymmetric tolerance, unilateral tolerance, tolerance zone, free tolerance calculator, machining tolerance, manufacturing tolerance, GD&T calculator, tolerance analysis, tolerance limits, nominal tolerance, precision calculator, tolerance software, dimensional calculator, tolerance tool, quality control calculator, ISO tolerance, metric tolerance, tolerance converter, tolerance deviation, CNC tolerance, industrial calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Calculator temperatură",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Calculator temperatură gratuit - °C, °F, K, °R online",
         "meta_description": "Convertiți temperaturile instantaneu între Celsius, Fahrenheit, Kelvin și Rankine cu calculatorul nostru gratuit. Rapid, precis și mobile-friendly!",
         "meta_keyword": "calculator temperatură, convertor temperatură, celsius în fahrenheit, fahrenheit în celsius, convertor kelvin, convertor rankine, calculator conversie temperatură, calculator temperatură gratuit online, convertor celsius fahrenheit, convertor unitate temperatură, calculator convertire celsius în fahrenheit, calculator temperatură online gratuit, convertor fahrenheit în celsius online, calculator celsius în kelvin, instrument conversie temperatură, conversie unitate temperatură, calculator convertor temperatură online, convertor scală temperatură, calculator termometru, convertor celsius fahrenheit kelvin rankine, calculator formulă conversie temperatură, convertor temperatură instantaneu, calculator temperatură precis, convertor temperatură mobil, calculator temperatură științific, calculator temperatură fizic, calculator măsurare temperatură",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Calculator de Toleranțe",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Toleranțe Gratuit - Instrument Toleranță Dimensională",
+        "meta_description": "Calculator profesional toleranțe pentru inginerie. Calculați toleranțe bilaterale, asimetrice și unilaterale instantaneu. Analiză toleranță gratuită.",
+        "meta_keyword": "calculator toleranțe, toleranță dimensională, calculator inginerie, toleranță bilaterală, toleranță asimetrică, toleranță unilaterală, zonă toleranță, calculator toleranță gratuit, toleranță prelucrare, toleranță fabricație, calculator GD&T, analiză toleranță, limite toleranță, toleranță nominală, calculator precizie, software toleranță, calculator dimensional, instrument toleranță, calculator control calitate, toleranță ISO, toleranță metrică, convertor toleranță, deviație toleranță, toleranță CNC, calculator industrial",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

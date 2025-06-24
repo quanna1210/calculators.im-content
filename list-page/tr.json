@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Sıcaklık hesaplayıcısı",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Ücretsiz sıcaklık hesaplayıcısı - °C, °F, K, °R",
         "meta_description": "Celsius, Fahrenheit, Kelvin ve Rankine arasında anında sıcaklık dönüştürün. Ücretsiz online hesaplayıcımızla hızlı, doğru ve mobil dostu!",
         "meta_keyword": "sıcaklık hesaplayıcısı, sıcaklık dönüştürücüsü, celsius fahrenheit, fahrenheit celsius, kelvin dönüştürücüsü, rankine dönüştürücüsü, sıcaklık dönüşüm hesaplayıcısı, ücretsiz sıcaklık hesaplayıcısı online, celsius fahrenheit dönüştürücüsü, sıcaklık birimi dönüştürücüsü, celsius fahrenheit dönüşüm hesaplayıcısı, sıcaklık hesaplayıcısı online ücretsiz, fahrenheit celsius dönüştürücüsü online, celsius kelvin hesaplayıcısı, sıcaklık dönüşüm aracı, birim dönüşümü sıcaklık, online sıcaklık dönüştürücü hesaplayıcısı, sıcaklık ölçeği dönüştürücüsü, termometre hesaplayıcısı, celsius fahrenheit kelvin rankine dönüştürücüsü, sıcaklık dönüşüm formülü hesaplayıcısı, anında sıcaklık dönüştürücüsü, doğru sıcaklık hesaplayıcısı, mobil sıcaklık dönüştürücüsü, bilimsel sıcaklık hesaplayıcısı, fizik sıcaklık hesaplayıcısı, sıcaklık ölçümü hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Tolerans Hesaplayıcı",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Ücretsiz Tolerans Hesaplayıcı - Boyutsal Tolerans Aracı",
+        "meta_description": "Mühendislik için profesyonel tolerans hesaplayıcısı. İki yönlü, asimetrik ve tek yönlü toleransları anında hesaplayın. Ücretsiz boyutsal analiz aracı.",
+        "meta_keyword": "tolerans hesaplayıcı, boyutsal tolerans, mühendislik hesaplayıcı, iki yönlü tolerans, asimetrik tolerans, tek yönlü tolerans, tolerans bölgesi, ücretsiz tolerans hesaplayıcı, işleme toleransı, üretim toleransı, GD&T hesaplayıcı, tolerans analizi, tolerans sınırları, nominal tolerans, hassasiyet hesaplayıcı, tolerans yazılımı, boyutsal hesaplayıcı, tolerans aracı, kalite kontrol hesaplayıcı, ISO tolerans, metrik tolerans, tolerans dönüştürücü, tolerans sapması, CNC tolerans, endüstriyel hesaplayıcı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

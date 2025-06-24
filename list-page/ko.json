@@ -651,13 +651,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "온도 계산기",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "무료 온도 계산기 - °C, °F, K, °R 온라인 변환",
         "meta_description": "섭씨, 화씨, 켈빈, 랭킨 간 즉시 온도 변환! 무료 온라인 온도 계산기로 빠르고 정확하며 모바일 친화적인 온도 변환을 경험하세요!",
         "meta_keyword": "온도 계산기, 온도 변환기, 섭씨 화씨 변환, 화씨 섭씨 변환, 켈빈 변환기, 랭킨 변환기, 온도 변환 계산기, 무료 온도 계산기 온라인, 섭씨 화씨 변환기, 온도 단위 변환기, 섭씨 화씨 변환 계산기, 온도 계산기 온라인 무료, 화씨 섭씨 변환기 온라인, 섭씨 켈빈 계산기, 온도 변환 도구, 단위 변환 온도, 온라인 온도 변환기 계산기, 온도 스케일 변환기, 온도계 계산기, 섭씨 화씨 켈빈 랭킨 변환기, 온도 변환 공식 계산기, 즉시 온도 변환기, 정확한 온도 계산기, 모바일 온도 변환기, 과학적 온도 계산기, 물리 온도 계산기, 온도 측정 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "공차 계산기",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "무료 공차 계산기 - 치수 공차 도구",
+        "meta_description": "엔지니어링용 전문 공차 계산기. 양방향, 비대칭 및 단방향 공차를 즉시 계산하세요. 무료 치수 공차 분석 도구입니다.",
+        "meta_keyword": "공차 계산기, 치수 공차, 엔지니어링 계산기, 양방향 공차, 비대칭 공차, 단방향 공차, 공차 영역, 무료 공차 계산기, 가공 공차, 제조 공차, GD&T 계산기, 공차 분석, 공차 한계, 공칭 공차, 정밀 계산기, 공차 소프트웨어, 치수 계산기, 공차 도구, 품질 관리 계산기, ISO 공차, 미터법 공차, 공차 변환기, 공차 편차, CNC 공차, 산업 계산기",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

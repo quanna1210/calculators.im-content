@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Temperaturrechner",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Kostenloser Temperaturrechner - °C, °F, K, °R online",
         "meta_description": "Konvertieren Sie Temperaturen sofort zwischen Celsius, Fahrenheit, Kelvin und Rankine mit unserem kostenlosen Online-Temperaturrechner. Schnell, genau!",
         "meta_keyword": "temperaturrechner, temperaturkonverter, celsius in fahrenheit, fahrenheit in celsius, kelvin konverter, rankine konverter, temperatur umrechnungsrechner, kostenloser temperaturrechner online, celsius fahrenheit konverter, temperatureinheit konverter, celsius in fahrenheit rechner, temperaturrechner online kostenlos, fahrenheit in celsius konverter online, celsius in kelvin rechner, temperatur umrechnungstool, einheit umrechnung temperatur, online temperaturkonverter rechner, temperaturskala konverter, thermometer rechner, celsius fahrenheit kelvin rankine konverter, temperatur umrechnungsformel rechner, sofortiger temperaturkonverter, genauer temperaturrechner, mobiler temperaturkonverter, wissenschaftlicher temperaturrechner, physik temperaturrechner, temperaturmessungsrechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Toleranz-Rechner",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Kostenloser Toleranz-Rechner - Maßtoleranz-Tool",
+        "meta_description": "Professioneller Toleranz-Rechner für Ingenieure. Berechnen Sie beidseitige, asymmetrische und einseitige Toleranzen sofort. Kostenlose Maßtoleranz-Analyse.",
+        "meta_keyword": "toleranz rechner, maßtoleranz, ingenieur rechner, beidseitige toleranz, asymmetrische toleranz, einseitige toleranz, toleranzfeld, kostenloser toleranz rechner, fertigungstoleranz, herstellungstoleranz, GD&T rechner, toleranzanalyse, toleranzgrenzen, nenntoleranz, präzisionsrechner, toleranz software, maß rechner, toleranz werkzeug, qualitätskontrolle rechner, ISO toleranz, metrische toleranz, toleranz umrechner, toleranzabweichung, CNC toleranz, industrie rechner",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

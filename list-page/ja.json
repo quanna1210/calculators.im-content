@@ -650,13 +650,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "温度計算機",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "無料温度計算機 - °C、°F、K、°Rオンライン変換",
         "meta_description": "摂氏、華氏、ケルビン、ランキン間で瞬時に温度変換。無料オンライン温度計算機で高速・正確・モバイル対応の温度変換を実現！",
         "meta_keyword": "温度計算機, 温度変換機, 摂氏華氏変換, 華氏摂氏変換, ケルビン変換, ランキン変換, 温度変換計算機, 無料温度計算機オンライン, 摂氏華氏変換機, 温度単位変換機, 摂氏華氏変換計算機, 温度計算機オンライン無料, 華氏摂氏変換機オンライン, 摂氏ケルビン計算機, 温度変換ツール, 単位変換温度, オンライン温度変換計算機, 温度スケール変換機, 温度計計算機, 摂氏華氏ケルビンランキン変換機, 温度変換公式計算機, 瞬時温度変換機, 正確温度計算機, モバイル温度変換機, 科学的温度計算機, 物理温度計算機, 温度測定計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "公差計算機",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "無料公差計算機 - 寸法公差ツール",
+        "meta_description": "エンジニアリング用プロフェッショナル公差計算機。両側公差、非対称公差、片側公差を瞬時に計算。無料寸法公差解析ツール。",
+        "meta_keyword": "公差計算機, 寸法公差, エンジニアリング計算機, 両側公差, 非対称公差, 片側公差, 公差帯, 無料公差計算機, 加工公差, 製造公差, GD&T計算機, 公差解析, 公差限界, 公称公差, 精密計算機, 公差ソフトウェア, 寸法計算機, 公差ツール, 品質管理計算機, ISO公差, メートル公差, 公差変換器, 公差偏差, CNC公差, 産業計算機",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

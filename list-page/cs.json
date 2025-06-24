@@ -649,13 +649,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Kalkulačka teploty",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Zdarma kalkulačka teploty - Převod °C, °F, K, °R online",
         "meta_description": "Převádějte teploty okamžitě mezi Celsius, Fahrenheit, Kelvin a Rankine s naší bezplatnou online kalkulačkou teploty. Rychlá, přesná a mobilní!",
         "meta_keyword": "kalkulačka teploty, převodník teploty, celsius na fahrenheit, fahrenheit na celsius, převodník kelvin, převodník rankine, kalkulačka převodu teploty, bezplatná kalkulačka teploty online, převodník celsius fahrenheit, převodník jednotek teploty, kalkulačka převodu celsius na fahrenheit, kalkulačka teploty online zdarma, převodník fahrenheit na celsius online, kalkulačka celsius na kelvin, nástroj převodu teploty, převod jednotky teploty, online kalkulačka převodníku teploty, převodník stupnice teploty, kalkulačka teploměru, převodník celsius fahrenheit kelvin rankine, kalkulačka vzorce převodu teploty, okamžitý převodník teploty, přesná kalkulačka teploty, mobilní převodník teploty, vědecká kalkulačka teploty, fyzikální kalkulačka teploty, kalkulačka měření teploty",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Kalkulačka Tolerance",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Zdarma Kalkulačka Tolerance - Nástroj Rozměrové Tolerance",
+        "meta_description": "Profesionální kalkulačka tolerance pro inženýrství. Vypočítejte oboustranné, asymetrické a jednostranné tolerance okamžitě. Zdarma nástroj analýzy.",
+        "meta_keyword": "kalkulačka tolerance, rozměrová tolerance, inženýrská kalkulačka, oboustranná tolerance, asymetrická tolerance, jednostranná tolerance, toleranční pásmo, zdarma kalkulačka tolerance, strojní tolerance, výrobní tolerance, GD&T kalkulačka, analýza tolerance, meze tolerance, jmenovitá tolerance, kalkulačka přesnosti, software tolerance, rozměrová kalkulačka, nástroj tolerance, kalkulačka kontroly kvality, ISO tolerance, metrická tolerance, převodník tolerance, odchylka tolerance, CNC tolerance, průmyslová kalkulačka",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

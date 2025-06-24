@@ -651,13 +651,26 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Hőmérséklet kalkulátor",
         "slug": "temperature-calculator",
         "parent_id": "44",
         "meta_title": "Ingyenes hőmérséklet kalkulátor - °C, °F, K, °R online",
         "meta_description": "Alakítson át hőmérsékleteket azonnal Celsius, Fahrenheit, Kelvin és Rankine között ingyenes online kalkulátorunkkal. Gyors, pontos és mobil barát!",
         "meta_keyword": "hőmérséklet kalkulátor, hőmérséklet átalakító, celsius fahrenheit, fahrenheit celsius, kelvin átalakító, rankine átalakító, hőmérséklet átváltási kalkulátor, ingyenes hőmérséklet kalkulátor online, celsius fahrenheit átalakító, hőmérséklet egység átalakító, celsius fahrenheit átalakítási kalkulátor, hőmérséklet kalkulátor online ingyenes, fahrenheit celsius átalakító online, celsius kelvin kalkulátor, hőmérséklet átváltási eszköz, egység átváltás hőmérséklet, online hőmérséklet átalakító kalkulátor, hőmérséklet skála átalakító, hőmérő kalkulátor, celsius fahrenheit kelvin rankine átalakító, hőmérséklet átváltási képlet kalkulátor, azonnali hőmérséklet átalakító, pontos hőmérséklet kalkulátor, mobil hőmérséklet átalakító, tudományos hőmérséklet kalkulátor, fizikai hőmérséklet kalkulátor, hőmérséklet mérési kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "53",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "title": "Tűrés Kalkulátor",
+        "slug": "tolerance-calculator",
+        "parent_id": "44",
+        "meta_title": "Ingyenes Tűrés Kalkulátor - Mérettűrés Eszköz",
+        "meta_description": "Professzionális tűrés kalkulátor mérnököknek. Számítson kétirányú, aszimmetrikus és egyirányú tűréseket azonnal. Ingyenes mérettűrés elemzés eszköz.",
+        "meta_keyword": "tűrés kalkulátor, mérettűrés, mérnöki kalkulátor, kétirányú tűrés, aszimmetrikus tűrés, egyirányú tűrés, tűrésmező, ingyenes tűrés kalkulátor, megmunkálási tűrés, gyártási tűrés, GD&T kalkulátor, tűrés elemzés, tűréshatárok, névleges tűrés, precíziós kalkulátor, tűrés szoftver, méret kalkulátor, tűrés eszköz, minőségellenőrzés kalkulátor, ISO tűrés, metrikus tűrés, tűrés átalakító, tűrés eltérés, CNC tűrés, ipari kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
