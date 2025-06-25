@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parameter Perhitungan",
+    "Metode Perhitungan",
+    "Hasil Perhitungan",
+    "Menggunakan Tegangan dan Hambatan (I = V / R)",
+    "Menggunakan Daya dan Tegangan (I = P / V)",
+    "Menggunakan Daya dan Hambatan (I = √(P / R))",
+    "Tegangan",
+    "Hambatan",
+    "Daya",
+    "Satuan Hasil untuk Arus",
+    "Masukkan tegangan",
+    "Masukkan hambatan",
+    "Masukkan daya",
+    "mA (miliampere)",
+    "A (ampere)",
+    "kA (kiloampere)",
+    "Hasil Arus",
+    "Rumus yang Digunakan",
+    "Masukkan nilai untuk melihat hasil perhitungan otomatis",
+    "Hambatan tidak boleh nol",
+    "Tegangan tidak boleh nol",
+    "Daya tidak boleh negatif",
+    "Nilai input tidak valid",
+    "I = V / R (Hukum Ohm)",
+    "I = P / V (Rumus Daya)",
+    "I = √(P / R) (Rumus Daya)",
+    "Reset semua input"
+  ]
+}

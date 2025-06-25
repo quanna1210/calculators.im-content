@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parametry Obliczania",
+    "Metoda Obliczania",
+    "Wynik Obliczania",
+    "Używając Napięcia i Oporu (I = V / R)",
+    "Używając Mocy i Napięcia (I = P / V)",
+    "Używając Mocy i Oporu (I = √(P / R))",
+    "Napięcie",
+    "Opór",
+    "Moc",
+    "Jednostka Wyniku dla Prądu",
+    "Wprowadź napięcie",
+    "Wprowadź opór",
+    "Wprowadź moc",
+    "mA (miliamper)",
+    "A (amper)",
+    "kA (kiloamper)",
+    "Wynik Prądu",
+    "Użyty Wzór",
+    "Wprowadź wartości, aby zobaczyć automatyczne wyniki obliczeń",
+    "Opór nie może być zerem",
+    "Napięcie nie może być zerem",
+    "Moc nie może być ujemna",
+    "Nieprawidłowe wartości wejściowe",
+    "I = V / R (Prawo Ohma)",
+    "I = P / V (Wzór Mocy)",
+    "I = √(P / R) (Wzór Mocy)",
+    "Resetuj wszystkie dane wejściowe"
+  ]
+}

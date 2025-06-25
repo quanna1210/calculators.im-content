@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Akım Hesaplayıcısı",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Akım Hesaplayıcısı - Ohm Yasası, Gerilim & Güç | Ücretsiz",
+        "meta_description": "3 yöntemli ücretsiz akım hesaplayıcısı: Ohm Yasası (I=V/R), güç formülleri. Gerilim, direnç, güçten elektrik akımını anında online hesaplayın.",
+        "meta_keyword": "akım hesaplayıcısı, elektrik akım hesaplayıcısı, ohm yasası hesaplayıcısı, gerilim akım hesaplayıcısı, güç akım hesaplayıcısı, akım hesapla online, elektrik mühendisliği hesaplayıcısı, akım hesaplayıcısı ohm yasası, I=V/R hesaplayıcısı, amper hesaplayıcısı, elektrik devre hesaplayıcısı, akım hesaplama aracı, ücretsiz akım hesaplayıcısı, online elektrik hesaplayıcısı, elektrik akım formülü, gerilim dirençten akım, güç gerilimden akım, güç dirençten akım, online elektrik araçları, elektronik hesaplayıcısı, elektrik mühendisliği araçları, devre analizi hesaplayıcısı, elektrik hesaplama, amperaj hesaplayıcısı, elektrik akım hesaplayıcısı, akım hesaplayıcısı ücretsiz online, gerilim akım dönüştürücüsü, direnç akım hesaplayıcısı, güç akım hesaplayıcısı, elektrik formülleri hesaplayıcısı, akım yoğunluğu hesaplayıcısı, AC akım hesaplayıcısı, DC akım hesaplayıcısı, elektrik ölçümleri hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

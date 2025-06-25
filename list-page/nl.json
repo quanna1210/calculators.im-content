@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Stroomcalculator",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Stroomcalculator - Wet van Ohm, Spanning & Vermogen | Gratis",
+        "meta_description": "Gratis stroomcalculator met 3 methoden: Wet van Ohm (I=V/R), vermogenformules. Bereken elektrische stroom uit spanning, weerstand, vermogen direct online.",
+        "meta_keyword": "stroomcalculator, elektrische stroomcalculator, wet van ohm calculator, spanning stroom calculator, vermogen stroom calculator, stroom berekenen online, elektrotechniek calculator, stroomcalculator wet van ohm, I=V/R calculator, ampère calculator, elektrische circuit calculator, stroom berekeningtool, gratis stroomcalculator, online elektrische calculator, elektrische stroomformule, stroom uit spanning weerstand, stroom uit vermogen spanning, stroom uit vermogen weerstand, elektrische tools online, electronica calculator, elektrotechniek tools, circuit analyse calculator, elektrische berekening, amperage calculator, elektrische stroom calculator, stroomcalculator gratis online, spanning naar stroom omzetter, weerstand stroom calculator, vermogen naar stroom calculator, elektrische formules calculator, stroomdichtheid calculator, AC stroom calculator, DC stroom calculator, elektrische metingen calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Hesaplama Parametreleri",
+    "Hesaplama Yöntemi",
+    "Hesaplama Sonucu",
+    "Gerilim ve Direnç Kullanarak (I = V / R)",
+    "Güç ve Gerilim Kullanarak (I = P / V)",
+    "Güç ve Direnç Kullanarak (I = √(P / R))",
+    "Gerilim",
+    "Direnç",
+    "Güç",
+    "Akım için Sonuç Birimi",
+    "Gerilim girin",
+    "Direnç girin",
+    "Güç girin",
+    "mA (miliamper)",
+    "A (amper)",
+    "kA (kiloamper)",
+    "Akım Sonucu",
+    "Kullanılan Formül",
+    "Otomatik hesaplama sonuçlarını görmek için değerler girin",
+    "Direnç sıfır olamaz",
+    "Gerilim sıfır olamaz",
+    "Güç negatif olamaz",
+    "Geçersiz giriş değerleri",
+    "I = V / R (Ohm Yasası)",
+    "I = P / V (Güç Formülü)",
+    "I = √(P / R) (Güç Formülü)",
+    "Tüm girişleri sıfırla"
+  ]
+}

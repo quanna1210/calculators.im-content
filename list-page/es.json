@@ -713,5 +713,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Calculadora de Corriente",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora Corriente - Ley Ohm, Voltaje & Potencia | Gratis",
+        "meta_description": "Calculadora de corriente gratis con 3 métodos: Ley de Ohm (I=V/R), fórmulas de potencia. Calcula corriente eléctrica de voltaje, resistencia, potencia al instante online.",
+        "meta_keyword": "calculadora de corriente, calculadora de corriente eléctrica, calculadora ley de ohm, calculadora voltaje corriente, calculadora potencia corriente, calcular corriente online, calculadora ingeniería eléctrica, calculadora corriente ley ohm, calculadora I=V/R, calculadora amperios, calculadora circuito eléctrico, herramienta cálculo corriente, calculadora corriente gratis, calculadora eléctrica online, fórmula corriente eléctrica, corriente de voltaje resistencia, corriente de potencia voltaje, corriente de potencia resistencia, herramientas eléctricas online, calculadora electrónica, herramientas ingeniería eléctrica, calculadora análisis circuito, cálculo eléctrico, calculadora amperaje, calculadora corriente eléctrica, calculadora corriente gratis online, convertidor voltaje a corriente, calculadora resistencia corriente, calculadora potencia a corriente, calculadora fórmulas eléctricas, calculadora densidad corriente, calculadora corriente AC, calculadora corriente DC, calculadora mediciones eléctricas",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

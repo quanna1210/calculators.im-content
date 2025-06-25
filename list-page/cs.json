@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Kalkulátor proudu",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulátor proudu - Ohmův zákon, napětí & výkon | Zdarma",
+        "meta_description": "Zdarma kalkulátor proudu se 3 metodami: Ohmův zákon (I=V/R), vzorce výkonu. Vypočítejte elektrický proud z napětí, odporu, výkonu okamžitě online.",
+        "meta_keyword": "kalkulátor proudu, kalkulátor elektrického proudu, kalkulátor ohmova zákona, kalkulátor napětí proudu, kalkulátor výkonu proudu, výpočet proudu online, kalkulátor elektrotechniky, kalkulátor proudu ohmův zákon, kalkulátor I=V/R, kalkulátor ampérů, kalkulátor elektrického obvodu, nástroj výpočtu proudu, zdarma kalkulátor proudu, online elektrický kalkulátor, vzorec elektrického proudu, proud z napětí odporu, proud z výkonu napětí, proud z výkonu odporu, elektrické nástroje online, kalkulátor elektroniky, nástroje elektrotechniky, kalkulátor analýzy obvodu, elektrický výpočet, kalkulátor ampéráže, kalkulátor elektrického proudu, kalkulátor proudu zdarma online, převodník napětí na proud, kalkulátor odporu proudu, kalkulátor výkonu na proud, kalkulátor elektrických vzorců, kalkulátor hustoty proudu, kalkulátor AC proudu, kalkulátor DC proudu, kalkulátor elektrických měření",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

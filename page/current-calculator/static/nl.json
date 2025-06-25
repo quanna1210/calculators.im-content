@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Berekeningsparameters",
+    "Berekeningsmethode",
+    "Berekeningsresultaat",
+    "Met Spanning en Weerstand (I = V / R)",
+    "Met Vermogen en Spanning (I = P / V)",
+    "Met Vermogen en Weerstand (I = √(P / R))",
+    "Spanning",
+    "Weerstand",
+    "Vermogen",
+    "Resultaateenheid voor Stroom",
+    "Voer spanning in",
+    "Voer weerstand in",
+    "Voer vermogen in",
+    "mA (milliampère)",
+    "A (ampère)",
+    "kA (kiloampère)",
+    "Stroomresultaat",
+    "Gebruikte Formule",
+    "Voer waarden in voor automatische berekeningsresultaten",
+    "Weerstand kan niet nul zijn",
+    "Spanning kan niet nul zijn",
+    "Vermogen kan niet negatief zijn",
+    "Ongeldige invoerwaarden",
+    "I = V / R (Wet van Ohm)",
+    "I = P / V (Vermogenformule)",
+    "I = √(P / R) (Vermogenformule)",
+    "Alle invoer resetten"
+  ]
+}

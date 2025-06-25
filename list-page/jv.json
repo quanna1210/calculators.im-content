@@ -713,5 +713,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Kalkulator Arus",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Arus - Hukum Ohm, Tegangan & Daya | Gratis",
+        "meta_description": "Kalkulator arus gratis karo 3 cara: Hukum Ohm (I=V/R), rumus daya. Itung arus listrik saka tegangan, hambatan, daya kanthi cepet online.",
+        "meta_keyword": "kalkulator arus, kalkulator arus listrik, kalkulator hukum ohm, kalkulator tegangan arus, kalkulator daya arus, itung arus online, kalkulator teknik elektro, kalkulator arus hukum ohm, kalkulator I=V/R, kalkulator ampere, kalkulator rangkaian listrik, alat itung arus, kalkulator arus gratis, kalkulator listrik online, rumus arus listrik, arus saka tegangan hambatan, arus saka daya tegangan, arus saka daya hambatan, alat listrik online, kalkulator elektronika, alat teknik elektro, kalkulator analisis rangkaian, petungan listrik, kalkulator amperage, kalkulator arus listrik, kalkulator arus gratis online, konverter tegangan menyang arus, kalkulator hambatan arus, kalkulator daya menyang arus, kalkulator rumus listrik, kalkulator densitas arus, kalkulator arus AC, kalkulator arus DC, kalkulator pangukuran listrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -713,5 +713,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Áram Kalkulátor",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Áram Kalkulátor - Ohm Törvény, Feszültség & Teljesítmény | Ingyenes",
+        "meta_description": "Ingyenes áram kalkulátor 3 módszerrel: Ohm törvénye (I=V/R), teljesítmény képletek. Számítsa ki az elektromos áramot feszültségből, ellenállásból, teljesítményből azonnal online.",
+        "meta_keyword": "áram kalkulátor, elektromos áram kalkulátor, ohm törvény kalkulátor, feszültség áram kalkulátor, teljesítmény áram kalkulátor, áram számítás online, villamosmérnöki kalkulátor, áram kalkulátor ohm törvény, I=V/R kalkulátor, amper kalkulátor, elektromos áramkör kalkulátor, áram számítási eszköz, ingyenes áram kalkulátor, online elektromos kalkulátor, elektromos áram képlet, áram feszültség ellenállásból, áram teljesítmény feszültségből, áram teljesítmény ellenállásból, elektromos eszközök online, elektronikai kalkulátor, villamosmérnöki eszközök, áramkör elemzési kalkulátor, elektromos számítás, amperázskalkulátor, elektromos áram kalkulátor, áram kalkulátor ingyenes online, feszültség áram átalakító, ellenállás áram kalkulátor, teljesítmény áram kalkulátor, elektromos képletek kalkulátor, áramsűrűség kalkulátor, AC áram kalkulátor, DC áram kalkulátor, elektromos mérések kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

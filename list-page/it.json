@@ -713,5 +713,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Calcolatore di Corrente",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatore Corrente - Legge Ohm, Tensione & Potenza | Gratis",
+        "meta_description": "Calcolatore di corrente gratuito con 3 metodi: Legge di Ohm (I=V/R), formule di potenza. Calcola la corrente elettrica da tensione, resistenza, potenza istantaneamente online.",
+        "meta_keyword": "calcolatore di corrente, calcolatore di corrente elettrica, calcolatore legge di ohm, calcolatore tensione corrente, calcolatore potenza corrente, calcolare corrente online, calcolatore ingegneria elettrica, calcolatore corrente legge ohm, calcolatore I=V/R, calcolatore ampere, calcolatore circuito elettrico, strumento calcolo corrente, calcolatore corrente gratuito, calcolatore elettrico online, formula corrente elettrica, corrente da tensione resistenza, corrente da potenza tensione, corrente da potenza resistenza, strumenti elettrici online, calcolatore elettronica, strumenti ingegneria elettrica, calcolatore analisi circuito, calcolo elettrico, calcolatore amperaggio, calcolatore corrente elettrica, calcolatore corrente gratuito online, convertitore tensione a corrente, calcolatore resistenza corrente, calcolatore potenza a corrente, calcolatore formule elettriche, calcolatore densità corrente, calcolatore corrente AC, calcolatore corrente DC, calcolatore misurazioni elettriche",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

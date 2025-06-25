@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Calculator de Curent",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Curent - Legea Ohm, Tensiune & Putere | Gratuit",
+        "meta_description": "Calculator de curent gratuit cu 3 metode: Legea lui Ohm (I=V/R), formule de putere. Calculați curentul electric din tensiune, rezistență, putere instant online.",
+        "meta_keyword": "calculator de curent, calculator de curent electric, calculator legea ohm, calculator tensiune curent, calculator putere curent, calculează curent online, calculator inginerie electrică, calculator curent legea ohm, calculator I=V/R, calculator amperi, calculator circuit electric, instrument calcul curent, calculator curent gratuit, calculator electric online, formulă curent electric, curent din tensiune rezistență, curent din putere tensiune, curent din putere rezistență, instrumente electrice online, calculator electronică, instrumente inginerie electrică, calculator analiză circuit, calcul electric, calculator amperaj, calculator curent electric, calculator curent gratuit online, convertor tensiune la curent, calculator rezistență curent, calculator putere la curent, calculator formule electrice, calculator densitate curent, calculator curent AC, calculator curent DC, calculator măsurători electrice",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

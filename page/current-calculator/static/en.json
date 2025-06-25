@@ -1,0 +1,31 @@
+{
+    "trans": [
+        "Calculation Parameters",
+        "Calculation Method",
+        "Calculation Result",
+        "Using Voltage and Resistance (I = V / R)",
+        "Using Power and Voltage (I = P / V)",
+        "Using Power and Resistance (I = √(P / R))",
+        "Voltage",
+        "Resistance",
+        "Power",
+        "Result Unit for Current",
+        "Enter voltage",
+        "Enter resistance",
+        "Enter power",
+        "mA (milliamperes)",
+        "A (amperes)",
+        "kA (kiloamperes)",
+        "Current Result",
+        "Formula Used",
+        "Enter values to see automatic calculation results",
+        "Resistance cannot be zero",
+        "Voltage cannot be zero",
+        "Power cannot be negative",
+        "Invalid input values",
+        "I = V / R (Ohm's Law)",
+        "I = P / V (Power Formula)",
+        "I = √(P / R) (Power Formula)",
+        "Reset all inputs"
+    ]
+}

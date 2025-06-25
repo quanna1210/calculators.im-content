@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Stromrechner",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Stromrechner - Ohmsches Gesetz, Spannung & Leistung | Frei",
+        "meta_description": "Kostenloser Stromrechner mit 3 Methoden: Ohmsches Gesetz (I=V/R), Leistungsformeln. Berechnen Sie elektrischen Strom aus Spannung, Widerstand, Leistung sofort online.",
+        "meta_keyword": "stromrechner, elektrischer stromrechner, ohmsches gesetz rechner, spannung strom rechner, leistung strom rechner, strom berechnen online, elektrotechnik rechner, stromrechner ohmsches gesetz, I=V/R rechner, ampere rechner, elektrischer schaltkreis rechner, strom berechnungstool, kostenloser stromrechner, online elektrischer rechner, elektrische stromformel, strom aus spannung widerstand, strom aus leistung spannung, strom aus leistung widerstand, elektrische tools online, elektronik rechner, elektrotechnik tools, schaltkreis analyse rechner, elektrische berechnung, amperage rechner, elektrischer strom rechner, stromrechner kostenlos online, spannung zu strom umrechner, widerstand strom rechner, leistung zu strom rechner, elektrische formeln rechner, stromdichte rechner, AC strom rechner, DC strom rechner, elektrische messungen rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

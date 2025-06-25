@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parametri di Calcolo",
+    "Metodo di Calcolo",
+    "Risultato del Calcolo",
+    "Usando Tensione e Resistenza (I = V / R)",
+    "Usando Potenza e Tensione (I = P / V)",
+    "Usando Potenza e Resistenza (I = √(P / R))",
+    "Tensione",
+    "Resistenza",
+    "Potenza",
+    "Unità del Risultato per Corrente",
+    "Inserisci tensione",
+    "Inserisci resistenza",
+    "Inserisci potenza",
+    "mA (milliampere)",
+    "A (ampere)",
+    "kA (kiloampere)",
+    "Risultato Corrente",
+    "Formula Utilizzata",
+    "Inserisci valori per vedere risultati di calcolo automatico",
+    "La resistenza non può essere zero",
+    "La tensione non può essere zero",
+    "La potenza non può essere negativa",
+    "Valori di input non validi",
+    "I = V / R (Legge di Ohm)",
+    "I = P / V (Formula della Potenza)",
+    "I = √(P / R) (Formula della Potenza)",
+    "Reimposta tutti gli input"
+  ]
+}

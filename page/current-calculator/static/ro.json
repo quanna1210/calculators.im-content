@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parametrii de Calcul",
+    "Metoda de Calcul",
+    "Rezultatul Calculului",
+    "Folosind Tensiunea și Rezistența (I = V / R)",
+    "Folosind Puterea și Tensiunea (I = P / V)",
+    "Folosind Puterea și Rezistența (I = √(P / R))",
+    "Tensiune",
+    "Rezistență",
+    "Putere",
+    "Unitatea Rezultatului pentru Curent",
+    "Introduceți tensiunea",
+    "Introduceți rezistența",
+    "Introduceți puterea",
+    "mA (miliamperi)",
+    "A (amperi)",
+    "kA (kiloamperi)",
+    "Rezultatul Curentului",
+    "Formula Utilizată",
+    "Introduceți valori pentru a vedea rezultatele calculului automat",
+    "Rezistența nu poate fi zero",
+    "Tensiunea nu poate fi zero",
+    "Puterea nu poate fi negativă",
+    "Valori de intrare invalide",
+    "I = V / R (Legea lui Ohm)",
+    "I = P / V (Formula Puterii)",
+    "I = √(P / R) (Formula Puterii)",
+    "Resetați toate intrările"
+  ]
+}

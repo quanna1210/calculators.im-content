@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Berechnungsparameter",
+    "Berechnungsmethode",
+    "Berechnungsergebnis",
+    "Verwendung von Spannung und Widerstand (I = V / R)",
+    "Verwendung von Leistung und Spannung (I = P / V)",
+    "Verwendung von Leistung und Widerstand (I = √(P / R))",
+    "Spannung",
+    "Widerstand",
+    "Leistung",
+    "Ergebniseinheit für Strom",
+    "Spannung eingeben",
+    "Widerstand eingeben",
+    "Leistung eingeben",
+    "mA (Milliampere)",
+    "A (Ampere)",
+    "kA (Kiloampere)",
+    "Stromergebnis",
+    "Verwendete Formel",
+    "Werte eingeben, um automatische Berechnungsergebnisse zu sehen",
+    "Widerstand darf nicht null sein",
+    "Spannung darf nicht null sein",
+    "Leistung darf nicht negativ sein",
+    "Ungültige Eingabewerte",
+    "I = V / R (Ohmsches Gesetz)",
+    "I = P / V (Leistungsformel)",
+    "I = √(P / R) (Leistungsformel)",
+    "Alle Eingaben zurücksetzen"
+  ]
+}

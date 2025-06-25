@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Máy Tính Dòng Điện",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Dòng Điện - Định Luật Ohm, Điện Áp & Công Suất | Miễn Phí",
+        "meta_description": "Máy tính dòng điện miễn phí với 3 phương pháp: Định luật Ohm (I=V/R), công thức công suất. Tính dòng điện từ điện áp, điện trở, công suất ngay lập tức trực tuyến.",
+        "meta_keyword": "máy tính dòng điện, máy tính dòng điện điện, máy tính định luật ohm, máy tính điện áp dòng điện, máy tính công suất dòng điện, tính dòng điện online, máy tính kỹ thuật điện, máy tính dòng điện định luật ohm, máy tính I=V/R, máy tính ampe, máy tính mạch điện, công cụ tính dòng điện, máy tính dòng điện miễn phí, máy tính điện online, công thức dòng điện, dòng điện từ điện áp điện trở, dòng điện từ công suất điện áp, dòng điện từ công suất điện trở, công cụ điện online, máy tính điện tử, công cụ kỹ thuật điện, máy tính phân tích mạch, tính toán điện, máy tính cường độ dòng điện, máy tính dòng điện điện, máy tính dòng điện miễn phí online, bộ chuyển đổi điện áp sang dòng điện, máy tính điện trở dòng điện, máy tính công suất sang dòng điện, máy tính công thức điện, máy tính mật độ dòng điện, máy tính dòng điện AC, máy tính dòng điện DC, máy tính đo lường điện",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

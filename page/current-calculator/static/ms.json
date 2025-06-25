@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parameter Pengiraan",
+    "Kaedah Pengiraan",
+    "Keputusan Pengiraan",
+    "Menggunakan Voltan dan Rintangan (I = V / R)",
+    "Menggunakan Kuasa dan Voltan (I = P / V)",
+    "Menggunakan Kuasa dan Rintangan (I = √(P / R))",
+    "Voltan",
+    "Rintangan",
+    "Kuasa",
+    "Unit Keputusan untuk Arus",
+    "Masukkan voltan",
+    "Masukkan rintangan",
+    "Masukkan kuasa",
+    "mA (miliampere)",
+    "A (ampere)",
+    "kA (kiloampere)",
+    "Keputusan Arus",
+    "Formula yang Digunakan",
+    "Masukkan nilai untuk melihat keputusan pengiraan automatik",
+    "Rintangan tidak boleh sifar",
+    "Voltan tidak boleh sifar",
+    "Kuasa tidak boleh negatif",
+    "Nilai input tidak sah",
+    "I = V / R (Hukum Ohm)",
+    "I = P / V (Formula Kuasa)",
+    "I = √(P / R) (Formula Kuasa)",
+    "Set semula semua input"
+  ]
+}

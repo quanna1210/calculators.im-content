@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Tham Số Tính Toán",
+    "Phương Pháp Tính Toán",
+    "Kết Quả Tính Toán",
+    "Sử dụng Điện áp và Điện trở (I = V / R)",
+    "Sử dụng Công suất và Điện áp (I = P / V)",
+    "Sử dụng Công suất và Điện trở (I = √(P / R))",
+    "Điện áp",
+    "Điện trở",
+    "Công suất",
+    "Đơn vị Kết quả cho Dòng điện",
+    "Nhập điện áp",
+    "Nhập điện trở",
+    "Nhập công suất",
+    "mA (mili ampe)",
+    "A (ampe)",
+    "kA (kilo ampe)",
+    "Kết Quả Dòng điện",
+    "Công Thức Được Sử dụng",
+    "Nhập giá trị để xem kết quả tính toán tự động",
+    "Điện trở không thể bằng không",
+    "Điện áp không thể bằng không",
+    "Công suất không thể âm",
+    "Giá trị đầu vào không hợp lệ",
+    "I = V / R (Định luật Ohm)",
+    "I = P / V (Công thức Công suất)",
+    "I = √(P / R) (Công thức Công suất)",
+    "Đặt lại tất cả đầu vào"
+  ]
+}

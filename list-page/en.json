@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Current Calculator",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Current Calculator - Ohm's Law, Voltage & Power | Free Tool",
+        "meta_description": "Free current calculator with 3 methods: Ohm's Law (I=V/R), power formulas. Calculate electrical current from voltage, resistance, power instantly online.",
+        "meta_keyword": "current calculator, electrical current calculator, ohms law calculator, voltage current calculator, power current calculator, calculate current online, electrical engineering calculator, current calculator ohms law, I=V/R calculator, ampere calculator, electrical circuit calculator, current calculation tool, free current calculator, online electrical calculator, electrical current formula, current from voltage resistance, current from power voltage, current from power resistance, electrical tools online, electronics calculator, electrical engineering tools, circuit analysis calculator, electrical calculation, amperage calculator, electric current calculator, current calculator free online, voltage to current converter, resistance current calculator, power to current calculator, electrical formulas calculator, current density calculator, AC current calculator, DC current calculator, electrical measurements calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

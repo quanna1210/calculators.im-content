@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Kalkulator Prądu",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Prądu - Prawo Ohma, Napięcie & Moc | Darmowy",
+        "meta_description": "Darmowy kalkulator prądu z 3 metodami: Prawo Ohma (I=V/R), wzory mocy. Oblicz prąd elektryczny z napięcia, oporu, mocy natychmiast online.",
+        "meta_keyword": "kalkulator prądu, kalkulator prądu elektrycznego, kalkulator prawa ohma, kalkulator napięcia prądu, kalkulator mocy prądu, oblicz prąd online, kalkulator elektrotechniki, kalkulator prądu prawo ohma, kalkulator I=V/R, kalkulator amperów, kalkulator obwodu elektrycznego, narzędzie obliczania prądu, darmowy kalkulator prądu, online kalkulator elektryczny, wzór prądu elektrycznego, prąd z napięcia oporu, prąd z mocy napięcia, prąd z mocy oporu, narzędzia elektryczne online, kalkulator elektroniki, narzędzia elektrotechniki, kalkulator analizy obwodu, obliczenia elektryczne, kalkulator natężenia, kalkulator prądu elektrycznego, kalkulator prądu darmowy online, konwerter napięcia na prąd, kalkulator oporu prądu, kalkulator mocy na prąd, kalkulator wzorów elektrycznych, kalkulator gęstości prądu, kalkulator prądu AC, kalkulator prądu DC, kalkulator pomiarów elektrycznych",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

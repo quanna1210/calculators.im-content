@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parameter Petungan",
+    "Cara Petungan",
+    "Asil Petungan",
+    "Nggunakake Tegangan lan Hambatan (I = V / R)",
+    "Nggunakake Daya lan Tegangan (I = P / V)",
+    "Nggunakake Daya lan Hambatan (I = √(P / R))",
+    "Tegangan",
+    "Hambatan",
+    "Daya",
+    "Satuan Asil kanggo Arus",
+    "Lebokna tegangan",
+    "Lebokna hambatan",
+    "Lebokna daya",
+    "mA (miliampere)",
+    "A (ampere)",
+    "kA (kiloampere)",
+    "Asil Arus",
+    "Rumus sing Digunakake",
+    "Lebokna nilai kanggo ndeleng asil petungan otomatis",
+    "Hambatan ora oleh nol",
+    "Tegangan ora oleh nol",
+    "Daya ora oleh negatif",
+    "Nilai input ora valid",
+    "I = V / R (Hukum Ohm)",
+    "I = P / V (Rumus Daya)",
+    "I = √(P / R) (Rumus Daya)",
+    "Reset kabeh input"
+  ]
+}

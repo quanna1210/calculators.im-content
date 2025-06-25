@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Parametry výpočtu",
+    "Metoda výpočtu",
+    "Výsledek výpočtu",
+    "Použití napětí a odporu (I = V / R)",
+    "Použití výkonu a napětí (I = P / V)",
+    "Použití výkonu a odporu (I = √(P / R))",
+    "Napětí",
+    "Odpor",
+    "Výkon",
+    "Jednotka výsledku pro proud",
+    "Zadejte napětí",
+    "Zadejte odpor",
+    "Zadejte výkon",
+    "mA (miliampéry)",
+    "A (ampéry)",
+    "kA (kiloampéry)",
+    "Výsledek proudu",
+    "Použitý vzorec",
+    "Zadejte hodnoty pro zobrazení automatických výsledků výpočtu",
+    "Odpor nemůže být nula",
+    "Napětí nemůže být nula",
+    "Výkon nemůže být záporný",
+    "Neplatné vstupní hodnoty",
+    "I = V / R (Ohmův zákon)",
+    "I = P / V (Vzorec výkonu)",
+    "I = √(P / R) (Vzorec výkonu)",
+    "Resetovat všechny vstupy"
+  ]
+}

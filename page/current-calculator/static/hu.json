@@ -1,0 +1,31 @@
+{
+  "trans": [
+    "Számítási Paraméterek",
+    "Számítási Módszer",
+    "Számítási Eredmény",
+    "Feszültség és Ellenállás használatával (I = V / R)",
+    "Teljesítmény és Feszültség használatával (I = P / V)",
+    "Teljesítmény és Ellenállás használatával (I = √(P / R))",
+    "Feszültség",
+    "Ellenállás",
+    "Teljesítmény",
+    "Eredmény Egysége az Áramhoz",
+    "Adja meg a feszültséget",
+    "Adja meg az ellenállást",
+    "Adja meg a teljesítményt",
+    "mA (milliamper)",
+    "A (amper)",
+    "kA (kiloamper)",
+    "Áram Eredménye",
+    "Használt Képlet",
+    "Adjon meg értékeket az automatikus számítási eredményekhez",
+    "Az ellenállás nem lehet nulla",
+    "A feszültség nem lehet nulla",
+    "A teljesítmény nem lehet negatív",
+    "Érvénytelen bemeneti értékek",
+    "I = V / R (Ohm törvénye)",
+    "I = P / V (Teljesítmény képlet)",
+    "I = √(P / R) (Teljesítmény képlet)",
+    "Összes bemenet visszaállítása"
+  ]
+}

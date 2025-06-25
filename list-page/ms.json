@@ -711,5 +711,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "57",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "title": "Kalkulator Arus",
+        "slug": "current-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Arus - Hukum Ohm, Voltan & Kuasa | Percuma",
+        "meta_description": "Kalkulator arus percuma dengan 3 kaedah: Hukum Ohm (I=V/R), formula kuasa. Kira arus elektrik daripada voltan, rintangan, kuasa serta-merta dalam talian.",
+        "meta_keyword": "kalkulator arus, kalkulator arus elektrik, kalkulator hukum ohm, kalkulator voltan arus, kalkulator kuasa arus, kira arus dalam talian, kalkulator kejuruteraan elektrik, kalkulator arus hukum ohm, kalkulator I=V/R, kalkulator ampere, kalkulator litar elektrik, alat kiraan arus, kalkulator arus percuma, kalkulator elektrik dalam talian, formula arus elektrik, arus daripada voltan rintangan, arus daripada kuasa voltan, arus daripada kuasa rintangan, alat elektrik dalam talian, kalkulator elektronik, alat kejuruteraan elektrik, kalkulator analisis litar, kiraan elektrik, kalkulator amperage, kalkulator arus elektrik, kalkulator arus percuma dalam talian, penukar voltan kepada arus, kalkulator rintangan arus, kalkulator kuasa kepada arus, kalkulator formula elektrik, kalkulator ketumpatan arus, kalkulator arus AC, kalkulator arus DC, kalkulator pengukuran elektrik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
