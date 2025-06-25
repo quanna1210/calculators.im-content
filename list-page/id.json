@@ -700,5 +700,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Kalkulator Kumparan",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Kumparan - Induktansi, Panjang Kawat & AWG",
+        "meta_description": "Kalkulator kumparan gratis menggunakan rumus Wheeler. Hitung induktansi, panjang kawat, resistansi DC untuk kumparan lapisan tunggal. Mendukung berbagai unit & AWG.",
+        "meta_keyword": "kalkulator kumparan, kalkulator induktansi, kalkulator kawat, kalkulator AWG, induktansi kumparan, kalkulator panjang kawat, kalkulator resistansi DC, kalkulator rumus Wheeler, kalkulator kumparan lapisan tunggal, kalkulator kumparan listrik, kalkulator induktor, kalkulator desain kumparan, kalkulator inti ferit, kalkulator kumparan udara, kalkulator resistansi kawat tembaga, kalkulator ukuran kawat AWG, kalkulator kumparan elektronik, kalkulator kumparan RF, kalkulator kumparan elektromagnetik, kalkulator lilitan kumparan, kalkulator rumus induktansi, kalkulator teknik listrik, kalkulator parameter kumparan, kalkulator resistansi kawat, alat desain induktor, kalkulator analisis kumparan, kalkulator komponen listrik, kalkulator desain sirkuit, kalkulator elektronik online, alat kalkulator kumparan gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

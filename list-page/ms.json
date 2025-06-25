@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Kalkulator Gegelung",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Gegelung - Induktans, Panjang Wayar & AWG",
+        "meta_description": "Kalkulator gegelung percuma menggunakan formula Wheeler. Kira induktans, panjang wayar, rintangan DC untuk gegelung lapisan tunggal. Menyokong pelbagai unit & AWG.",
+        "meta_keyword": "kalkulator gegelung, kalkulator induktans, kalkulator wayar, kalkulator AWG, induktans gegelung, kalkulator panjang wayar, kalkulator rintangan DC, kalkulator formula Wheeler, kalkulator gegelung lapisan tunggal, kalkulator gegelung elektrik, kalkulator induktor, kalkulator reka bentuk gegelung, kalkulator teras ferit, kalkulator gegelung udara, kalkulator rintangan wayar tembaga, kalkulator saiz wayar AWG, kalkulator gegelung elektronik, kalkulator gegelung RF, kalkulator gegelung elektromagnetik, kalkulator lilitan gegelung, kalkulator formula induktans, kalkulator kejuruteraan elektrik, kalkulator parameter gegelung, kalkulator rintangan wayar, alat reka bentuk induktor, kalkulator analisis gegelung, kalkulator komponen elektrik, kalkulator reka bentuk litar, kalkulator elektronik dalam talian, alat kalkulator gegelung percuma",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

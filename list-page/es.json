@@ -700,5 +700,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Calculadora de Bobina",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora Bobina - Inductancia, Longitud Alambre & AWG",
+        "meta_description": "Calculadora de bobina gratuita usando fórmula Wheeler. Calcule inductancia, longitud de alambre, resistencia DC para bobinas de capa única. Soporta múltiples unidades y AWG.",
+        "meta_keyword": "calculadora bobina, calculadora inductancia, calculadora alambre, calculadora AWG, inductancia bobina, calculadora longitud alambre, calculadora resistencia DC, calculadora fórmula Wheeler, calculadora bobina capa única, calculadora bobina eléctrica, calculadora inductor, calculadora diseño bobina, calculadora núcleo ferrita, calculadora bobina aire, calculadora resistencia alambre cobre, calculadora calibre alambre AWG, calculadora bobina electrónica, calculadora bobina RF, calculadora bobina electromagnética, calculadora bobinado, calculadora fórmula inductancia, calculadora ingeniería eléctrica, calculadora parámetros bobina, calculadora resistencia alambre, herramienta diseño inductor, calculadora análisis bobina, calculadora componentes eléctricos, calculadora diseño circuito, calculadora electrónica online, herramienta calculadora bobina gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Máy Tính Cuộn Dây",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Máy Tính Cuộn Dây - Độ Tự Cảm, Chiều Dài Dây & AWG",
+        "meta_description": "Máy tính cuộn dây miễn phí dùng công thức Wheeler. Tính độ tự cảm, chiều dài dây, điện trở DC cho cuộn dây đơn lớp. Hỗ trợ nhiều đơn vị và AWG.",
+        "meta_keyword": "máy tính cuộn dây, máy tính độ tự cảm, máy tính dây dẫn, máy tính AWG, độ tự cảm cuộn dây, máy tính chiều dài dây, máy tính điện trở DC, máy tính công thức Wheeler, máy tính cuộn dây đơn lớp, máy tính cuộn dây điện, máy tính điện cảm, máy tính thiết kế cuộn dây, máy tính lõi ferit, máy tính cuộn dây không khí, máy tính điện trở dây đồng, máy tính cỡ dây AWG, máy tính cuộn dây điện tử, máy tính cuộn dây RF, máy tính cuộn dây điện từ, máy tính quấn cuộn dây, máy tính công thức độ tự cảm, máy tính kỹ thuật điện, máy tính tham số cuộn dây, máy tính điện trở dây, công cụ thiết kế điện cảm, máy tính phân tích cuộn dây, máy tính linh kiện điện, máy tính thiết kế mạch, máy tính điện tử trực tuyến, công cụ máy tính cuộn dây miễn phí",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

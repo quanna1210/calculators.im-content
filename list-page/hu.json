@@ -700,5 +700,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Tekercs Kalkulátor",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Tekercs Kalkulátor - Induktivitás, Drót Hossz & AWG",
+        "meta_description": "Ingyenes tekercs kalkulátor Wheeler képlettel. Számítsa ki induktivitást, drót hosszt, DC ellenállást egyrétegű tekercseknél. Támogatja több egységet és AWG-t.",
+        "meta_keyword": "tekercs kalkulátor, induktivitás kalkulátor, drót kalkulátor, AWG kalkulátor, tekercs induktivitás, drót hossz kalkulátor, DC ellenállás kalkulátor, Wheeler képlet kalkulátor, egyrétegű tekercs kalkulátor, elektromos tekercs kalkulátor, induktor kalkulátor, tekercs tervezés kalkulátor, ferrit mag kalkulátor, levegő mag tekercs kalkulátor, réz drót ellenállás kalkulátor, AWG drót vastagság kalkulátor, elektronikus tekercs kalkulátor, RF tekercs kalkulátor, elektromágneses tekercs kalkulátor, tekercs tekercselés kalkulátor, induktivitás képlet kalkulátor, elektrotechnika kalkulátor, tekercs paraméter kalkulátor, drót ellenállás kalkulátor, induktor tervezés eszköz, tekercs elemzés kalkulátor, elektromos alkatrész kalkulátor, áramkör tervezés kalkulátor, elektronika kalkulátor online, ingyenes tekercs kalkulátor eszköz",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

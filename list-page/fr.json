@@ -700,5 +700,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Calculatrice de Bobine",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculatrice Bobine - Inductance, Longueur Fil & AWG",
+        "meta_description": "Calculatrice de bobine gratuite utilisant la formule Wheeler. Calculez inductance, longueur de fil, résistance DC pour bobines monocouches. Supporte unités multiples et AWG.",
+        "meta_keyword": "calculatrice bobine, calculatrice inductance, calculatrice fil, calculatrice AWG, inductance bobine, calculatrice longueur fil, calculatrice résistance DC, calculatrice formule Wheeler, calculatrice bobine monocouche, calculatrice bobine électrique, calculatrice inducteur, calculatrice conception bobine, calculatrice noyau ferrite, calculatrice bobine air, calculatrice résistance fil cuivre, calculatrice calibre fil AWG, calculatrice bobine électronique, calculatrice bobine RF, calculatrice bobine électromagnétique, calculatrice bobinage, calculatrice formule inductance, calculatrice génie électrique, calculatrice paramètres bobine, calculatrice résistance fil, outil conception inducteur, calculatrice analyse bobine, calculatrice composants électriques, calculatrice conception circuit, calculatrice électronique en ligne, outil calculatrice bobine gratuit",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

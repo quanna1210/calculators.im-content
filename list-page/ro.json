@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Calculator Bobină",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculator Bobină - Inductanță, Lungime Sârmă & AWG",
+        "meta_description": "Calculator bobină gratuit folosind formula Wheeler. Calculați inductanța, lungimea sârmei, rezistența DC pentru bobine cu un singur strat. Suportă mai multe unități și AWG.",
+        "meta_keyword": "calculator bobină, calculator inductanță, calculator sârmă, calculator AWG, inductanță bobină, calculator lungime sârmă, calculator rezistență DC, calculator formula Wheeler, calculator bobină un singur strat, calculator bobină electrică, calculator inductor, calculator proiectare bobină, calculator miez ferită, calculator bobină aer, calculator rezistență sârmă cupru, calculator calibru sârmă AWG, calculator bobină electronică, calculator bobină RF, calculator bobină electromagnetică, calculator înfășurare bobină, calculator formula inductanță, calculator inginerie electrică, calculator parametri bobină, calculator rezistență sârmă, instrument proiectare inductor, calculator analiză bobină, calculator componente electrice, calculator proiectare circuit, calculator electronică online, instrument calculator bobină gratuit",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

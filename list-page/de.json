@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Spulen-Rechner",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Spulen-Rechner - Induktivität, Drahtlänge & AWG",
+        "meta_description": "Kostenloser Spulenrechner mit Wheelers Formel. Berechnen Sie Induktivität, Drahtlänge, DC-Widerstand für einlagige Spulen. Unterstützt mehrere Einheiten & AWG.",
+        "meta_keyword": "spulenrechner, induktivitätsrechner, drahtrechner, AWG rechner, spuleninduktivität, drahtlängenrechner, DC widerstandsrechner, wheeler formel rechner, einlagiger spulenrechner, elektrischer spulenrechner, induktorrechner, spulendesign rechner, ferritkern rechner, luftkern spulenrechner, kupferdraht widerstandsrechner, AWG drahtdurchmesser rechner, elektronischer spulenrechner, RF spulenrechner, elektromagnetischer spulenrechner, spulenwicklungsrechner, induktivitätsformel rechner, elektrotechnik rechner, spulenparameter rechner, drahtwiderstand rechner, induktor design tool, spulenanalyse rechner, elektrische komponenten rechner, schaltungsdesign rechner, elektronik rechner online, kostenloser spulenrechner tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

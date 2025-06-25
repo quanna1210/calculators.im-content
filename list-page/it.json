@@ -700,5 +700,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Calcolatrice Bobina",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Calcolatrice Bobina - Induttanza, Lunghezza Filo & AWG",
+        "meta_description": "Calcolatrice bobina gratuita usando formula Wheeler. Calcola induttanza, lunghezza filo, resistenza DC per bobine a strato singolo. Supporta unità multiple e AWG.",
+        "meta_keyword": "calcolatrice bobina, calcolatrice induttanza, calcolatrice filo, calcolatrice AWG, induttanza bobina, calcolatrice lunghezza filo, calcolatrice resistenza DC, calcolatrice formula Wheeler, calcolatrice bobina strato singolo, calcolatrice bobina elettrica, calcolatrice induttore, calcolatrice progetto bobina, calcolatrice nucleo ferrite, calcolatrice bobina aria, calcolatrice resistenza filo rame, calcolatrice calibro filo AWG, calcolatrice bobina elettronica, calcolatrice bobina RF, calcolatrice bobina elettromagnetica, calcolatrice avvolgimento bobina, calcolatrice formula induttanza, calcolatrice ingegneria elettrica, calcolatrice parametri bobina, calcolatrice resistenza filo, strumento progetto induttore, calcolatrice analisi bobina, calcolatrice componenti elettrici, calcolatrice progetto circuito, calcolatrice elettronica online, strumento calcolatrice bobina gratuito",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Coil Calculator",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Coil Calculator - Inductance, Wire Length & AWG Calculator",
+        "meta_description": "Free coil calculator using Wheeler's formula. Calculate inductance, wire length, DC resistance for single-layer coils. Supports multiple units & AWG.",
+        "meta_keyword": "coil calculator, inductance calculator, wire calculator, AWG calculator, coil inductance, wire length calculator, DC resistance calculator, Wheeler formula calculator, single layer coil calculator, electrical coil calculator, inductor calculator, coil design calculator, ferrite core calculator, air core coil calculator, copper wire resistance calculator, AWG wire gauge calculator, electronic coil calculator, RF coil calculator, electromagnetic coil calculator, coil winding calculator, inductance formula calculator, electrical engineering calculator, coil parameter calculator, wire resistance calculator, inductor design tool, coil analysis calculator, electrical component calculator, circuit design calculator, electronics calculator online, free coil calculator tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

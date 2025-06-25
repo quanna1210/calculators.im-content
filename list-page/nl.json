@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Spoel Calculator",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Spoel Calculator - Inductantie, Draadlengte & AWG",
+        "meta_description": "Gratis spoel calculator met Wheeler formule. Bereken inductantie, draadlengte, DC weerstand voor enkellaags spoelen. Ondersteunt meerdere eenheden & AWG.",
+        "meta_keyword": "spoel calculator, inductantie calculator, draad calculator, AWG calculator, spoel inductantie, draadlengte calculator, DC weerstand calculator, Wheeler formule calculator, enkellaags spoel calculator, elektrische spoel calculator, inductor calculator, spoel ontwerp calculator, ferriet kern calculator, lucht kern spoel calculator, koperdraad weerstand calculator, AWG draad dikte calculator, elektronische spoel calculator, RF spoel calculator, elektromagnetische spoel calculator, spoel winding calculator, inductantie formule calculator, elektrotechniek calculator, spoel parameter calculator, draad weerstand calculator, inductor ontwerp tool, spoel analyse calculator, elektrische componenten calculator, circuit ontwerp calculator, elektronica calculator online, gratis spoel calculator tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

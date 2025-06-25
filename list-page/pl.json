@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Kalkulator Cewki",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulator Cewki - Indukcyjność, Długość Drutu & AWG",
+        "meta_description": "Darmowy kalkulator cewki używający wzoru Wheelera. Oblicz indukcyjność, długość drutu, rezystancję DC dla cewek jednowarstwowych. Obsługuje wiele jednostek i AWG.",
+        "meta_keyword": "kalkulator cewki, kalkulator indukcyjności, kalkulator drutu, kalkulator AWG, indukcyjność cewki, kalkulator długości drutu, kalkulator rezystancji DC, kalkulator wzoru Wheelera, kalkulator cewki jednowarstwowej, kalkulator cewki elektrycznej, kalkulator induktora, kalkulator projektowania cewki, kalkulator rdzenia ferrytowego, kalkulator cewki powietrznej, kalkulator rezystancji drutu miedzianego, kalkulator grubości drutu AWG, kalkulator cewki elektronicznej, kalkulator cewki RF, kalkulator cewki elektromagnetycznej, kalkulator nawijania cewki, kalkulator wzoru indukcyjności, kalkulator elektrotechniki, kalkulator parametrów cewki, kalkulator rezystancji drutu, narzędzie projektowania induktora, kalkulator analizy cewki, kalkulator komponentów elektrycznych, kalkulator projektowania obwodu, kalkulator elektroniki online, darmowe narzędzie kalkulatora cewki",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Bobin Hesaplayıcı",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Bobin Hesaplayıcı - Endüktans, Tel Uzunluğu & AWG",
+        "meta_description": "Wheeler formülü kullanan ücretsiz bobin hesaplayıcı. Tek katmanlı bobinler için endüktans, tel uzunluğu, DC direnci hesaplayın. Çoklu birim ve AWG desteği.",
+        "meta_keyword": "bobin hesaplayıcı, endüktans hesaplayıcı, tel hesaplayıcı, AWG hesaplayıcı, bobin endüktansı, tel uzunluğu hesaplayıcı, DC direnç hesaplayıcı, Wheeler formül hesaplayıcı, tek katmanlı bobin hesaplayıcı, elektrik bobin hesaplayıcı, endüktör hesaplayıcı, bobin tasarım hesaplayıcı, ferrit çekirdek hesaplayıcı, hava çekirdek bobin hesaplayıcı, bakır tel direnç hesaplayıcı, AWG tel çapı hesaplayıcı, elektronik bobin hesaplayıcı, RF bobin hesaplayıcı, elektromanyetik bobin hesaplayıcı, bobin sarım hesaplayıcı, endüktans formül hesaplayıcı, elektrik mühendisliği hesaplayıcı, bobin parametre hesaplayıcı, tel direnç hesaplayıcı, endüktör tasarım aracı, bobin analiz hesaplayıcı, elektrik bileşen hesaplayıcı, devre tasarım hesaplayıcı, elektronik hesaplayıcı çevrimiçi, ücretsiz bobin hesaplayıcı aracı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

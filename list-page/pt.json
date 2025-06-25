@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Calculadora de Bobina",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Calculadora Bobina - Indutância, Comprimento Fio & AWG",
+        "meta_description": "Calculadora de bobina gratuita usando fórmula Wheeler. Calcule indutância, comprimento do fio, resistência DC para bobinas de camada única. Suporta múltiplas unidades e AWG.",
+        "meta_keyword": "calculadora bobina, calculadora indutância, calculadora fio, calculadora AWG, indutância bobina, calculadora comprimento fio, calculadora resistência DC, calculadora fórmula Wheeler, calculadora bobina camada única, calculadora bobina elétrica, calculadora indutor, calculadora projeto bobina, calculadora núcleo ferrite, calculadora bobina ar, calculadora resistência fio cobre, calculadora bitola fio AWG, calculadora bobina eletrônica, calculadora bobina RF, calculadora bobina eletromagnética, calculadora enrolamento bobina, calculadora fórmula indutância, calculadora engenharia elétrica, calculadora parâmetros bobina, calculadora resistência fio, ferramenta projeto indutor, calculadora análise bobina, calculadora componentes elétricos, calculadora projeto circuito, calculadora eletrônica online, ferramenta calculadora bobina grátis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

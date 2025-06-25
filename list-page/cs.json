@@ -698,5 +698,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "56",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "title": "Kalkulačka Cívky",
+        "slug": "coil-calculator",
+        "parent_id": "44",
+        "meta_title": "Kalkulačka Cívky - Induktance, Délka Drátu & AWG",
+        "meta_description": "Bezplatná kalkulačka cívky pomocí Wheelerova vzorce. Vypočítejte induktanci, délku drátu, DC odpor pro jednovrstvé cívky. Podporuje více jednotek a AWG.",
+        "meta_keyword": "kalkulačka cívky, kalkulačka induktance, kalkulačka drátu, kalkulačka AWG, induktance cívky, kalkulačka délky drátu, kalkulačka DC odporu, kalkulačka Wheelerova vzorce, kalkulačka jednovrstvé cívky, kalkulačka elektrické cívky, kalkulačka induktoru, kalkulačka návrhu cívky, kalkulačka feritového jádra, kalkulačka vzduchové cívky, kalkulačka odporu měděného drátu, kalkulačka průřezu AWG, kalkulačka elektronické cívky, kalkulačka RF cívky, kalkulačka elektromagnetické cívky, kalkulačka vinutí cívky, kalkulačka vzorce induktance, kalkulačka elektrotechniky, kalkulačka parametrů cívky, kalkulačka odporu drátu, nástroj pro návrh induktoru, kalkulačka analýzy cívky, kalkulačka elektrických součástek, kalkulačka návrhu obvodu, online kalkulačka elektroniky, bezplatný nástroj kalkulačky cívky",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
