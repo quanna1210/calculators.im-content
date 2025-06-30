@@ -91,7 +91,7 @@
         "orders": "10000"
     },
     {
-        "id": "8",
+        "id": "1",
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Kreditrechner mit Zahlungsaufschub",
         "slug": "deferred-payment-loan-calculator",
@@ -764,6 +764,19 @@
         "meta_title": "Lernzeit-Rechner | Fokus & Effizienz Verfolgen",
         "meta_description": "Kostenloser Lernzeit-Rechner zur Verfolgung effektiver Lernstunden, Pausen, Ablenkungen & Fokusqualität. Optimieren Sie mit Pomodoro-Technik!",
         "meta_keyword": "lernzeit rechner, effektive lernzeit, lerneffizienz rechner, lernproduktivität tracker, lernsession rechner, fokuszeit rechner, akademisches produktivitätstool, zeitmanagement studenten, wie effektive lernzeit berechnen, lernproduktivität rechner online kostenlos, lerneffizienz und fokusqualität verfolgen, pomodoro timer, lernplaner, zeitmanagement tool, fokus tracker, lernanalytik, lerngewohnheiten tracker, produktivitäts rechner, akademische leistung tracker, konzentrationsmessung tool, lernoptimierung rechner, tatsächliche vs gesamte lernzeit berechnen, lernpausen rechner mit fokusbewertung, pomodoro lernzeit tracker online, studentenproduktivität analyse tool kostenlos, lernsession effizienz rechner, lernablenkung zeit rechner, akademisches zeitmanagement rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Studentendarlehen-Rechner",
+        "slug": "student-loan-calculator",
+        "parent_id": "58",
+        "meta_title": "Studentendarlehen-Rechner - Kostenlos Berechnen",
+        "meta_description": "Kostenloser Studentendarlehen-Rechner zur Schätzung monatlicher Zahlungen, Gesamtzinsen und Rückzahlungskosten. Sofort berechnen.",
+        "meta_keyword": "studentendarlehen rechner, darlehen zahlungsrechner, monatliche zahlungsrechner, studentendarlehen zahlungen, bildungsdarlehen rechner, darlehen rückzahlungsrechner, hochschuldarlehen rechner, studentenschuld rechner, darlehen zinsrechner, finanzrechner, bildungsfinanzierung, studentendarlehen schätzer, darlehen amortisation, schuldenrechner, student finanzrechner",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

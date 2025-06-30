@@ -91,7 +91,7 @@
         "orders": "10000"
     },
     {
-        "id": "8",
+        "id": "1",
         "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Kalkulačka půjček s odloženými platbami",
         "slug": "deferred-payment-loan-calculator",
@@ -764,6 +764,19 @@
         "meta_title": "Kalkulačka Času Studia | Sleduj Fokus & Efektivitu",
         "meta_description": "Bezplatná kalkulačka času studia pro sledování efektivních hodin učení, přestávek, rozptýlení & kvality fokusace. Optimalizuj studium s Pomodoro!",
         "meta_keyword": "kalkulačka času studia, efektivní čas studia, kalkulačka efektivity učení, sledovač produktivity studia, kalkulačka studijní relace, kalkulačka času fokusace, nástroj akademické produktivity, řízení času studentů, jak vypočítat efektivní čas studia, kalkulačka produktivity studia online zdarma, sleduj efektivitu a kvalitu fokusace studia, pomodoro časovač, plánovač studia, nástroj řízení času, sledovač fokusace, analytika učení, sledovač studijních návyků, kalkulačka produktivity, sledovač akademické výkonnosti, nástroj měření koncentrace, kalkulačka optimalizace studia, vypočítej skutečný vs celkový čas studia, kalkulačka času přestávek studia s hodnocením fokusace, sledovač času studia pomodoro online, nástroj analýzy produktivity studentů zdarma, kalkulačka efektivity studijní relace, kalkulačka času rozptýlení studia, kalkulačka řízení akademického času",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Kalkulačka Studentských Půjček",
+        "slug": "student-loan-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulačka Studentských Půjček - Spočítejte Splátky",
+        "meta_description": "Bezplatná kalkulačka studentských půjček pro odhad měsíčních splátek, celkového úroku a nákladů na splácení. Spočítejte splátky okamžitě.",
+        "meta_keyword": "kalkulačka studentských půjček, kalkulačka splátek půjček, kalkulačka měsíčních splátek, splátky studentských půjček, kalkulačka vzdělávacích půjček, kalkulačka splácení půjček, kalkulačka vysokoškolských půjček, kalkulačka studentských dluhů, kalkulačka úroků z půjček, finanční kalkulačka, financování vzdělání, odhad studentských půjček, amortizace půjček, kalkulačka dluhů, studentská finanční kalkulačka",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

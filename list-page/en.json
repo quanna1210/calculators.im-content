@@ -763,5 +763,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Student Loan Calculator",
+        "slug": "student-loan-calculator",
+        "parent_id": "58",
+        "meta_title": "Student Loan Calculator - Calculate Monthly Payments Free",
+        "meta_description": "Free student loan calculator to estimate monthly payments, total interest, and repayment costs. Calculate loan payments instantly with our easy-to-use tool.",
+        "meta_keyword": "student loan calculator, loan payment calculator, monthly payment calculator, student loan payment, education loan calculator, loan repayment calculator, college loan calculator, student debt calculator, loan interest calculator, financial calculator, education financing, student loan estimator, loan amortization, debt calculator, student finance calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
