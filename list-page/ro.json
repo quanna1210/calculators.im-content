@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Calculatoare Educaționale",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatoare Educaționale | GPA, Costuri și Instrumente",
+        "meta_description": "Calculatoare educaționale gratuite pentru GPA, conversie note, timp studiu, costuri educaționale și împrumuturi. Instrumente esențiale pentru studenți.",
+        "meta_keyword": "Calculator educațional, Calculator GPA, Calculator note, Calculator studiu, Instrumente educaționale, Calculator student, Calculator academic, Calculator școlar, Calculator educațional gratuit, Calculator GPA online, Calculator medie note, Calculator costuri educație, Calculator împrumut student, Calculator timp studiu, Instrument conversie note, Instrument planificare academică, Calculator ROI educație, Calculator finalizare program, Calculator competență lingvistică, Calculator încărcare studiu, Calculează GPA online gratuit, Cum să calculezi costurile educaționale, Calculator plată împrumut student",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Calculatoare Financiare",
+        "Lista calculatoarelor educaționale populare"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Calculator GPA (Media Academică)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculator GPA Gratuit Online | Calculează Media Note",
+        "meta_description": "Calculează-ți GPA-ul instant cu calculatorul nostru GPA online gratuit. Adaugă cursuri, introdu note și credite pentru rezultate precise și rapide!",
+        "meta_keyword": "calculator GPA, calculator GPA gratuit, calculator GPA online, calculator note, calculează GPA, media academică, calculator GPA student, calculator GPA universitate, calculator GPA cu credite, calculator GPA semestru, calculator GPA cumulativ, calculator GPA liceu, calculator GPA ponderat, calculator GPA neponderat, instrument calculator GPA, calculator GPA academic, calculator note cursuri, calculator GPA foaie matricolă, calculator GPA online gratuit cu credite cursuri, calculează media academică online gratuit, cum să calculezi GPA cu note cursuri, calculator GPA pentru studenți universitari gratuit, calculator GPA online rezultate instantanee, calculează GPA semestru cu note literă, calculator GPA gratuit fără înregistrare, calculator GPA adaugă cursuri și note, calculează GPA cumulativ instrument online, calculator media academică student gratuit, calculator GPA online cu statistici, calculează GPA din note foaie matricolă, calculator GPA academic gratuit online, calculator GPA cu puncte calitate, calculează GPA universitate online instant",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Calculator Timp de Studiu",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculator Timp Studiu | Concentrare & Eficiență",
+        "meta_description": "Calculator gratuit timp studiu pentru urmărirea orelor efective, pauzelor, distragerilor și calității concentrării. Optimizează cu Pomodoro!",
+        "meta_keyword": "calculator timp studiu, timp studiu efectiv, calculator eficiență învățare, tracker productivitate studiu, calculator sesiune studiu, calculator timp concentrare, instrument productivitate academică, management timp studenți, cum să calculez timp studiu efectiv, calculator productivitate studiu online gratuit, urmărire eficiență și calitate concentrare studiu, timer pomodoro, planificator studiu, instrument management timp, tracker concentrare, analiză învățare, tracker obiceiuri studiu, calculator productivitate, tracker performanță academică, instrument măsurare concentrare, calculator optimizare studiu, calculează timp studiu real vs total, calculator timp pauză studiu cu evaluare concentrare, tracker timp studiu pomodoro online, instrument analiză productivitate studenți gratuit, calculator eficiență sesiune învățare, calculator timp distragere studiu, calculator management timp academic",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Onderwijscalculators",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Onderwijscalculators | GPA, Kosten & Studiehulpmiddelen",
+        "meta_description": "Gratis onderwijscalculators voor GPA, cijferconversie, studietijd, onderwijskosten en leningen. Essentiële tools voor studenten, ouders en docenten.",
+        "meta_keyword": "Onderwijscalculator, GPA calculator, Cijfercalculator, Studiecalculator, Onderwijstools, Studentencalculator, Academische calculator, Schoolcalculator, Gratis onderwijscalculator, Online GPA calculator, Cijfergemiddelde calculator, Onderwijskosten calculator, Studielening calculator, Studietijd calculator, Cijferconversie tool, Academische planning tool, Onderwijs ROI calculator, Programmavoltooing calculator, Taalvaardigheid calculator, Studiebelasting calculator, GPA berekenen online gratis, Onderwijskosten berekenen, Studielening betaling calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Financiële Rekenmachines",
+        "Lijst van populaire onderwijsrekenmachines"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "GPA Calculator (Gemiddeld Cijfer)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Gratis GPA Calculator Online | Bereken Gemiddeld Cijfer",
+        "meta_description": "Bereken uw GPA direct met onze gratis online GPA calculator. Voeg vakken toe, voer cijfers en studiepunten in voor nauwkeurige resultaten!",
+        "meta_keyword": "GPA calculator, gratis GPA calculator, online GPA calculator, cijfer calculator, GPA berekenen, gemiddeld cijfer, student GPA calculator, universiteit GPA calculator, GPA calculator met studiepunten, semester GPA calculator, cumulatieve GPA calculator, middelbare school GPA calculator, gewogen GPA calculator, ongewogen GPA calculator, GPA calculator tool, academische GPA calculator, vak cijfer calculator, transcript GPA calculator, gratis online GPA calculator met vak studiepunten, gemiddeld cijfer berekenen online gratis, hoe GPA berekenen met vak cijfers, GPA calculator voor universiteitsstudenten gratis, online GPA calculator directe resultaten, semester GPA berekenen met letter cijfers, gratis GPA calculator zonder registratie, GPA calculator vakken en cijfers toevoegen, cumulatieve GPA berekenen online tool, student gemiddeld cijfer calculator gratis, online GPA calculator met statistieken, GPA berekenen vanaf transcript cijfers, gratis academische GPA calculator online, GPA calculator met kwaliteitspunten, universiteit GPA berekenen online direct",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Studietijd Calculator",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Studietijd Calculator | Focus & Efficiëntie Volgen",
+        "meta_description": "Gratis studietijd calculator om effectieve studieuren, pauzes, afleidingen & focuskwaliteit te volgen. Optimaliseer uw sessies met Pomodoro!",
+        "meta_keyword": "studietijd calculator, effectieve studietijd, studie-efficiëntie calculator, studieproductiviteit tracker, studiesessie calculator, focustijd calculator, academische productiviteit tool, tijdmanagement studenten, hoe effectieve studietijd berekenen, studieproductiviteit calculator online gratis, studie-efficiëntie en focuskwaliteit volgen, pomodoro timer, studieplanner, tijdmanagement tool, focus tracker, leeranalyse, studiegewoonten tracker, productiviteitscalculator, academische prestatie tracker, concentratiemeting tool, studieoptimalisatie calculator, werkelijke vs totale studietijd berekenen, studiepauze calculator met focusbeoordeling, pomodoro studietijd tracker online, studentenproductiviteit analyse tool gratis, studiesessie efficiëntie calculator, studieafleiding tijd calculator, academisch tijdmanagement calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

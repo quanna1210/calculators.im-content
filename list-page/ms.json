@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Kalkulator Pendidikan",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Pendidikan | GPA, Kos & Alat Pembelajaran",
+        "meta_description": "Kalkulator pendidikan percuma untuk GPA, penukaran gred, masa belajar, kos pendidikan & pinjaman. Alat penting untuk pelajar, ibu bapa & pendidik.",
+        "meta_keyword": "Kalkulator pendidikan, Kalkulator GPA, Kalkulator gred, Kalkulator pembelajaran, Alat pendidikan, Kalkulator pelajar, Kalkulator akademik, Kalkulator sekolah, Kalkulator pendidikan percuma, Kalkulator GPA dalam talian, Kalkulator purata mata gred, Kalkulator kos pendidikan, Kalkulator pinjaman pelajar, Kalkulator masa belajar, Alat penukaran gred, Alat perancangan akademik, Kalkulator ROI pendidikan, Kalkulator pelengkapan program, Kalkulator kecekapan bahasa, Kalkulator beban pembelajaran, Kira GPA dalam talian percuma, Cara mengira kos pendidikan, Kalkulator bayaran pinjaman pelajar, Kalkulator pendidikan terbaik, Alat prestasi akademik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Kalkulator Kewangan",
+        "Senarai kalkulator pendidikan popular"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Kalkulator GPA (Purata Mata Gred)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator GPA Percuma Online | Kira Purata Mata Gred",
+        "meta_description": "Kira GPA anda secara serta-merta dengan kalkulator GPA online percuma. Tambah kursus, masukkan gred & kredit untuk hasil GPA tepat dan pantas!",
+        "meta_keyword": "kalkulator GPA, kalkulator GPA percuma, kalkulator GPA online, kalkulator gred, kira GPA, purata mata gred, kalkulator GPA pelajar, kalkulator GPA kolej, kalkulator GPA universiti, kalkulator GPA dengan kredit, kalkulator GPA semester, kalkulator GPA kumulatif, kalkulator GPA sekolah menengah, kalkulator GPA berwajaran, kalkulator GPA tidak berwajaran, alat kalkulator GPA, kalkulator GPA akademik, kalkulator gred kursus, kalkulator GPA transkrip, kalkulator GPA online percuma dengan kredit kursus, kira purata mata gred online percuma, cara kira GPA dengan gred kursus, kalkulator GPA untuk pelajar kolej percuma, kalkulator GPA online keputusan segera, kira GPA semester dengan gred huruf, kalkulator GPA percuma tanpa pendaftaran, kalkulator GPA tambah kursus dan gred, kira GPA kumulatif alat online, kalkulator purata mata gred pelajar percuma, kalkulator GPA online dengan statistik, kira GPA dari gred transkrip, kalkulator GPA akademik percuma online, kalkulator GPA dengan mata kualiti, kira GPA kolej online serta-merta",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Kalkulator Masa Pembelajaran",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Masa Belajar | Jejak Tumpuan & Kecekapan",
+        "meta_description": "Kalkulator masa belajar percuma untuk jejaki jam pembelajaran berkesan, rehat, gangguan & kualiti tumpuan. Optimumkan sesi belajar dengan Pomodoro!",
+        "meta_keyword": "kalkulator masa belajar, masa belajar berkesan, kalkulator kecekapan pembelajaran, penjejak produktiviti belajar, kalkulator sesi belajar, kalkulator masa tumpuan, alat produktiviti akademik, pengurusan masa pelajar, cara mengira masa belajar berkesan, kalkulator produktiviti belajar dalam talian percuma, jejak kecekapan dan kualiti tumpuan belajar, pemasa pomodoro, perancang belajar, alat pengurusan masa, penjejak tumpuan, analitik pembelajaran, penjejak tabiat belajar, kalkulator produktiviti, penjejak prestasi akademik, alat pengukur tumpuan, kalkulator pengoptimuman belajar, kira masa belajar sebenar vs jumlah, kalkulator masa rehat belajar dengan penilaian tumpuan, penjejak masa belajar pomodoro dalam talian, alat analisis produktiviti pelajar percuma, kalkulator kecekapan sesi pembelajaran, kalkulator masa gangguan belajar, kalkulator pengurusan masa akademik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

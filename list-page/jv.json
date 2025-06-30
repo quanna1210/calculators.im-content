@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Kalkulator Pendhidhikan",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Pendhidhikan | GPA, Biaya & Piranti Sinau",
+        "meta_description": "Kalkulator pendhidhikan gratis kanggo GPA, konversi nilai, wektu sinau, biaya pendhidhikan & utangan. Piranti penting kanggo siswa, wong tuwa & pendidik.",
+        "meta_keyword": "Kalkulator pendhidhikan, Kalkulator GPA, Kalkulator nilai, Kalkulator sinau, Piranti pendhidhikan, Kalkulator siswa, Kalkulator akademik, Kalkulator sekolah, Kalkulator pendhidhikan gratis, Kalkulator GPA online, Kalkulator rata-rata nilai, Kalkulator biaya pendhidhikan, Kalkulator utangan mahasiswa, Kalkulator wektu sinau, Piranti konversi nilai, Piranti perencanaan akademik, Kalkulator ROI pendhidhikan, Kalkulator penyelesaian program, Kalkulator kemampuan basa, Kalkulator beban sinau, Ngitung GPA online gratis, Cara ngitung biaya pendhidhikan, Kalkulator pembayaran utangan mahasiswa",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Kalkulator Keuangan",
+        "Dhaptar kalkulator pendidikan populer"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Kalkulator IPK (Indeks Prestasi Kumulatif)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator IPK Gratis Online | Ngetung Indeks Prestasi",
+        "meta_description": "Ngetung IPK sampeyan kanthi cepet nganggo kalkulator IPK online gratis. Tambah mata kuliah, lebokna nilai & SKS kanggo asil IPK akurat lan cepet!",
+        "meta_keyword": "kalkulator IPK, kalkulator IPK gratis, kalkulator IPK online, kalkulator nilai, ngetung IPK, indeks prestasi kumulatif, kalkulator IPK mahasiswa, kalkulator IPK kuliah, kalkulator IPK universitas, kalkulator IPK karo SKS, kalkulator IPK semester, kalkulator IPK kumulatif, kalkulator IPK SMA, kalkulator IPK tertimbang, kalkulator IPK ora tertimbang, piranti kalkulator IPK, kalkulator IPK akademik, kalkulator nilai mata kuliah, kalkulator IPK transkrip, kalkulator IPK online gratis karo SKS mata kuliah, ngetung indeks prestasi kumulatif online gratis, cara ngetung IPK karo nilai mata kuliah, kalkulator IPK kanggo mahasiswa gratis, kalkulator IPK online asil cepet, ngetung IPK semester karo nilai huruf, kalkulator IPK gratis tanpa daftar, kalkulator IPK tambah mata kuliah lan nilai, ngetung IPK kumulatif alat online, kalkulator indeks prestasi mahasiswa gratis, kalkulator IPK online karo statistik, ngetung IPK saka nilai transkrip, kalkulator IPK akademik gratis online, kalkulator IPK karo poin kualitas, ngetung IPK kuliah online cepet",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Kalkulator Wektu Sinau",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Wektu Sinau | Lacak Fokus & Efisiensi",
+        "meta_description": "Kalkulator wektu sinau gratis kanggo nlacak jam sinau efektif, istirahat, gangguan & kualitas fokus. Optimalkake sesi sinau nganggo Pomodoro!",
+        "meta_keyword": "kalkulator wektu sinau, wektu sinau efektif, kalkulator efisiensi sinau, pelacak produktivitas sinau, kalkulator sesi sinau, kalkulator wektu fokus, alat produktivitas akademik, manajemen wektu mahasiswa, cara ngitung wektu sinau efektif, kalkulator produktivitas sinau online gratis, lacak efisiensi lan kualitas fokus sinau, timer pomodoro, perencana sinau, alat manajemen wektu, pelacak fokus, analitik pembelajaran, pelacak kebiasaan sinau, kalkulator produktivitas, pelacak kinerja akademik, alat ukur konsentrasi, kalkulator optimasi sinau, itung wektu sinau nyata vs total, kalkulator wektu istirahat sinau karo rating fokus, pelacak wektu sinau pomodoro online, alat analisis produktivitas mahasiswa gratis, kalkulator efisiensi sesi pembelajaran, kalkulator wektu gangguan sinau, kalkulator manajemen wektu akademik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

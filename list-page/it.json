@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Calcolatrici Educative",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Calcolatrici Educative | GPA, Costi e Strumenti Studio",
+        "meta_description": "Calcolatrici educative gratuite per GPA, conversione voti, tempo studio, costi educativi e prestiti. Strumenti essenziali per studenti, genitori ed educatori.",
+        "meta_keyword": "Calcolatrice educativa, Calcolatrice GPA, Calcolatrice voti, Calcolatrice studio, Strumenti educativi, Calcolatrice studente, Calcolatrice accademica, Calcolatrice scolastica, Calcolatrice educativa gratuita, Calcolatrice GPA online, Calcolatrice media voti, Calcolatrice costi educazione, Calcolatrice prestito studente, Calcolatrice tempo studio, Strumento conversione voti, Strumento pianificazione accademica, Calcolatrice ROI educazione, Calcolatrice completamento programma, Calcolatrice competenza linguistica, Calcolatrice carico studio, Calcolare GPA online gratis, Come calcolare costi educativi, Calcolatrice pagamento prestito studente",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Calcolatrici Finanziarie",
+        "Elenco di calcolatrici educative popolari"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Calcolatrice GPA (Media dei Voti)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Calcolatrice GPA Gratuita Online | Calcola Media Voti",
+        "meta_description": "Calcola il tuo GPA istantaneamente con la nostra calcolatrice GPA online gratuita. Aggiungi corsi, inserisci voti e crediti per risultati accurati!",
+        "meta_keyword": "calcolatrice GPA, calcolatrice GPA gratuita, calcolatrice GPA online, calcolatrice voti, calcolare GPA, media dei voti, calcolatrice GPA studente, calcolatrice GPA università, calcolatrice GPA con crediti, calcolatrice GPA semestre, calcolatrice GPA cumulativa, calcolatrice GPA scuola superiore, calcolatrice GPA ponderata, calcolatrice GPA non ponderata, strumento calcolatrice GPA, calcolatrice GPA accademica, calcolatrice voti corsi, calcolatrice GPA libretto, calcolatrice GPA online gratuita con crediti corsi, calcolare media dei voti online gratis, come calcolare GPA con voti corsi, calcolatrice GPA per studenti universitari gratuita, calcolatrice GPA online risultati istantanei, calcolare GPA semestre con voti lettera, calcolatrice GPA gratuita senza registrazione, calcolatrice GPA aggiungi corsi e voti, calcolare GPA cumulativo strumento online, calcolatrice media voti studente gratuita, calcolatrice GPA online con statistiche, calcolare GPA da voti libretto, calcolatrice GPA accademica gratuita online, calcolatrice GPA con punti qualità, calcolare GPA università online istantaneo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Calcolatore Tempo di Studio",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calcolatore Tempo Studio | Focus & Efficienza",
+        "meta_description": "Calcolatore gratuito tempo studio per tracciare ore efficaci, pause, distrazioni e qualità concentrazione. Ottimizza le sessioni con Pomodoro!",
+        "meta_keyword": "calcolatore tempo studio, tempo studio efficace, calcolatore efficienza apprendimento, tracker produttività studio, calcolatore sessione studio, calcolatore tempo concentrazione, strumento produttività accademica, gestione tempo studenti, come calcolare tempo studio efficace, calcolatore produttività studio online gratis, tracciare efficienza e qualità concentrazione studio, timer pomodoro, pianificatore studio, strumento gestione tempo, tracker concentrazione, analisi apprendimento, tracker abitudini studio, calcolatore produttività, tracker performance accademica, strumento misurazione concentrazione, calcolatore ottimizzazione studio, calcolare tempo studio reale vs totale, calcolatore tempo pausa studio con valutazione concentrazione, tracker tempo studio pomodoro online, strumento analisi produttività studenti gratis, calcolatore efficienza sessione apprendimento, calcolatore tempo distrazione studio, calcolatore gestione tempo accademico",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

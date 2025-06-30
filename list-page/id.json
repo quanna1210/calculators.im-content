@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Kalkulator Pendidikan",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Pendidikan | IPK, Biaya & Alat Belajar Online",
+        "meta_description": "Kalkulator pendidikan gratis untuk IPK, konversi nilai, waktu belajar, biaya pendidikan & pinjaman. Alat penting untuk siswa, orang tua & pendidik.",
+        "meta_keyword": "Kalkulator pendidikan, Kalkulator IPK, Kalkulator nilai, Kalkulator belajar, Alat pendidikan, Kalkulator siswa, Kalkulator akademik, Kalkulator sekolah, Kalkulator pendidikan gratis, Kalkulator IPK online, Kalkulator rata-rata nilai, Kalkulator biaya pendidikan, Kalkulator pinjaman mahasiswa, Kalkulator waktu belajar, Alat konversi nilai, Alat perencanaan akademik, Kalkulator ROI pendidikan, Kalkulator penyelesaian program, Kalkulator kemampuan bahasa, Kalkulator beban belajar, Kalkulator pendidikan online gratis, Hitung IPK online gratis, Cara menghitung biaya pendidikan, Kalkulator pembayaran pinjaman mahasiswa, Kalkulator pendidikan terbaik, Alat kinerja akademik, Perencanaan pendidikan online, Kalkulator efisiensi belajar gratis, Kalkulator biaya kuliah dengan pinjaman",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Kalkulator Keuangan",
+        "Daftar kalkulator pendidikan populer"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Kalkulator IPK (Indeks Prestasi Kumulatif)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator IPK Gratis Online | Hitung Indeks Prestasi",
+        "meta_description": "Hitung IPK Anda secara instan dengan kalkulator IPK online gratis. Tambah mata kuliah, masukkan nilai & SKS untuk hasil IPK akurat dan cepat!",
+        "meta_keyword": "kalkulator IPK, kalkulator IPK gratis, kalkulator IPK online, kalkulator nilai, hitung IPK, indeks prestasi kumulatif, kalkulator IPK mahasiswa, kalkulator IPK kuliah, kalkulator IPK universitas, kalkulator IPK dengan SKS, kalkulator IPK semester, kalkulator IPK kumulatif, kalkulator IPK SMA, kalkulator IPK tertimbang, kalkulator IPK tidak tertimbang, alat kalkulator IPK, kalkulator IPK akademik, kalkulator nilai mata kuliah, kalkulator IPK transkrip, kalkulator IPK online gratis dengan SKS mata kuliah, hitung indeks prestasi kumulatif online gratis, cara menghitung IPK dengan nilai mata kuliah, kalkulator IPK untuk mahasiswa gratis, kalkulator IPK online hasil instan, hitung IPK semester dengan nilai huruf, kalkulator IPK gratis tanpa registrasi, kalkulator IPK tambah mata kuliah dan nilai, hitung IPK kumulatif online tool, kalkulator indeks prestasi mahasiswa gratis, kalkulator IPK online dengan statistik, hitung IPK dari nilai transkrip, kalkulator IPK akademik gratis online, kalkulator IPK dengan poin kualitas, hitung IPK kuliah online instan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Kalkulator Waktu Belajar",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Waktu Belajar | Lacak Fokus & Efisiensi",
+        "meta_description": "Kalkulator waktu belajar gratis untuk melacak jam belajar efektif, istirahat, gangguan & kualitas fokus. Optimalkan sesi belajar dengan teknik Pomodoro!",
+        "meta_keyword": "kalkulator waktu belajar, waktu belajar efektif, kalkulator efisiensi belajar, pelacak produktivitas belajar, kalkulator sesi belajar, kalkulator waktu fokus, alat produktivitas akademik, manajemen waktu mahasiswa, cara menghitung waktu belajar efektif, kalkulator produktivitas belajar online gratis, lacak efisiensi dan kualitas fokus belajar, timer pomodoro, perencana belajar, alat manajemen waktu, pelacak fokus, analitik pembelajaran, pelacak kebiasaan belajar, kalkulator produktivitas, pelacak performa akademik, alat pengukur konsentrasi, kalkulator optimasi belajar, hitung waktu belajar aktual vs total, kalkulator waktu istirahat belajar dengan rating fokus, pelacak waktu belajar pomodoro online, alat analisis produktivitas mahasiswa gratis, kalkulator efisiensi sesi pembelajaran, kalkulator waktu gangguan belajar, kalkulator manajemen waktu akademik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

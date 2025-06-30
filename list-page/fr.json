@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Calculateurs Éducatifs",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculateurs Éducatifs | GPA, Coûts et Outils d'Étude",
+        "meta_description": "Calculateurs éducatifs gratuits pour GPA, conversion de notes, temps d'étude, coûts éducatifs et prêts. Outils essentiels pour étudiants et éducateurs.",
+        "meta_keyword": "Calculateur éducatif, Calculateur GPA, Calculateur de notes, Calculateur d'étude, Outils éducatifs, Calculateur étudiant, Calculateur académique, Calculateur scolaire, Calculateur éducatif gratuit, Calculateur GPA en ligne, Calculateur moyenne des notes, Calculateur coûts éducation, Calculateur prêt étudiant, Calculateur temps d'étude, Outil conversion notes, Outil planification académique, Calculateur ROI éducation, Calculateur achèvement programme, Calculateur compétence linguistique, Calculateur charge d'étude, Calculer GPA en ligne gratuit, Comment calculer coûts éducatifs, Calculateur remboursement prêt étudiant",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Calculatrices Financières",
+        "Liste des calculatrices éducatives populaires"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Calculatrice GPA (Moyenne Générale Pondérée)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculatrice GPA Gratuite | Calculer Moyenne Pondérée",
+        "meta_description": "Calculez votre GPA instantanément avec notre calculatrice GPA en ligne gratuite. Ajoutez cours, notes et crédits pour des résultats précis et rapides!",
+        "meta_keyword": "calculatrice GPA, calculatrice GPA gratuite, calculatrice GPA en ligne, calculatrice notes, calculer GPA, moyenne générale pondérée, calculatrice GPA étudiant, calculatrice GPA université, calculatrice GPA avec crédits, calculatrice GPA semestre, calculatrice GPA cumulative, calculatrice GPA lycée, calculatrice GPA pondérée, calculatrice GPA non pondérée, outil calculatrice GPA, calculatrice GPA académique, calculatrice notes cours, calculatrice GPA relevé, calculatrice GPA en ligne gratuite avec crédits cours, calculer moyenne générale pondérée en ligne gratuit, comment calculer GPA avec notes cours, calculatrice GPA pour étudiants universitaires gratuite, calculatrice GPA en ligne résultats instantanés, calculer GPA semestre avec notes lettres, calculatrice GPA gratuite sans inscription, calculatrice GPA ajouter cours et notes, calculer GPA cumulative outil en ligne, calculatrice moyenne générale étudiant gratuite, calculatrice GPA en ligne avec statistiques, calculer GPA depuis notes relevé, calculatrice GPA académique gratuite en ligne, calculatrice GPA avec points qualité, calculer GPA université en ligne instantané",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Calculatrice Temps d'Étude",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculatrice Temps Étude | Focus & Efficacité",
+        "meta_description": "Calculatrice gratuite de temps d'étude pour suivre les heures efficaces, pauses, distractions et qualité de concentration. Optimisez avec Pomodoro!",
+        "meta_keyword": "calculatrice temps étude, temps étude efficace, calculatrice efficacité apprentissage, traqueur productivité étude, calculatrice session étude, calculatrice temps concentration, outil productivité académique, gestion temps étudiants, comment calculer temps étude efficace, calculatrice productivité étude en ligne gratuit, suivre efficacité et qualité concentration étude, minuteur pomodoro, planificateur étude, outil gestion temps, traqueur concentration, analytique apprentissage, traqueur habitudes étude, calculatrice productivité, traqueur performance académique, outil mesure concentration, calculatrice optimisation étude, calculer temps étude réel vs total, calculatrice temps pause étude avec évaluation concentration, traqueur temps étude pomodoro en ligne, outil analyse productivité étudiants gratuit, calculatrice efficacité session apprentissage, calculatrice temps distraction étude, calculatrice gestion temps académique",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

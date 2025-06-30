@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Oktatási Kalkulátorok",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Oktatási Kalkulátorok | GPA, Költségek és Tanulási Eszközök",
+        "meta_description": "Ingyenes oktatási kalkulátorok GPA-hoz, jegyátváltáshoz, tanulási időhöz, oktatási költségekhez és kölcsönökhöz. Alapvető eszközök diákoknak és oktatóknak.",
+        "meta_keyword": "Oktatási kalkulátor, GPA kalkulátor, Jegy kalkulátor, Tanulási kalkulátor, Oktatási eszközök, Diák kalkulátor, Akadémiai kalkulátor, Iskolai kalkulátor, Ingyenes oktatási kalkulátor, Online GPA kalkulátor, Jegyátlag kalkulátor, Oktatási költség kalkulátor, Diákhitel kalkulátor, Tanulási idő kalkulátor, Jegyátváltó eszköz, Akadémiai tervező eszköz, Oktatási ROI kalkulátor, Program befejezési kalkulátor, Nyelvtudás kalkulátor, Tanulási terhelés kalkulátor, GPA számítása online ingyen, Oktatási költségek számítása, Diákhitel fizetési kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Pénzügyi Kalkulátorok",
+        "Népszerű oktatási kalkulátorok listája"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "GPA Számológép (Tanulmányi Átlag)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Ingyenes GPA Számológép Online | Tanulmányi Átlag",
+        "meta_description": "Számítsa ki GPA-ját azonnal ingyenes online GPA számológépünkkel. Adjon hozzá tantárgyakat, jegyeket és krediteket a pontos eredményekért!",
+        "meta_keyword": "GPA számológép, ingyenes GPA számológép, online GPA számológép, jegy számológép, GPA számítás, tanulmányi átlag, diák GPA számológép, egyetemi GPA számológép, GPA számológép kreditekkel, féléves GPA számológép, kumulatív GPA számológép, középiskolai GPA számológép, súlyozott GPA számológép, nem súlyozott GPA számológép, GPA számológép eszköz, akadémiai GPA számológép, tantárgy jegy számológép, bizonyítvány GPA számológép, ingyenes online GPA számológép tantárgy kreditekkel, tanulmányi átlag számítás online ingyen, hogyan számítsuk ki a GPA-t tantárgy jegyekkel, GPA számológép egyetemi hallgatóknak ingyen, online GPA számológép azonnali eredmények, féléves GPA számítás betű jegyekkel, ingyenes GPA számológép regisztráció nélkül, GPA számológép tantárgyak és jegyek hozzáadása, kumulatív GPA számítás online eszköz, diák tanulmányi átlag számológép ingyen, online GPA számológép statisztikákkal, GPA számítás bizonyítvány jegyekből, ingyenes akadémiai GPA számológép online, GPA számológép minőségi pontokkal, egyetemi GPA számítás online azonnal",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Tanulási Idő Kalkulátor",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Tanulási Idő Kalkulátor | Fókusz & Hatékonyság",
+        "meta_description": "Ingyenes tanulási idő kalkulátor a hatékony tanulási órák, szünetek, figyelemelterelések és fókusz minőség követésére. Optimalizáljon Pomodoro-val!",
+        "meta_keyword": "tanulási idő kalkulátor, hatékony tanulási idő, tanulási hatékonyság kalkulátor, tanulási produktivitás követő, tanulási munkamenet kalkulátor, fókusz idő kalkulátor, akadémiai produktivitás eszköz, diák időmenedzsment, hogyan számítsuk ki a hatékony tanulási időt, tanulási produktivitás kalkulátor online ingyen, tanulási hatékonyság és fókusz minőség követése, pomodoro időzítő, tanulási tervező, időmenedzsment eszköz, fókusz követő, tanulási analitika, tanulási szokások követő, produktivitás kalkulátor, akadémiai teljesítmény követő, koncentráció mérő eszköz, tanulási optimalizálás kalkulátor, valós vs teljes tanulási idő számítása, tanulási szünet kalkulátor fókusz értékeléssel, pomodoro tanulási idő követő online, diák produktivitás elemző eszköz ingyen, tanulási munkamenet hatékonyság kalkulátor, tanulási figyelemelterelés idő kalkulátor, akadémiai időmenedzsment kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Vzdělávací Kalkulačky",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Vzdělávací Kalkulačky | GPA, Náklady & Studijní Nástroje",
+        "meta_description": "Bezplatné vzdělávací kalkulačky pro GPA, převod známek, studijní čas, vzdělávací náklady a půjčky. Nezbytné nástroje pro studenty, rodiče a pedagogy.",
+        "meta_keyword": "Vzdělávací kalkulačka, GPA kalkulačka, Kalkulačka známek, Studijní kalkulačka, Vzdělávací nástroje, Studentská kalkulačka, Akademická kalkulačka, Školní kalkulačka, Bezplatná vzdělávací kalkulačka, Online GPA kalkulačka, Kalkulačka průměru známek, Kalkulačka vzdělávacích nákladů, Kalkulačka studentských půjček, Kalkulačka studijního času, Nástroj převodu známek, Nástroj akademického plánování, Kalkulačka ROI vzdělání, Kalkulačka dokončení programu, Kalkulačka jazykových dovedností, Kalkulačka studijní zátěže, Vypočítat GPA online zdarma, Jak vypočítat vzdělávací náklady, Kalkulačka splácení studentských půjček",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Finanční Kalkulačky",
+        "Seznam populárních vzdělávacích kalkulaček"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "GPA Kalkulačka (Průměr Známek)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Zdarma GPA Kalkulačka Online | Výpočet Průměru Známek",
+        "meta_description": "Vypočítejte svůj GPA okamžitě s naší bezplatnou online GPA kalkulačkou. Přidejte předměty, zadejte známky a kredity pro přesné výsledky!",
+        "meta_keyword": "GPA kalkulačka, zdarma GPA kalkulačka, online GPA kalkulačka, kalkulačka známek, vypočítat GPA, průměr známek, studentská GPA kalkulačka, vysokoškolská GPA kalkulačka, univerzitní GPA kalkulačka, GPA kalkulačka s kredity, semestrální GPA kalkulačka, kumulativní GPA kalkulačka, středoškolská GPA kalkulačka, vážená GPA kalkulačka, nevážená GPA kalkulačka, nástroj GPA kalkulačka, akademická GPA kalkulačka, kalkulačka známek předmětů, kalkulačka GPA z výpisu, bezplatná online GPA kalkulačka s kredity předmětů, vypočítat průměr známek online zdarma, jak vypočítat GPA se známkami předmětů, GPA kalkulačka pro vysokoškolské studenty zdarma, online GPA kalkulačka okamžité výsledky, vypočítat semestrální GPA s písemnými známkami, zdarma GPA kalkulačka bez registrace, GPA kalkulačka přidat předměty a známky, vypočítat kumulativní GPA online nástroj, studentská průměr známek kalkulačka zdarma, online GPA kalkulačka se statistikami, vypočítat GPA z výpisu známek, zdarma akademická GPA kalkulačka online, GPA kalkulačka s kvalitními body, vypočítat vysokoškolský GPA online okamžitě",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Kalkulačka Času Studia",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulačka Času Studia | Sleduj Fokus & Efektivitu",
+        "meta_description": "Bezplatná kalkulačka času studia pro sledování efektivních hodin učení, přestávek, rozptýlení & kvality fokusace. Optimalizuj studium s Pomodoro!",
+        "meta_keyword": "kalkulačka času studia, efektivní čas studia, kalkulačka efektivity učení, sledovač produktivity studia, kalkulačka studijní relace, kalkulačka času fokusace, nástroj akademické produktivity, řízení času studentů, jak vypočítat efektivní čas studia, kalkulačka produktivity studia online zdarma, sleduj efektivitu a kvalitu fokusace studia, pomodoro časovač, plánovač studia, nástroj řízení času, sledovač fokusace, analytika učení, sledovač studijních návyků, kalkulačka produktivity, sledovač akademické výkonnosti, nástroj měření koncentrace, kalkulačka optimalizace studia, vypočítej skutečný vs celkový čas studia, kalkulačka času přestávek studia s hodnocením fokusace, sledovač času studia pomodoro online, nástroj analýzy produktivity studentů zdarma, kalkulačka efektivity studijní relace, kalkulačka času rozptýlení studia, kalkulačka řízení akademického času",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

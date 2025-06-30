@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Eğitim Hesaplayıcıları",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Eğitim Hesaplayıcıları | GPA, Maliyet ve Çalışma Araçları",
+        "meta_description": "GPA, not dönüşümü, çalışma süresi, eğitim maliyetleri ve krediler için ücretsiz eğitim hesaplayıcıları. Öğrenciler, veliler ve eğitimciler için temel araçlar.",
+        "meta_keyword": "Eğitim hesaplayıcısı, GPA hesaplayıcısı, Not hesaplayıcısı, Çalışma hesaplayıcısı, Eğitim araçları, Öğrenci hesaplayıcısı, Akademik hesaplayıcı, Okul hesaplayıcısı, Ücretsiz eğitim hesaplayıcısı, Online GPA hesaplayıcısı, Not ortalaması hesaplayıcısı, Eğitim maliyeti hesaplayıcısı, Öğrenci kredisi hesaplayıcısı, Çalışma süresi hesaplayıcısı, Not dönüşüm aracı, Akademik planlama aracı, Eğitim ROI hesaplayıcısı, Program tamamlama hesaplayıcısı, Dil yeterliliği hesaplayıcısı, Çalışma yükü hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Finansal Hesaplayıcılar",
+        "Popüler eğitim hesaplayıcıları listesi"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "GPA Hesaplayıcı (Not Ortalaması)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Ücretsiz GPA Hesaplayıcı Online | Not Ortalaması Hesapla",
+        "meta_description": "Ücretsiz online GPA hesaplayıcımızla GPA'nızı anında hesaplayın. Ders ekleyin, not ve kredi girin, doğru ve hızlı sonuçlar alın!",
+        "meta_keyword": "GPA hesaplayıcı, ücretsiz GPA hesaplayıcı, online GPA hesaplayıcı, not hesaplayıcı, GPA hesapla, not ortalaması, öğrenci GPA hesaplayıcı, üniversite GPA hesaplayıcı, kredili GPA hesaplayıcı, dönem GPA hesaplayıcı, kümülatif GPA hesaplayıcı, lise GPA hesaplayıcı, ağırlıklı GPA hesaplayıcı, ağırlıksız GPA hesaplayıcı, GPA hesaplayıcı aracı, akademik GPA hesaplayıcı, ders notu hesaplayıcı, transkript GPA hesaplayıcı, ders kredileri ile ücretsiz online GPA hesaplayıcı, not ortalaması online ücretsiz hesapla, ders notları ile GPA nasıl hesaplanır, üniversite öğrencileri için ücretsiz GPA hesaplayıcı, online GPA hesaplayıcı anlık sonuçlar, harf notları ile dönem GPA hesapla, kayıt gerektirmeyen ücretsiz GPA hesaplayıcı, GPA hesaplayıcı ders ve not ekle, kümülatif GPA hesapla online araç, öğrenci not ortalaması hesaplayıcı ücretsiz, istatistikli online GPA hesaplayıcı, transkript notlarından GPA hesapla, ücretsiz akademik GPA hesaplayıcı online, kalite puanları ile GPA hesaplayıcı, üniversite GPA online anında hesapla",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Çalışma Süresi Hesaplayıcısı",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Çalışma Süresi Hesaplayıcı | Odaklanma & Verimlilik",
+        "meta_description": "Etkili çalışma saatlerini, molaları, dikkat dağıtıcıları ve odaklanma kalitesini izlemek için ücretsiz çalışma süresi hesaplayıcısı. Pomodoro ile optimize edin!",
+        "meta_keyword": "çalışma süresi hesaplayıcı, etkili çalışma süresi, öğrenme verimliliği hesaplayıcı, çalışma üretkenliği takipçisi, çalışma oturumu hesaplayıcı, odaklanma süresi hesaplayıcı, akademik verimlilik aracı, öğrenci zaman yönetimi, etkili çalışma süresini nasıl hesaplarım, çalışma üretkenliği hesaplayıcı online ücretsiz, çalışma verimliliğini ve odaklanma kalitesini takip et, pomodoro zamanlayıcı, çalışma planlayıcısı, zaman yönetimi aracı, odaklanma takipçisi, öğrenme analizi, çalışma alışkanlıkları takipçisi, verimlilik hesaplayıcı, akademik performans takipçisi, konsantrasyon ölçüm aracı, çalışma optimizasyonu hesaplayıcı, gerçek vs toplam çalışma süresi hesapla, odaklanma puanlı çalışma molası hesaplayıcı, pomodoro çalışma süresi takipçisi online, öğrenci üretkenlik analiz aracı ücretsiz, çalışma oturumu verimlilik hesaplayıcı, çalışma dikkat dağıtma süresi hesaplayıcı, akademik zaman yönetimi hesaplayıcı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

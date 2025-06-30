@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Máy Tính Giáo Dục",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Máy Tính Giáo Dục | GPA, Chi Phí & Công Cụ Học Tập",
+        "meta_description": "Máy tính giáo dục miễn phí cho GPA, chuyển đổi điểm, thời gian học, chi phí giáo dục & vay học. Công cụ thiết yếu cho học sinh, phụ huynh & giáo viên.",
+        "meta_keyword": "Máy tính giáo dục, Máy tính GPA, Máy tính điểm, Máy tính học tập, Công cụ giáo dục, Máy tính học sinh, Máy tính học thuật, Máy tính trường học, Máy tính giáo dục miễn phí, Máy tính GPA trực tuyến, Máy tính điểm trung bình, Máy tính chi phí giáo dục, Máy tính vay sinh viên, Máy tính thời gian học, Công cụ chuyển đổi điểm, Công cụ lập kế hoạch học thuật, Máy tính ROI giáo dục, Máy tính hoàn thành chương trình, Máy tính trình độ ngôn ngữ, Máy tính khối lượng học tập, Tính GPA trực tuyến miễn phí, Cách tính chi phí giáo dục, Máy tính thanh toán vay sinh viên, Máy tính giáo dục tốt nhất, Công cụ hiệu suất học tập, Lập kế hoạch giáo dục trực tuyến",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Máy Tính Tài Chính",
+        "Danh sách các máy tính giáo dục phổ biến"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Máy Tính GPA (Điểm Trung Bình Tích Lũy)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Máy Tính GPA Miễn Phí Online | Tính Điểm Trung Bình",
+        "meta_description": "Tính GPA ngay lập tức với máy tính GPA online miễn phí. Thêm môn học, nhập điểm & tín chỉ để có kết quả GPA chính xác và nhanh chóng!",
+        "meta_keyword": "máy tính GPA, máy tính GPA miễn phí, máy tính GPA online, máy tính điểm, tính GPA, điểm trung bình tích lũy, máy tính GPA sinh viên, máy tính GPA đại học, máy tính GPA trường đại học, máy tính GPA với tín chỉ, máy tính GPA học kỳ, máy tính GPA tích lũy, máy tính GPA trung học, máy tính GPA có trọng số, máy tính GPA không trọng số, công cụ máy tính GPA, máy tính GPA học tập, máy tính điểm môn học, máy tính GPA bảng điểm, máy tính GPA online miễn phí với tín chỉ môn học, tính điểm trung bình tích lũy online miễn phí, cách tính GPA với điểm môn học, máy tính GPA cho sinh viên đại học miễn phí, máy tính GPA online kết quả ngay, tính GPA học kỳ với điểm chữ, máy tính GPA miễn phí không cần đăng ký, máy tính GPA thêm môn học và điểm, tính GPA tích lũy công cụ online, máy tính điểm trung bình sinh viên miễn phí, máy tính GPA online với thống kê, tính GPA từ điểm bảng điểm, máy tính GPA học tập miễn phí online, máy tính GPA với điểm chất lượng, tính GPA đại học online ngay lập tức",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Máy Tính Thời Gian Học",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Máy Tính Thời Gian Học | Theo Dõi Tập Trung & Hiệu Quả",
+        "meta_description": "Máy tính thời gian học miễn phí để theo dõi giờ học hiệu quả, nghỉ giải lao, mất tập trung & chất lượng tập trung. Tối ưu hóa học tập với Pomodoro!",
+        "meta_keyword": "máy tính thời gian học, thời gian học hiệu quả, máy tính hiệu quả học tập, theo dõi năng suất học tập, máy tính phiên học, máy tính thời gian tập trung, công cụ năng suất học thuật, quản lý thời gian sinh viên, cách tính thời gian học hiệu quả, máy tính năng suất học tập trực tuyến miễn phí, theo dõi hiệu quả và chất lượng tập trung học tập, timer pomodoro, kế hoạch học tập, công cụ quản lý thời gian, theo dõi tập trung, phân tích học tập, theo dõi thói quen học, máy tính năng suất, theo dõi hiệu suất học thuật, công cụ đo lường tập trung, máy tính tối ưu hóa học tập, tính thời gian học thực tế so với tổng, máy tính thời gian nghỉ học với đánh giá tập trung, theo dõi thời gian học pomodoro trực tuyến, công cụ phân tích năng suất sinh viên miễn phí, máy tính hiệu quả phiên học, máy tính thời gian mất tập trung học, máy tính quản lý thời gian học thuật",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

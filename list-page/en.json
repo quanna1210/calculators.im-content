@@ -724,5 +724,44 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Education Calculators",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Education Calculators | GPA, Cost & Study Tools Online",
+        "meta_description": "Free education calculators for GPA, grade conversion, study time, education costs & loans. Essential tools for students, parents & educators worldwide.",
+        "meta_keyword": "Education calculator, GPA calculator, Grade calculator, Study calculator, Education tools, Student calculator, Academic calculator, School calculator, Free education calculator, Online GPA calculator, Grade point average calculator, Education cost calculator, Student loan calculator, Study time calculator, Grade conversion tool, Academic planning tool, Education ROI calculator, Program completion calculator, Language proficiency calculator, Study load calculator, Free online education calculators, GPA grade point average calculator, Education cost and loan calculator, Effective study time calculator tool, Student loan interest calculator online, Grade conversion calculator for students, Education ROI return calculator, Program completion time calculator, Language proficiency calculator tool, Study load and workload calculator, Calculate my GPA online free, How to calculate education costs, Student loan payment calculator, Best free education calculators, Academic performance calculator tools, Education planning calculator online, Study efficiency calculator free, College cost calculator with loans, University admission calculator, Academic grade converter, School performance tracker, Educational investment calculator, Student academic planner, Online study tools free, Education budget calculator, Academic success calculator, Grade improvement calculator, Study progress tracker",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "(Grade Point Average) GPA Calculator",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Free GPA Calculator Online | Calculate Grade Point Average",
+        "meta_description": "Calculate your GPA instantly with our free online GPA calculator. Add courses, enter grades & credits to get accurate Grade Point Average results fast!",
+        "meta_keyword": "GPA calculator, free GPA calculator, online GPA calculator, grade calculator, calculate GPA, grade point average, student GPA calculator, college GPA calculator, GPA calculator online, university GPA calculator, GPA calculator with credits, semester GPA calculator, cumulative GPA calculator, high school GPA calculator, weighted GPA calculator, unweighted GPA calculator, GPA calculator tool, academic GPA calculator, course grade calculator, transcript GPA calculator, free online GPA calculator with course credits, calculate grade point average online free, how to calculate GPA with course grades, GPA calculator for college students free, online GPA calculator instant results, calculate semester GPA with letter grades, free GPA calculator no registration required, GPA calculator add courses and grades, calculate cumulative GPA online tool, student grade point average calculator free, online GPA calculator with statistics, calculate GPA from transcript grades, free academic GPA calculator online, GPA calculator with quality points, calculate college GPA online instantly",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Study Time Calculator",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Study Time Calculator | Track Focus & Learning Efficiency",
+        "meta_description": "Free study time calculator to track effective learning hours, breaks, distractions & focus quality. Optimize your study sessions with Pomodoro insights!",
+        "meta_keyword": "study time calculator, effective study time, learning efficiency calculator, study productivity tracker, study session calculator, focus time calculator, academic productivity tool, student time management, how to calculate effective study time, study productivity calculator online free, track study efficiency and focus quality, pomodoro timer, study planner, time management tool, focus tracker, learning analytics, study habits tracker, productivity calculator, academic performance tracker, concentration measurement tool, study optimization calculator, calculate actual learning time vs total time, study break time calculator with focus rating, pomodoro study time tracker online, student productivity analysis tool free, learning session efficiency calculator, study distraction time calculator, academic time management calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

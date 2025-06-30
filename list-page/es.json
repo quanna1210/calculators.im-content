@@ -726,5 +726,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Calculadoras Educativas",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculadoras Educativas | GPA, Costos y Herramientas",
+        "meta_description": "Calculadoras educativas gratuitas para GPA, conversión de calificaciones, tiempo de estudio, costos educativos y préstamos. Herramientas esenciales para estudiantes.",
+        "meta_keyword": "Calculadora educativa, Calculadora GPA, Calculadora de notas, Calculadora de estudio, Herramientas educativas, Calculadora estudiante, Calculadora académica, Calculadora escolar, Calculadora educativa gratis, Calculadora GPA online, Calculadora promedio de calificaciones, Calculadora costos educación, Calculadora préstamo estudiantil, Calculadora tiempo estudio, Herramienta conversión notas, Herramienta planificación académica, Calculadora ROI educación, Calculadora finalización programa, Calculadora competencia idiomática, Calculadora carga estudio, Calcular GPA online gratis, Cómo calcular costos educativos, Calculadora pago préstamo estudiante",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Calculadoras Financieras",
+        "Lista de calculadoras educativas populares"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Calculadora GPA (Promedio de Calificaciones)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculadora GPA Gratis Online | Calcular Promedio Notas",
+        "meta_description": "Calcula tu GPA al instante con nuestra calculadora GPA online gratis. Agrega materias, ingresa calificaciones y créditos para resultados precisos!",
+        "meta_keyword": "calculadora GPA, calculadora GPA gratis, calculadora GPA online, calculadora calificaciones, calcular GPA, promedio calificaciones, calculadora GPA estudiante, calculadora GPA universidad, calculadora GPA con créditos, calculadora GPA semestre, calculadora GPA acumulativo, calculadora GPA bachillerato, calculadora GPA ponderado, calculadora GPA no ponderado, herramienta calculadora GPA, calculadora GPA académica, calculadora notas materias, calculadora GPA expediente, calculadora GPA online gratis con créditos materias, calcular promedio calificaciones online gratis, cómo calcular GPA con notas materias, calculadora GPA para estudiantes universitarios gratis, calculadora GPA online resultados instantáneos, calcular GPA semestre con calificaciones letras, calculadora GPA gratis sin registro, calculadora GPA agregar materias y notas, calcular GPA acumulativo herramienta online, calculadora promedio calificaciones estudiante gratis, calculadora GPA online con estadísticas, calcular GPA desde notas expediente, calculadora GPA académica gratis online, calculadora GPA con puntos calidad, calcular GPA universidad online instantáneo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Calculadora de Tiempo de Estudio",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculadora Tiempo Estudio | Enfoque & Eficiencia",
+        "meta_description": "Calculadora gratuita de tiempo de estudio para rastrear horas efectivas, descansos, distracciones y calidad de enfoque. ¡Optimiza con Pomodoro!",
+        "meta_keyword": "calculadora tiempo estudio, tiempo estudio efectivo, calculadora eficiencia aprendizaje, rastreador productividad estudio, calculadora sesión estudio, calculadora tiempo enfoque, herramienta productividad académica, gestión tiempo estudiantes, cómo calcular tiempo estudio efectivo, calculadora productividad estudio online gratis, rastrear eficiencia y calidad enfoque estudio, temporizador pomodoro, planificador estudio, herramienta gestión tiempo, rastreador enfoque, analítica aprendizaje, rastreador hábitos estudio, calculadora productividad, rastreador rendimiento académico, herramienta medición concentración, calculadora optimización estudio, calcular tiempo estudio real vs total, calculadora tiempo descanso estudio con calificación enfoque, rastreador tiempo estudio pomodoro online, herramienta análisis productividad estudiantes gratis, calculadora eficiencia sesión aprendizaje, calculadora tiempo distracción estudio, calculadora gestión tiempo académico",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

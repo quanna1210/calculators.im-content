@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Kalkulatory Edukacyjne",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulatory Edukacyjne | GPA, Koszty i Narzędzia Nauki",
+        "meta_description": "Bezpłatne kalkulatory edukacyjne dla GPA, konwersji ocen, czasu nauki, kosztów edukacji i pożyczek. Niezbędne narzędzia dla uczniów i nauczycieli.",
+        "meta_keyword": "Kalkulator edukacyjny, Kalkulator GPA, Kalkulator ocen, Kalkulator nauki, Narzędzia edukacyjne, Kalkulator studencki, Kalkulator akademicki, Kalkulator szkolny, Bezpłatny kalkulator edukacyjny, Online kalkulator GPA, Kalkulator średniej ocen, Kalkulator kosztów edukacji, Kalkulator kredytu studenckiego, Kalkulator czasu nauki, Narzędzie konwersji ocen, Narzędzie planowania akademickiego, Kalkulator ROI edukacji, Kalkulator ukończenia programu, Kalkulator kompetencji językowych, Kalkulator obciążenia nauki, Oblicz GPA online za darmo, Jak obliczyć koszty edukacji, Kalkulator spłaty kredytu studenckiego",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Kalkulatory Finansowe",
+        "Lista popularnych kalkulatorów edukacyjnych"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "Kalkulator GPA (Średnia Ocen)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Darmowy Kalkulator GPA Online | Oblicz Średnią Ocen",
+        "meta_description": "Oblicz swój GPA natychmiast z naszym darmowym kalkulatorem GPA online. Dodaj przedmioty, wprowadź oceny i punkty ECTS dla dokładnych wyników!",
+        "meta_keyword": "kalkulator GPA, darmowy kalkulator GPA, online kalkulator GPA, kalkulator ocen, oblicz GPA, średnia ocen, studencki kalkulator GPA, uniwersytecki kalkulator GPA, kalkulator GPA z punktami ECTS, semestralny kalkulator GPA, kumulacyjny kalkulator GPA, licealny kalkulator GPA, ważony kalkulator GPA, nieważony kalkulator GPA, narzędzie kalkulator GPA, akademicki kalkulator GPA, kalkulator ocen przedmiotów, kalkulator GPA z indeksu, darmowy online kalkulator GPA z punktami ECTS przedmiotów, oblicz średnią ocen online za darmo, jak obliczyć GPA z ocenami przedmiotów, kalkulator GPA dla studentów uniwersytetu za darmo, online kalkulator GPA natychmiastowe wyniki, oblicz semestralny GPA z ocenami literowymi, darmowy kalkulator GPA bez rejestracji, kalkulator GPA dodaj przedmioty i oceny, oblicz kumulacyjny GPA narzędzie online, studencki kalkulator średniej ocen za darmo, online kalkulator GPA ze statystykami, oblicz GPA z ocen indeksu, darmowy akademicki kalkulator GPA online, kalkulator GPA z punktami jakości, oblicz uniwersytecki GPA online natychmiast",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Kalkulator Czasu Nauki",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Czasu Nauki | Koncentracja & Efektywność",
+        "meta_description": "Darmowy kalkulator czasu nauki do śledzenia efektywnych godzin, przerw, rozpraszaczy i jakości koncentracji. Optymalizuj sesje z Pomodoro!",
+        "meta_keyword": "kalkulator czasu nauki, efektywny czas nauki, kalkulator efektywności nauki, tracker produktywności nauki, kalkulator sesji nauki, kalkulator czasu koncentracji, narzędzie produktywności akademickiej, zarządzanie czasem studentów, jak obliczyć efektywny czas nauki, kalkulator produktywności nauki online za darmo, śledzenie efektywności i jakości koncentracji nauki, timer pomodoro, planer nauki, narzędzie zarządzania czasem, tracker koncentracji, analityka nauki, tracker nawyków nauki, kalkulator produktywności, tracker wydajności akademickiej, narzędzie pomiaru koncentracji, kalkulator optymalizacji nauki, oblicz rzeczywisty vs całkowity czas nauki, kalkulator czasu przerw w nauce z oceną koncentracji, tracker czasu nauki pomodoro online, narzędzie analizy produktywności studentów za darmo, kalkulator efektywności sesji nauki, kalkulator czasu rozpraszania w nauce, kalkulator zarządzania czasem akademickim",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

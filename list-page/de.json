@@ -724,5 +724,48 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "58",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "title": "Bildungsrechner",
+        "slug": "education-calculators",
+        "parent_id": "0",
+        "meta_title": "Bildungsrechner | GPA, Kosten & Lerntools Online",
+        "meta_description": "Kostenlose Bildungsrechner für GPA, Notenumrechnung, Lernzeit, Bildungskosten & Darlehen. Wichtige Tools für Schüler, Eltern & Pädagogen weltweit.",
+        "meta_keyword": "Bildungsrechner, GPA Rechner, Notenrechner, Lernrechner, Bildungstools, Schülerrechner, Akademischer Rechner, Schulrechner, Kostenloser Bildungsrechner, Online GPA Rechner, Notendurchschnitt Rechner, Bildungskosten Rechner, Studentendarlehen Rechner, Lernzeit Rechner, Notenumrechnungstool, Akademisches Planungstool, Bildungs-ROI Rechner, Programmabschluss Rechner, Sprachkompetenz Rechner, Lernbelastung Rechner, GPA online kostenlos berechnen, Bildungskosten berechnen, Studentendarlehen Zahlungsrechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    [
+        "Finanzrechner",
+        "Liste beliebter Bildungsrechner"
+    ],
+    {
+        "id": "59",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "title": "GPA-Rechner (Notendurchschnitt)",
+        "slug": "gpa-calculator",
+        "parent_id": "58",
+        "meta_title": "Kostenloser GPA-Rechner Online | Notendurchschnitt",
+        "meta_description": "Berechnen Sie Ihren GPA sofort mit unserem kostenlosen Online-GPA-Rechner. Fügen Sie Kurse hinzu, geben Sie Noten & Credits für genaue Ergebnisse ein!",
+        "meta_keyword": "GPA-Rechner, kostenloser GPA-Rechner, Online-GPA-Rechner, Notenrechner, GPA berechnen, Notendurchschnitt, Studenten-GPA-Rechner, Hochschul-GPA-Rechner, Universitäts-GPA-Rechner, GPA-Rechner mit Credits, Semester-GPA-Rechner, kumulativer GPA-Rechner, Gymnasium-GPA-Rechner, gewichteter GPA-Rechner, ungewichteter GPA-Rechner, GPA-Rechner-Tool, akademischer GPA-Rechner, Kursnotenrechner, Zeugnis-GPA-Rechner, kostenloser Online-GPA-Rechner mit Kurs-Credits, Notendurchschnitt online kostenlos berechnen, GPA mit Kursnoten berechnen, GPA-Rechner für Hochschulstudenten kostenlos, Online-GPA-Rechner sofortige Ergebnisse, Semester-GPA mit Buchstabennoten berechnen, kostenloser GPA-Rechner ohne Registrierung, GPA-Rechner Kurse und Noten hinzufügen, kumulativen GPA Online-Tool berechnen, Studenten-Notendurchschnitt-Rechner kostenlos, Online-GPA-Rechner mit Statistiken, GPA aus Zeugnisnoten berechnen, kostenloser akademischer GPA-Rechner online, GPA-Rechner mit Qualitätspunkten, Hochschul-GPA online sofort berechnen",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "60",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "title": "Lernzeit-Rechner",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Lernzeit-Rechner | Fokus & Effizienz Verfolgen",
+        "meta_description": "Kostenloser Lernzeit-Rechner zur Verfolgung effektiver Lernstunden, Pausen, Ablenkungen & Fokusqualität. Optimieren Sie mit Pomodoro-Technik!",
+        "meta_keyword": "lernzeit rechner, effektive lernzeit, lerneffizienz rechner, lernproduktivität tracker, lernsession rechner, fokuszeit rechner, akademisches produktivitätstool, zeitmanagement studenten, wie effektive lernzeit berechnen, lernproduktivität rechner online kostenlos, lerneffizienz und fokusqualität verfolgen, pomodoro timer, lernplaner, zeitmanagement tool, fokus tracker, lernanalytik, lerngewohnheiten tracker, produktivitäts rechner, akademische leistung tracker, konzentrationsmessung tool, lernoptimierung rechner, tatsächliche vs gesamte lernzeit berechnen, lernpausen rechner mit fokusbewertung, pomodoro lernzeit tracker online, studentenproduktivität analyse tool kostenlos, lernsession effizienz rechner, lernablenkung zeit rechner, akademisches zeitmanagement rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
