@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Course Information",
+        "Add Course",
+        "Reset all inputs",
+        "Course Name",
+        "Grade",
+        "Credits",
+        "Action",
+        "Select Grade",
+        "e.g., Calculus I",
+        "Your GPA",
+        "Excellent",
+        "Good",
+        "Satisfactory",
+        "Needs Improvement",
+        "No Data",
+        "Statistics",
+        "Total Credits:",
+        "Quality Points:",
+        "Courses:",
+        "Grade Scale",
+        "GPA Calculator",
+        "Calculate your Grade Point Average with ease",
+        "Enter your course information above to calculate your GPA automatically",
+        "Credits",
+        "Reset"
+    ]
+}
