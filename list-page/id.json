@@ -758,14 +758,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Kalkulator Waktu Belajar",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Kalkulator Pinjaman Mahasiswa",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Waktu Belajar | Lacak Fokus & Efisiensi",
-        "meta_description": "Kalkulator waktu belajar gratis untuk melacak jam belajar efektif, istirahat, gangguan & kualitas fokus. Optimalkan sesi belajar dengan teknik Pomodoro!",
-        "meta_keyword": "kalkulator waktu belajar, waktu belajar efektif, kalkulator efisiensi belajar, pelacak produktivitas belajar, kalkulator sesi belajar, kalkulator waktu fokus, alat produktivitas akademik, manajemen waktu mahasiswa, cara menghitung waktu belajar efektif, kalkulator produktivitas belajar online gratis, lacak efisiensi dan kualitas fokus belajar, timer pomodoro, perencana belajar, alat manajemen waktu, pelacak fokus, analitik pembelajaran, pelacak kebiasaan belajar, kalkulator produktivitas, pelacak performa akademik, alat pengukur konsentrasi, kalkulator optimasi belajar, hitung waktu belajar aktual vs total, kalkulator waktu istirahat belajar dengan rating fokus, pelacak waktu belajar pomodoro online, alat analisis produktivitas mahasiswa gratis, kalkulator efisiensi sesi pembelajaran, kalkulator waktu gangguan belajar, kalkulator manajemen waktu akademik",
+        "meta_title": "Kalkulator Pinjaman Mahasiswa - Hitung Cicilan Gratis",
+        "meta_description": "Kalkulator pinjaman mahasiswa gratis untuk estimasi cicilan bulanan, total bunga, dan biaya pembayaran. Hitung cicilan pinjaman secara instan.",
+        "meta_keyword": "kalkulator pinjaman mahasiswa, kalkulator cicilan pinjaman, kalkulator pembayaran bulanan, cicilan pinjaman mahasiswa, kalkulator pinjaman pendidikan, kalkulator pelunasan pinjaman, kalkulator pinjaman kuliah, kalkulator hutang mahasiswa, kalkulator bunga pinjaman, kalkulator keuangan, pembiayaan pendidikan, estimator pinjaman mahasiswa, amortisasi pinjaman, kalkulator hutang, kalkulator keuangan mahasiswa",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -779,6 +779,19 @@
         "meta_title": "Kalkulator Pinjaman Mahasiswa - Hitung Cicilan Gratis",
         "meta_description": "Kalkulator pinjaman mahasiswa gratis untuk estimasi cicilan bulanan, total bunga, dan biaya pembayaran. Hitung cicilan pinjaman secara instan.",
         "meta_keyword": "kalkulator pinjaman mahasiswa, kalkulator cicilan pinjaman, kalkulator pembayaran bulanan, cicilan pinjaman mahasiswa, kalkulator pinjaman pendidikan, kalkulator pelunasan pinjaman, kalkulator pinjaman kuliah, kalkulator hutang mahasiswa, kalkulator bunga pinjaman, kalkulator keuangan, pembiayaan pendidikan, estimator pinjaman mahasiswa, amortisasi pinjaman, kalkulator hutang, kalkulator keuangan mahasiswa",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Biaya Pendidikan",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Biaya Pendidikan - Perencana Anggaran Kuliah",
+        "meta_description": "Hitung biaya kuliah, asrama, buku & total biaya pendidikan. Perencana anggaran gratis untuk mahasiswa & orang tua. Estimasi instan biaya universitas.",
+        "meta_keyword": "kalkulator biaya pendidikan, kalkulator biaya kuliah, kalkulator biaya kuliah, perencana anggaran universitas, kalkulator anggaran kuliah, kalkulator pengeluaran pendidikan, perencana anggaran mahasiswa, estimator biaya kuliah, kalkulator biaya pendidikan tinggi, alat anggaran pendidikan, perencana pengeluaran kuliah, estimator biaya universitas, kalkulator biaya akademik, perencanaan keuangan kuliah, kalkulator biaya mahasiswa, kalkulator harga pendidikan, kalkulator keterjangkauan kuliah, kalkulator biaya sekolah, kalkulator tabungan kuliah, kalkulator pendanaan pendidikan",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

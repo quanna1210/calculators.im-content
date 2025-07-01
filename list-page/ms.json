@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Kalkulator Masa Pembelajaran",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Kalkulator Pinjaman Pelajar",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Masa Belajar | Jejak Tumpuan & Kecekapan",
-        "meta_description": "Kalkulator masa belajar percuma untuk jejaki jam pembelajaran berkesan, rehat, gangguan & kualiti tumpuan. Optimumkan sesi belajar dengan Pomodoro!",
-        "meta_keyword": "kalkulator masa belajar, masa belajar berkesan, kalkulator kecekapan pembelajaran, penjejak produktiviti belajar, kalkulator sesi belajar, kalkulator masa tumpuan, alat produktiviti akademik, pengurusan masa pelajar, cara mengira masa belajar berkesan, kalkulator produktiviti belajar dalam talian percuma, jejak kecekapan dan kualiti tumpuan belajar, pemasa pomodoro, perancang belajar, alat pengurusan masa, penjejak tumpuan, analitik pembelajaran, penjejak tabiat belajar, kalkulator produktiviti, penjejak prestasi akademik, alat pengukur tumpuan, kalkulator pengoptimuman belajar, kira masa belajar sebenar vs jumlah, kalkulator masa rehat belajar dengan penilaian tumpuan, penjejak masa belajar pomodoro dalam talian, alat analisis produktiviti pelajar percuma, kalkulator kecekapan sesi pembelajaran, kalkulator masa gangguan belajar, kalkulator pengurusan masa akademik",
+        "meta_title": "Kalkulator Pinjaman Pelajar - Kira Bayaran Percuma",
+        "meta_description": "Kalkulator pinjaman pelajar percuma untuk menganggar bayaran bulanan, jumlah faedah dan kos pembayaran balik. Kira bayaran pinjaman dengan segera.",
+        "meta_keyword": "kalkulator pinjaman pelajar, kalkulator bayaran pinjaman, kalkulator bayaran bulanan, bayaran pinjaman pelajar, kalkulator pinjaman pendidikan, kalkulator pembayaran balik pinjaman, kalkulator pinjaman kolej, kalkulator hutang pelajar, kalkulator faedah pinjaman, kalkulator kewangan, pembiayaan pendidikan, penganggar pinjaman pelajar, amortisasi pinjaman, kalkulator hutang, kalkulator kewangan pelajar",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Kalkulator Pinjaman Pelajar - Kira Bayaran Percuma",
         "meta_description": "Kalkulator pinjaman pelajar percuma untuk menganggar bayaran bulanan, jumlah faedah dan kos pembayaran balik. Kira bayaran pinjaman dengan segera.",
         "meta_keyword": "kalkulator pinjaman pelajar, kalkulator bayaran pinjaman, kalkulator bayaran bulanan, bayaran pinjaman pelajar, kalkulator pinjaman pendidikan, kalkulator pembayaran balik pinjaman, kalkulator pinjaman kolej, kalkulator hutang pelajar, kalkulator faedah pinjaman, kalkulator kewangan, pembiayaan pendidikan, penganggar pinjaman pelajar, amortisasi pinjaman, kalkulator hutang, kalkulator kewangan pelajar",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Kos Pendidikan",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Kos Pendidikan - Perancang Belanjawan Kolej",
+        "meta_description": "Kira yuran pengajian, penginapan, buku & jumlah kos pendidikan. Perancang belanjawan percuma untuk pelajar & ibu bapa. Anggaran segera kos universiti.",
+        "meta_keyword": "kalkulator kos pendidikan, kalkulator kos kolej, kalkulator yuran pengajian, perancang belanjawan universiti, kalkulator belanjawan kolej, kalkulator perbelanjaan pendidikan, perancang belanjawan pelajar, penganggar yuran kolej, kalkulator kos pendidikan tinggi, alat belanjawan pendidikan, perancang perbelanjaan kolej, penganggar kos universiti, kalkulator kos akademik, perancangan kewangan kolej, kalkulator kos pelajar, kalkulator harga pendidikan, kalkulator kemampuan kolej, kalkulator yuran sekolah, kalkulator simpanan kolej, kalkulator pembiayaan pendidikan",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

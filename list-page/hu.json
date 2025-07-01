@@ -758,14 +758,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Tanulási Idő Kalkulátor",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Diákhitel Kalkulátor",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Tanulási Idő Kalkulátor | Fókusz & Hatékonyság",
-        "meta_description": "Ingyenes tanulási idő kalkulátor a hatékony tanulási órák, szünetek, figyelemelterelések és fókusz minőség követésére. Optimalizáljon Pomodoro-val!",
-        "meta_keyword": "tanulási idő kalkulátor, hatékony tanulási idő, tanulási hatékonyság kalkulátor, tanulási produktivitás követő, tanulási munkamenet kalkulátor, fókusz idő kalkulátor, akadémiai produktivitás eszköz, diák időmenedzsment, hogyan számítsuk ki a hatékony tanulási időt, tanulási produktivitás kalkulátor online ingyen, tanulási hatékonyság és fókusz minőség követése, pomodoro időzítő, tanulási tervező, időmenedzsment eszköz, fókusz követő, tanulási analitika, tanulási szokások követő, produktivitás kalkulátor, akadémiai teljesítmény követő, koncentráció mérő eszköz, tanulási optimalizálás kalkulátor, valós vs teljes tanulási idő számítása, tanulási szünet kalkulátor fókusz értékeléssel, pomodoro tanulási idő követő online, diák produktivitás elemző eszköz ingyen, tanulási munkamenet hatékonyság kalkulátor, tanulási figyelemelterelés idő kalkulátor, akadémiai időmenedzsment kalkulátor",
+        "meta_title": "Diákhitel Kalkulátor - Ingyenes Számítás",
+        "meta_description": "Ingyenes diákhitel kalkulátor a havi törlesztések, teljes kamat és visszafizetési költségek becslésére. Azonnal számítsa ki a törlesztéseket.",
+        "meta_keyword": "diákhitel kalkulátor, hitel fizetés kalkulátor, havi fizetés kalkulátor, diákhitel fizetések, oktatási hitel kalkulátor, hitel visszafizetés kalkulátor, főiskolai hitel kalkulátor, diák adósság kalkulátor, hitel kamat kalkulátor, pénzügyi kalkulátor, oktatás finanszírozás, diákhitel becslő, hitel amortizáció, adósság kalkulátor, diák pénzügyi kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -779,6 +779,19 @@
         "meta_title": "Diákhitel Kalkulátor - Ingyenes Számítás",
         "meta_description": "Ingyenes diákhitel kalkulátor a havi törlesztések, teljes kamat és visszafizetési költségek becslésére. Azonnal számítsa ki a törlesztéseket.",
         "meta_keyword": "diákhitel kalkulátor, hitel fizetés kalkulátor, havi fizetés kalkulátor, diákhitel fizetések, oktatási hitel kalkulátor, hitel visszafizetés kalkulátor, főiskolai hitel kalkulátor, diák adósság kalkulátor, hitel kamat kalkulátor, pénzügyi kalkulátor, oktatás finanszírozás, diákhitel becslő, hitel amortizáció, adósság kalkulátor, diák pénzügyi kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Oktatási Költség Kalkulátor",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Oktatási Költség Kalkulátor - Egyetemi Költségvetés",
+        "meta_description": "Számítsa ki a tandíjat, szállást, könyveket és összes oktatási költséget. Ingyenes költségvetés-tervező diákoknak és szülőknek. Azonnali becslések.",
+        "meta_keyword": "oktatási költség kalkulátor, egyetemi költség kalkulátor, tandíj kalkulátor, egyetemi költségvetés tervező, egyetemi költségvetés kalkulátor, oktatási kiadás kalkulátor, diák költségvetés tervező, tandíj becslő, felsőoktatási költség kalkulátor, oktatási költségvetés eszköz, egyetemi kiadás tervező, egyetemi költség becslő, akadémiai költség kalkulátor, egyetemi pénzügyi tervezés, diák költség kalkulátor, oktatási ár kalkulátor, egyetemi megfizethetőség kalkulátor, tandíj kalkulátor, egyetemi megtakarítás kalkulátor, oktatási finanszírozás kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

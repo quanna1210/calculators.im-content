@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Studietijd Calculator",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Studieschuld Calculator",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Studietijd Calculator | Focus & Efficiëntie Volgen",
-        "meta_description": "Gratis studietijd calculator om effectieve studieuren, pauzes, afleidingen & focuskwaliteit te volgen. Optimaliseer uw sessies met Pomodoro!",
-        "meta_keyword": "studietijd calculator, effectieve studietijd, studie-efficiëntie calculator, studieproductiviteit tracker, studiesessie calculator, focustijd calculator, academische productiviteit tool, tijdmanagement studenten, hoe effectieve studietijd berekenen, studieproductiviteit calculator online gratis, studie-efficiëntie en focuskwaliteit volgen, pomodoro timer, studieplanner, tijdmanagement tool, focus tracker, leeranalyse, studiegewoonten tracker, productiviteitscalculator, academische prestatie tracker, concentratiemeting tool, studieoptimalisatie calculator, werkelijke vs totale studietijd berekenen, studiepauze calculator met focusbeoordeling, pomodoro studietijd tracker online, studentenproductiviteit analyse tool gratis, studiesessie efficiëntie calculator, studieafleiding tijd calculator, academisch tijdmanagement calculator",
+        "meta_title": "Studieschuld Calculator - Gratis Berekenen",
+        "meta_description": "Gratis studieschuld calculator om maandelijkse betalingen, totale rente en terugbetalingskosten te schatten. Bereken betalingen direct.",
+        "meta_keyword": "studieschuld calculator, lening betaling calculator, maandelijkse betaling calculator, studieschuld betalingen, onderwijs lening calculator, lening terugbetaling calculator, universiteit lening calculator, student schuld calculator, lening rente calculator, financiële calculator, onderwijs financiering, studieschuld schatting, lening amortisatie, schuld calculator, student financiële calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Studieschuld Calculator - Gratis Berekenen",
         "meta_description": "Gratis studieschuld calculator om maandelijkse betalingen, totale rente en terugbetalingskosten te schatten. Bereken betalingen direct.",
         "meta_keyword": "studieschuld calculator, lening betaling calculator, maandelijkse betaling calculator, studieschuld betalingen, onderwijs lening calculator, lening terugbetaling calculator, universiteit lening calculator, student schuld calculator, lening rente calculator, financiële calculator, onderwijs financiering, studieschuld schatting, lening amortisatie, schuld calculator, student financiële calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Onderwijskosten Calculator",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Onderwijskosten Calculator - Universitaire Budgetplanner",
+        "meta_description": "Bereken collegegeld, huisvesting, boeken en totale onderwijskosten. Gratis budgetplanner voor studenten en ouders. Directe kostenschattingen.",
+        "meta_keyword": "onderwijskosten calculator, universiteitskosten calculator, collegegeld calculator, universitaire budgetplanner, universitaire budget calculator, onderwijsuitgaven calculator, studenten budgetplanner, collegegeld schatter, hoger onderwijs kosten calculator, onderwijsbudget tool, universitaire uitgaven planner, universiteitskosten schatter, academische kosten calculator, universitaire financiële planning, studentenkosten calculator, onderwijsprijs calculator, universitaire betaalbaarheid calculator, collegegeld calculator, universitaire spaar calculator, onderwijsfinanciering calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

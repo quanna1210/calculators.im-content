@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Kalkulator Czasu Nauki",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Kalkulator Kredytu Studenckiego",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Czasu Nauki | Koncentracja & Efektywność",
-        "meta_description": "Darmowy kalkulator czasu nauki do śledzenia efektywnych godzin, przerw, rozpraszaczy i jakości koncentracji. Optymalizuj sesje z Pomodoro!",
-        "meta_keyword": "kalkulator czasu nauki, efektywny czas nauki, kalkulator efektywności nauki, tracker produktywności nauki, kalkulator sesji nauki, kalkulator czasu koncentracji, narzędzie produktywności akademickiej, zarządzanie czasem studentów, jak obliczyć efektywny czas nauki, kalkulator produktywności nauki online za darmo, śledzenie efektywności i jakości koncentracji nauki, timer pomodoro, planer nauki, narzędzie zarządzania czasem, tracker koncentracji, analityka nauki, tracker nawyków nauki, kalkulator produktywności, tracker wydajności akademickiej, narzędzie pomiaru koncentracji, kalkulator optymalizacji nauki, oblicz rzeczywisty vs całkowity czas nauki, kalkulator czasu przerw w nauce z oceną koncentracji, tracker czasu nauki pomodoro online, narzędzie analizy produktywności studentów za darmo, kalkulator efektywności sesji nauki, kalkulator czasu rozpraszania w nauce, kalkulator zarządzania czasem akademickim",
+        "meta_title": "Kalkulator Kredytu Studenckiego - Bezpłatny",
+        "meta_description": "Bezpłatny kalkulator kredytu studenckiego do szacowania miesięcznych rat, całkowitych odsetek i kosztów spłaty. Oblicz raty natychmiast.",
+        "meta_keyword": "kalkulator kredytu studenckiego, kalkulator rat kredytu, kalkulator miesięcznych rat, raty kredytu studenckiego, kalkulator kredytu edukacyjnego, kalkulator spłaty kredytu, kalkulator kredytu uniwersyteckiego, kalkulator długu studenckiego, kalkulator odsetek kredytu, kalkulator finansowy, finansowanie edukacji, szacowanie kredytu studenckiego, amortyzacja kredytu, kalkulator długów, studencki kalkulator finansowy",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Kalkulator Kredytu Studenckiego - Bezpłatny",
         "meta_description": "Bezpłatny kalkulator kredytu studenckiego do szacowania miesięcznych rat, całkowitych odsetek i kosztów spłaty. Oblicz raty natychmiast.",
         "meta_keyword": "kalkulator kredytu studenckiego, kalkulator rat kredytu, kalkulator miesięcznych rat, raty kredytu studenckiego, kalkulator kredytu edukacyjnego, kalkulator spłaty kredytu, kalkulator kredytu uniwersyteckiego, kalkulator długu studenckiego, kalkulator odsetek kredytu, kalkulator finansowy, finansowanie edukacji, szacowanie kredytu studenckiego, amortyzacja kredytu, kalkulator długów, studencki kalkulator finansowy",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Kosztów Edukacji",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Kosztów Edukacji - Planer Budżetu Studiów",
+        "meta_description": "Oblicz czesne, zakwaterowanie, książki i całkowite koszty edukacji. Darmowy planer budżetu dla studentów i rodziców. Natychmiastowe szacunki.",
+        "meta_keyword": "kalkulator kosztów edukacji, kalkulator kosztów uniwersytetu, kalkulator czesnego, planer budżetu uniwersytetu, kalkulator budżetu uniwersytetu, kalkulator wydatków edukacyjnych, planer budżetu studenta, szacowanie czesnego, kalkulator kosztów szkolnictwa wyższego, narzędzie budżetu edukacji, planer wydatków uniwersytetu, szacowanie kosztów uniwersytetu, kalkulator kosztów akademickich, planowanie finansowe uniwersytetu, kalkulator kosztów studenta, kalkulator ceny edukacji, kalkulator przystępności uniwersytetu, kalkulator opłat czesnego, kalkulator oszczędności uniwersytetu, kalkulator finansowania edukacji",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

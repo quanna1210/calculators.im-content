@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Máy Tính Thời Gian Học",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Máy Tính Vay Sinh Viên",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Máy Tính Thời Gian Học | Theo Dõi Tập Trung & Hiệu Quả",
-        "meta_description": "Máy tính thời gian học miễn phí để theo dõi giờ học hiệu quả, nghỉ giải lao, mất tập trung & chất lượng tập trung. Tối ưu hóa học tập với Pomodoro!",
-        "meta_keyword": "máy tính thời gian học, thời gian học hiệu quả, máy tính hiệu quả học tập, theo dõi năng suất học tập, máy tính phiên học, máy tính thời gian tập trung, công cụ năng suất học thuật, quản lý thời gian sinh viên, cách tính thời gian học hiệu quả, máy tính năng suất học tập trực tuyến miễn phí, theo dõi hiệu quả và chất lượng tập trung học tập, timer pomodoro, kế hoạch học tập, công cụ quản lý thời gian, theo dõi tập trung, phân tích học tập, theo dõi thói quen học, máy tính năng suất, theo dõi hiệu suất học thuật, công cụ đo lường tập trung, máy tính tối ưu hóa học tập, tính thời gian học thực tế so với tổng, máy tính thời gian nghỉ học với đánh giá tập trung, theo dõi thời gian học pomodoro trực tuyến, công cụ phân tích năng suất sinh viên miễn phí, máy tính hiệu quả phiên học, máy tính thời gian mất tập trung học, máy tính quản lý thời gian học thuật",
+        "meta_title": "Máy Tính Vay Sinh Viên - Tính Trả Góp Miễn Phí",
+        "meta_description": "Máy tính vay sinh viên miễn phí để ước tính khoản thanh toán hàng tháng, tổng lãi suất và chi phí trả nợ. Tính toán ngay lập tức.",
+        "meta_keyword": "máy tính vay sinh viên, máy tính trả góp vay, máy tính thanh toán hàng tháng, trả góp vay sinh viên, máy tính vay giáo dục, máy tính trả nợ vay, máy tính vay đại học, máy tính nợ sinh viên, máy tính lãi vay, máy tính tài chính, tài trợ giáo dục, ước tính vay sinh viên, phân kỳ vay, máy tính nợ, máy tính tài chính sinh viên",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Máy Tính Vay Sinh Viên - Tính Trả Góp Miễn Phí",
         "meta_description": "Máy tính vay sinh viên miễn phí để ước tính khoản thanh toán hàng tháng, tổng lãi suất và chi phí trả nợ. Tính toán ngay lập tức.",
         "meta_keyword": "máy tính vay sinh viên, máy tính trả góp vay, máy tính thanh toán hàng tháng, trả góp vay sinh viên, máy tính vay giáo dục, máy tính trả nợ vay, máy tính vay đại học, máy tính nợ sinh viên, máy tính lãi vay, máy tính tài chính, tài trợ giáo dục, ước tính vay sinh viên, phân kỳ vay, máy tính nợ, máy tính tài chính sinh viên",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Máy Tính Chi Phí Giáo Dục",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Máy Tính Chi Phí Giáo Dục - Lập Kế Hoạch Ngân Sách",
+        "meta_description": "Tính toán học phí, ký túc xá, sách vở & tổng chi phí giáo dục. Công cụ lập ngân sách miễn phí cho sinh viên & phụ huynh. Ước tính chi phí đại học.",
+        "meta_keyword": "máy tính chi phí giáo dục, máy tính chi phí đại học, máy tính học phí, lập kế hoạch ngân sách đại học, máy tính ngân sách đại học, máy tính chi phí giáo dục, lập kế hoạch ngân sách sinh viên, ước tính học phí đại học, máy tính chi phí giáo dục cao, công cụ ngân sách giáo dục, lập kế hoạch chi phí đại học, ước tính chi phí đại học, máy tính chi phí học thuật, lập kế hoạch tài chính đại học, máy tính chi phí sinh viên, máy tính giá giáo dục, máy tính khả năng chi trả đại học, máy tính phí học, máy tính đầu tư giáo dục, máy tính chi phí trường học, máy tính tiết kiệm đại học, máy tính tài trợ giáo dục",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

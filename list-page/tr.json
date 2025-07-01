@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Çalışma Süresi Hesaplayıcısı",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Öğrenci Kredisi Hesaplayıcısı",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Çalışma Süresi Hesaplayıcı | Odaklanma & Verimlilik",
-        "meta_description": "Etkili çalışma saatlerini, molaları, dikkat dağıtıcıları ve odaklanma kalitesini izlemek için ücretsiz çalışma süresi hesaplayıcısı. Pomodoro ile optimize edin!",
-        "meta_keyword": "çalışma süresi hesaplayıcı, etkili çalışma süresi, öğrenme verimliliği hesaplayıcı, çalışma üretkenliği takipçisi, çalışma oturumu hesaplayıcı, odaklanma süresi hesaplayıcı, akademik verimlilik aracı, öğrenci zaman yönetimi, etkili çalışma süresini nasıl hesaplarım, çalışma üretkenliği hesaplayıcı online ücretsiz, çalışma verimliliğini ve odaklanma kalitesini takip et, pomodoro zamanlayıcı, çalışma planlayıcısı, zaman yönetimi aracı, odaklanma takipçisi, öğrenme analizi, çalışma alışkanlıkları takipçisi, verimlilik hesaplayıcı, akademik performans takipçisi, konsantrasyon ölçüm aracı, çalışma optimizasyonu hesaplayıcı, gerçek vs toplam çalışma süresi hesapla, odaklanma puanlı çalışma molası hesaplayıcı, pomodoro çalışma süresi takipçisi online, öğrenci üretkenlik analiz aracı ücretsiz, çalışma oturumu verimlilik hesaplayıcı, çalışma dikkat dağıtma süresi hesaplayıcı, akademik zaman yönetimi hesaplayıcı",
+        "meta_title": "Öğrenci Kredisi Hesaplayıcısı - Ücretsiz",
+        "meta_description": "Aylık ödemeleri, toplam faizi ve geri ödeme maliyetlerini tahmin etmek için ücretsiz öğrenci kredisi hesaplayıcısı. Ödemeleri anında hesaplayın.",
+        "meta_keyword": "öğrenci kredisi hesaplayıcısı, kredi ödeme hesaplayıcısı, aylık ödeme hesaplayıcısı, öğrenci kredisi ödemeleri, eğitim kredisi hesaplayıcısı, kredi geri ödeme hesaplayıcısı, üniversite kredisi hesaplayıcısı, öğrenci borcu hesaplayıcısı, kredi faiz hesaplayıcısı, finansal hesaplayıcı, eğitim finansmanı, öğrenci kredisi tahmincisi, kredi amortismanı, borç hesaplayıcısı, öğrenci finansal hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Öğrenci Kredisi Hesaplayıcısı - Ücretsiz",
         "meta_description": "Aylık ödemeleri, toplam faizi ve geri ödeme maliyetlerini tahmin etmek için ücretsiz öğrenci kredisi hesaplayıcısı. Ödemeleri anında hesaplayın.",
         "meta_keyword": "öğrenci kredisi hesaplayıcısı, kredi ödeme hesaplayıcısı, aylık ödeme hesaplayıcısı, öğrenci kredisi ödemeleri, eğitim kredisi hesaplayıcısı, kredi geri ödeme hesaplayıcısı, üniversite kredisi hesaplayıcısı, öğrenci borcu hesaplayıcısı, kredi faiz hesaplayıcısı, finansal hesaplayıcı, eğitim finansmanı, öğrenci kredisi tahmincisi, kredi amortismanı, borç hesaplayıcısı, öğrenci finansal hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Eğitim Maliyeti Hesaplayıcısı",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Eğitim Maliyeti Hesaplayıcısı - Üniversite Bütçe Planlama",
+        "meta_description": "Öğrenim ücreti, konaklama, kitaplar ve toplam eğitim maliyetlerini hesaplayın. Öğrenciler ve veliler için ücretsiz bütçe planlayıcı. Anlık tahminler.",
+        "meta_keyword": "eğitim maliyeti hesaplayıcısı, üniversite maliyeti hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite bütçe planlayıcısı, üniversite bütçe hesaplayıcısı, eğitim gideri hesaplayıcısı, öğrenci bütçe planlayıcısı, öğrenim ücreti tahmincisi, yükseköğretim maliyeti hesaplayıcısı, eğitim bütçe aracı, üniversite gider planlayıcısı, üniversite maliyet tahmincisi, akademik maliyet hesaplayıcısı, üniversite mali planlama, öğrenci maliyet hesaplayıcısı, eğitim fiyat hesaplayıcısı, üniversite erişilebilirlik hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite tasarruf hesaplayıcısı, eğitim finansman hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

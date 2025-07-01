@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Calculadora Tempo de Estudo",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Calculadora de Empréstimo Estudantil",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Calculadora Tempo Estudo | Foco & Eficiência",
-        "meta_description": "Calculadora gratuita de tempo de estudo para rastrear horas efetivas, pausas, distrações e qualidade do foco. Otimize sessões com Pomodoro!",
-        "meta_keyword": "calculadora tempo estudo, tempo estudo efetivo, calculadora eficiência aprendizagem, rastreador produtividade estudo, calculadora sessão estudo, calculadora tempo foco, ferramenta produtividade acadêmica, gestão tempo estudantes, como calcular tempo estudo efetivo, calculadora produtividade estudo online grátis, rastrear eficiência e qualidade foco estudo, timer pomodoro, planejador estudo, ferramenta gestão tempo, rastreador foco, análise aprendizagem, rastreador hábitos estudo, calculadora produtividade, rastreador desempenho acadêmico, ferramenta medição concentração, calculadora otimização estudo, calcular tempo estudo real vs total, calculadora tempo pausa estudo com avaliação foco, rastreador tempo estudo pomodoro online, ferramenta análise produtividade estudantes grátis, calculadora eficiência sessão aprendizagem, calculadora tempo distração estudo, calculadora gestão tempo acadêmico",
+        "meta_title": "Calculadora Empréstimo Estudantil - Grátis",
+        "meta_description": "Calculadora gratuita de empréstimo estudantil para estimar pagamentos mensais, juros totais e custos de pagamento. Calcule pagamentos instantaneamente.",
+        "meta_keyword": "calculadora empréstimo estudantil, calculadora pagamento empréstimo, calculadora pagamento mensal, pagamentos empréstimo estudantil, calculadora empréstimo educacional, calculadora pagamento empréstimo, calculadora empréstimo universitário, calculadora dívida estudantil, calculadora juros empréstimo, calculadora financeira, financiamento educacional, estimador empréstimo estudantil, amortização empréstimo, calculadora dívidas, calculadora financeira estudantil",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Calculadora Empréstimo Estudantil - Grátis",
         "meta_description": "Calculadora gratuita de empréstimo estudantil para estimar pagamentos mensais, juros totais e custos de pagamento. Calcule pagamentos instantaneamente.",
         "meta_keyword": "calculadora empréstimo estudantil, calculadora pagamento empréstimo, calculadora pagamento mensal, pagamentos empréstimo estudantil, calculadora empréstimo educacional, calculadora pagamento empréstimo, calculadora empréstimo universitário, calculadora dívida estudantil, calculadora juros empréstimo, calculadora financeira, financiamento educacional, estimador empréstimo estudantil, amortização empréstimo, calculadora dívidas, calculadora financeira estudantil",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Calculadora de Custos Educacionais",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculadora Custos Educacionais - Planejador Universidade",
+        "meta_description": "Calcule mensalidades, moradia, livros e custos educacionais totais. Planejador gratuito para estudantes e pais. Estimativas universitárias instantâneas.",
+        "meta_keyword": "calculadora custos educacionais, calculadora custos universidade, calculadora mensalidade, planejador orçamento universidade, calculadora orçamento universidade, calculadora gastos educação, planejador orçamento estudante, estimador mensalidade universidade, calculadora custos ensino superior, ferramenta orçamento educação, planejador gastos universidade, estimador custos universidade, calculadora custos acadêmicos, planejamento financeiro universidade, calculadora custos estudante, calculadora preço educação, calculadora acessibilidade universidade, calculadora taxas mensalidade, calculadora poupança universidade, calculadora financiamento educação",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

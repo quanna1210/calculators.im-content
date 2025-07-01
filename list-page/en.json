@@ -776,5 +776,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Education Cost Calculator",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Education Cost Calculator - Free College Budget Planner",
+        "meta_description": "Calculate college tuition, housing, books & total education costs. Free budget planner for students & parents. Instant estimates for university expenses.",
+        "meta_keyword": "education cost calculator, college cost calculator, tuition calculator, university budget planner, college budget calculator, education expense calculator, student budget planner, college tuition estimator, higher education cost calculator, education budget tool, college expense planner, university cost estimator, academic cost calculator, college financial planning, student cost calculator, education price calculator, college affordability calculator, tuition fee calculator, education investment calculator, school cost calculator, college savings calculator, education funding calculator, university expense planner, college budget estimator, student financial planner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -756,14 +756,14 @@
         "orders": "10000"
     },
     {
-        "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
-        "title": "Calculator Timp de Studiu",
-        "slug": "study-time-calculator",
+        "id": "61",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "title": "Calculator Împrumut Studențesc",
+        "slug": "student-loan-calculator",
         "parent_id": "58",
-        "meta_title": "Calculator Timp Studiu | Concentrare & Eficiență",
-        "meta_description": "Calculator gratuit timp studiu pentru urmărirea orelor efective, pauzelor, distragerilor și calității concentrării. Optimizează cu Pomodoro!",
-        "meta_keyword": "calculator timp studiu, timp studiu efectiv, calculator eficiență învățare, tracker productivitate studiu, calculator sesiune studiu, calculator timp concentrare, instrument productivitate academică, management timp studenți, cum să calculez timp studiu efectiv, calculator productivitate studiu online gratuit, urmărire eficiență și calitate concentrare studiu, timer pomodoro, planificator studiu, instrument management timp, tracker concentrare, analiză învățare, tracker obiceiuri studiu, calculator productivitate, tracker performanță academică, instrument măsurare concentrare, calculator optimizare studiu, calculează timp studiu real vs total, calculator timp pauză studiu cu evaluare concentrare, tracker timp studiu pomodoro online, instrument analiză productivitate studenți gratuit, calculator eficiență sesiune învățare, calculator timp distragere studiu, calculator management timp academic",
+        "meta_title": "Calculator Împrumut Studențesc - Gratuit",
+        "meta_description": "Calculator gratuit împrumut studențesc pentru estimarea plăților lunare, dobânzii totale și costurilor de rambursare. Calculează plăți instant.",
+        "meta_keyword": "calculator împrumut studențesc, calculator plăți împrumut, calculator plăți lunare, plăți împrumut studențesc, calculator împrumut educațional, calculator rambursare împrumut, calculator împrumut universitar, calculator datorie studențească, calculator dobândă împrumut, calculator financiar, finanțare educațională, estimator împrumut studențesc, amortizare împrumut, calculator datorii, calculator financiar studențesc",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -777,6 +777,19 @@
         "meta_title": "Calculator Împrumut Studențesc - Gratuit",
         "meta_description": "Calculator gratuit împrumut studențesc pentru estimarea plăților lunare, dobânzii totale și costurilor de rambursare. Calculează plăți instant.",
         "meta_keyword": "calculator împrumut studențesc, calculator plăți împrumut, calculator plăți lunare, plăți împrumut studențesc, calculator împrumut educațional, calculator rambursare împrumut, calculator împrumut universitar, calculator datorie studențească, calculator dobândă împrumut, calculator financiar, finanțare educațională, estimator împrumut studențesc, amortizare împrumut, calculator datorii, calculator financiar studențesc",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Calculator Costuri Educaționale",
+        "slug": "education-cost-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculator Costuri Educaționale - Planificator Universitate",
+        "meta_description": "Calculează taxe școlarizare, cazare, cărți și costuri educaționale totale. Planificator gratuit pentru studenți și părinți. Estimări universitare.",
+        "meta_keyword": "calculator costuri educaționale, calculator costuri universitate, calculator taxe școlarizare, planificator buget universitate, calculator buget universitate, calculator cheltuieli educație, planificator buget student, estimator taxe universitate, calculator costuri învățământ superior, instrument buget educație, planificator cheltuieli universitate, estimator costuri universitate, calculator costuri academice, planificare financiară universitate, calculator costuri student, calculator preț educație, calculator accesibilitate universitate, calculator taxe școlarizare, calculator economii universitate, calculator finanțare educație",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
