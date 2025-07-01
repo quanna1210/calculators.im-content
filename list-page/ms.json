@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Kalkulator Pinjaman Pelajar",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Kos Pendidikan",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Pinjaman Pelajar - Kira Bayaran Percuma",
-        "meta_description": "Kalkulator pinjaman pelajar percuma untuk menganggar bayaran bulanan, jumlah faedah dan kos pembayaran balik. Kira bayaran pinjaman dengan segera.",
-        "meta_keyword": "kalkulator pinjaman pelajar, kalkulator bayaran pinjaman, kalkulator bayaran bulanan, bayaran pinjaman pelajar, kalkulator pinjaman pendidikan, kalkulator pembayaran balik pinjaman, kalkulator pinjaman kolej, kalkulator hutang pelajar, kalkulator faedah pinjaman, kalkulator kewangan, pembiayaan pendidikan, penganggar pinjaman pelajar, amortisasi pinjaman, kalkulator hutang, kalkulator kewangan pelajar",
+        "meta_title": "Kalkulator Kos Pendidikan - Perancang Belanjawan Kolej",
+        "meta_description": "Kira yuran pengajian, penginapan, buku & jumlah kos pendidikan. Perancang belanjawan percuma untuk pelajar & ibu bapa. Anggaran segera kos universiti.",
+        "meta_keyword": "kalkulator kos pendidikan, kalkulator kos kolej, kalkulator yuran pengajian, perancang belanjawan universiti, kalkulator belanjawan kolej, kalkulator perbelanjaan pendidikan, perancang belanjawan pelajar, penganggar yuran kolej, kalkulator kos pendidikan tinggi, alat belanjawan pendidikan, perancang perbelanjaan kolej, penganggar kos universiti, kalkulator kos akademik, perancangan kewangan kolej, kalkulator kos pelajar, kalkulator harga pendidikan, kalkulator kemampuan kolej, kalkulator yuran sekolah, kalkulator simpanan kolej, kalkulator pembiayaan pendidikan",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Kalkulator Kos Pendidikan - Perancang Belanjawan Kolej",
         "meta_description": "Kira yuran pengajian, penginapan, buku & jumlah kos pendidikan. Perancang belanjawan percuma untuk pelajar & ibu bapa. Anggaran segera kos universiti.",
         "meta_keyword": "kalkulator kos pendidikan, kalkulator kos kolej, kalkulator yuran pengajian, perancang belanjawan universiti, kalkulator belanjawan kolej, kalkulator perbelanjaan pendidikan, perancang belanjawan pelajar, penganggar yuran kolej, kalkulator kos pendidikan tinggi, alat belanjawan pendidikan, perancang perbelanjaan kolej, penganggar kos universiti, kalkulator kos akademik, perancangan kewangan kolej, kalkulator kos pelajar, kalkulator harga pendidikan, kalkulator kemampuan kolej, kalkulator yuran sekolah, kalkulator simpanan kolej, kalkulator pembiayaan pendidikan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Masa Penyiapan Program",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Masa Penyiapan - Alat Timeline Projek",
+        "meta_description": "Kira masa penyiapan projek tepat dengan kecekapan pasukan, perancangan buffer & laporan PDF. Alat percuma untuk pengurus projek anggaran deadline.",
+        "meta_keyword": "kalkulator masa penyiapan program, kalkulator penyiapan projek, kalkulator timeline projek, kalkulator deadline projek, anggaran masa penyiapan, kalkulator tempoh projek, kalkulator kecekapan pasukan, alat perancangan projek, kalkulator pengurusan projek, anggaran masa penyiapan, alat timeline projek, kalkulator penyiapan kerja, masa penyiapan tugasan, kalkulator jadual projek, alat anggaran deadline, kalkulator masa projek, kalkulator tarikh penyiapan, kalkulator perancangan projek, kalkulator timeline program, alat anggaran projek, penjejak masa penyiapan, anggaran penyiapan projek, kalkulator produktiviti pasukan, kalkulator buffer projek, perancang masa penyiapan, perancang deadline projek, alat penyiapan program, anggaran masa projek, kalkulator timeline penyiapan, perancangan penyiapan projek, alat pengiraan deadline, penjejak masa projek, anggaran tarikh penyiapan, alat penjadwalan projek, kalkulator deadline program, penjejak penyiapan projek, kalkulator penyiapan pasukan, anggaran timeline projek, analisis masa penyiapan, anggaran tempoh projek, anggaran penyiapan program, timeline penyiapan projek, alat perancangan deadline, perancangan masa penyiapan, perancang masa projek, alat timeline program, analisis penyiapan projek, perancang kecekapan pasukan, penjejak deadline projek, kalkulator penyiapan dalam talian, pengurusan masa projek, perancangan penyiapan program, alat penyiapan projek, kalkulator deadline percuma",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

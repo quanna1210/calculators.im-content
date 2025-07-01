@@ -771,14 +771,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Diákhitel Kalkulátor",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Oktatási Költség Kalkulátor",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Diákhitel Kalkulátor - Ingyenes Számítás",
-        "meta_description": "Ingyenes diákhitel kalkulátor a havi törlesztések, teljes kamat és visszafizetési költségek becslésére. Azonnal számítsa ki a törlesztéseket.",
-        "meta_keyword": "diákhitel kalkulátor, hitel fizetés kalkulátor, havi fizetés kalkulátor, diákhitel fizetések, oktatási hitel kalkulátor, hitel visszafizetés kalkulátor, főiskolai hitel kalkulátor, diák adósság kalkulátor, hitel kamat kalkulátor, pénzügyi kalkulátor, oktatás finanszírozás, diákhitel becslő, hitel amortizáció, adósság kalkulátor, diák pénzügyi kalkulátor",
+        "meta_title": "Oktatási Költség Kalkulátor - Egyetemi Költségvetés",
+        "meta_description": "Számítsa ki a tandíjat, szállást, könyveket és összes oktatási költséget. Ingyenes költségvetés-tervező diákoknak és szülőknek. Azonnali becslések.",
+        "meta_keyword": "oktatási költség kalkulátor, egyetemi költség kalkulátor, tandíj kalkulátor, egyetemi költségvetés tervező, egyetemi költségvetés kalkulátor, oktatási kiadás kalkulátor, diák költségvetés tervező, tandíj becslő, felsőoktatási költség kalkulátor, oktatási költségvetés eszköz, egyetemi kiadás tervező, egyetemi költség becslő, akadémiai költség kalkulátor, egyetemi pénzügyi tervezés, diák költség kalkulátor, oktatási ár kalkulátor, egyetemi megfizethetőség kalkulátor, tandíj kalkulátor, egyetemi megtakarítás kalkulátor, oktatási finanszírozás kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -792,6 +792,19 @@
         "meta_title": "Oktatási Költség Kalkulátor - Egyetemi Költségvetés",
         "meta_description": "Számítsa ki a tandíjat, szállást, könyveket és összes oktatási költséget. Ingyenes költségvetés-tervező diákoknak és szülőknek. Azonnali becslések.",
         "meta_keyword": "oktatási költség kalkulátor, egyetemi költség kalkulátor, tandíj kalkulátor, egyetemi költségvetés tervező, egyetemi költségvetés kalkulátor, oktatási kiadás kalkulátor, diák költségvetés tervező, tandíj becslő, felsőoktatási költség kalkulátor, oktatási költségvetés eszköz, egyetemi kiadás tervező, egyetemi költség becslő, akadémiai költség kalkulátor, egyetemi pénzügyi tervezés, diák költség kalkulátor, oktatási ár kalkulátor, egyetemi megfizethetőség kalkulátor, tandíj kalkulátor, egyetemi megtakarítás kalkulátor, oktatási finanszírozás kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Program Befejezési Idő Kalkulátor",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Befejezési Idő Kalkulátor - Projekt Timeline Eszköz",
+        "meta_description": "Számítsa ki a projekt befejezési időket pontosan csapat hatékonysággal, puffer tervezéssel és PDF jelentésekkel. Ingyenes eszköz projektmenedzsereknek.",
+        "meta_keyword": "program befejezési idő kalkulátor, projekt befejezési kalkulátor, projekt timeline kalkulátor, projekt határidő kalkulátor, befejezési idő becslő, projekt időtartam kalkulátor, csapat hatékonyság kalkulátor, projekt tervezési eszköz, projektmenedzsment kalkulátor, befejezési idő becslés, projekt timeline eszköz, munka befejezési kalkulátor, feladat befejezési idő, projekt ütemterv kalkulátor, határidő becslési eszköz, projekt idő kalkulátor, befejezési dátum kalkulátor, projekt tervezési kalkulátor, program timeline kalkulátor, projekt becslési eszköz, befejezési idő követő, projekt befejezési becslő, csapat produktivitási kalkulátor, projekt puffer kalkulátor, befejezési idő tervező, projekt határidő tervező, program befejezési eszköz, projekt idő becslés, befejezési timeline kalkulátor, projekt befejezési tervezés, határidő számítási eszköz, projekt idő követő, befejezési dátum becslő, projekt ütemezési eszköz, program határidő kalkulátor, projekt befejezési követő, csapat befejezési kalkulátor, projekt timeline becslő, befejezési idő elemzés, projekt időtartam becslő, program befejezési becslő, projekt befejezési timeline, határidő tervezési eszköz, befejezési idő tervezés, projekt idő tervező, program timeline eszköz, projekt befejezési elemzés, csapat hatékonyság tervező, projekt határidő követő, befejezési kalkulátor online, projekt időmenedzsment, program befejezési tervezés, projekt befejezési eszköz, határidő kalkulátor ingyenes",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

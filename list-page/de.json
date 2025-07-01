@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Studentendarlehen-Rechner",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Bildungskosten-Rechner",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Studentendarlehen-Rechner - Kostenlos Berechnen",
-        "meta_description": "Kostenloser Studentendarlehen-Rechner zur Schätzung monatlicher Zahlungen, Gesamtzinsen und Rückzahlungskosten. Sofort berechnen.",
-        "meta_keyword": "studentendarlehen rechner, darlehen zahlungsrechner, monatliche zahlungsrechner, studentendarlehen zahlungen, bildungsdarlehen rechner, darlehen rückzahlungsrechner, hochschuldarlehen rechner, studentenschuld rechner, darlehen zinsrechner, finanzrechner, bildungsfinanzierung, studentendarlehen schätzer, darlehen amortisation, schuldenrechner, student finanzrechner",
+        "meta_title": "Bildungskosten-Rechner - Hochschul-Budgetplaner",
+        "meta_description": "Berechnen Sie Studiengebühren, Unterkunft, Bücher und Gesamtkosten. Kostenloser Budgetplaner für Studenten und Eltern. Sofortige Kostenschätzungen.",
+        "meta_keyword": "bildungskosten rechner, hochschulkosten rechner, studiengebühren rechner, universitäts budgetplaner, hochschul budgetrechner, bildungsausgaben rechner, studenten budgetplaner, studiengebühren schätzer, hochschulkosten rechner, bildungsbudget tool, hochschulausgaben planer, universitätskosten schätzer, akademische kosten rechner, hochschul finanzplanung, studentenkosten rechner, bildungspreis rechner, hochschul erschwinglichkeit rechner, studiengebühren rechner, hochschul sparrechner, bildungsfinanzierung rechner",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Bildungskosten-Rechner - Hochschul-Budgetplaner",
         "meta_description": "Berechnen Sie Studiengebühren, Unterkunft, Bücher und Gesamtkosten. Kostenloser Budgetplaner für Studenten und Eltern. Sofortige Kostenschätzungen.",
         "meta_keyword": "bildungskosten rechner, hochschulkosten rechner, studiengebühren rechner, universitäts budgetplaner, hochschul budgetrechner, bildungsausgaben rechner, studenten budgetplaner, studiengebühren schätzer, hochschulkosten rechner, bildungsbudget tool, hochschulausgaben planer, universitätskosten schätzer, akademische kosten rechner, hochschul finanzplanung, studentenkosten rechner, bildungspreis rechner, hochschul erschwinglichkeit rechner, studiengebühren rechner, hochschul sparrechner, bildungsfinanzierung rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Programm-Fertigstellungszeit-Rechner",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Fertigstellungszeit-Rechner - Projekt Timeline Tool",
+        "meta_description": "Berechnen Sie präzise Projekt-Fertigstellungszeiten mit Team-Effizienz, Puffer-Planung und PDF-Berichten. Kostenloses Tool für Projektmanager.",
+        "meta_keyword": "programm fertigstellungszeit rechner, projekt fertigstellungsrechner, projekt timeline rechner, projekt deadline rechner, fertigstellungszeit schätzer, projekt dauer rechner, team effizienz rechner, projekt planungstool, projektmanagement rechner, fertigstellungszeit schätzung, projekt timeline tool, arbeitsfertigstellungsrechner, aufgaben fertigstellungszeit, projekt zeitplan rechner, deadline schätzungstool, projekt zeit rechner, fertigstellungsdatum rechner, projekt planungsrechner, programm timeline rechner, projekt schätzungstool, fertigstellungszeit tracker, projekt fertigstellungsschätzer, team produktivitätsrechner, projekt puffer rechner, fertigstellungszeit planer, projekt deadline planer, programm fertigstellungstool, projekt zeitschätzung, fertigstellungs timeline rechner, projekt fertigstellungsplanung, deadline berechnungstool, projekt zeit tracker, fertigstellungsdatum schätzer, projekt planungstool, programm deadline rechner, projekt fertigstellungstracker, team fertigstellungsrechner, projekt timeline schätzer, fertigstellungszeit analyse, projekt dauer schätzer, programm fertigstellungsschätzer, projekt fertigstellungs timeline, deadline planungstool, fertigstellungszeit planung, projekt zeit planer, programm timeline tool, projekt fertigstellungsanalyse, team effizienz planer, projekt deadline tracker, fertigstellungsrechner online, projekt zeitmanagement, programm fertigstellungsplanung, projekt fertigstellungstool, deadline rechner kostenlos",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

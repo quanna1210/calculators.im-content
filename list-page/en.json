@@ -789,5 +789,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Program Completion Time Calculator",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Program Completion Time Calculator - Project Timeline Tool",
+        "meta_description": "Calculate accurate project completion times with team efficiency, buffer planning & PDF reports. Free online tool for project managers to estimate deadlines.",
+        "meta_keyword": "program completion time calculator, project completion calculator, project timeline calculator, project deadline calculator, completion time estimator, project duration calculator, team efficiency calculator, project planning tool, project management calculator, completion time estimation, project timeline tool, work completion calculator, task completion time, project schedule calculator, deadline estimation tool, project time calculator, completion date calculator, project planning calculator, program timeline calculator, project estimation tool, completion time tracker, project completion estimator, team productivity calculator, project buffer calculator, completion time planner, project deadline planner, program completion tool, project time estimation, completion timeline calculator, project completion planning, deadline calculation tool, project time tracker, completion date estimator, project scheduling tool, program deadline calculator, project completion tracker, team completion calculator, project timeline estimator, completion time analysis, project duration estimator, program completion estimator, project completion timeline, deadline planning tool, completion time planning, project time planner, program timeline tool, project completion analysis, team efficiency planner, project deadline tracker, completion calculator online, project time management, program completion planning, project completion tool, deadline calculator free",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

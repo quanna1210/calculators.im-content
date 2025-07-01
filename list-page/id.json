@@ -771,14 +771,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Kalkulator Pinjaman Mahasiswa",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Biaya Pendidikan",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Pinjaman Mahasiswa - Hitung Cicilan Gratis",
-        "meta_description": "Kalkulator pinjaman mahasiswa gratis untuk estimasi cicilan bulanan, total bunga, dan biaya pembayaran. Hitung cicilan pinjaman secara instan.",
-        "meta_keyword": "kalkulator pinjaman mahasiswa, kalkulator cicilan pinjaman, kalkulator pembayaran bulanan, cicilan pinjaman mahasiswa, kalkulator pinjaman pendidikan, kalkulator pelunasan pinjaman, kalkulator pinjaman kuliah, kalkulator hutang mahasiswa, kalkulator bunga pinjaman, kalkulator keuangan, pembiayaan pendidikan, estimator pinjaman mahasiswa, amortisasi pinjaman, kalkulator hutang, kalkulator keuangan mahasiswa",
+        "meta_title": "Kalkulator Biaya Pendidikan - Perencana Anggaran Kuliah",
+        "meta_description": "Hitung biaya kuliah, asrama, buku & total biaya pendidikan. Perencana anggaran gratis untuk mahasiswa & orang tua. Estimasi instan biaya universitas.",
+        "meta_keyword": "kalkulator biaya pendidikan, kalkulator biaya kuliah, kalkulator biaya kuliah, perencana anggaran universitas, kalkulator anggaran kuliah, kalkulator pengeluaran pendidikan, perencana anggaran mahasiswa, estimator biaya kuliah, kalkulator biaya pendidikan tinggi, alat anggaran pendidikan, perencana pengeluaran kuliah, estimator biaya universitas, kalkulator biaya akademik, perencanaan keuangan kuliah, kalkulator biaya mahasiswa, kalkulator harga pendidikan, kalkulator keterjangkauan kuliah, kalkulator biaya sekolah, kalkulator tabungan kuliah, kalkulator pendanaan pendidikan",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -792,6 +792,19 @@
         "meta_title": "Kalkulator Biaya Pendidikan - Perencana Anggaran Kuliah",
         "meta_description": "Hitung biaya kuliah, asrama, buku & total biaya pendidikan. Perencana anggaran gratis untuk mahasiswa & orang tua. Estimasi instan biaya universitas.",
         "meta_keyword": "kalkulator biaya pendidikan, kalkulator biaya kuliah, kalkulator biaya kuliah, perencana anggaran universitas, kalkulator anggaran kuliah, kalkulator pengeluaran pendidikan, perencana anggaran mahasiswa, estimator biaya kuliah, kalkulator biaya pendidikan tinggi, alat anggaran pendidikan, perencana pengeluaran kuliah, estimator biaya universitas, kalkulator biaya akademik, perencanaan keuangan kuliah, kalkulator biaya mahasiswa, kalkulator harga pendidikan, kalkulator keterjangkauan kuliah, kalkulator biaya sekolah, kalkulator tabungan kuliah, kalkulator pendanaan pendidikan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Waktu Penyelesaian Program",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Waktu Penyelesaian - Alat Timeline Proyek",
+        "meta_description": "Hitung waktu penyelesaian proyek akurat dengan efisiensi tim, perencanaan buffer & laporan PDF. Tool online gratis untuk manajer proyek estimasi deadline.",
+        "meta_keyword": "kalkulator waktu penyelesaian program, kalkulator penyelesaian proyek, kalkulator timeline proyek, kalkulator deadline proyek, estimator waktu penyelesaian, kalkulator durasi proyek, kalkulator efisiensi tim, alat perencanaan proyek, kalkulator manajemen proyek, estimasi waktu penyelesaian, alat timeline proyek, kalkulator penyelesaian kerja, waktu penyelesaian tugas, kalkulator jadwal proyek, alat estimasi deadline, kalkulator waktu proyek, kalkulator tanggal penyelesaian, kalkulator perencanaan proyek, kalkulator timeline program, alat estimasi proyek, pelacak waktu penyelesaian, estimator penyelesaian proyek, kalkulator produktivitas tim, kalkulator buffer proyek, perencana waktu penyelesaian, perencana deadline proyek, alat penyelesaian program, estimasi waktu proyek, kalkulator timeline penyelesaian, perencanaan penyelesaian proyek, alat kalkulasi deadline, pelacak waktu proyek, estimator tanggal penyelesaian, alat penjadwalan proyek, kalkulator deadline program, pelacak penyelesaian proyek, kalkulator penyelesaian tim, estimator timeline proyek, analisis waktu penyelesaian, estimator durasi proyek, estimator penyelesaian program, timeline penyelesaian proyek, alat perencanaan deadline, perencanaan waktu penyelesaian, perencana waktu proyek, alat timeline program, analisis penyelesaian proyek, perencana efisiensi tim, pelacak deadline proyek, kalkulator penyelesaian online, manajemen waktu proyek, perencanaan penyelesaian program, alat penyelesaian proyek, kalkulator deadline gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

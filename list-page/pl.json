@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Kalkulator Kredytu Studenckiego",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Kalkulator Kosztów Edukacji",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Kredytu Studenckiego - Bezpłatny",
-        "meta_description": "Bezpłatny kalkulator kredytu studenckiego do szacowania miesięcznych rat, całkowitych odsetek i kosztów spłaty. Oblicz raty natychmiast.",
-        "meta_keyword": "kalkulator kredytu studenckiego, kalkulator rat kredytu, kalkulator miesięcznych rat, raty kredytu studenckiego, kalkulator kredytu edukacyjnego, kalkulator spłaty kredytu, kalkulator kredytu uniwersyteckiego, kalkulator długu studenckiego, kalkulator odsetek kredytu, kalkulator finansowy, finansowanie edukacji, szacowanie kredytu studenckiego, amortyzacja kredytu, kalkulator długów, studencki kalkulator finansowy",
+        "meta_title": "Kalkulator Kosztów Edukacji - Planer Budżetu Studiów",
+        "meta_description": "Oblicz czesne, zakwaterowanie, książki i całkowite koszty edukacji. Darmowy planer budżetu dla studentów i rodziców. Natychmiastowe szacunki.",
+        "meta_keyword": "kalkulator kosztów edukacji, kalkulator kosztów uniwersytetu, kalkulator czesnego, planer budżetu uniwersytetu, kalkulator budżetu uniwersytetu, kalkulator wydatków edukacyjnych, planer budżetu studenta, szacowanie czesnego, kalkulator kosztów szkolnictwa wyższego, narzędzie budżetu edukacji, planer wydatków uniwersytetu, szacowanie kosztów uniwersytetu, kalkulator kosztów akademickich, planowanie finansowe uniwersytetu, kalkulator kosztów studenta, kalkulator ceny edukacji, kalkulator przystępności uniwersytetu, kalkulator opłat czesnego, kalkulator oszczędności uniwersytetu, kalkulator finansowania edukacji",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Kalkulator Kosztów Edukacji - Planer Budżetu Studiów",
         "meta_description": "Oblicz czesne, zakwaterowanie, książki i całkowite koszty edukacji. Darmowy planer budżetu dla studentów i rodziców. Natychmiastowe szacunki.",
         "meta_keyword": "kalkulator kosztów edukacji, kalkulator kosztów uniwersytetu, kalkulator czesnego, planer budżetu uniwersytetu, kalkulator budżetu uniwersytetu, kalkulator wydatków edukacyjnych, planer budżetu studenta, szacowanie czesnego, kalkulator kosztów szkolnictwa wyższego, narzędzie budżetu edukacji, planer wydatków uniwersytetu, szacowanie kosztów uniwersytetu, kalkulator kosztów akademickich, planowanie finansowe uniwersytetu, kalkulator kosztów studenta, kalkulator ceny edukacji, kalkulator przystępności uniwersytetu, kalkulator opłat czesnego, kalkulator oszczędności uniwersytetu, kalkulator finansowania edukacji",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Czasu Ukończenia Programu",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Czasu Ukończenia - Narzędzie Timeline Projektu",
+        "meta_description": "Oblicz dokładne czasy ukończenia projektu z wydajnością zespołu, planowaniem bufora i raportami PDF. Darmowe narzędzie dla menedżerów projektów.",
+        "meta_keyword": "kalkulator czasu ukończenia programu, kalkulator ukończenia projektu, kalkulator timeline projektu, kalkulator terminu projektu, estymator czasu ukończenia, kalkulator czasu trwania projektu, kalkulator wydajności zespołu, narzędzie planowania projektu, kalkulator zarządzania projektem, oszacowanie czasu ukończenia, narzędzie timeline projektu, kalkulator ukończenia pracy, czas ukończenia zadania, kalkulator harmonogramu projektu, narzędzie oszacowania terminu, kalkulator czasu projektu, kalkulator daty ukończenia, kalkulator planowania projektu, kalkulator timeline programu, narzędzie oszacowania projektu, śledzenie czasu ukończenia, estymator ukończenia projektu, kalkulator produktywności zespołu, kalkulator bufora projektu, planista czasu ukończenia, planista terminu projektu, narzędzie ukończenia programu, oszacowanie czasu projektu, kalkulator timeline ukończenia, planowanie ukończenia projektu, narzędzie obliczania terminu, śledzenie czasu projektu, estymator daty ukończenia, narzędzie planowania projektu, kalkulator terminu programu, śledzenie ukończenia projektu, kalkulator ukończenia zespołu, estymator timeline projektu, analiza czasu ukończenia, estymator czasu trwania projektu, estymator ukończenia programu, timeline ukończenia projektu, narzędzie planowania terminu, planowanie czasu ukończenia, planista czasu projektu, narzędzie timeline programu, analiza ukończenia projektu, planista wydajności zespołu, śledzenie terminu projektu, kalkulator ukończenia online, zarządzanie czasem projektu, planowanie ukończenia programu, narzędzie ukończenia projektu, kalkulator terminu za darmo",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

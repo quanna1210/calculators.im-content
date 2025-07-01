@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Calculator Împrumut Studențesc",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Calculator Costuri Educaționale",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Calculator Împrumut Studențesc - Gratuit",
-        "meta_description": "Calculator gratuit împrumut studențesc pentru estimarea plăților lunare, dobânzii totale și costurilor de rambursare. Calculează plăți instant.",
-        "meta_keyword": "calculator împrumut studențesc, calculator plăți împrumut, calculator plăți lunare, plăți împrumut studențesc, calculator împrumut educațional, calculator rambursare împrumut, calculator împrumut universitar, calculator datorie studențească, calculator dobândă împrumut, calculator financiar, finanțare educațională, estimator împrumut studențesc, amortizare împrumut, calculator datorii, calculator financiar studențesc",
+        "meta_title": "Calculator Costuri Educaționale - Planificator Universitate",
+        "meta_description": "Calculează taxe școlarizare, cazare, cărți și costuri educaționale totale. Planificator gratuit pentru studenți și părinți. Estimări universitare.",
+        "meta_keyword": "calculator costuri educaționale, calculator costuri universitate, calculator taxe școlarizare, planificator buget universitate, calculator buget universitate, calculator cheltuieli educație, planificator buget student, estimator taxe universitate, calculator costuri învățământ superior, instrument buget educație, planificator cheltuieli universitate, estimator costuri universitate, calculator costuri academice, planificare financiară universitate, calculator costuri student, calculator preț educație, calculator accesibilitate universitate, calculator taxe școlarizare, calculator economii universitate, calculator finanțare educație",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Calculator Costuri Educaționale - Planificator Universitate",
         "meta_description": "Calculează taxe școlarizare, cazare, cărți și costuri educaționale totale. Planificator gratuit pentru studenți și părinți. Estimări universitare.",
         "meta_keyword": "calculator costuri educaționale, calculator costuri universitate, calculator taxe școlarizare, planificator buget universitate, calculator buget universitate, calculator cheltuieli educație, planificator buget student, estimator taxe universitate, calculator costuri învățământ superior, instrument buget educație, planificator cheltuieli universitate, estimator costuri universitate, calculator costuri academice, planificare financiară universitate, calculator costuri student, calculator preț educație, calculator accesibilitate universitate, calculator taxe școlarizare, calculator economii universitate, calculator finanțare educație",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Calculator Timp Finalizare Program",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculator Timp Finalizare - Instrument Timeline Proiect",
+        "meta_description": "Calculați timpii precisi de finalizare proiect cu eficiența echipei, planificarea buffer și rapoarte PDF. Instrument gratuit pentru manageri de proiect.",
+        "meta_keyword": "calculator timp finalizare program, calculator finalizare proiect, calculator timeline proiect, calculator termen proiect, estimator timp finalizare, calculator durată proiect, calculator eficiență echipă, instrument planificare proiect, calculator management proiect, estimare timp finalizare, instrument timeline proiect, calculator finalizare muncă, timp finalizare sarcină, calculator program proiect, instrument estimare termen, calculator timp proiect, calculator dată finalizare, calculator planificare proiect, calculator timeline program, instrument estimare proiect, urmărire timp finalizare, estimator finalizare proiect, calculator productivitate echipă, calculator buffer proiect, planificator timp finalizare, planificator termen proiect, instrument finalizare program, estimare timp proiect, calculator timeline finalizare, planificare finalizare proiect, instrument calcul termen, urmărire timp proiect, estimator dată finalizare, instrument programare proiect, calculator termen program, urmărire finalizare proiect, calculator finalizare echipă, estimator timeline proiect, analiză timp finalizare, estimator durată proiect, estimator finalizare program, timeline finalizare proiect, instrument planificare termen, planificare timp finalizare, planificator timp proiect, instrument timeline program, analiză finalizare proiect, planificator eficiență echipă, urmărire termen proiect, calculator finalizare online, management timp proiect, planificare finalizare program, instrument finalizare proiect, calculator termen gratuit",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

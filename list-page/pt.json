@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Calculadora de Empréstimo Estudantil",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Calculadora de Custos Educacionais",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Calculadora Empréstimo Estudantil - Grátis",
-        "meta_description": "Calculadora gratuita de empréstimo estudantil para estimar pagamentos mensais, juros totais e custos de pagamento. Calcule pagamentos instantaneamente.",
-        "meta_keyword": "calculadora empréstimo estudantil, calculadora pagamento empréstimo, calculadora pagamento mensal, pagamentos empréstimo estudantil, calculadora empréstimo educacional, calculadora pagamento empréstimo, calculadora empréstimo universitário, calculadora dívida estudantil, calculadora juros empréstimo, calculadora financeira, financiamento educacional, estimador empréstimo estudantil, amortização empréstimo, calculadora dívidas, calculadora financeira estudantil",
+        "meta_title": "Calculadora Custos Educacionais - Planejador Universidade",
+        "meta_description": "Calcule mensalidades, moradia, livros e custos educacionais totais. Planejador gratuito para estudantes e pais. Estimativas universitárias instantâneas.",
+        "meta_keyword": "calculadora custos educacionais, calculadora custos universidade, calculadora mensalidade, planejador orçamento universidade, calculadora orçamento universidade, calculadora gastos educação, planejador orçamento estudante, estimador mensalidade universidade, calculadora custos ensino superior, ferramenta orçamento educação, planejador gastos universidade, estimador custos universidade, calculadora custos acadêmicos, planejamento financeiro universidade, calculadora custos estudante, calculadora preço educação, calculadora acessibilidade universidade, calculadora taxas mensalidade, calculadora poupança universidade, calculadora financiamento educação",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Calculadora Custos Educacionais - Planejador Universidade",
         "meta_description": "Calcule mensalidades, moradia, livros e custos educacionais totais. Planejador gratuito para estudantes e pais. Estimativas universitárias instantâneas.",
         "meta_keyword": "calculadora custos educacionais, calculadora custos universidade, calculadora mensalidade, planejador orçamento universidade, calculadora orçamento universidade, calculadora gastos educação, planejador orçamento estudante, estimador mensalidade universidade, calculadora custos ensino superior, ferramenta orçamento educação, planejador gastos universidade, estimador custos universidade, calculadora custos acadêmicos, planejamento financeiro universidade, calculadora custos estudante, calculadora preço educação, calculadora acessibilidade universidade, calculadora taxas mensalidade, calculadora poupança universidade, calculadora financiamento educação",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Calculadora de Tempo de Conclusão de Programa",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculadora Tempo Conclusão - Ferramenta Timeline Projeto",
+        "meta_description": "Calcule tempos precisos de conclusão de projeto com eficiência da equipe, planejamento de buffer e relatórios PDF. Ferramenta gratuita para gerentes.",
+        "meta_keyword": "calculadora tempo conclusão programa, calculadora conclusão projeto, calculadora timeline projeto, calculadora prazo projeto, estimador tempo conclusão, calculadora duração projeto, calculadora eficiência equipe, ferramenta planejamento projeto, calculadora gestão projeto, estimativa tempo conclusão, ferramenta timeline projeto, calculadora conclusão trabalho, tempo conclusão tarefa, calculadora cronograma projeto, ferramenta estimativa prazo, calculadora tempo projeto, calculadora data conclusão, calculadora planejamento projeto, calculadora timeline programa, ferramenta estimativa projeto, rastreamento tempo conclusão, estimador conclusão projeto, calculadora produtividade equipe, calculadora buffer projeto, planejador tempo conclusão, planejador prazo projeto, ferramenta conclusão programa, estimativa tempo projeto, calculadora timeline conclusão, planejamento conclusão projeto, ferramenta cálculo prazo, rastreamento tempo projeto, estimador data conclusão, ferramenta programação projeto, calculadora prazo programa, rastreamento conclusão projeto, calculadora conclusão equipe, estimador timeline projeto, análise tempo conclusão, estimador duração projeto, estimador conclusão programa, timeline conclusão projeto, ferramenta planejamento prazo, planejamento tempo conclusão, planejador tempo projeto, ferramenta timeline programa, análise conclusão projeto, planejador eficiência equipe, rastreamento prazo projeto, calculadora conclusão online, gestão tempo projeto, planejamento conclusão programa, ferramenta conclusão projeto, calculadora prazo grátis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

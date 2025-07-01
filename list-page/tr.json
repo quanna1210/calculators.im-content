@@ -769,14 +769,14 @@
         "orders": "10000"
     },
     {
-        "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
-        "title": "Öğrenci Kredisi Hesaplayıcısı",
-        "slug": "student-loan-calculator",
+        "id": "62",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "title": "Eğitim Maliyeti Hesaplayıcısı",
+        "slug": "education-cost-calculator",
         "parent_id": "58",
-        "meta_title": "Öğrenci Kredisi Hesaplayıcısı - Ücretsiz",
-        "meta_description": "Aylık ödemeleri, toplam faizi ve geri ödeme maliyetlerini tahmin etmek için ücretsiz öğrenci kredisi hesaplayıcısı. Ödemeleri anında hesaplayın.",
-        "meta_keyword": "öğrenci kredisi hesaplayıcısı, kredi ödeme hesaplayıcısı, aylık ödeme hesaplayıcısı, öğrenci kredisi ödemeleri, eğitim kredisi hesaplayıcısı, kredi geri ödeme hesaplayıcısı, üniversite kredisi hesaplayıcısı, öğrenci borcu hesaplayıcısı, kredi faiz hesaplayıcısı, finansal hesaplayıcı, eğitim finansmanı, öğrenci kredisi tahmincisi, kredi amortismanı, borç hesaplayıcısı, öğrenci finansal hesaplayıcısı",
+        "meta_title": "Eğitim Maliyeti Hesaplayıcısı - Üniversite Bütçe Planlama",
+        "meta_description": "Öğrenim ücreti, konaklama, kitaplar ve toplam eğitim maliyetlerini hesaplayın. Öğrenciler ve veliler için ücretsiz bütçe planlayıcı. Anlık tahminler.",
+        "meta_keyword": "eğitim maliyeti hesaplayıcısı, üniversite maliyeti hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite bütçe planlayıcısı, üniversite bütçe hesaplayıcısı, eğitim gideri hesaplayıcısı, öğrenci bütçe planlayıcısı, öğrenim ücreti tahmincisi, yükseköğretim maliyeti hesaplayıcısı, eğitim bütçe aracı, üniversite gider planlayıcısı, üniversite maliyet tahmincisi, akademik maliyet hesaplayıcısı, üniversite mali planlama, öğrenci maliyet hesaplayıcısı, eğitim fiyat hesaplayıcısı, üniversite erişilebilirlik hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite tasarruf hesaplayıcısı, eğitim finansman hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -790,6 +790,19 @@
         "meta_title": "Eğitim Maliyeti Hesaplayıcısı - Üniversite Bütçe Planlama",
         "meta_description": "Öğrenim ücreti, konaklama, kitaplar ve toplam eğitim maliyetlerini hesaplayın. Öğrenciler ve veliler için ücretsiz bütçe planlayıcı. Anlık tahminler.",
         "meta_keyword": "eğitim maliyeti hesaplayıcısı, üniversite maliyeti hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite bütçe planlayıcısı, üniversite bütçe hesaplayıcısı, eğitim gideri hesaplayıcısı, öğrenci bütçe planlayıcısı, öğrenim ücreti tahmincisi, yükseköğretim maliyeti hesaplayıcısı, eğitim bütçe aracı, üniversite gider planlayıcısı, üniversite maliyet tahmincisi, akademik maliyet hesaplayıcısı, üniversite mali planlama, öğrenci maliyet hesaplayıcısı, eğitim fiyat hesaplayıcısı, üniversite erişilebilirlik hesaplayıcısı, öğrenim ücreti hesaplayıcısı, üniversite tasarruf hesaplayıcısı, eğitim finansman hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Program Tamamlanma Zamanı Hesaplayıcısı",
+        "slug": "program-completion-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Tamamlanma Zamanı Hesaplayıcısı - Proje Timeline Aracı",
+        "meta_description": "Takım verimliliği, tampon planlama ve PDF raporlarla kesin proje tamamlanma zamanlarını hesaplayın. Proje yöneticileri için ücretsiz araç.",
+        "meta_keyword": "program tamamlanma zamanı hesaplayıcısı, proje tamamlanma hesaplayıcısı, proje timeline hesaplayıcısı, proje son tarih hesaplayıcısı, tamamlanma zamanı tahmincisi, proje süre hesaplayıcısı, takım verimlilik hesaplayıcısı, proje planlama aracı, proje yönetimi hesaplayıcısı, tamamlanma zamanı tahmini, proje timeline aracı, iş tamamlanma hesaplayıcısı, görev tamamlanma zamanı, proje program hesaplayıcısı, son tarih tahmin aracı, proje zaman hesaplayıcısı, tamamlanma tarihi hesaplayıcısı, proje planlama hesaplayıcısı, program timeline hesaplayıcısı, proje tahmin aracı, tamamlanma zamanı takipçisi, proje tamamlanma tahmincisi, takım verimlilik hesaplayıcısı, proje tampon hesaplayıcısı, tamamlanma zamanı planlayıcısı, proje son tarih planlayıcısı, program tamamlanma aracı, proje zaman tahmini, tamamlanma timeline hesaplayıcısı, proje tamamlanma planlaması, son tarih hesaplama aracı, proje zaman takipçisi, tamamlanma tarihi tahmincisi, proje planlama aracı, program son tarih hesaplayıcısı, proje tamamlanma takipçisi, takım tamamlanma hesaplayıcısı, proje timeline tahmincisi, tamamlanma zamanı analizi, proje süre tahmincisi, program tamamlanma tahmincisi, proje tamamlanma timeline, son tarih planlama aracı, tamamlanma zamanı planlaması, proje zaman planlayıcısı, program timeline aracı, proje tamamlanma analizi, takım verimlilik planlayıcısı, proje son tarih takipçisi, tamamlanma hesaplayıcısı online, proje zaman yönetimi, program tamamlanma planlaması, proje tamamlanma aracı, son tarih hesaplayıcısı ücretsiz",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
