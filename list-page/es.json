@@ -784,14 +784,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Calculadora de Costos Educativos",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Calculadora de Tiempo de Finalización de Programa",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Calculadora Costos Educativos - Planificador Universidad",
-        "meta_description": "Calcula matrícula, alojamiento, libros y costos totales de educación. Planificador gratuito para estudiantes y padres. Estimaciones universitarias.",
-        "meta_keyword": "calculadora costos educativos, calculadora costos universidad, calculadora matrícula, planificador presupuesto universidad, calculadora presupuesto universidad, calculadora gastos educación, planificador presupuesto estudiante, estimador matrícula universidad, calculadora costos educación superior, herramienta presupuesto educación, planificador gastos universidad, estimador costos universidad, calculadora costos académicos, planificación financiera universidad, calculadora costos estudiante, calculadora precio educación, calculadora asequibilidad universidad, calculadora tasas matrícula, calculadora ahorros universidad, calculadora financiamiento educación",
+        "meta_title": "Calculadora Tiempo Finalización - Herramienta Timeline",
+        "meta_description": "Calcule tiempos precisos de finalización de proyectos con eficiencia de equipo, planificación de reserva y reportes PDF. Herramienta gratuita para gestores.",
+        "meta_keyword": "calculadora tiempo finalización programa, calculadora finalización proyecto, calculadora timeline proyecto, calculadora plazo proyecto, estimador tiempo finalización, calculadora duración proyecto, calculadora eficiencia equipo, herramienta planificación proyecto, calculadora gestión proyecto, estimación tiempo finalización, herramienta timeline proyecto, calculadora finalización trabajo, tiempo finalización tarea, calculadora cronograma proyecto, herramienta estimación plazo, calculadora tiempo proyecto, calculadora fecha finalización, calculadora planificación proyecto, calculadora timeline programa, herramienta estimación proyecto, seguimiento tiempo finalización, estimador finalización proyecto, calculadora productividad equipo, calculadora reserva proyecto, planificador tiempo finalización, planificador plazo proyecto, herramienta finalización programa, estimación tiempo proyecto, calculadora timeline finalización, planificación finalización proyecto, herramienta cálculo plazo, seguimiento tiempo proyecto, estimador fecha finalización, herramienta programación proyecto, calculadora plazo programa, seguimiento finalización proyecto, calculadora finalización equipo, estimador timeline proyecto, análisis tiempo finalización, estimador duración proyecto, estimador finalización programa, timeline finalización proyecto, herramienta planificación plazo, planificación tiempo finalización, planificador tiempo proyecto, herramienta timeline programa, análisis finalización proyecto, planificador eficiencia equipo, seguimiento plazo proyecto, calculadora finalización online, gestión tiempo proyecto, planificación finalización programa, herramienta finalización proyecto, calculadora plazo gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -805,6 +805,19 @@
         "meta_title": "Calculadora Tiempo Finalización - Herramienta Timeline",
         "meta_description": "Calcule tiempos precisos de finalización de proyectos con eficiencia de equipo, planificación de reserva y reportes PDF. Herramienta gratuita para gestores.",
         "meta_keyword": "calculadora tiempo finalización programa, calculadora finalización proyecto, calculadora timeline proyecto, calculadora plazo proyecto, estimador tiempo finalización, calculadora duración proyecto, calculadora eficiencia equipo, herramienta planificación proyecto, calculadora gestión proyecto, estimación tiempo finalización, herramienta timeline proyecto, calculadora finalización trabajo, tiempo finalización tarea, calculadora cronograma proyecto, herramienta estimación plazo, calculadora tiempo proyecto, calculadora fecha finalización, calculadora planificación proyecto, calculadora timeline programa, herramienta estimación proyecto, seguimiento tiempo finalización, estimador finalización proyecto, calculadora productividad equipo, calculadora reserva proyecto, planificador tiempo finalización, planificador plazo proyecto, herramienta finalización programa, estimación tiempo proyecto, calculadora timeline finalización, planificación finalización proyecto, herramienta cálculo plazo, seguimiento tiempo proyecto, estimador fecha finalización, herramienta programación proyecto, calculadora plazo programa, seguimiento finalización proyecto, calculadora finalización equipo, estimador timeline proyecto, análisis tiempo finalización, estimador duración proyecto, estimador finalización programa, timeline finalización proyecto, herramienta planificación plazo, planificación tiempo finalización, planificador tiempo proyecto, herramienta timeline programa, análisis finalización proyecto, planificador eficiencia equipo, seguimiento plazo proyecto, calculadora finalización online, gestión tiempo proyecto, planificación finalización programa, herramienta finalización proyecto, calculadora plazo gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Calculadora de Competencia Lingüística",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculadora Competencia Lingüística - Test MCER Online",
+        "meta_description": "Calculadora de competencia lingüística online gratuita. Evalúa comprensión auditiva, expresión oral, lectura y escritura. Obtén nivel MCER (A1-C2) y recomendaciones al instante.",
+        "meta_keyword": "calculadora competencia lingüística, test MCER online, test nivel idioma, evaluación competencia, calculadora habilidades idioma, test competencia inglés, calculadora MCER, herramienta evaluación idioma, verificador competencia, evaluación idioma, test expresión oral, test comprensión auditiva, test lectura, test escritura, niveles A1 A2 B1 B2 C1 C2, test marco europeo, test competencia idioma, test competencia gratis, evaluación idioma online, evaluación habilidades idioma, calculadora competencia MCER, test capacidad idioma, evaluación multilingüe, evaluación aprendizaje idioma, verificador nivel competencia, test certificación idioma, herramienta evaluación habilidades, seguimiento progreso idioma, herramienta medición competencia, test fluidez idioma, evaluación competencia, test dominio idioma, competencia lingüística, evaluación capacidad idioma",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

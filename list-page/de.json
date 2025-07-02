@@ -782,14 +782,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Bildungskosten-Rechner",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Programm-Fertigstellungszeit-Rechner",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Bildungskosten-Rechner - Hochschul-Budgetplaner",
-        "meta_description": "Berechnen Sie Studiengebühren, Unterkunft, Bücher und Gesamtkosten. Kostenloser Budgetplaner für Studenten und Eltern. Sofortige Kostenschätzungen.",
-        "meta_keyword": "bildungskosten rechner, hochschulkosten rechner, studiengebühren rechner, universitäts budgetplaner, hochschul budgetrechner, bildungsausgaben rechner, studenten budgetplaner, studiengebühren schätzer, hochschulkosten rechner, bildungsbudget tool, hochschulausgaben planer, universitätskosten schätzer, akademische kosten rechner, hochschul finanzplanung, studentenkosten rechner, bildungspreis rechner, hochschul erschwinglichkeit rechner, studiengebühren rechner, hochschul sparrechner, bildungsfinanzierung rechner",
+        "meta_title": "Fertigstellungszeit-Rechner - Projekt Timeline Tool",
+        "meta_description": "Berechnen Sie präzise Projekt-Fertigstellungszeiten mit Team-Effizienz, Puffer-Planung und PDF-Berichten. Kostenloses Tool für Projektmanager.",
+        "meta_keyword": "programm fertigstellungszeit rechner, projekt fertigstellungsrechner, projekt timeline rechner, projekt deadline rechner, fertigstellungszeit schätzer, projekt dauer rechner, team effizienz rechner, projekt planungstool, projektmanagement rechner, fertigstellungszeit schätzung, projekt timeline tool, arbeitsfertigstellungsrechner, aufgaben fertigstellungszeit, projekt zeitplan rechner, deadline schätzungstool, projekt zeit rechner, fertigstellungsdatum rechner, projekt planungsrechner, programm timeline rechner, projekt schätzungstool, fertigstellungszeit tracker, projekt fertigstellungsschätzer, team produktivitätsrechner, projekt puffer rechner, fertigstellungszeit planer, projekt deadline planer, programm fertigstellungstool, projekt zeitschätzung, fertigstellungs timeline rechner, projekt fertigstellungsplanung, deadline berechnungstool, projekt zeit tracker, fertigstellungsdatum schätzer, projekt planungstool, programm deadline rechner, projekt fertigstellungstracker, team fertigstellungsrechner, projekt timeline schätzer, fertigstellungszeit analyse, projekt dauer schätzer, programm fertigstellungsschätzer, projekt fertigstellungs timeline, deadline planungstool, fertigstellungszeit planung, projekt zeit planer, programm timeline tool, projekt fertigstellungsanalyse, team effizienz planer, projekt deadline tracker, fertigstellungsrechner online, projekt zeitmanagement, programm fertigstellungsplanung, projekt fertigstellungstool, deadline rechner kostenlos",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -803,6 +803,19 @@
         "meta_title": "Fertigstellungszeit-Rechner - Projekt Timeline Tool",
         "meta_description": "Berechnen Sie präzise Projekt-Fertigstellungszeiten mit Team-Effizienz, Puffer-Planung und PDF-Berichten. Kostenloses Tool für Projektmanager.",
         "meta_keyword": "programm fertigstellungszeit rechner, projekt fertigstellungsrechner, projekt timeline rechner, projekt deadline rechner, fertigstellungszeit schätzer, projekt dauer rechner, team effizienz rechner, projekt planungstool, projektmanagement rechner, fertigstellungszeit schätzung, projekt timeline tool, arbeitsfertigstellungsrechner, aufgaben fertigstellungszeit, projekt zeitplan rechner, deadline schätzungstool, projekt zeit rechner, fertigstellungsdatum rechner, projekt planungsrechner, programm timeline rechner, projekt schätzungstool, fertigstellungszeit tracker, projekt fertigstellungsschätzer, team produktivitätsrechner, projekt puffer rechner, fertigstellungszeit planer, projekt deadline planer, programm fertigstellungstool, projekt zeitschätzung, fertigstellungs timeline rechner, projekt fertigstellungsplanung, deadline berechnungstool, projekt zeit tracker, fertigstellungsdatum schätzer, projekt planungstool, programm deadline rechner, projekt fertigstellungstracker, team fertigstellungsrechner, projekt timeline schätzer, fertigstellungszeit analyse, projekt dauer schätzer, programm fertigstellungsschätzer, projekt fertigstellungs timeline, deadline planungstool, fertigstellungszeit planung, projekt zeit planer, programm timeline tool, projekt fertigstellungsanalyse, team effizienz planer, projekt deadline tracker, fertigstellungsrechner online, projekt zeitmanagement, programm fertigstellungsplanung, projekt fertigstellungstool, deadline rechner kostenlos",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Sprachkompetenz-Rechner",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Sprachkompetenz-Rechner - CEFR-Niveau Test Online",
+        "meta_description": "Kostenloser Online-Sprachkompetenz-Rechner. Testen Sie Hören, Sprechen, Lesen & Schreiben. Erhalten Sie CEFR-Niveau (A1-C2) & persönliche Empfehlungen sofort.",
+        "meta_keyword": "sprachkompetenz rechner, CEFR test online, sprachniveau test, kompetenz bewertung, sprachfertigkeiten rechner, englisch kompetenz test, CEFR rechner, sprache bewertungstool, kompetenz prüfer, sprache bewertung, sprechen test, hören test, lesen test, schreiben test, niveau A1 A2 B1 B2 C1 C2, europäischer rahmen test, sprachkompetenz test, kostenloser kompetenz test, online sprache bewertung, sprachfertigkeiten bewertung, CEFR kompetenz rechner, sprachfähigkeit test, mehrsprachige bewertung, sprachlernen bewertung, kompetenz niveau prüfer, sprache zertifizierung test, fertigkeiten bewertungstool, sprache fortschritt tracker, kompetenz messungstool, sprachflüssigkeit test, kompetenz bewertung, sprache beherrschung test, sprachkompetenz, sprachfähigkeit bewertung",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

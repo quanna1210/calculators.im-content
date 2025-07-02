@@ -1,0 +1,22 @@
+{
+    "trans": [
+        "Kalkulačka věku",
+        "Datum narození",
+        "Datum výpočtu",
+        "Vypočítat",
+        "Načítání",
+        "Výsledek",
+        "Stáří",
+        "dní",
+        "hodin",
+        "zápis",
+        "sekundy",
+        "do příštích narozenin",
+        "Nesprávné zadání data narození",
+        "Nesprávné zadání data výpočtu",
+        "Limit výpočtu za 1000 let",
+        "let",
+        "měsíce",
+        "Vyberte datum narození"
+    ]
+}

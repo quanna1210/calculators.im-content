@@ -802,5 +802,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Language Proficiency Calculator",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Language Proficiency Calculator - CEFR Level Test Online",
+        "meta_description": "Free online language proficiency calculator. Test your listening, speaking, reading & writing skills. Get CEFR level (A1-C2) & personalized recommendations instantly.",
+        "meta_keyword": "language proficiency calculator, CEFR test online, language level test, proficiency assessment, language skills calculator, English proficiency test, CEFR calculator, language assessment tool, proficiency checker, language evaluation, speaking test, listening test, reading test, writing test, A1 A2 B1 B2 C1 C2 levels, European framework test, language competency test, free proficiency test, online language assessment, language skills evaluation, CEFR proficiency calculator, language ability test, multilingual assessment, language learning assessment, proficiency level checker, language certification test, skill assessment tool, language progress tracker, proficiency measurement tool, language fluency test, competency evaluation, language mastery test, linguistic proficiency, language capability assessment",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

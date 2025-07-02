@@ -784,14 +784,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Calculateur de Coûts Éducatifs",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Calculateur de Temps d'Achèvement de Programme",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Calculateur Coûts Éducatifs - Planificateur Université",
-        "meta_description": "Calculez frais de scolarité, logement, livres et coûts éducatifs totaux. Planificateur gratuit pour étudiants et parents. Estimations universitaires.",
-        "meta_keyword": "calculateur coûts éducatifs, calculateur coûts université, calculateur frais scolarité, planificateur budget université, calculateur budget université, calculateur dépenses éducation, planificateur budget étudiant, estimateur frais université, calculateur coûts enseignement supérieur, outil budget éducation, planificateur dépenses université, estimateur coûts université, calculateur coûts académiques, planification financière université, calculateur coûts étudiant, calculateur prix éducation, calculateur accessibilité université, calculateur frais scolarité, calculateur épargne université, calculateur financement éducation",
+        "meta_title": "Calculateur Temps Achèvement - Outil Timeline Projet",
+        "meta_description": "Calculez précisément temps achèvement projet avec efficacité équipe, planification marge et rapports PDF. Outil gratuit pour gestionnaires de projet.",
+        "meta_keyword": "calculateur temps achèvement programme, calculateur achèvement projet, calculateur timeline projet, calculateur délai projet, estimateur temps achèvement, calculateur durée projet, calculateur efficacité équipe, outil planification projet, calculateur gestion projet, estimation temps achèvement, outil timeline projet, calculateur achèvement travail, temps achèvement tâche, calculateur planning projet, outil estimation délai, calculateur temps projet, calculateur date achèvement, calculateur planification projet, calculateur timeline programme, outil estimation projet, suivi temps achèvement, estimateur achèvement projet, calculateur productivité équipe, calculateur marge projet, planificateur temps achèvement, planificateur délai projet, outil achèvement programme, estimation temps projet, calculateur timeline achèvement, planification achèvement projet, outil calcul délai, suivi temps projet, estimateur date achèvement, outil programmation projet, calculateur délai programme, suivi achèvement projet, calculateur achèvement équipe, estimateur timeline projet, analyse temps achèvement, estimateur durée projet, estimateur achèvement programme, timeline achèvement projet, outil planification délai, planification temps achèvement, planificateur temps projet, outil timeline programme, analyse achèvement projet, planificateur efficacité équipe, suivi délai projet, calculateur achèvement en ligne, gestion temps projet, planification achèvement programme, outil achèvement projet, calculateur délai gratuit",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -805,6 +805,19 @@
         "meta_title": "Calculateur Temps Achèvement - Outil Timeline Projet",
         "meta_description": "Calculez précisément temps achèvement projet avec efficacité équipe, planification marge et rapports PDF. Outil gratuit pour gestionnaires de projet.",
         "meta_keyword": "calculateur temps achèvement programme, calculateur achèvement projet, calculateur timeline projet, calculateur délai projet, estimateur temps achèvement, calculateur durée projet, calculateur efficacité équipe, outil planification projet, calculateur gestion projet, estimation temps achèvement, outil timeline projet, calculateur achèvement travail, temps achèvement tâche, calculateur planning projet, outil estimation délai, calculateur temps projet, calculateur date achèvement, calculateur planification projet, calculateur timeline programme, outil estimation projet, suivi temps achèvement, estimateur achèvement projet, calculateur productivité équipe, calculateur marge projet, planificateur temps achèvement, planificateur délai projet, outil achèvement programme, estimation temps projet, calculateur timeline achèvement, planification achèvement projet, outil calcul délai, suivi temps projet, estimateur date achèvement, outil programmation projet, calculateur délai programme, suivi achèvement projet, calculateur achèvement équipe, estimateur timeline projet, analyse temps achèvement, estimateur durée projet, estimateur achèvement programme, timeline achèvement projet, outil planification délai, planification temps achèvement, planificateur temps projet, outil timeline programme, analyse achèvement projet, planificateur efficacité équipe, suivi délai projet, calculateur achèvement en ligne, gestion temps projet, planification achèvement programme, outil achèvement projet, calculateur délai gratuit",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Calculateur de Compétence Linguistique",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Calculateur Compétence Linguistique - Test CECRL",
+        "meta_description": "Calculateur de compétence linguistique en ligne gratuit. Testez compréhension orale, expression orale, lecture et écriture. Obtenez niveau CECRL (A1-C2) instantanément.",
+        "meta_keyword": "calculateur compétence linguistique, test CECRL en ligne, test niveau langue, évaluation compétence, calculateur compétences langue, test compétence anglais, calculateur CECRL, outil évaluation langue, vérificateur compétence, évaluation langue, test expression orale, test compréhension orale, test lecture, test écriture, niveaux A1 A2 B1 B2 C1 C2, test cadre européen, test compétence langue, test compétence gratuit, évaluation langue en ligne, évaluation compétences langue, calculateur compétence CECRL, test capacité langue, évaluation multilingue, évaluation apprentissage langue, vérificateur niveau compétence, test certification langue, outil évaluation compétences, suivi progrès langue, outil mesure compétence, test fluidité langue, évaluation compétence, test maîtrise langue, compétence linguistique, évaluation capacité langue",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -782,14 +782,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Onderwijskosten Calculator",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Programma Voltooiingstijd Calculator",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Onderwijskosten Calculator - Universitaire Budgetplanner",
-        "meta_description": "Bereken collegegeld, huisvesting, boeken en totale onderwijskosten. Gratis budgetplanner voor studenten en ouders. Directe kostenschattingen.",
-        "meta_keyword": "onderwijskosten calculator, universiteitskosten calculator, collegegeld calculator, universitaire budgetplanner, universitaire budget calculator, onderwijsuitgaven calculator, studenten budgetplanner, collegegeld schatter, hoger onderwijs kosten calculator, onderwijsbudget tool, universitaire uitgaven planner, universiteitskosten schatter, academische kosten calculator, universitaire financiële planning, studentenkosten calculator, onderwijsprijs calculator, universitaire betaalbaarheid calculator, collegegeld calculator, universitaire spaar calculator, onderwijsfinanciering calculator",
+        "meta_title": "Voltooiingstijd Calculator - Project Timeline Tool",
+        "meta_description": "Bereken nauwkeurige project voltooiingstijden met team efficiëntie, buffer planning en PDF rapporten. Gratis tool voor projectmanagers deadlines schatten.",
+        "meta_keyword": "programma voltooiingstijd calculator, project voltooiing calculator, project timeline calculator, project deadline calculator, voltooiingstijd schatter, project duur calculator, team efficiëntie calculator, project planning tool, projectmanagement calculator, voltooiingstijd schatting, project timeline tool, werk voltooiing calculator, taak voltooiingstijd, project schema calculator, deadline schattingstool, project tijd calculator, voltooiingsdatum calculator, project planning calculator, programma timeline calculator, project schattingstool, voltooiingstijd tracker, project voltooiing schatter, team productiviteit calculator, project buffer calculator, voltooiingstijd planner, project deadline planner, programma voltooiing tool, project tijd schatting, voltooiings timeline calculator, project voltooiing planning, deadline berekeningtool, project tijd tracker, voltooiingsdatum schatter, project planningtool, programma deadline calculator, project voltooiing tracker, team voltooiing calculator, project timeline schatter, voltooiingstijd analyse, project duur schatter, programma voltooiing schatter, project voltooiings timeline, deadline planningtool, voltooiingstijd planning, project tijd planner, programma timeline tool, project voltooiing analyse, team efficiëntie planner, project deadline tracker, voltooiing calculator online, project tijdmanagement, programma voltooiing planning, project voltooiing tool, deadline calculator gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -803,6 +803,19 @@
         "meta_title": "Voltooiingstijd Calculator - Project Timeline Tool",
         "meta_description": "Bereken nauwkeurige project voltooiingstijden met team efficiëntie, buffer planning en PDF rapporten. Gratis tool voor projectmanagers deadlines schatten.",
         "meta_keyword": "programma voltooiingstijd calculator, project voltooiing calculator, project timeline calculator, project deadline calculator, voltooiingstijd schatter, project duur calculator, team efficiëntie calculator, project planning tool, projectmanagement calculator, voltooiingstijd schatting, project timeline tool, werk voltooiing calculator, taak voltooiingstijd, project schema calculator, deadline schattingstool, project tijd calculator, voltooiingsdatum calculator, project planning calculator, programma timeline calculator, project schattingstool, voltooiingstijd tracker, project voltooiing schatter, team productiviteit calculator, project buffer calculator, voltooiingstijd planner, project deadline planner, programma voltooiing tool, project tijd schatting, voltooiings timeline calculator, project voltooiing planning, deadline berekeningtool, project tijd tracker, voltooiingsdatum schatter, project planningtool, programma deadline calculator, project voltooiing tracker, team voltooiing calculator, project timeline schatter, voltooiingstijd analyse, project duur schatter, programma voltooiing schatter, project voltooiings timeline, deadline planningtool, voltooiingstijd planning, project tijd planner, programma timeline tool, project voltooiing analyse, team efficiëntie planner, project deadline tracker, voltooiing calculator online, project tijdmanagement, programma voltooiing planning, project voltooiing tool, deadline calculator gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Taalvaardigheid Calculator",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Taalvaardigheid Calculator - CEFR Niveau Test Online",
+        "meta_description": "Gratis online taalvaardigheid calculator. Test luisteren, spreken, lezen & schrijven vaardigheden. Krijg CEFR niveau (A1-C2) & persoonlijke aanbevelingen direct.",
+        "meta_keyword": "taalvaardigheid calculator, CEFR test online, taalniveau test, vaardigheid beoordeling, taalvaardigheden calculator, Engels vaardigheid test, CEFR calculator, taal beoordelingstool, vaardigheid checker, taal evaluatie, spreek test, luister test, lees test, schrijf test, A1 A2 B1 B2 C1 C2 niveaus, Europees kader test, taalcompetentie test, gratis vaardigheid test, online taal beoordeling, taalvaardigheden evaluatie, CEFR vaardigheid calculator, taalvermogen test, meertalige beoordeling, taalleren beoordeling, vaardigheid niveau checker, taal certificering test, vaardigheden beoordelingstool, taal voortgang tracker, vaardigheid meetinstrument, taalvloeiendheid test, competentie evaluatie, taal beheersing test, taalvaardigheid, taalvermogen beoordeling",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

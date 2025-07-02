@@ -782,14 +782,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Kalkulator Kos Pendidikan",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Masa Penyiapan Program",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Kos Pendidikan - Perancang Belanjawan Kolej",
-        "meta_description": "Kira yuran pengajian, penginapan, buku & jumlah kos pendidikan. Perancang belanjawan percuma untuk pelajar & ibu bapa. Anggaran segera kos universiti.",
-        "meta_keyword": "kalkulator kos pendidikan, kalkulator kos kolej, kalkulator yuran pengajian, perancang belanjawan universiti, kalkulator belanjawan kolej, kalkulator perbelanjaan pendidikan, perancang belanjawan pelajar, penganggar yuran kolej, kalkulator kos pendidikan tinggi, alat belanjawan pendidikan, perancang perbelanjaan kolej, penganggar kos universiti, kalkulator kos akademik, perancangan kewangan kolej, kalkulator kos pelajar, kalkulator harga pendidikan, kalkulator kemampuan kolej, kalkulator yuran sekolah, kalkulator simpanan kolej, kalkulator pembiayaan pendidikan",
+        "meta_title": "Kalkulator Masa Penyiapan - Alat Timeline Projek",
+        "meta_description": "Kira masa penyiapan projek tepat dengan kecekapan pasukan, perancangan buffer & laporan PDF. Alat percuma untuk pengurus projek anggaran deadline.",
+        "meta_keyword": "kalkulator masa penyiapan program, kalkulator penyiapan projek, kalkulator timeline projek, kalkulator deadline projek, anggaran masa penyiapan, kalkulator tempoh projek, kalkulator kecekapan pasukan, alat perancangan projek, kalkulator pengurusan projek, anggaran masa penyiapan, alat timeline projek, kalkulator penyiapan kerja, masa penyiapan tugasan, kalkulator jadual projek, alat anggaran deadline, kalkulator masa projek, kalkulator tarikh penyiapan, kalkulator perancangan projek, kalkulator timeline program, alat anggaran projek, penjejak masa penyiapan, anggaran penyiapan projek, kalkulator produktiviti pasukan, kalkulator buffer projek, perancang masa penyiapan, perancang deadline projek, alat penyiapan program, anggaran masa projek, kalkulator timeline penyiapan, perancangan penyiapan projek, alat pengiraan deadline, penjejak masa projek, anggaran tarikh penyiapan, alat penjadwalan projek, kalkulator deadline program, penjejak penyiapan projek, kalkulator penyiapan pasukan, anggaran timeline projek, analisis masa penyiapan, anggaran tempoh projek, anggaran penyiapan program, timeline penyiapan projek, alat perancangan deadline, perancangan masa penyiapan, perancang masa projek, alat timeline program, analisis penyiapan projek, perancang kecekapan pasukan, penjejak deadline projek, kalkulator penyiapan dalam talian, pengurusan masa projek, perancangan penyiapan program, alat penyiapan projek, kalkulator deadline percuma",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -803,6 +803,19 @@
         "meta_title": "Kalkulator Masa Penyiapan - Alat Timeline Projek",
         "meta_description": "Kira masa penyiapan projek tepat dengan kecekapan pasukan, perancangan buffer & laporan PDF. Alat percuma untuk pengurus projek anggaran deadline.",
         "meta_keyword": "kalkulator masa penyiapan program, kalkulator penyiapan projek, kalkulator timeline projek, kalkulator deadline projek, anggaran masa penyiapan, kalkulator tempoh projek, kalkulator kecekapan pasukan, alat perancangan projek, kalkulator pengurusan projek, anggaran masa penyiapan, alat timeline projek, kalkulator penyiapan kerja, masa penyiapan tugasan, kalkulator jadual projek, alat anggaran deadline, kalkulator masa projek, kalkulator tarikh penyiapan, kalkulator perancangan projek, kalkulator timeline program, alat anggaran projek, penjejak masa penyiapan, anggaran penyiapan projek, kalkulator produktiviti pasukan, kalkulator buffer projek, perancang masa penyiapan, perancang deadline projek, alat penyiapan program, anggaran masa projek, kalkulator timeline penyiapan, perancangan penyiapan projek, alat pengiraan deadline, penjejak masa projek, anggaran tarikh penyiapan, alat penjadwalan projek, kalkulator deadline program, penjejak penyiapan projek, kalkulator penyiapan pasukan, anggaran timeline projek, analisis masa penyiapan, anggaran tempoh projek, anggaran penyiapan program, timeline penyiapan projek, alat perancangan deadline, perancangan masa penyiapan, perancang masa projek, alat timeline program, analisis penyiapan projek, perancang kecekapan pasukan, penjejak deadline projek, kalkulator penyiapan dalam talian, pengurusan masa projek, perancangan penyiapan program, alat penyiapan projek, kalkulator deadline percuma",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Kalkulator Kemahiran Bahasa",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Kemahiran Bahasa - Ujian Tahap CEFR",
+        "meta_description": "Kalkulator kemahiran bahasa dalam talian percuma. Uji kemahiran mendengar, bertutur, membaca & menulis. Dapatkan tahap CEFR (A1-C2) & cadangan peribadi serta-merta.",
+        "meta_keyword": "kalkulator kemahiran bahasa, ujian CEFR dalam talian, ujian tahap bahasa, penilaian kemahiran, kalkulator kemahiran bahasa, ujian kemahiran Inggeris, kalkulator CEFR, alat penilaian bahasa, pemeriksa kemahiran, penilaian bahasa, ujian bertutur, ujian mendengar, ujian membaca, ujian menulis, tahap A1 A2 B1 B2 C1 C2, ujian rangka kerja Eropah, ujian kompetensi bahasa, ujian kemahiran percuma, penilaian bahasa dalam talian, penilaian kemahiran bahasa, kalkulator kemahiran CEFR, ujian keupayaan bahasa, penilaian berbilang bahasa, penilaian pembelajaran bahasa, pemeriksa tahap kemahiran, ujian pensijilan bahasa, alat penilaian kemahiran, penjejak kemajuan bahasa, alat pengukur kemahiran, ujian kefasihan bahasa, penilaian kompetensi, ujian penguasaan bahasa, kemahiran linguistik, penilaian keupayaan bahasa",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

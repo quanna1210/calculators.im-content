@@ -782,14 +782,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Kalkulator Kosztów Edukacji",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Czasu Ukończenia Programu",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Kosztów Edukacji - Planer Budżetu Studiów",
-        "meta_description": "Oblicz czesne, zakwaterowanie, książki i całkowite koszty edukacji. Darmowy planer budżetu dla studentów i rodziców. Natychmiastowe szacunki.",
-        "meta_keyword": "kalkulator kosztów edukacji, kalkulator kosztów uniwersytetu, kalkulator czesnego, planer budżetu uniwersytetu, kalkulator budżetu uniwersytetu, kalkulator wydatków edukacyjnych, planer budżetu studenta, szacowanie czesnego, kalkulator kosztów szkolnictwa wyższego, narzędzie budżetu edukacji, planer wydatków uniwersytetu, szacowanie kosztów uniwersytetu, kalkulator kosztów akademickich, planowanie finansowe uniwersytetu, kalkulator kosztów studenta, kalkulator ceny edukacji, kalkulator przystępności uniwersytetu, kalkulator opłat czesnego, kalkulator oszczędności uniwersytetu, kalkulator finansowania edukacji",
+        "meta_title": "Kalkulator Czasu Ukończenia - Narzędzie Timeline Projektu",
+        "meta_description": "Oblicz dokładne czasy ukończenia projektu z wydajnością zespołu, planowaniem bufora i raportami PDF. Darmowe narzędzie dla menedżerów projektów.",
+        "meta_keyword": "kalkulator czasu ukończenia programu, kalkulator ukończenia projektu, kalkulator timeline projektu, kalkulator terminu projektu, estymator czasu ukończenia, kalkulator czasu trwania projektu, kalkulator wydajności zespołu, narzędzie planowania projektu, kalkulator zarządzania projektem, oszacowanie czasu ukończenia, narzędzie timeline projektu, kalkulator ukończenia pracy, czas ukończenia zadania, kalkulator harmonogramu projektu, narzędzie oszacowania terminu, kalkulator czasu projektu, kalkulator daty ukończenia, kalkulator planowania projektu, kalkulator timeline programu, narzędzie oszacowania projektu, śledzenie czasu ukończenia, estymator ukończenia projektu, kalkulator produktywności zespołu, kalkulator bufora projektu, planista czasu ukończenia, planista terminu projektu, narzędzie ukończenia programu, oszacowanie czasu projektu, kalkulator timeline ukończenia, planowanie ukończenia projektu, narzędzie obliczania terminu, śledzenie czasu projektu, estymator daty ukończenia, narzędzie planowania projektu, kalkulator terminu programu, śledzenie ukończenia projektu, kalkulator ukończenia zespołu, estymator timeline projektu, analiza czasu ukończenia, estymator czasu trwania projektu, estymator ukończenia programu, timeline ukończenia projektu, narzędzie planowania terminu, planowanie czasu ukończenia, planista czasu projektu, narzędzie timeline programu, analiza ukończenia projektu, planista wydajności zespołu, śledzenie terminu projektu, kalkulator ukończenia online, zarządzanie czasem projektu, planowanie ukończenia programu, narzędzie ukończenia projektu, kalkulator terminu za darmo",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -803,6 +803,19 @@
         "meta_title": "Kalkulator Czasu Ukończenia - Narzędzie Timeline Projektu",
         "meta_description": "Oblicz dokładne czasy ukończenia projektu z wydajnością zespołu, planowaniem bufora i raportami PDF. Darmowe narzędzie dla menedżerów projektów.",
         "meta_keyword": "kalkulator czasu ukończenia programu, kalkulator ukończenia projektu, kalkulator timeline projektu, kalkulator terminu projektu, estymator czasu ukończenia, kalkulator czasu trwania projektu, kalkulator wydajności zespołu, narzędzie planowania projektu, kalkulator zarządzania projektem, oszacowanie czasu ukończenia, narzędzie timeline projektu, kalkulator ukończenia pracy, czas ukończenia zadania, kalkulator harmonogramu projektu, narzędzie oszacowania terminu, kalkulator czasu projektu, kalkulator daty ukończenia, kalkulator planowania projektu, kalkulator timeline programu, narzędzie oszacowania projektu, śledzenie czasu ukończenia, estymator ukończenia projektu, kalkulator produktywności zespołu, kalkulator bufora projektu, planista czasu ukończenia, planista terminu projektu, narzędzie ukończenia programu, oszacowanie czasu projektu, kalkulator timeline ukończenia, planowanie ukończenia projektu, narzędzie obliczania terminu, śledzenie czasu projektu, estymator daty ukończenia, narzędzie planowania projektu, kalkulator terminu programu, śledzenie ukończenia projektu, kalkulator ukończenia zespołu, estymator timeline projektu, analiza czasu ukończenia, estymator czasu trwania projektu, estymator ukończenia programu, timeline ukończenia projektu, narzędzie planowania terminu, planowanie czasu ukończenia, planista czasu projektu, narzędzie timeline programu, analiza ukończenia projektu, planista wydajności zespołu, śledzenie terminu projektu, kalkulator ukończenia online, zarządzanie czasem projektu, planowanie ukończenia programu, narzędzie ukończenia projektu, kalkulator terminu za darmo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Kalkulator Biegłości Językowej",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Biegłości Językowej - Test CEFR Online",
+        "meta_description": "Darmowy kalkulator biegłości językowej online. Testuj słuchanie, mówienie, czytanie i pisanie. Otrzymaj poziom CEFR (A1-C2) i personalne rekomendacje natychmiast.",
+        "meta_keyword": "kalkulator biegłości językowej, test CEFR online, test poziomu języka, ocena biegłości, kalkulator umiejętności językowych, test biegłości angielskiego, kalkulator CEFR, narzędzie oceny języka, sprawdzacz biegłości, ocena języka, test mówienia, test słuchania, test czytania, test pisania, poziomy A1 A2 B1 B2 C1 C2, test ram europejskich, test kompetencji językowych, darmowy test biegłości, ocena języka online, ocena umiejętności językowych, kalkulator biegłości CEFR, test zdolności językowych, ocena wielojęzyczna, ocena nauki języka, sprawdzacz poziomu biegłości, test certyfikacji językowej, narzędzie oceny umiejętności, tracker postępów językowych, narzędzie pomiaru biegłości, test płynności językowej, ocena kompetencji, test opanowania języka, biegłość językowa, ocena zdolności językowych",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

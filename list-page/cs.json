@@ -782,14 +782,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Kalkulačka Nákladů na Vzdělání",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulátor Času Dokončení Programu",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulačka Nákladů na Vzdělání - Rozpočet Vysoké Školy",
-        "meta_description": "Vypočítejte školné, ubytování, knihy a celkové náklady na vzdělání. Bezplatný plánovač rozpočtu pro studenty a rodiče. Okamžité odhady nákladů.",
-        "meta_keyword": "kalkulačka nákladů na vzdělání, kalkulačka nákladů na vysokou školu, kalkulačka školného, plánovač rozpočtu univerzity, kalkulačka rozpočtu vysoké školy, kalkulačka výdajů na vzdělání, plánovač rozpočtu studenta, odhad školného, kalkulačka nákladů vyššího vzdělání, nástroj rozpočtu vzdělání, plánovač výdajů vysoké školy, odhad nákladů univerzity, kalkulačka akademických nákladů, finanční plánování vysoké školy, kalkulačka nákladů studenta, kalkulačka ceny vzdělání, kalkulačka dostupnosti vysoké školy, kalkulačka školních poplatků, kalkulačka úspor na vysokou školu, kalkulačka financování vzdělání",
+        "meta_title": "Kalkulátor Času Dokončení - Nástroj Timeline Projektu",
+        "meta_description": "Vypočítejte přesný čas dokončení projektu s efektivitou týmu, plánování rezervy a PDF reporty. Bezplatný nástroj pro projektové manažery k odhadu termínů.",
+        "meta_keyword": "kalkulátor času dokončení programu, kalkulátor dokončení projektu, kalkulátor timeline projektu, kalkulátor termínu projektu, odhad času dokončení, kalkulátor trvání projektu, kalkulátor efektivity týmu, nástroj plánování projektu, kalkulátor řízení projektu, odhad času dokončení, nástroj timeline projektu, kalkulátor dokončení práce, čas dokončení úkolu, kalkulátor harmonogramu projektu, nástroj odhadu termínu, kalkulátor času projektu, kalkulátor data dokončení, kalkulátor plánování projektu, kalkulátor timeline programu, nástroj odhadu projektu, sledování času dokončení, odhad dokončení projektu, kalkulátor produktivity týmu, kalkulátor rezervy projektu, plánovač času dokončení, plánovač termínu projektu, nástroj dokončení programu, odhad času projektu, kalkulátor timeline dokončení, plánování dokončení projektu, nástroj výpočtu termínu, sledování času projektu, odhad data dokončení, nástroj plánování projektu, kalkulátor termínu programu, sledování dokončení projektu, kalkulátor dokončení týmu, odhad timeline projektu, analýza času dokončení, odhad trvání projektu, odhad dokončení programu, timeline dokončení projektu, nástroj plánování termínu, plánování času dokončení, plánovač času projektu, nástroj timeline programu, analýza dokončení projektu, plánovač efektivity týmu, sledování termínu projektu, kalkulátor dokončení online, řízení času projektu, plánování dokončení programu, nástroj dokončení projektu, kalkulátor termínu zdarma",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -803,6 +803,19 @@
         "meta_title": "Kalkulátor Času Dokončení - Nástroj Timeline Projektu",
         "meta_description": "Vypočítejte přesný čas dokončení projektu s efektivitou týmu, plánování rezervy a PDF reporty. Bezplatný nástroj pro projektové manažery k odhadu termínů.",
         "meta_keyword": "kalkulátor času dokončení programu, kalkulátor dokončení projektu, kalkulátor timeline projektu, kalkulátor termínu projektu, odhad času dokončení, kalkulátor trvání projektu, kalkulátor efektivity týmu, nástroj plánování projektu, kalkulátor řízení projektu, odhad času dokončení, nástroj timeline projektu, kalkulátor dokončení práce, čas dokončení úkolu, kalkulátor harmonogramu projektu, nástroj odhadu termínu, kalkulátor času projektu, kalkulátor data dokončení, kalkulátor plánování projektu, kalkulátor timeline programu, nástroj odhadu projektu, sledování času dokončení, odhad dokončení projektu, kalkulátor produktivity týmu, kalkulátor rezervy projektu, plánovač času dokončení, plánovač termínu projektu, nástroj dokončení programu, odhad času projektu, kalkulátor timeline dokončení, plánování dokončení projektu, nástroj výpočtu termínu, sledování času projektu, odhad data dokončení, nástroj plánování projektu, kalkulátor termínu programu, sledování dokončení projektu, kalkulátor dokončení týmu, odhad timeline projektu, analýza času dokončení, odhad trvání projektu, odhad dokončení programu, timeline dokončení projektu, nástroj plánování termínu, plánování času dokončení, plánovač času projektu, nástroj timeline programu, analýza dokončení projektu, plánovač efektivity týmu, sledování termínu projektu, kalkulátor dokončení online, řízení času projektu, plánování dokončení programu, nástroj dokončení projektu, kalkulátor termínu zdarma",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Kalkulačka Jazykové Způsobilosti",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulačka Jazykové Způsobilosti - CEFR Test Online",
+        "meta_description": "Bezplatná online kalkulačka jazykové způsobilosti. Testujte poslech, mluvení, čtení a psaní. Získejte CEFR úroveň (A1-C2) a osobní doporučení okamžitě.",
+        "meta_keyword": "kalkulačka jazykové způsobilosti, CEFR test online, test jazykové úrovně, hodnocení způsobilosti, kalkulačka jazykových dovedností, test anglické způsobilosti, CEFR kalkulačka, nástroj hodnocení jazyka, kontrola způsobilosti, hodnocení jazyka, test mluvení, test poslechu, test čtení, test psaní, úrovně A1 A2 B1 B2 C1 C2, test evropského rámce, test jazykové kompetence, bezplatný test způsobilosti, online hodnocení jazyka, hodnocení jazykových dovedností, CEFR kalkulačka způsobilosti, test jazykové schopnosti, vícejazyčné hodnocení, hodnocení učení jazyka, kontrola úrovně způsobilosti, test certifikace jazyka, nástroj hodnocení dovedností, sledování pokroku v jazyce, nástroj měření způsobilosti, test plynulosti jazyka, hodnocení kompetence, test ovládání jazyka, jazyková způsobilost, hodnocení jazykových schopností",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

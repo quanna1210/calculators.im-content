@@ -784,14 +784,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Kalkulator Biaya Pendidikan",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Kalkulator Waktu Penyelesaian Program",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Kalkulator Biaya Pendidikan - Perencana Anggaran Kuliah",
-        "meta_description": "Hitung biaya kuliah, asrama, buku & total biaya pendidikan. Perencana anggaran gratis untuk mahasiswa & orang tua. Estimasi instan biaya universitas.",
-        "meta_keyword": "kalkulator biaya pendidikan, kalkulator biaya kuliah, kalkulator biaya kuliah, perencana anggaran universitas, kalkulator anggaran kuliah, kalkulator pengeluaran pendidikan, perencana anggaran mahasiswa, estimator biaya kuliah, kalkulator biaya pendidikan tinggi, alat anggaran pendidikan, perencana pengeluaran kuliah, estimator biaya universitas, kalkulator biaya akademik, perencanaan keuangan kuliah, kalkulator biaya mahasiswa, kalkulator harga pendidikan, kalkulator keterjangkauan kuliah, kalkulator biaya sekolah, kalkulator tabungan kuliah, kalkulator pendanaan pendidikan",
+        "meta_title": "Kalkulator Waktu Penyelesaian - Alat Timeline Proyek",
+        "meta_description": "Hitung waktu penyelesaian proyek akurat dengan efisiensi tim, perencanaan buffer & laporan PDF. Tool online gratis untuk manajer proyek estimasi deadline.",
+        "meta_keyword": "kalkulator waktu penyelesaian program, kalkulator penyelesaian proyek, kalkulator timeline proyek, kalkulator deadline proyek, estimator waktu penyelesaian, kalkulator durasi proyek, kalkulator efisiensi tim, alat perencanaan proyek, kalkulator manajemen proyek, estimasi waktu penyelesaian, alat timeline proyek, kalkulator penyelesaian kerja, waktu penyelesaian tugas, kalkulator jadwal proyek, alat estimasi deadline, kalkulator waktu proyek, kalkulator tanggal penyelesaian, kalkulator perencanaan proyek, kalkulator timeline program, alat estimasi proyek, pelacak waktu penyelesaian, estimator penyelesaian proyek, kalkulator produktivitas tim, kalkulator buffer proyek, perencana waktu penyelesaian, perencana deadline proyek, alat penyelesaian program, estimasi waktu proyek, kalkulator timeline penyelesaian, perencanaan penyelesaian proyek, alat kalkulasi deadline, pelacak waktu proyek, estimator tanggal penyelesaian, alat penjadwalan proyek, kalkulator deadline program, pelacak penyelesaian proyek, kalkulator penyelesaian tim, estimator timeline proyek, analisis waktu penyelesaian, estimator durasi proyek, estimator penyelesaian program, timeline penyelesaian proyek, alat perencanaan deadline, perencanaan waktu penyelesaian, perencana waktu proyek, alat timeline program, analisis penyelesaian proyek, perencana efisiensi tim, pelacak deadline proyek, kalkulator penyelesaian online, manajemen waktu proyek, perencanaan penyelesaian program, alat penyelesaian proyek, kalkulator deadline gratis",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -805,6 +805,19 @@
         "meta_title": "Kalkulator Waktu Penyelesaian - Alat Timeline Proyek",
         "meta_description": "Hitung waktu penyelesaian proyek akurat dengan efisiensi tim, perencanaan buffer & laporan PDF. Tool online gratis untuk manajer proyek estimasi deadline.",
         "meta_keyword": "kalkulator waktu penyelesaian program, kalkulator penyelesaian proyek, kalkulator timeline proyek, kalkulator deadline proyek, estimator waktu penyelesaian, kalkulator durasi proyek, kalkulator efisiensi tim, alat perencanaan proyek, kalkulator manajemen proyek, estimasi waktu penyelesaian, alat timeline proyek, kalkulator penyelesaian kerja, waktu penyelesaian tugas, kalkulator jadwal proyek, alat estimasi deadline, kalkulator waktu proyek, kalkulator tanggal penyelesaian, kalkulator perencanaan proyek, kalkulator timeline program, alat estimasi proyek, pelacak waktu penyelesaian, estimator penyelesaian proyek, kalkulator produktivitas tim, kalkulator buffer proyek, perencana waktu penyelesaian, perencana deadline proyek, alat penyelesaian program, estimasi waktu proyek, kalkulator timeline penyelesaian, perencanaan penyelesaian proyek, alat kalkulasi deadline, pelacak waktu proyek, estimator tanggal penyelesaian, alat penjadwalan proyek, kalkulator deadline program, pelacak penyelesaian proyek, kalkulator penyelesaian tim, estimator timeline proyek, analisis waktu penyelesaian, estimator durasi proyek, estimator penyelesaian program, timeline penyelesaian proyek, alat perencanaan deadline, perencanaan waktu penyelesaian, perencana waktu proyek, alat timeline program, analisis penyelesaian proyek, perencana efisiensi tim, pelacak deadline proyek, kalkulator penyelesaian online, manajemen waktu proyek, perencanaan penyelesaian program, alat penyelesaian proyek, kalkulator deadline gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Kalkulator Kemahiran Bahasa",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Kemahiran Bahasa - Tes Level CEFR Online",
+        "meta_description": "Kalkulator kemahiran bahasa online gratis. Tes kemampuan mendengar, berbicara, membaca & menulis. Dapatkan level CEFR (A1-C2) & rekomendasi personal instan.",
+        "meta_keyword": "kalkulator kemahiran bahasa, tes CEFR online, tes level bahasa, penilaian kemahiran, kalkulator kemampuan bahasa, tes kemahiran Inggris, kalkulator CEFR, alat penilaian bahasa, pemeriksa kemahiran, evaluasi bahasa, tes berbicara, tes mendengar, tes membaca, tes menulis, level A1 A2 B1 B2 C1 C2, tes kerangka Eropa, tes kompetensi bahasa, tes kemahiran gratis, penilaian bahasa online, evaluasi kemampuan bahasa, kalkulator kemahiran CEFR, tes kemampuan bahasa, penilaian multibahasa, penilaian pembelajaran bahasa, pemeriksa level kemahiran, tes sertifikasi bahasa, alat penilaian kemampuan, pelacak progres bahasa, alat pengukur kemahiran, tes kelancaran bahasa, evaluasi kompetensi, tes penguasaan bahasa, kemahiran linguistik, penilaian kapabilitas bahasa",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

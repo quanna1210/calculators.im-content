@@ -784,14 +784,14 @@
         "orders": "10000"
     },
     {
-        "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
-        "title": "Oktatási Költség Kalkulátor",
-        "slug": "education-cost-calculator",
+        "id": "63",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "title": "Program Befejezési Idő Kalkulátor",
+        "slug": "program-completion-time-calculator",
         "parent_id": "58",
-        "meta_title": "Oktatási Költség Kalkulátor - Egyetemi Költségvetés",
-        "meta_description": "Számítsa ki a tandíjat, szállást, könyveket és összes oktatási költséget. Ingyenes költségvetés-tervező diákoknak és szülőknek. Azonnali becslések.",
-        "meta_keyword": "oktatási költség kalkulátor, egyetemi költség kalkulátor, tandíj kalkulátor, egyetemi költségvetés tervező, egyetemi költségvetés kalkulátor, oktatási kiadás kalkulátor, diák költségvetés tervező, tandíj becslő, felsőoktatási költség kalkulátor, oktatási költségvetés eszköz, egyetemi kiadás tervező, egyetemi költség becslő, akadémiai költség kalkulátor, egyetemi pénzügyi tervezés, diák költség kalkulátor, oktatási ár kalkulátor, egyetemi megfizethetőség kalkulátor, tandíj kalkulátor, egyetemi megtakarítás kalkulátor, oktatási finanszírozás kalkulátor",
+        "meta_title": "Befejezési Idő Kalkulátor - Projekt Timeline Eszköz",
+        "meta_description": "Számítsa ki a projekt befejezési időket pontosan csapat hatékonysággal, puffer tervezéssel és PDF jelentésekkel. Ingyenes eszköz projektmenedzsereknek.",
+        "meta_keyword": "program befejezési idő kalkulátor, projekt befejezési kalkulátor, projekt timeline kalkulátor, projekt határidő kalkulátor, befejezési idő becslő, projekt időtartam kalkulátor, csapat hatékonyság kalkulátor, projekt tervezési eszköz, projektmenedzsment kalkulátor, befejezési idő becslés, projekt timeline eszköz, munka befejezési kalkulátor, feladat befejezési idő, projekt ütemterv kalkulátor, határidő becslési eszköz, projekt idő kalkulátor, befejezési dátum kalkulátor, projekt tervezési kalkulátor, program timeline kalkulátor, projekt becslési eszköz, befejezési idő követő, projekt befejezési becslő, csapat produktivitási kalkulátor, projekt puffer kalkulátor, befejezési idő tervező, projekt határidő tervező, program befejezési eszköz, projekt idő becslés, befejezési timeline kalkulátor, projekt befejezési tervezés, határidő számítási eszköz, projekt idő követő, befejezési dátum becslő, projekt ütemezési eszköz, program határidő kalkulátor, projekt befejezési követő, csapat befejezési kalkulátor, projekt timeline becslő, befejezési idő elemzés, projekt időtartam becslő, program befejezési becslő, projekt befejezési timeline, határidő tervezési eszköz, befejezési idő tervezés, projekt idő tervező, program timeline eszköz, projekt befejezési elemzés, csapat hatékonyság tervező, projekt határidő követő, befejezési kalkulátor online, projekt időmenedzsment, program befejezési tervezés, projekt befejezési eszköz, határidő kalkulátor ingyenes",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -805,6 +805,19 @@
         "meta_title": "Befejezési Idő Kalkulátor - Projekt Timeline Eszköz",
         "meta_description": "Számítsa ki a projekt befejezési időket pontosan csapat hatékonysággal, puffer tervezéssel és PDF jelentésekkel. Ingyenes eszköz projektmenedzsereknek.",
         "meta_keyword": "program befejezési idő kalkulátor, projekt befejezési kalkulátor, projekt timeline kalkulátor, projekt határidő kalkulátor, befejezési idő becslő, projekt időtartam kalkulátor, csapat hatékonyság kalkulátor, projekt tervezési eszköz, projektmenedzsment kalkulátor, befejezési idő becslés, projekt timeline eszköz, munka befejezési kalkulátor, feladat befejezési idő, projekt ütemterv kalkulátor, határidő becslési eszköz, projekt idő kalkulátor, befejezési dátum kalkulátor, projekt tervezési kalkulátor, program timeline kalkulátor, projekt becslési eszköz, befejezési idő követő, projekt befejezési becslő, csapat produktivitási kalkulátor, projekt puffer kalkulátor, befejezési idő tervező, projekt határidő tervező, program befejezési eszköz, projekt idő becslés, befejezési timeline kalkulátor, projekt befejezési tervezés, határidő számítási eszköz, projekt idő követő, befejezési dátum becslő, projekt ütemezési eszköz, program határidő kalkulátor, projekt befejezési követő, csapat befejezési kalkulátor, projekt timeline becslő, befejezési idő elemzés, projekt időtartam becslő, program befejezési becslő, projekt befejezési timeline, határidő tervezési eszköz, befejezési idő tervezés, projekt idő tervező, program timeline eszköz, projekt befejezési elemzés, csapat hatékonyság tervező, projekt határidő követő, befejezési kalkulátor online, projekt időmenedzsment, program befejezési tervezés, projekt befejezési eszköz, határidő kalkulátor ingyenes",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "64",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "title": "Nyelvi Jártasság Kalkulátor",
+        "slug": "language-proficiency-calculator",
+        "parent_id": "58",
+        "meta_title": "Nyelvi Jártasság Kalkulátor - CEFR Szint Teszt Online",
+        "meta_description": "Ingyenes online nyelvi jártasság kalkulátor. Tesztelje hallás, beszéd, olvasás és írás készségeit. Kapjon CEFR szintet (A1-C2) és személyes ajánlásokat azonnal.",
+        "meta_keyword": "nyelvi jártasság kalkulátor, CEFR teszt online, nyelvi szint teszt, jártasság értékelés, nyelvi készségek kalkulátor, angol jártasság teszt, CEFR kalkulátor, nyelv értékelő eszköz, jártasság ellenőrző, nyelv értékelés, beszéd teszt, hallás teszt, olvasás teszt, írás teszt, A1 A2 B1 B2 C1 C2 szintek, európai keret teszt, nyelvi kompetencia teszt, ingyenes jártasság teszt, online nyelv értékelés, nyelvi készségek értékelés, CEFR jártasság kalkulátor, nyelvi képesség teszt, többnyelvű értékelés, nyelvtanulás értékelés, jártasság szint ellenőrző, nyelvi tanúsítvány teszt, készségek értékelő eszköz, nyelvi haladás követő, jártasság mérő eszköz, nyelvi folyékonyság teszt, kompetencia értékelés, nyelvi elsajátítás teszt, nyelvi jártasság, nyelvi képesség értékelés",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
