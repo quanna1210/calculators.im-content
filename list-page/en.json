@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
-        "title": "Financial Calculators",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "A Complete Collection of Financial Calculators for You",
-        "meta_description": "Explore a complete collection of financial calculators to help you manage budgets, loans, investments, and more, all in one convenient tool.",
-        "meta_keyword": "Mortgage Calculator, Loan Calculator, Compound Interest Calculator, Retirement Calculator, Investment Calculator",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
-        "title": "Math Calculators",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Math calculators for all your mathematical needs.",
-        "meta_description": "A math calculator offers tools to solve arithmetic, algebra, calculus, and more, making complex calculations faster and easier.",
-        "meta_keyword": "Online math calculator, Scientific calculator tools, Graphing calculator online, Best math calculator app, Advanced math calculator functions.",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
-        "title": "Other Calculators",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Other useful calculator collections",
-        "meta_description": "Discover a collection of other useful calculators, designed to help you solve various calculations quickly and accurately",
-        "meta_keyword": "Useful calculators collection, other calculators tools, versatile calculation tools, online calculators variety, popular calculation tools",
-        "status": "1",
-        "is_show": "1",
-        "orders": "5"
-    },
-    {
         "id": "1",
-        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Mortgage Calculator",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Amortization Loan Calculator",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Payment Calculator",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
         "title": "Interest Calculator",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "8",
-        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Deferred Payment Loan Calculator",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Deferred Payment Loan Calculator – Estimate Easily",
-        "meta_description": "Use our free deferred payment loan calculator with amortization to estimate monthly payments and interest after the deferment period",
-        "meta_keyword": "deferred payment loan calculator, payment loan calculator, deferred payment calculator, loan amortization calculator, interest loan calculator, how to calculate deferred payment loan online, free deferred payment loan calculator with amortization, deferred loan calculator with interest, calculate monthly payments on a deferred loan, deferred loan repayment tool for new borrowers",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Predetermined Amount Loan Calculator",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Predetermined Amount Loan Calculator – Estimate Payments",
-        "meta_description": "Use our Predetermined Amount Loan Calculator to understand how to calculate predetermined loan payments and estimate your monthly fixed repayments easily.",
-        "meta_keyword": "Predetermined Amount Loan Calculator, Predetermined loan, Loan calculator, Fixed loan calculator, Installment calculator, Loan repayment calculator, Predetermined amount loan calculator online, How to calculate predetermined loan payments, Monthly payment calculator for fixed loan amount, Free predetermined loan repayment calculator, Estimate monthly payments on a predetermined loan, Simple calculator for fixed amount loan, Amortization schedule for predetermined loan",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
-        "title": "Scientific Calculator",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Free Scientific Calculator Online",
-        "meta_description": "Discover our free online scientific calculator for math, engineering, fractions, and logarithms. Easy to use, accurate, perfect for students!",
-        "meta_keyword": "scientific calculator, online calculator, free calculator, math calculator, advanced calculator, calculator tool, fractions calculator, logarithms calculator, engineering calculator, student calculator",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Percentage Calculator",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Perimeter Calculator",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
         "title": "Area Calculator",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Deferred Payment Loan Calculator",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Deferred Payment Loan Calculator – Estimate Easily",
+        "meta_description": "Use our free deferred payment loan calculator with amortization to estimate monthly payments and interest after the deferment period",
+        "meta_keyword": "deferred payment loan calculator, payment loan calculator, deferred payment calculator, loan amortization calculator, interest loan calculator, how to calculate deferred payment loan online, free deferred payment loan calculator with amortization, deferred loan calculator with interest, calculate monthly payments on a deferred loan, deferred loan repayment tool for new borrowers",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Financial Calculators",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "A Complete Collection of Financial Calculators for You",
+        "meta_description": "Explore a complete collection of financial calculators to help you manage budgets, loans, investments, and more, all in one convenient tool.",
+        "meta_keyword": "Mortgage Calculator, Loan Calculator, Compound Interest Calculator, Retirement Calculator, Investment Calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "title": "Math Calculators",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Math calculators for all your mathematical needs.",
+        "meta_description": "A math calculator offers tools to solve arithmetic, algebra, calculus, and more, making complex calculations faster and easier.",
+        "meta_keyword": "Online math calculator, Scientific calculator tools, Graphing calculator online, Best math calculator app, Advanced math calculator functions.",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Predetermined Amount Loan Calculator",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Predetermined Amount Loan Calculator – Estimate Payments",
+        "meta_description": "Use our Predetermined Amount Loan Calculator to understand how to calculate predetermined loan payments and estimate your monthly fixed repayments easily.",
+        "meta_keyword": "Predetermined Amount Loan Calculator, Predetermined loan, Loan calculator, Fixed loan calculator, Installment calculator, Loan repayment calculator, Predetermined amount loan calculator online, How to calculate predetermined loan payments, Monthly payment calculator for fixed loan amount, Free predetermined loan repayment calculator, Estimate monthly payments on a predetermined loan, Simple calculator for fixed amount loan, Amortization schedule for predetermined loan",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Scientific Calculator",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Free Scientific Calculator Online",
+        "meta_description": "Discover our free online scientific calculator for math, engineering, fractions, and logarithms. Easy to use, accurate, perfect for students!",
+        "meta_keyword": "scientific calculator, online calculator, free calculator, math calculator, advanced calculator, calculator tool, fractions calculator, logarithms calculator, engineering calculator, student calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
         "title": "Volume Calculator",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "title": "Other Calculators",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Other useful calculator collections",
+        "meta_description": "Discover a collection of other useful calculators, designed to help you solve various calculations quickly and accurately",
+        "meta_keyword": "Useful calculators collection, other calculators tools, versatile calculation tools, online calculators variety, popular calculation tools",
+        "status": "1",
+        "is_show": "1",
+        "orders": "5"
+    },
+    {
         "id": "16",
-        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
         "title": "Age Calculator",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
         "title": "Date Calculator",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Date Calculator: Days Between Dates & Add/Subtract Dates",
-        "meta_description": "Free Date Calculator: Calculate days between two dates or add/subtract dates easily. Try our online date difference calculator for fast, accurate results!",
+        "meta_title": "Date Calculator: Days Between Dates & Add\/Subtract Dates",
+        "meta_description": "Free Date Calculator: Calculate days between two dates or add\/subtract dates easily. Try our online date difference calculator for fast, accurate results!",
         "meta_keyword": "Date Calculator, Calculate days between two dates, Date difference calculator, Days between dates calculator, Days between dates, date calculator add and subtract, add and subtract date",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
         "title": "Time Calculator",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
         "title": "Hours Calculator",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Fraction Calculator",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Mixed Number Calculator",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Health & Fitness Calculators",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
         "title": "BMI Calculator",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
         "title": "BMR Calculator",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Body Fat Percentage Calculator",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
         "title": "Unit Converter",
         "slug": "unit-converter",
         "parent_id": "44",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Prime Number Calculator",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
         "title": "Countdown Timer",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Password Generator",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
-        "title": "Running Pace Calculator",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Running Pace Calculator Boost Your Race Pace Today",
-        "meta_description": "Learn how to calculate running pace accurately & convert running speed to pace easily with our best running pace calculator for training!",
-        "meta_keyword": "Running Pace Calculator, Pace Calculator, Marathon Pace Calculator, Race Pace Calculator, Running Speed Calculator, Calculate running pace accurately, Best running pace calculator for training, Convert speed to pace easily, Running pace chart for different distances, Find your optimal running pace",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
         "title": "TDEE Calculator",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Data Converter",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Calorie Calculator",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
         "title": "Currency Converter",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Leap Year Checker",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
         "title": "Weather Channel",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Pregnancy Due Date Calculator",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Blood Alcohol Concentration (BAC) Calculator",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Zodiac Calculator",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Pomodoro Timer",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Pomodoro Timer | Boost Productivity with Focus & Study Timer Tool",
-        "meta_description": "Free Pomodoro Timer to boost productivity. Custom 25/5 minute intervals, focus music and tracking features. Perfect for work, study and focus. Try now!",
+        "meta_description": "Free Pomodoro Timer to boost productivity. Custom 25\/5 minute intervals, focus music and tracking features. Perfect for work, study and focus. Try now!",
         "meta_keyword": "pomodoro timer, pomodoro technique, focus timer, productivity timer, tomato timer, study timer, work timer, time management tool, 25 minute timer, pomodoro tracker, pomodoro app, focus technique, productivity method, break timer, pomodoro timer online, work focus timer, study focus timer, time blocking tool, pomodoro timer app, productivity calculator, best pomodoro timer, pomodoro timer with music, online focus timer, pomodoro timer and planner, customizable timer, free pomodoro timer, digital pomodoro, web productivity tool, time management calculator, pomodoro timer for work",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
         "title": "QR Code Generator",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Derivative Calculator",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Logarithm Calculator",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Running Pace Calculator",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Running Pace Calculator Boost Your Race Pace Today",
+        "meta_description": "Learn how to calculate running pace accurately & convert running speed to pace easily with our best running pace calculator for training!",
+        "meta_keyword": "Running Pace Calculator, Pace Calculator, Marathon Pace Calculator, Race Pace Calculator, Running Speed Calculator, Calculate running pace accurately, Best running pace calculator for training, Convert speed to pace easily, Running pace chart for different distances, Find your optimal running pace",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Engineering Calculators",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Electrical Power Calculator",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Electrical Power Calculator - AC/DC Power, Voltage & Current",
-        "meta_description": "Free electrical power calculator for AC/DC circuits. Calculate power, voltage, current, resistance using Ohm's law. Supports single-phase, three-phase calculations instantly.",
+        "meta_title": "Electrical Power Calculator - AC\/DC Power, Voltage & Current",
+        "meta_description": "Free electrical power calculator for AC\/DC circuits. Calculate power, voltage, current, resistance using Ohm's law. Supports single-phase, three-phase calculations instantly.",
         "meta_keyword": "electrical power calculator, power calculation, voltage calculator, current calculator, ohms law calculator, AC power calculator, DC power calculator, three phase power calculator, single phase power, electrical engineering calculator, watt calculator, amperage calculator, resistance calculator, electrical circuit calculator, power consumption calculator, kilowatt calculator, electrical load calculator",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Resistance Calculator",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Force Calculator",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Velocity Calculator",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Velocity Calculator - Speed, Distance & Time Tool",
-        "meta_description": "Free velocity calculator with 3 methods: basic v=d/t, acceleration, & average velocity. Calculate speed, distance, time with unit conversion.",
-        "meta_keyword": "velocity calculator, speed calculator, distance calculator, time calculator, physics calculator, acceleration calculator, average velocity, velocity formula, speed distance time, v=d/t calculator, kinematics calculator, motion calculator, physics tools, online calculator, free calculator, velocity units converter, m/s km/h mph converter, physics homework help, velocity solver",
+        "meta_description": "Free velocity calculator with 3 methods: basic v=d\/t, acceleration, & average velocity. Calculate speed, distance, time with unit conversion.",
+        "meta_keyword": "velocity calculator, speed calculator, distance calculator, time calculator, physics calculator, acceleration calculator, average velocity, velocity formula, speed distance time, v=d\/t calculator, kinematics calculator, motion calculator, physics tools, online calculator, free calculator, velocity units converter, m\/s km\/h mph converter, physics homework help, velocity solver",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Pressure Calculator",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Pressure Calculator - Convert Units & Calculate P=F/A Online",
-        "meta_description": "Free online pressure calculator with unit converter, basic pressure (P=F/A), hydrostatic, and gauge vs absolute calculations. Convert Pa, psi, bar instantly.",
-        "meta_keyword": "pressure calculator, pressure converter, pressure units, pascal converter, psi calculator, bar converter, pressure formula calculator, hydrostatic pressure, gauge pressure, absolute pressure, P=F/A calculator, pressure conversion tool, online pressure calculator, pressure unit converter, force area pressure, fluid pressure calculator, atmospheric pressure converter, vacuum pressure calculator",
+        "meta_title": "Pressure Calculator - Convert Units & Calculate P=F\/A Online",
+        "meta_description": "Free online pressure calculator with unit converter, basic pressure (P=F\/A), hydrostatic, and gauge vs absolute calculations. Convert Pa, psi, bar instantly.",
+        "meta_keyword": "pressure calculator, pressure converter, pressure units, pascal converter, psi calculator, bar converter, pressure formula calculator, hydrostatic pressure, gauge pressure, absolute pressure, P=F\/A calculator, pressure conversion tool, online pressure calculator, pressure unit converter, force area pressure, fluid pressure calculator, atmospheric pressure converter, vacuum pressure calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://static.calculators.im/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
         "title": "Torque Calculator",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Material Strength Calculator",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/temperature-calculator.jpg?v=22",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/temperature-calculator.jpg?v=22",
         "title": "Temperature Calculator",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator.jpg",
         "title": "Tolerance Calculator",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Resonance Frequency Calculator",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Capacitance Calculator",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Coil Calculator",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Current Calculator",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Current Calculator - Ohm's Law, Voltage & Power | Free Tool",
-        "meta_description": "Free current calculator with 3 methods: Ohm's Law (I=V/R), power formulas. Calculate electrical current from voltage, resistance, power instantly online.",
-        "meta_keyword": "current calculator, electrical current calculator, ohms law calculator, voltage current calculator, power current calculator, calculate current online, electrical engineering calculator, current calculator ohms law, I=V/R calculator, ampere calculator, electrical circuit calculator, current calculation tool, free current calculator, online electrical calculator, electrical current formula, current from voltage resistance, current from power voltage, current from power resistance, electrical tools online, electronics calculator, electrical engineering tools, circuit analysis calculator, electrical calculation, amperage calculator, electric current calculator, current calculator free online, voltage to current converter, resistance current calculator, power to current calculator, electrical formulas calculator, current density calculator, AC current calculator, DC current calculator, electrical measurements calculator",
+        "meta_description": "Free current calculator with 3 methods: Ohm's Law (I=V\/R), power formulas. Calculate electrical current from voltage, resistance, power instantly online.",
+        "meta_keyword": "current calculator, electrical current calculator, ohms law calculator, voltage current calculator, power current calculator, calculate current online, electrical engineering calculator, current calculator ohms law, I=V\/R calculator, ampere calculator, electrical circuit calculator, current calculation tool, free current calculator, online electrical calculator, electrical current formula, current from voltage resistance, current from power voltage, current from power resistance, electrical tools online, electronics calculator, electrical engineering tools, circuit analysis calculator, electrical calculation, amperage calculator, electric current calculator, current calculator free online, voltage to current converter, resistance current calculator, power to current calculator, electrical formulas calculator, current density calculator, AC current calculator, DC current calculator, electrical measurements calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Education Calculators",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,7 +740,7 @@
     },
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "(Grade Point Average) GPA Calculator",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -753,7 +753,7 @@
     },
     {
         "id": "60",
-        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
         "title": "Study Time Calculator",
         "slug": "study-time-calculator",
         "parent_id": "58",
@@ -766,7 +766,7 @@
     },
     {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Student Loan Calculator",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -779,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Education Cost Calculator",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -792,7 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Program Completion Time Calculator",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -805,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Language Proficiency Calculator",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

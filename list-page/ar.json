@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "آلات حاسبة مالية",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "مجموعة كاملة من الآلات الحاسبة المالية لك",
-        "meta_description": "استكشف مجموعة شاملة من الآلات الحاسبة المالية لمساعدتك في إدارة الميزانيات، القروض، الاستثمارات، وأكثر من ذلك، كل ذلك في أداة واحدة مريحة.",
-        "meta_keyword": "آلة حاسبة الرهن العقاري، آلة حاسبة القروض، آلة حاسبة الفائدة المركبة، آلة حاسبة التقاعد، آلة حاسبة الاستثمار",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "آلات حاسبة رياضية",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "آلات حاسبة رياضية لجميع احتياجاتك الرياضية",
-        "meta_description": "توفر الآلة الحاسبة الرياضية أدوات لحل العمليات الحسابية، الجبر، التفاضل والتكامل، وأكثر من ذلك، مما يجعل الحسابات المعقدة أسرع وأسهل.",
-        "meta_keyword": "آلة حاسبة رياضية عبر الإنترنت، أدوات آلة حاسبة علمية، آلة حاسبة رسوم بيانية عبر الإنترنت، أفضل تطبيق آلة حاسبة رياضية، وظائف آلة حاسبة رياضية متقدمة",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "آلات حاسبة أخرى",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "مجموعات آلات حاسبة أخرى مفيدة",
-        "meta_description": "اكتشف مجموعة من الآلات الحاسبة الأخرى المفيدة، المصممة لمساعدتك في حل الحسابات المتنوعة بسرعة ودقة.",
-        "meta_keyword": "مجموعة آلات حاسبة مفيدة، أدوات آلات حاسبة أخرى، أدوات حساب متعددة الاستخدامات، مجموعة متنوعة من الآلات الحاسبة عبر الإنترنت، أدوات حساب شائعة",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "آلة حاسبة الرهن العقاري",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "آلة حاسبة قرض الإطفاء",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "آلة حاسبة الدفعات",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "آلة حاسبة الفائدة",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "آلة حاسبة قرض الدفع المؤجل",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "آلة حاسبة قرض الدفع المؤجل – تقدير بسهولة",
-        "meta_description": "استخدم آلة حاسبة قرض الدفع المؤجل المجانية مع الإطفاء لتقدير الدفعات الشهرية والفائدة بعد فترة التأجيل.",
-        "meta_keyword": "آلة حاسبة قرض الدفع المؤجل، آلة حاسبة دفع القروض، آلة حاسبة الدفع المؤجل، آلة حاسبة إطفاء القروض، آلة حاسبة فائدة القروض، كيفية حساب قرض الدفع المؤجل عبر الإنترنت، آلة حاسبة قرض الدفع المؤجل المجانية مع الإطفاء، آلة حاسبة قرض مؤجل مع الفائدة، احسب الدفعات الشهرية على قرض مؤجل، أداة سداد قرض مؤجل للمقترضين الجدد",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "آلة حاسبة قرض المبلغ المحدد مسبقًا",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "آلة حاسبة قرض المبلغ المحدد مسبقًا – تقدير الدفعات",
-        "meta_description": "استخدم آلة حاسبة قرض المبلغ المحدد مسبقًا لفهم كيفية حساب دفعات القروض المحددة وتقدير الدفعات الشهرية الثابتة بسهولة.",
-        "meta_keyword": "آلة حاسبة قرض المبلغ المحدد مسبقًا، قرض محدد، آلة حاسبة القروض، آلة حاسبة القروض الثابتة، آلة حاسبة الأقساط، آلة حاسبة سداد القروض، آلة حاسبة قرض المبلغ المحدد مسبقًا عبر الإنترنت، كيفية حساب دفعات قرض محدد، آلة حاسبة الدفعات الشهرية لمبلغ قرض ثابت، آلة حاسبة سداد قرض محدد مجانية، تقدير الدفعات الشهرية على قرض محدد، آلة حاسبة بسيطة لقرض مبلغ ثابت، جدول إطفاء لقرض محدد",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "آلة حاسبة علمية",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "آلة حاسبة علمية مجانية عبر الإنترنت",
-        "meta_description": "اكتشف آلة حاسبة علمية مجانية عبر الإنترنت للرياضيات، الهندسة، الكسور، واللوغاريتمات. سهلة الاستخدام، دقيقة، مثالية للطلاب!",
-        "meta_keyword": "آلة حاسبة علمية، آلة حاسبة عبر الإنترنت، آلة حاسبة مجانية، آلة حاسبة رياضية، آلة حاسبة متقدمة، أداة آلة حاسبة، آلة حاسبة الكسور، آلة حاسبة اللوغاريتمات، آلة حاسبة هندسية، آلة حاسبة للطلاب",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "آلة حاسبة النسب المئوية",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "آلة حاسبة المحيط",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "آلة حاسبة المساحة",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "حاسبة قرض الدفع المؤجل",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "حاسبة القرض المؤجل - تقدير سهل",
+        "meta_description": "استخدم حاسبة قرض الدفع المؤجل المجانية مع جدول الاستهلاك لتقدير المدفوعات الشهرية والفوائد بعد فترة التأجيل",
+        "meta_keyword": "حاسبة قرض الدفع المؤجل، حاسبة دفع القرض، حاسبة الدفع المؤجل، حاسبة استهلاك القرض، حاسبة فوائد القرض، كيفية حساب قرض الدفع المؤجل أونلاين، حاسبة قرض الدفع المؤجل المجانية مع الاستهلاك، حاسبة القرض المؤجل مع الفوائد، حساب المدفوعات الشهرية للقرض المؤجل، أداة سداد القرض المؤجل للمقترضين الجدد",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "آلات حاسبة مالية",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "مجموعة كاملة من الآلات الحاسبة المالية لك",
+        "meta_description": "استكشف مجموعة شاملة من الآلات الحاسبة المالية لمساعدتك في إدارة الميزانيات، القروض، الاستثمارات، وأكثر من ذلك، كل ذلك في أداة واحدة مريحة.",
+        "meta_keyword": "آلة حاسبة الرهن العقاري، آلة حاسبة القروض، آلة حاسبة الفائدة المركبة، آلة حاسبة التقاعد، آلة حاسبة الاستثمار",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "آلات حاسبة رياضية",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "آلات حاسبة رياضية لجميع احتياجاتك الرياضية",
+        "meta_description": "توفر الآلة الحاسبة الرياضية أدوات لحل العمليات الحسابية، الجبر، التفاضل والتكامل، وأكثر من ذلك، مما يجعل الحسابات المعقدة أسرع وأسهل.",
+        "meta_keyword": "آلة حاسبة رياضية عبر الإنترنت، أدوات آلة حاسبة علمية، آلة حاسبة رسوم بيانية عبر الإنترنت، أفضل تطبيق آلة حاسبة رياضية، وظائف آلة حاسبة رياضية متقدمة",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "آلة حاسبة قرض المبلغ المحدد مسبقًا",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "آلة حاسبة قرض المبلغ المحدد مسبقًا – تقدير الدفعات",
+        "meta_description": "استخدم آلة حاسبة قرض المبلغ المحدد مسبقًا لفهم كيفية حساب دفعات القروض المحددة وتقدير الدفعات الشهرية الثابتة بسهولة.",
+        "meta_keyword": "آلة حاسبة قرض المبلغ المحدد مسبقًا، قرض محدد، آلة حاسبة القروض، آلة حاسبة القروض الثابتة، آلة حاسبة الأقساط، آلة حاسبة سداد القروض، آلة حاسبة قرض المبلغ المحدد مسبقًا عبر الإنترنت، كيفية حساب دفعات قرض محدد، آلة حاسبة الدفعات الشهرية لمبلغ قرض ثابت، آلة حاسبة سداد قرض محدد مجانية، تقدير الدفعات الشهرية على قرض محدد، آلة حاسبة بسيطة لقرض مبلغ ثابت، جدول إطفاء لقرض محدد",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "آلة حاسبة علمية",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "آلة حاسبة علمية مجانية عبر الإنترنت",
+        "meta_description": "اكتشف آلة حاسبة علمية مجانية عبر الإنترنت للرياضيات، الهندسة، الكسور، واللوغاريتمات. سهلة الاستخدام، دقيقة، مثالية للطلاب!",
+        "meta_keyword": "آلة حاسبة علمية، آلة حاسبة عبر الإنترنت، آلة حاسبة مجانية، آلة حاسبة رياضية، آلة حاسبة متقدمة، أداة آلة حاسبة، آلة حاسبة الكسور، آلة حاسبة اللوغاريتمات، آلة حاسبة هندسية، آلة حاسبة للطلاب",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "آلة حاسبة الحجم",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "آلات حاسبة أخرى",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "مجموعات آلات حاسبة أخرى مفيدة",
+        "meta_description": "اكتشف مجموعة من الآلات الحاسبة الأخرى المفيدة، المصممة لمساعدتك في حل الحسابات المتنوعة بسرعة ودقة.",
+        "meta_keyword": "مجموعة آلات حاسبة مفيدة، أدوات آلات حاسبة أخرى، أدوات حساب متعددة الاستخدامات، مجموعة متنوعة من الآلات الحاسبة عبر الإنترنت، أدوات حساب شائعة",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "آلة حاسبة العمر",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "آلة حاسبة التاريخ",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "آلة حاسبة التاريخ: الأيام بين التواريخ وإضافة/طرح التواريخ",
-        "meta_description": "آلة حاسبة التاريخ المجانية: احسب الأيام بين تاريخين أو أضف/اطرح التواريخ بسهولة. جرب آلة حاسبة فرق التاريخ عبر الإنترنت لنتائج سريعة ودقيقة!",
+        "meta_title": "آلة حاسبة التاريخ: الأيام بين التواريخ وإضافة\/طرح التواريخ",
+        "meta_description": "آلة حاسبة التاريخ المجانية: احسب الأيام بين تاريخين أو أضف\/اطرح التواريخ بسهولة. جرب آلة حاسبة فرق التاريخ عبر الإنترنت لنتائج سريعة ودقيقة!",
         "meta_keyword": "آلة حاسبة التاريخ، حساب الأيام بين تاريخين، آلة حاسبة فرق التاريخ، حاسبة الأيام بين التواريخ، الأيام بين التواريخ، آلة حاسبة إضافة وطرح التاريخ، إضافة وطرح التاريخ",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "آلة حاسبة الوقت",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "آلة حاسبة الساعات",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "آلة حاسبة الكسور",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "آلة حاسبة الأعداد المختلطة",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "آلات حاسبة الصحة واللياقة",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "آلة حاسبة مؤشر كتلة الجسم",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "آلة حاسبة معدل الأيض الأساسي",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "آلة حاسبة نسبة دهون الجسم",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "محول الوحدات",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "آلة حاسبة الأعداد الأولية",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "مؤقت العد التنازلي",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "مولد كلمات المرور",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "آلة حاسبة وتيرة الجري",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "آلة حاسبة وتيرة الجري: عزز وتيرة سباقك اليوم",
-        "meta_description": "تعلم كيفية حساب وتيرة الجري بدقة وتحويل سرعة الجري إلى وتيرة بسهولة باستخدام أفضل آلة حاسبة وتيرة الجري للتدريب!",
-        "meta_keyword": "آلة حاسبة وتيرة الجري، آلة حاسبة الوتيرة، آلة حاسبة وتيرة الماراثون، آلة حاسبة وتيرة السباق، آلة حاسبة سرعة الجري، حساب وتيرة الجري بدقة، أفضل آلة حاسبة وتيرة الجري للتدريب، تحويل السرعة إلى وتيرة بسهولة، جدول وتيرة الجري لمسافات مختلفة، إيجاد وتيرة الجري المثلى",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "آلة حاسبة إجمالي الإنفاق اليومي للطاقة",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "محول البيانات",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "آلة حاسبة السعرات الحرارية",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "محول العملات",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "مدقق السنة الكبيسة",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "قناة الطقس",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "آلة حاسبة تاريخ الولادة المتوقع",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "آلة حاسبة تركيز الكحول في الدم",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "آلة حاسبة الأبراج",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "مؤقت بومودورو",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "مؤقت بومودورو | عزز الإنتاجية بأداة مؤقت التركيز والدراسة",
-        "meta_description": "مؤقت بومودورو المجاني لتعزيز الإنتاجية. فترات 25/5 دقائق قابلة للتخصيص، موسيقى التركيز، وميزات التتبع. مثالي للعمل، الدراسة، والتركيز. جرب الآن!",
+        "meta_description": "مؤقت بومودورو المجاني لتعزيز الإنتاجية. فترات 25\/5 دقائق قابلة للتخصيص، موسيقى التركيز، وميزات التتبع. مثالي للعمل، الدراسة، والتركيز. جرب الآن!",
         "meta_keyword": "مؤقت بومودورو، تقنية بومودورو، مؤقت التركيز، مؤقت الإنتاجية، مؤقت الطماطس، مؤقت الدراسة، مؤقت العمل، أداة إدارة الوقت، مؤقت 25 دقيقة، متتبع بومودورو، تطبيق بومودورو، تقنية التركيز، طريقة الإنتاجية، مؤقت الاستراحة، مؤقت بومودورو عبر الإنترنت، مؤقت تركيز العمل، مؤقت تركيز الدراسة، أداة تقسيم الوقت، تطبيق مؤقت بومودورو، آلة حاسبة الإنتاجية، أفضل مؤقت بومودورو، مؤقت بومودورو مع الموسيقى، مؤقت التركيز عبر الإنترنت، مؤقت بومودورو والمخطط، مؤقت قابل للتخصيص، مؤقت بومودورو المجاني، بومودورو رقمي، أداة إنتاجية الويب، آلة حاسبة إدارة الوقت، مؤقت بومودورو للعمل",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "مولد رمز الاستجابة السريعة",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "آلة حاسبة المشتقات",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "آلة حاسبة اللوغاريتمات",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "آلة حاسبة وتيرة الجري",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "آلة حاسبة وتيرة الجري: عزز وتيرة سباقك اليوم",
+        "meta_description": "تعلم كيفية حساب وتيرة الجري بدقة وتحويل سرعة الجري إلى وتيرة بسهولة باستخدام أفضل آلة حاسبة وتيرة الجري للتدريب!",
+        "meta_keyword": "آلة حاسبة وتيرة الجري، آلة حاسبة الوتيرة، آلة حاسبة وتيرة الماراثون، آلة حاسبة وتيرة السباق، آلة حاسبة سرعة الجري، حساب وتيرة الجري بدقة، أفضل آلة حاسبة وتيرة الجري للتدريب، تحويل السرعة إلى وتيرة بسهولة، جدول وتيرة الجري لمسافات مختلفة، إيجاد وتيرة الجري المثلى",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "حاسبات الهندسة",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "حاسبة القدرة الكهربائية",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "حاسبة القدرة الكهربائية - قدرة AC/DC والجهد والتيار",
-        "meta_description": "حاسبة القدرة الكهربائية المجانية لدوائر AC/DC. احسب القدرة والجهد والتيار والمقاومة باستخدام قانون أوم. يدعم حسابات أحادية الطور وثلاثية الطور فوراً.",
+        "meta_title": "حاسبة القدرة الكهربائية - قدرة AC\/DC والجهد والتيار",
+        "meta_description": "حاسبة القدرة الكهربائية المجانية لدوائر AC\/DC. احسب القدرة والجهد والتيار والمقاومة باستخدام قانون أوم. يدعم حسابات أحادية الطور وثلاثية الطور فوراً.",
         "meta_keyword": "حاسبة القدرة الكهربائية, حساب القدرة, حاسبة الجهد, حاسبة التيار, حاسبة قانون أوم, حاسبة قدرة AC, حاسبة قدرة DC, حاسبة القدرة ثلاثية الطور, القدرة أحادية الطور, حاسبة الهندسة الكهربائية, حاسبة الواط, حاسبة الأمبير, حاسبة المقاومة, حاسبة الدائرة الكهربائية, حاسبة استهلاك الطاقة, حاسبة الكيلوواط, حاسبة الحمل الكهربائي",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "حاسبة المقاومة",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "حاسبة القوة",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "حاسبة السرعة",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "حاسبة السرعة - أداة السرعة والمسافة والوقت",
-        "meta_description": "حاسبة السرعة المجانية مع 3 طرق: v=d/t الأساسية، التسارع، والسرعة المتوسطة. احسب السرعة والمسافة والوقت مع تحويل الوحدات.",
-        "meta_keyword": "حاسبة السرعة, حاسبة السرعة, حاسبة المسافة, حاسبة الوقت, حاسبة الفيزياء, حاسبة التسارع, السرعة المتوسطة, صيغة السرعة, السرعة المسافة الوقت, حاسبة v=d/t, حاسبة الحركة, أدوات الفيزياء, حاسبة أونلاين, حاسبة مجانية, محول وحدات السرعة, محول م/ث كم/س ميل/س, مساعدة واجبات الفيزياء, حلال السرعة",
+        "meta_description": "حاسبة السرعة المجانية مع 3 طرق: v=d\/t الأساسية، التسارع، والسرعة المتوسطة. احسب السرعة والمسافة والوقت مع تحويل الوحدات.",
+        "meta_keyword": "حاسبة السرعة, حاسبة السرعة, حاسبة المسافة, حاسبة الوقت, حاسبة الفيزياء, حاسبة التسارع, السرعة المتوسطة, صيغة السرعة, السرعة المسافة الوقت, حاسبة v=d\/t, حاسبة الحركة, أدوات الفيزياء, حاسبة أونلاين, حاسبة مجانية, محول وحدات السرعة, محول م\/ث كم\/س ميل\/س, مساعدة واجبات الفيزياء, حلال السرعة",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "حاسبة الضغط",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "حاسبة الضغط - تحويل الوحدات وحساب P=F/A أونلاين",
-        "meta_description": "حاسبة ضغط مجانية أونلاين مع محول وحدات، الضغط الأساسي (P=F/A)، الهيدروستاتيكي وحسابات القياس مقابل المطلق. تحويل Pa، psi، bar فوراً.",
-        "meta_keyword": "حاسبة الضغط، محول الضغط، وحدات الضغط، محول باسكال، حاسبة psi، محول بار، حاسبة معادلة الضغط، الضغط الهيدروستاتيكي، ضغط القياس، الضغط المطلق، حاسبة P=F/A، أداة تحويل الضغط، حاسبة ضغط أونلاين، محول وحدات الضغط، ضغط القوة المساحة، حاسبة ضغط السوائل، محول الضغط الجوي، حاسبة ضغط الفراغ",
+        "meta_title": "حاسبة الضغط - تحويل الوحدات وحساب P=F\/A أونلاين",
+        "meta_description": "حاسبة ضغط مجانية أونلاين مع محول وحدات، الضغط الأساسي (P=F\/A)، الهيدروستاتيكي وحسابات القياس مقابل المطلق. تحويل Pa، psi، bar فوراً.",
+        "meta_keyword": "حاسبة الضغط، محول الضغط، وحدات الضغط، محول باسكال، حاسبة psi، محول بار، حاسبة معادلة الضغط، الضغط الهيدروستاتيكي، ضغط القياس، الضغط المطلق، حاسبة P=F\/A، أداة تحويل الضغط، حاسبة ضغط أونلاين، محول وحدات الضغط، ضغط القوة المساحة، حاسبة ضغط السوائل، محول الضغط الجوي، حاسبة ضغط الفراغ",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "حاسبة عزم الدوران",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "حاسبة قوة المواد",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "حاسبة درجة الحرارة",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "حاسبة التفاوت",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "حاسبة تردد الرنين",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "حاسبة السعة الكهربائية",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "حاسبة الملف",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "حاسبة التيار",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "حاسبة التيار - قانون أوم، الجهد والقدرة | أداة مجانية",
-        "meta_description": "حاسبة تيار مجانية بـ3 طرق: قانون أوم (I=V/R)، صيغ القدرة. احسب التيار الكهربائي من الجهد والمقاومة والقدرة فوراً عبر الإنترنت.",
-        "meta_keyword": "حاسبة التيار, حاسبة التيار الكهربائي, حاسبة قانون أوم, حاسبة الجهد والتيار, حاسبة قدرة التيار, حساب التيار أونلاين, حاسبة الهندسة الكهربائية, حاسبة التيار قانون أوم, حاسبة I=V/R, حاسبة الأمبير, حاسبة الدائرة الكهربائية, أداة حساب التيار, حاسبة التيار المجانية, حاسبة كهربائية أونلاين, صيغة التيار الكهربائي, التيار من الجهد والمقاومة, التيار من القدرة والجهد, التيار من القدرة والمقاومة, أدوات كهربائية أونلاين, حاسبة الإلكترونيات, أدوات الهندسة الكهربائية, حاسبة تحليل الدائرة, الحساب الكهربائي, حاسبة الأمبيراج, حاسبة التيار الكهربائي, حاسبة التيار مجاناً أونلاين, محول الجهد إلى التيار, حاسبة المقاومة والتيار, حاسبة القدرة إلى التيار, حاسبة الصيغ الكهربائية, حاسبة كثافة التيار, حاسبة تيار AC, حاسبة تيار DC, حاسبة القياسات الكهربائية",
+        "meta_description": "حاسبة تيار مجانية بـ3 طرق: قانون أوم (I=V\/R)، صيغ القدرة. احسب التيار الكهربائي من الجهد والمقاومة والقدرة فوراً عبر الإنترنت.",
+        "meta_keyword": "حاسبة التيار, حاسبة التيار الكهربائي, حاسبة قانون أوم, حاسبة الجهد والتيار, حاسبة قدرة التيار, حساب التيار أونلاين, حاسبة الهندسة الكهربائية, حاسبة التيار قانون أوم, حاسبة I=V\/R, حاسبة الأمبير, حاسبة الدائرة الكهربائية, أداة حساب التيار, حاسبة التيار المجانية, حاسبة كهربائية أونلاين, صيغة التيار الكهربائي, التيار من الجهد والمقاومة, التيار من القدرة والجهد, التيار من القدرة والمقاومة, أدوات كهربائية أونلاين, حاسبة الإلكترونيات, أدوات الهندسة الكهربائية, حاسبة تحليل الدائرة, الحساب الكهربائي, حاسبة الأمبيراج, حاسبة التيار الكهربائي, حاسبة التيار مجاناً أونلاين, محول الجهد إلى التيار, حاسبة المقاومة والتيار, حاسبة القدرة إلى التيار, حاسبة الصيغ الكهربائية, حاسبة كثافة التيار, حاسبة تيار AC, حاسبة تيار DC, حاسبة القياسات الكهربائية",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "حاسبات التعليم",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -738,13 +738,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "حاسبات مالية",
-        "قائمة الحاسبات التعليمية الشائعة"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "حاسبة المعدل التراكمي GPA",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -756,8 +752,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "حاسبة وقت الدراسة",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "حاسبة وقت الدراسة | تتبع التركيز والكفاءة",
+        "meta_description": "حاسبة وقت الدراسة المجانية لتتبع الساعات الفعالة والاستراحات والمشتتات وجودة التركيز. حسّن جلساتك باستخدام تقنية البومودورو!",
+        "meta_keyword": "حاسبة وقت الدراسة, وقت الدراسة الفعال, حاسبة كفاءة التعلم, متتبع إنتاجية الدراسة, حاسبة جلسة الدراسة, حاسبة وقت التركيز, أداة الإنتاجية الأكاديمية, إدارة وقت الطلاب, كيفية حساب وقت الدراسة الفعال, حاسبة إنتاجية الدراسة أونلاين مجاني, تتبع كفاءة وجودة تركيز الدراسة, مؤقت البومودورو, مخطط الدراسة, أداة إدارة الوقت, متتبع التركيز, تحليلات التعلم, متتبع عادات الدراسة, حاسبة الإنتاجية, متتبع الأداء الأكاديمي, أداة قياس التركيز, حاسبة تحسين الدراسة, حساب وقت الدراسة الفعلي مقابل الإجمالي, حاسبة وقت استراحة الدراسة مع تقييم التركيز, متتبع وقت الدراسة البومودورو أونلاين, أداة تحليل إنتاجية الطلاب مجاني, حاسبة كفاءة جلسة التعلم, حاسبة وقت تشتت الدراسة, حاسبة إدارة الوقت الأكاديمي",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "حاسبة قرض الطلاب",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -770,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "حاسبة تكلفة التعليم",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -783,20 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "حاسبة وقت إنجاز البرنامج",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "حاسبة وقت الإنجاز - أداة الجدول الزمني للمشروع",
-        "meta_description": "احسب أوقات إنجاز المشروع بدقة مع كفاءة الفريق وتخطيط المخزن المؤقت وتقارير PDF. أداة مجانية لمديري المشاريع لتقدير المواعيد النهائية.",
-        "meta_keyword": "حاسبة وقت إنجاز البرنامج, حاسبة إنجاز المشروع, حاسبة الجدول الزمني للمشروع, حاسبة موعد المشروع النهائي, مقدر وقت الإنجاز, حاسبة مدة المشروع, حاسبة كفاءة الفريق, أداة تخطيط المشروع, حاسبة إدارة المشروع, تقدير وقت الإنجاز, أداة الجدول الزمني للمشروع, حاسبة إنجاز العمل, وقت إنجاز المهمة, حاسبة جدولة المشروع, أداة تقدير الموعد النهائي, حاسبة وقت المشروع, حاسبة تاريخ الإنجاز, حاسبة تخطيط المشروع, حاسبة الجدول الزمني للبرنامج, أداة تقدير المشروع, تتبع وقت الإنجاز, مقدر إنجاز المشروع, حاسبة إنتاجية الفريق, حاسبة مخزن المشروع المؤقت, مخطط وقت الإنجاز, مخطط الموعد النهائي للمشروع, أداة إنجاز البرنامج, تقدير وقت المشروع, حاسبة الجدول الزمني للإنجاز, تخطيط إنجاز المشروع, أداة حساب الموعد النهائي, تتبع وقت المشروع, مقدر تاريخ الإنجاز, أداة جدولة المشروع, حاسبة الموعد النهائي للبرنامج, تتبع إنجاز المشروع, حاسبة إنجاز الفريق, مقدر الجدول الزمني للمشروع, تحليل وقت الإنجاز, مقدر مدة المشروع, مقدر إنجاز البرنامج, الجدول الزمني لإنجاز المشروع, أداة تخطيط الموعد النهائي, تخطيط وقت الإنجاز, مخطط وقت المشروع, أداة الجدول الزمني للبرنامج, تحليل إنجاز المشروع, مخطط كفاءة الفريق, تتبع الموعد النهائي للمشروع, حاسبة الإنجاز عبر الإنترنت, إدارة وقت المشروع, تخطيط إنجاز البرنامج, أداة إنجاز المشروع, حاسبة الموعد النهائي مجاناً",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "حاسبة وقت إنجاز البرنامج",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -809,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "حاسبة الكفاءة اللغوية",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

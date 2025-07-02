@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "เครื่องคำนวณการเงิน",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "ชุดเครื่องคำนวณการเงินครบครันสำหรับคุณ",
-        "meta_description": "สำรวจชุดเครื่องคำนวณการเงินที่ครบครันเพื่อช่วยคุณจัดการงบประมาณ เงินกู้ การลงทุน และอื่นๆ ในเครื่องมือที่สะดวกครบจบในที่เดียว",
-        "meta_keyword": "เครื่องคำนวณสินเชื่อที่อยู่อาศัย, เครื่องคำนวณเงินกู้, เครื่องคำนวณดอกเบี้ยทบต้น, เครื่องคำนวณวางแผนเกษียณ, เครื่องคำนวณการลงทุน",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "เครื่องคำนวณคณิตศาสตร์",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "เครื่องคำนวณคณิตศาสตร์สำหรับทุกความต้องการของคุณ",
-        "meta_description": "เครื่องคำนวณคณิตศาสตร์นำเสนอเครื่องมือสำหรับแก้ปัญหาคณิตศาสตร์พื้นฐาน พีชคณิต แคลคูลัส และอื่นๆ ทำให้การคำนวณที่ซับซ้อนรวดเร็วและง่ายขึ้น",
-        "meta_keyword": "เครื่องคำนวณคณิตศาสตร์ออนไลน์, เครื่องมือเครื่องคำนวณวิทยาศาสตร์, เครื่องคำนวณกราฟออนไลน์, แอปเครื่องคำนวณคณิตศาสตร์ที่ดีที่สุด, ฟังก์ชันเครื่องคำนวณคณิตศาสตร์ขั้นสูง",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "เครื่องคำนวณอื่นๆ",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "ชุดเครื่องคำนวณที่มีประโยชน์อื่นๆ",
-        "meta_description": "ค้นพบชุดเครื่องคำนวณที่มีประโยชน์อื่นๆ ออกแบบมาเพื่อช่วยคุณแก้ปัญหาการคำนวณต่างๆ ได้อย่างรวดเร็วและแม่นยำ",
-        "meta_keyword": "ชุดเครื่องคำนวณที่มีประโยชน์, เครื่องมือเครื่องคำนวณอื่นๆ, เครื่องมือคำนวณหลากหลาย, เครื่องคำนวณออนไลน์หลากหลายประเภท, เครื่องมือคำนวณยอดนิยม",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "เครื่องคำนวณสินเชื่อที่อยู่อาศัย",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "เครื่องคำนวณเงินกู้แบบตัดจำหน่าย",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "เครื่องคำนวณการชำระเงิน",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "เครื่องคำนวณดอกเบี้ย",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "เครื่องคำนวณเงินกู้แบบชำระเงินรอตัดบัญชี",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "เครื่องคำนวณเงินกู้แบบชำระเงินรอตัดบัญชี – ประมาณการง่ายๆ",
-        "meta_description": "ใช้เครื่องคำนวณเงินกู้แบบชำระเงินรอตัดบัญชีฟรีของเราพร้อมตารางตัดจำหน่ายเพื่อประมาณการค่างวดรายเดือนและดอกเบี้ยหลังช่วงรอตัดบัญชี",
-        "meta_keyword": "เครื่องคำนวณเงินกู้แบบชำระเงินรอตัดบัญชี, เครื่องคำนวณเงินกู้ชำระเงิน, เครื่องคำนวณชำระเงินรอตัดบัญชี, เครื่องคำนวณตัดจำหน่ายเงินกู้, เครื่องคำนวณดอกเบี้ยเงินกู้, วิธีคำนวณเงินกู้แบบชำระเงินรอตัดบัญชีออนไลน์, เครื่องคำนวณเงินกู้แบบชำระเงินรอตัดบัญชีฟรีพร้อมตารางตัดจำหน่าย, เครื่องคำนวณเงินกู้รอตัดบัญชีพร้อมดอกเบี้ย, คำนวณค่างวดรายเดือนของเงินกู้รอตัดบัญชี, เครื่องมือชำระคืนเงินกู้รอตัดบัญชีสำหรับผู้กู้ใหม่",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ – ประมาณการการชำระเงิน",
-        "meta_description": "ใช้เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ของเราเพื่อทำความเข้าใจวิธีคำนวณการชำระเงินกู้ที่กำหนดไว้และประมาณการค่างวดรายเดือนคงที่ของคุณได้อย่างง่ายดาย",
-        "meta_keyword": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้, เงินกู้ที่กำหนดไว้, เครื่องคำนวณเงินกู้, เครื่องคำนวณเงินกู้คงที่, เครื่องคำนวณผ่อนชำระ, เครื่องคำนวณการชำระคืนเงินกู้, เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ออนไลน์, วิธีคำนวณการชำระเงินกู้ที่กำหนดไว้, เครื่องคำนวณค่างวดรายเดือนสำหรับเงินกู้จำนวนคงที่, เครื่องคำนวณการชำระคืนเงินกู้ที่กำหนดไว้ฟรี, ประมาณการค่างวดรายเดือนของเงินกู้ที่กำหนดไว้, เครื่องคำนวณง่ายๆ สำหรับเงินกู้จำนวนคงที่, ตารางตัดจำหน่ายสำหรับเงินกู้ที่กำหนดไว้",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "เครื่องคำนวณวิทยาศาสตร์",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "เครื่องคำนวณวิทยาศาสตร์ออนไลน์ฟรี",
-        "meta_description": "ค้นพบเครื่องคำนวณวิทยาศาสตร์ออนไลน์ฟรีสำหรับคณิตศาสตร์ วิศวกรรม เศษส่วน และลอการิทึม ใช้งานง่าย แม่นยำ เหมาะสำหรับนักเรียน!",
-        "meta_keyword": "เครื่องคำนวณวิทยาศาสตร์, เครื่องคำนวณออนไลน์, เครื่องคำนวณฟรี, เครื่องคำนวณคณิตศาสตร์, เครื่องคำนวณขั้นสูง, เครื่องมือเครื่องคำนวณ, เครื่องคำนวณเศษส่วน, เครื่องคำนวณลอการิทึม, เครื่องคำนวณวิศวกรรม, เครื่องคำนวณสำหรับนักเรียน",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "เครื่องคำนวณเปอร์เซ็นต์",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "เครื่องคำนวณเส้นรอบวง",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "เครื่องคำนวณพื้นที่",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "เครื่องคิดเลขสินเชื่อผ่อนชำระทีหลัง",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "เครื่องคิดสินเชื่อเลื่อน - ประเมินง่าย",
+        "meta_description": "ใช้เครื่องคิดเลขสินเชื่อผ่อนชำระทีหลังฟรีพร้อมตารางผ่อนชำระเพื่อประเมินการชำระรายเดือนและดอกเบีย้หลังระยะเวลาเลื่อน",
+        "meta_keyword": "เครื่องคิดเลขสินเชื่อผ่อนชำระทีหลัง, เครื่องคิดเลขการชำระสินเชื่อ, เครื่องคิดเลขการชำระเลื่อน, เครื่องคิดเลขตารางผ่อนชำระสินเชื่อ, เครื่องคิดเลขดอกเบี้ยสินเชื่อ, วิธีคำนวณสินเชื่อผ่อนชำระทีหลังออนไลน์, เครื่องคิดเลขสินเชื่อผ่อนชำระทีหลังฟรีพร้อมตารางผ่อน, เครื่องคิดเลขสินเชื่อเลื่อนพร้อมดอกเบี้ย, คำนวณการชำระรายเดือนสินเชื่อเลื่อน, เครื่องมือชำระคืนสินเชื่อเลื่อนสำหรับผู้กู้ใหม่",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "เครื่องคำนวณการเงิน",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "ชุดเครื่องคำนวณการเงินครบครันสำหรับคุณ",
+        "meta_description": "สำรวจชุดเครื่องคำนวณการเงินที่ครบครันเพื่อช่วยคุณจัดการงบประมาณ เงินกู้ การลงทุน และอื่นๆ ในเครื่องมือที่สะดวกครบจบในที่เดียว",
+        "meta_keyword": "เครื่องคำนวณสินเชื่อที่อยู่อาศัย, เครื่องคำนวณเงินกู้, เครื่องคำนวณดอกเบี้ยทบต้น, เครื่องคำนวณวางแผนเกษียณ, เครื่องคำนวณการลงทุน",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "เครื่องคำนวณคณิตศาสตร์",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "เครื่องคำนวณคณิตศาสตร์สำหรับทุกความต้องการของคุณ",
+        "meta_description": "เครื่องคำนวณคณิตศาสตร์นำเสนอเครื่องมือสำหรับแก้ปัญหาคณิตศาสตร์พื้นฐาน พีชคณิต แคลคูลัส และอื่นๆ ทำให้การคำนวณที่ซับซ้อนรวดเร็วและง่ายขึ้น",
+        "meta_keyword": "เครื่องคำนวณคณิตศาสตร์ออนไลน์, เครื่องมือเครื่องคำนวณวิทยาศาสตร์, เครื่องคำนวณกราฟออนไลน์, แอปเครื่องคำนวณคณิตศาสตร์ที่ดีที่สุด, ฟังก์ชันเครื่องคำนวณคณิตศาสตร์ขั้นสูง",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ – ประมาณการการชำระเงิน",
+        "meta_description": "ใช้เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ของเราเพื่อทำความเข้าใจวิธีคำนวณการชำระเงินกู้ที่กำหนดไว้และประมาณการค่างวดรายเดือนคงที่ของคุณได้อย่างง่ายดาย",
+        "meta_keyword": "เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้, เงินกู้ที่กำหนดไว้, เครื่องคำนวณเงินกู้, เครื่องคำนวณเงินกู้คงที่, เครื่องคำนวณผ่อนชำระ, เครื่องคำนวณการชำระคืนเงินกู้, เครื่องคำนวณเงินกู้จำนวนที่กำหนดไว้ออนไลน์, วิธีคำนวณการชำระเงินกู้ที่กำหนดไว้, เครื่องคำนวณค่างวดรายเดือนสำหรับเงินกู้จำนวนคงที่, เครื่องคำนวณการชำระคืนเงินกู้ที่กำหนดไว้ฟรี, ประมาณการค่างวดรายเดือนของเงินกู้ที่กำหนดไว้, เครื่องคำนวณง่ายๆ สำหรับเงินกู้จำนวนคงที่, ตารางตัดจำหน่ายสำหรับเงินกู้ที่กำหนดไว้",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "เครื่องคำนวณวิทยาศาสตร์",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "เครื่องคำนวณวิทยาศาสตร์ออนไลน์ฟรี",
+        "meta_description": "ค้นพบเครื่องคำนวณวิทยาศาสตร์ออนไลน์ฟรีสำหรับคณิตศาสตร์ วิศวกรรม เศษส่วน และลอการิทึม ใช้งานง่าย แม่นยำ เหมาะสำหรับนักเรียน!",
+        "meta_keyword": "เครื่องคำนวณวิทยาศาสตร์, เครื่องคำนวณออนไลน์, เครื่องคำนวณฟรี, เครื่องคำนวณคณิตศาสตร์, เครื่องคำนวณขั้นสูง, เครื่องมือเครื่องคำนวณ, เครื่องคำนวณเศษส่วน, เครื่องคำนวณลอการิทึม, เครื่องคำนวณวิศวกรรม, เครื่องคำนวณสำหรับนักเรียน",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "เครื่องคำนวณปริมาตร",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "เครื่องคำนวณอื่นๆ",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "ชุดเครื่องคำนวณที่มีประโยชน์อื่นๆ",
+        "meta_description": "ค้นพบชุดเครื่องคำนวณที่มีประโยชน์อื่นๆ ออกแบบมาเพื่อช่วยคุณแก้ปัญหาการคำนวณต่างๆ ได้อย่างรวดเร็วและแม่นยำ",
+        "meta_keyword": "ชุดเครื่องคำนวณที่มีประโยชน์, เครื่องมือเครื่องคำนวณอื่นๆ, เครื่องมือคำนวณหลากหลาย, เครื่องคำนวณออนไลน์หลากหลายประเภท, เครื่องมือคำนวณยอดนิยม",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "เครื่องคำนวณอายุ",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "เครื่องคำนวณวันที่",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "เครื่องคำนวณวันที่: คำนวณวันระหว่างวันที่และบวก/ลบวันที่",
-        "meta_description": "เครื่องคำนวณวันที่ฟรี: คำนวณวันระหว่างสองวันที่หรือบวก/ลบวันที่ได้อย่างง่ายดาย ลองใช้เครื่องคำนวณความแตกต่างของวันที่ออนไลน์ของเราสำหรับผลลัพธ์ที่รวดเร็วและแม่นยำ!",
+        "meta_title": "เครื่องคำนวณวันที่: คำนวณวันระหว่างวันที่และบวก\/ลบวันที่",
+        "meta_description": "เครื่องคำนวณวันที่ฟรี: คำนวณวันระหว่างสองวันที่หรือบวก\/ลบวันที่ได้อย่างง่ายดาย ลองใช้เครื่องคำนวณความแตกต่างของวันที่ออนไลน์ของเราสำหรับผลลัพธ์ที่รวดเร็วและแม่นยำ!",
         "meta_keyword": "เครื่องคำนวณวันที่, คำนวณวันระหว่างสองวันที่, เครื่องคำนวณความแตกต่างของวันที่, เครื่องคำนวณวันระหว่างวันที่, วันระหว่างวันที่, เครื่องคำนวณวันที่บวกและลบ, บวกและลบวันที่",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "เครื่องคำนวณเวลา",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "เครื่องคำนวณชั่วโมง",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "เครื่องคำนวณเศษส่วน",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "เครื่องคำนวณจำนวนผสม",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "เครื่องคำนวณสุขภาพและฟิตเนส",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "เครื่องคำนวณ BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "เครื่องคำนวณ BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "เครื่องคำนวณเปอร์เซ็นต์ไขมันในร่างกาย",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "เครื่องแปลงหน่วย",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "เครื่องคำนวณจำนวนเฉพาะ",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "ตัวจับเวลานับถอยหลัง",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "เครื่องกำเนิดรหัสผ่าน",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "เครื่องคำนวณจังหวะการวิ่ง",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "เครื่องคำนวณจังหวะการวิ่ง: ยกระดับจังหวะการแข่งขันของคุณวันนี้",
-        "meta_description": "เรียนรู้วิธีคำนวณจังหวะการวิ่งอย่างแม่นยำและแปลงความเร็วการวิ่งเป็นจังหวะได้ง่ายๆ ด้วยเครื่องคำนวณจังหวะการวิ่งที่ดีที่สุดสำหรับการฝึกซ้อม!",
-        "meta_keyword": "เครื่องคำนวณจังหวะการวิ่ง, เครื่องคำนวณจังหวะ, เครื่องคำนวณจังหวะมาราธอน, เครื่องคำนวณจังหวะการแข่งขัน, เครื่องคำนวณความเร็วการวิ่ง, คำนวณจังหวะการวิ่งอย่างแม่นยำ, เครื่องคำนวณจังหวะการวิ่งที่ดีที่สุดสำหรับการฝึกซ้อม, แปลงความเร็วเป็นจังหวะได้ง่ายๆ, ตารางจังหวะการวิ่งสำหรับระยะทางต่างๆ, ค้นหาจังหวะการวิ่งที่เหมาะสมของคุณ",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "เครื่องคำนวณ TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "เครื่องแปลงข้อมูล",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "เครื่องคำนวณแคลอรี่",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "เครื่องแปลงสกุลเงิน",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "ตัวตรวจสอบปีอธิกสุรทิน",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "ช่องพยากรณ์อากาศ",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "เครื่องคำนวณวันครบกำหนดคลอด",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "เครื่องคำนวณระดับแอลกอฮอล์ในเลือด (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "เครื่องคำนวณราศี",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "ตัวจับเวลาโพโมโดโร",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "ตัวจับเวลาโพโมโดโร | เพิ่มผลผลิตด้วยเครื่องมือจับเวลาโฟกัสและการเรียน",
-        "meta_description": "ตัวจับเวลาโพโมโดโรฟรีเพื่อเพิ่มผลผลิต ช่วงเวลา 25/5 นาทีที่ปรับแต่งได้ ดนตรีเพื่อการโฟกัสและฟีเจอร์การติดตาม เหมาะสำหรับงาน การเรียน และการโฟกัส ลองเลย!",
+        "meta_description": "ตัวจับเวลาโพโมโดโรฟรีเพื่อเพิ่มผลผลิต ช่วงเวลา 25\/5 นาทีที่ปรับแต่งได้ ดนตรีเพื่อการโฟกัสและฟีเจอร์การติดตาม เหมาะสำหรับงาน การเรียน และการโฟกัส ลองเลย!",
         "meta_keyword": "ตัวจับเวลาโพโมโดโร, เทคนิคโพโมโดโร, ตัวจับเวลาโฟกัส, ตัวจับเวลาผลผลิต, ตัวจับเวลามะเขือเทศ, ตัวจับเวลาการเรียน, ตัวจับเวลาการทำงาน, เครื่องมือการจัดการเวลา, ตัวจับเวลา 25 นาที, ตัวติดตามโพโมโดโร, แอปโพโมโดโร, เทคนิคโฟกัส, วิธีผลผลิต, ตัวจับเวลาพัก, ตัวจับเวลาโพโมโดโรออนไลน์, ตัวจับเวลาโฟกัสงาน, ตัวจับเวลาโฟกัสการเรียน, เครื่องมือแบ่งเวลาการทำงาน, แอปตัวจับเวลาโพโมโดโร, เครื่องคำนวณผลผลิต, ตัวจับเวลาโพโมโดโรที่ดีที่สุด, ตัวจับเวลาโพโมโดโรพร้อมดนตรี, ตัวจับเวลาโฟกัสออนไลน์, ตัวจับเวลาและตัววางแผนโพโมโดโร, ตัวจับเวลาที่ปรับแต่งได้, ตัวจับเวลาโพโมโดโรฟรี, ตัวจับเวลาโพโมโดโรดิจิทัล, เครื่องมือผลผลิตออนไลน์, เครื่องคำนวณการจัดการเวลา, ตัวจับเวลาโพโมโดโรสำหรับงาน",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "เครื่องกำเนิด QR Code",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "เครื่องคำนวณอนุพันธ์",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "เครื่องคำนวณลอการิทึม",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "เครื่องคำนวณจังหวะการวิ่ง",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "เครื่องคำนวณจังหวะการวิ่ง: ยกระดับจังหวะการแข่งขันของคุณวันนี้",
+        "meta_description": "เรียนรู้วิธีคำนวณจังหวะการวิ่งอย่างแม่นยำและแปลงความเร็วการวิ่งเป็นจังหวะได้ง่ายๆ ด้วยเครื่องคำนวณจังหวะการวิ่งที่ดีที่สุดสำหรับการฝึกซ้อม!",
+        "meta_keyword": "เครื่องคำนวณจังหวะการวิ่ง, เครื่องคำนวณจังหวะ, เครื่องคำนวณจังหวะมาราธอน, เครื่องคำนวณจังหวะการแข่งขัน, เครื่องคำนวณความเร็วการวิ่ง, คำนวณจังหวะการวิ่งอย่างแม่นยำ, เครื่องคำนวณจังหวะการวิ่งที่ดีที่สุดสำหรับการฝึกซ้อม, แปลงความเร็วเป็นจังหวะได้ง่ายๆ, ตารางจังหวะการวิ่งสำหรับระยะทางต่างๆ, ค้นหาจังหวะการวิ่งที่เหมาะสมของคุณ",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "เครื่องคิดเลขวิศวกรรม",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "เครื่องคิดเลขกำลังไฟฟ้า",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "เครื่องคิดเลขกำลังไฟฟ้า - กำลัง AC/DC แรงดัน และกระแส",
-        "meta_description": "เครื่องคิดเลขกำลังไฟฟ้าฟรีสำหรับวงจร AC/DC คำนวณกำลัง แรงดัน กระแส ความต้านทานโดยใช้กฎของโอห์ม รองรับการคำนวณเฟสเดียว สามเฟสได้ทันที",
+        "meta_title": "เครื่องคิดเลขกำลังไฟฟ้า - กำลัง AC\/DC แรงดัน และกระแส",
+        "meta_description": "เครื่องคิดเลขกำลังไฟฟ้าฟรีสำหรับวงจร AC\/DC คำนวณกำลัง แรงดัน กระแส ความต้านทานโดยใช้กฎของโอห์ม รองรับการคำนวณเฟสเดียว สามเฟสได้ทันที",
         "meta_keyword": "เครื่องคิดเลขกำลังไฟฟ้า, การคำนวณกำลัง, เครื่องคิดเลขแรงดัน, เครื่องคิดเลขกระแส, เครื่องคิดเลขกฎโอห์ม, เครื่องคิดเลขกำลัง AC, เครื่องคิดเลขกำลัง DC, เครื่องคิดเลขกำลังสามเฟส, กำลังเฟสเดียว, เครื่องคิดเลขวิศวกรรมไฟฟ้า, เครื่องคิดเลขวัตต์, เครื่องคิดเลขแอมแปร์, เครื่องคิดเลขความต้านทาน, เครื่องคิดเลขวงจรไฟฟ้า, เครื่องคิดเลขการใช้พลังงาน, เครื่องคิดเลขกิโลวัตต์, เครื่องคิดเลขโหลดไฟฟ้า",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "เครื่องคำนวณความต้านทาน",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "เครื่องคำนวณแรง",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "เครื่องคำนวณความเร็ว",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "เครื่องคำนวณความเร็ว - เครื่องมือความเร็วระยะทางเวลา",
-        "meta_description": "เครื่องคำนวณความเร็วฟรี 3 วิธี: พื้นฐาน v=d/t, การเร่ง และความเร็วเฉลี่ย คำนวณความเร็ว ระยะทาง เวลา พร้อมการแปลงหน่วย",
-        "meta_keyword": "เครื่องคำนวณความเร็ว, เครื่องคำนวณความเร็ว, เครื่องคำนวณระยะทาง, เครื่องคำนวณเวลา, เครื่องคำนวณฟิสิกส์, เครื่องคำนวณการเร่ง, ความเร็วเฉลี่ย, สูตรความเร็ว, ความเร็วระยะทางเวลา, เครื่องคำนวณ v=d/t, เครื่องคำนวณจลนศาสตร์, เครื่องคำนวณการเคลื่อนที่, เครื่องมือฟิสิกส์, เครื่องคำนวณออนไลน์, เครื่องคำนวณฟรี, ตัวแปลงหน่วยความเร็ว, ตัวแปลง m/s km/h mph, ช่วยการบ้านฟิสิกส์, ตัวแก้ความเร็ว",
+        "meta_description": "เครื่องคำนวณความเร็วฟรี 3 วิธี: พื้นฐาน v=d\/t, การเร่ง และความเร็วเฉลี่ย คำนวณความเร็ว ระยะทาง เวลา พร้อมการแปลงหน่วย",
+        "meta_keyword": "เครื่องคำนวณความเร็ว, เครื่องคำนวณความเร็ว, เครื่องคำนวณระยะทาง, เครื่องคำนวณเวลา, เครื่องคำนวณฟิสิกส์, เครื่องคำนวณการเร่ง, ความเร็วเฉลี่ย, สูตรความเร็ว, ความเร็วระยะทางเวลา, เครื่องคำนวณ v=d\/t, เครื่องคำนวณจลนศาสตร์, เครื่องคำนวณการเคลื่อนที่, เครื่องมือฟิสิกส์, เครื่องคำนวณออนไลน์, เครื่องคำนวณฟรี, ตัวแปลงหน่วยความเร็ว, ตัวแปลง m\/s km\/h mph, ช่วยการบ้านฟิสิกส์, ตัวแก้ความเร็ว",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "เครื่องคำนวณความดัน",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "เครื่องคำนวณความดัน - แปลงหน่วย & คำนวณ P=F/A",
-        "meta_description": "เครื่องคำนวณความดันออนไลน์ฟรี พร้อมตัวแปลงหน่วย ความดันพื้นฐาน (P=F/A) ไฮโดรสแตติก และการคำนวณเกจ vs สัมบูรณ์ แปลง Pa, psi, bar ทันที",
-        "meta_keyword": "เครื่องคำนวณความดัน, ตัวแปลงความดัน, หน่วยความดัน, ตัวแปลงปาสคาล, เครื่องคำนวณ psi, ตัวแปลงบาร์, เครื่องคำนวณสูตรความดัน, ความดันไฮโดรสแตติก, ความดันเกจ, ความดันสัมบูรณ์, เครื่องคำนวณ P=F/A, เครื่องมือแปลงความดัน, เครื่องคำนวณความดันออนไลน์, ตัวแปลงหน่วยความดัน, ความดันแรงพื้นที่, เครื่องคำนวณความดันของเหลว, ตัวแปลงความดันบรรยากาศ, เครื่องคำนวณความดันสุญญากาศ",
+        "meta_title": "เครื่องคำนวณความดัน - แปลงหน่วย & คำนวณ P=F\/A",
+        "meta_description": "เครื่องคำนวณความดันออนไลน์ฟรี พร้อมตัวแปลงหน่วย ความดันพื้นฐาน (P=F\/A) ไฮโดรสแตติก และการคำนวณเกจ vs สัมบูรณ์ แปลง Pa, psi, bar ทันที",
+        "meta_keyword": "เครื่องคำนวณความดัน, ตัวแปลงความดัน, หน่วยความดัน, ตัวแปลงปาสคาล, เครื่องคำนวณ psi, ตัวแปลงบาร์, เครื่องคำนวณสูตรความดัน, ความดันไฮโดรสแตติก, ความดันเกจ, ความดันสัมบูรณ์, เครื่องคำนวณ P=F\/A, เครื่องมือแปลงความดัน, เครื่องคำนวณความดันออนไลน์, ตัวแปลงหน่วยความดัน, ความดันแรงพื้นที่, เครื่องคำนวณความดันของเหลว, ตัวแปลงความดันบรรยากาศ, เครื่องคำนวณความดันสุญญากาศ",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "เครื่องคำนวณแรงบิด",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "เครื่องคำนวณความแข็งแรงของวัสดุ",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "เครื่องคำนวณอุณหภูมิ",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "เครื่องคำนวณความคลาดเคลื่อน",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "เครื่องคำนวณความถี่เรโซแนนซ์",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "เครื่องคำนวณความจุ",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "เครื่องคำนวณขดลวด",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "เครื่องคำนวณกระแส",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "เครื่องคำนวณกระแส - กฎโอห์ม แรงดัน & กำลัง | ฟรี",
-        "meta_description": "เครื่องคำนวณกระแสฟรีด้วย 3 วิธี: กฎของโอห์ม (I=V/R) สูตรกำลัง คำนวณกระแสไฟฟ้าจากแรงดัน ความต้านทาน กำลังได้ทันทีออนไลน์",
-        "meta_keyword": "เครื่องคำนวณกระแส, เครื่องคำนวณกระแสไฟฟ้า, เครื่องคำนวณกฎโอห์ม, เครื่องคำนวณแรงดันกระแส, เครื่องคำนวณกำลังกระแส, คำนวณกระแสออนไลน์, เครื่องคำนวณวิศวกรรมไฟฟ้า, เครื่องคำนวณกระแสกฎโอห์ม, เครื่องคำนวณ I=V/R, เครื่องคำนวณแอมแปร์, เครื่องคำนวณวงจรไฟฟ้า, เครื่องมือคำนวณกระแส, เครื่องคำนวณกระแสฟรี, เครื่องคำนวณไฟฟ้าออนไลน์, สูตรกระแสไฟฟ้า, กระแสจากแรงดันความต้านทาน, กระแสจากกำลังแรงดัน, กระแสจากกำลังความต้านทาน, เครื่องมือไฟฟ้าออนไลน์, เครื่องคำนวณอิเล็กทรอนิกส์, เครื่องมือวิศวกรรมไฟฟ้า, เครื่องคำนวณวิเคราะห์วงจร, การคำนวณไฟฟ้า, เครื่องคำนวณแอมแปร์เรจ, เครื่องคำนวณกระแสไฟฟ้า, เครื่องคำนวณกระแสฟรีออนไลน์, ตัวแปลงแรงดันเป็นกระแส, เครื่องคำนวณความต้านทานกระแส, เครื่องคำนวณกำลังเป็นกระแส, เครื่องคำนวณสูตรไฟฟ้า, เครื่องคำนวณความหนาแน่นกระแส, เครื่องคำนวณกระแส AC, เครื่องคำนวณกระแส DC, เครื่องคำนวณการวัดไฟฟ้า",
+        "meta_description": "เครื่องคำนวณกระแสฟรีด้วย 3 วิธี: กฎของโอห์ม (I=V\/R) สูตรกำลัง คำนวณกระแสไฟฟ้าจากแรงดัน ความต้านทาน กำลังได้ทันทีออนไลน์",
+        "meta_keyword": "เครื่องคำนวณกระแส, เครื่องคำนวณกระแสไฟฟ้า, เครื่องคำนวณกฎโอห์ม, เครื่องคำนวณแรงดันกระแส, เครื่องคำนวณกำลังกระแส, คำนวณกระแสออนไลน์, เครื่องคำนวณวิศวกรรมไฟฟ้า, เครื่องคำนวณกระแสกฎโอห์ม, เครื่องคำนวณ I=V\/R, เครื่องคำนวณแอมแปร์, เครื่องคำนวณวงจรไฟฟ้า, เครื่องมือคำนวณกระแส, เครื่องคำนวณกระแสฟรี, เครื่องคำนวณไฟฟ้าออนไลน์, สูตรกระแสไฟฟ้า, กระแสจากแรงดันความต้านทาน, กระแสจากกำลังแรงดัน, กระแสจากกำลังความต้านทาน, เครื่องมือไฟฟ้าออนไลน์, เครื่องคำนวณอิเล็กทรอนิกส์, เครื่องมือวิศวกรรมไฟฟ้า, เครื่องคำนวณวิเคราะห์วงจร, การคำนวณไฟฟ้า, เครื่องคำนวณแอมแปร์เรจ, เครื่องคำนวณกระแสไฟฟ้า, เครื่องคำนวณกระแสฟรีออนไลน์, ตัวแปลงแรงดันเป็นกระแส, เครื่องคำนวณความต้านทานกระแส, เครื่องคำนวณกำลังเป็นกระแส, เครื่องคำนวณสูตรไฟฟ้า, เครื่องคำนวณความหนาแน่นกระแส, เครื่องคำนวณกระแส AC, เครื่องคำนวณกระแส DC, เครื่องคำนวณการวัดไฟฟ้า",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "เครื่องคำนวณการศึกษา",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -738,13 +738,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "เครื่องคำนวณการเงิน",
-        "รายการเครื่องคำนวณการศึกษายอดนิยม"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "เครื่องคำนวณ GPA (เกรดเฉลี่ยสะสม)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -756,8 +752,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "เครื่องคิดเลขเวลาเรียน",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "เครื่องคิดเลขเวลาเรียน | ติดตามสมาธิ & ประสิทธิภาพ",
+        "meta_description": "เครื่องคิดเลขเวลาเรียนฟรี สำหรับติดตามชั่วโมงเรียนที่มีประสิทธิภาพ การพัก สิ่งรบกวน และคุณภาพสมาธิ ปรับปรุงด้วย Pomodoro!",
+        "meta_keyword": "เครื่องคิดเลขเวลาเรียน, เวลาเรียนที่มีประสิทธิภาพ, เครื่องคิดเลขประสิทธิภาพการเรียนรู้, ตัวติดตามผลิตภาพการเรียน, เครื่องคิดเลขเซสชันการเรียน, เครื่องคิดเลขเวลาสมาธิ, เครื่องมือผลิตภาพทางวิชาการ, การจัดการเวลานักเรียน, วิธีคำนวณเวลาเรียนที่มีประสิทธิภาพ, เครื่องคิดเลขผลิตภาพการเรียนออนไลน์ฟรี, ติดตามประสิทธิภาพและคุณภาพสมาธิการเรียน, ตัวจับเวลา pomodoro, วางแผนการเรียน, เครื่องมือจัดการเวลา, ตัวติดตามสมาธิ, การวิเคราะห์การเรียนรู้, ตัวติดตามนิสัยการเรียน, เครื่องคิดเลขผลิตภาพ, ตัวติดตามผลงานทางวิชาการ, เครื่องมือวัดสมาธิ, เครื่องคิดเลขปรับปรุงการเรียน, คำนวณเวลาเรียนจริง vs รวม, เครื่องคิดเลขเวลาพักการเรียนพร้อมคะแนนสมาธิ, ตัวติดตามเวลาเรียน pomodoro ออนไลน์, เครื่องมือวิเคราะห์ผลิตภาพนักเรียนฟรี, เครื่องคิดเลขประสิทธิภาพเซสชันการเรียน, เครื่องคิดเลขเวลารบกวนการเรียน, เครื่องคิดเลขจัดการเวลาทางวิชาการ",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "เครื่องคิดเลขสินเชื่อนักศึกษา",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -770,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "เครื่องคำนวณค่าใช้จ่ายการศึกษา",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -783,20 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "เครื่องคำนวณเวลาเสร็จสิ้นโปรแกรม",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "เครื่องคำนวณเวลาเสร็จสิ้น - เครื่องมือไทม์ไลน์โครงการ",
-        "meta_description": "คำนวณเวลาเสร็จสิ้นโครงการอย่างแม่นยำด้วยประสิทธิภาพทีม การวางแผนบัฟเฟอร์ และรายงาน PDF เครื่องมือฟรีสำหรับผู้จัดการโครงการ",
-        "meta_keyword": "เครื่องคำนวณเวลาเสร็จสิ้นโปรแกรม, เครื่องคำนวณเสร็จสิ้นโครงการ, เครื่องคำนวณไทม์ไลน์โครงการ, เครื่องคำนวณกำหนดเวลาโครงการ, ตัวประมาณเวลาเสร็จสิ้น, เครื่องคำนวณระยะเวลาโครงการ, เครื่องคำนวณประสิทธิภาพทีม, เครื่องมือวางแผนโครงการ, เครื่องคำนวณการจัดการโครงการ, การประมาณเวลาเสร็จสิ้น, เครื่องมือไทม์ไลน์โครงการ, เครื่องคำนวณเสร็จสิ้นงาน, เวลาเสร็จสิ้นงาน, เครื่องคำนวณตารางเวลาโครงการ, เครื่องมือประมาณกำหนดเวลา, เครื่องคำนวณเวลาโครงการ, เครื่องคำนวณวันที่เสร็จสิ้น, เครื่องคำนวณการวางแผนโครงการ, เครื่องคำนวณไทม์ไลน์โปรแกรม, เครื่องมือประมาณโครงการ, การติดตามเวลาเสร็จสิ้น, ตัวประมาณเสร็จสิ้นโครงการ, เครื่องคำนวณผลิตภาพทีม, เครื่องคำนวณบัฟเฟอร์โครงการ, ตัววางแผนเวลาเสร็จสิ้น, ตัววางแผนกำหนดเวลาโครงการ, เครื่องมือเสร็จสิ้นโปรแกรม, การประมาณเวลาโครงการ, เครื่องคำนวณไทม์ไลน์เสร็จสิ้น, การวางแผนเสร็จสิ้นโครงการ, เครื่องมือคำนวณกำหนดเวลา, การติดตามเวลาโครงการ, ตัวประมาณวันที่เสร็จสิ้น, เครื่องมือการจัดตารางโครงการ, เครื่องคำนวณกำหนดเวลาโปรแกรม, การติดตามเสร็จสิ้นโครงการ, เครื่องคำนวณเสร็จสิ้นทีม, ตัวประมาณไทม์ไลน์โครงการ, การวิเคราะห์เวลาเสร็จสิ้น, ตัวประมาณระยะเวลาโครงการ, ตัวประมาณเสร็จสิ้นโปรแกรม, ไทม์ไลน์เสร็จสิ้นโครงการ, เครื่องมือวางแผนกำหนดเวลา, การวางแผนเวลาเสร็จสิ้น, ตัววางแผนเวลาโครงการ, เครื่องมือไทม์ไลน์โปรแกรม, การวิเคราะห์เสร็จสิ้นโครงการ, ตัววางแผนประสิทธิภาพทีม, การติดตามกำหนดเวลาโครงการ, เครื่องคำนวณเสร็จสิ้นออนไลน์, การจัดการเวลาโครงการ, การวางแผนเสร็จสิ้นโปรแกรม, เครื่องมือเสร็จสิ้นโครงการ, เครื่องคำนวณกำหนดเวลาฟรี",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "เครื่องคำนวณเวลาเสร็จสิ้นโปรแกรม",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -809,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "เครื่องคำนวณความชำนาญด้านภาษา",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

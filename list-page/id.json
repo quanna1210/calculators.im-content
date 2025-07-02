@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "Kalkulator Keuangan",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "Koleksi Lengkap Kalkulator Keuangan untuk Anda",
-        "meta_description": "Jelajahi koleksi lengkap kalkulator keuangan untuk membantu Anda mengelola anggaran, pinjaman, investasi, dan lainnya, semuanya dalam satu alat yang praktis.",
-        "meta_keyword": "Kalkulator Hipotek, Kalkulator Pinjaman, Kalkulator Bunga Majemuk, Kalkulator Pensiun, Kalkulator Investasi",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "Kalkulator Matematika",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Kalkulator Matematika untuk Semua Kebutuhan Matematis Anda",
-        "meta_description": "Kalkulator matematika menawarkan alat untuk menyelesaikan aritmatika, aljabar, kalkulus, dan lainnya, membuat perhitungan kompleks lebih cepat dan mudah.",
-        "meta_keyword": "Kalkulator Matematika Online, Alat Kalkulator Ilmiah, Kalkulator Grafik Online, Aplikasi Kalkulator Matematika Terbaik, Fitur Lanjutan Kalkulator Matematika",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "Kalkulator Lainnya",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Koleksi Kalkulator yang Berguna",
-        "meta_description": "Temukan koleksi kalkulator lain yang berguna, dirancang untuk membantu Anda menyelesaikan berbagai perhitungan dengan cepat dan akurat.",
-        "meta_keyword": "Koleksi Kalkulator Berguna, Alat Kalkulator Lainnya, Alat Perhitungan Serbaguna, Beragam Kalkulator Online, Alat Perhitungan Populer",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Kalkulator Hipotek",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Kalkulator Amortisasi Pinjaman",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Kalkulator Pembayaran",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "Kalkulator Bunga",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,47 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Kalkulator Pinjaman dengan Pembayaran Ditunda",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Kalkulator Pinjaman dengan Pembayaran Ditunda – Estimasi Mudah",
-        "meta_description": "Gunakan kalkulator pinjaman dengan pembayaran ditunda gratis kami dengan amortisasi untuk memperkirakan pembayaran bulanan dan bunga setelah periode penundaan.",
-        "meta_keyword": "Kalkulator pinjaman dengan pembayaran ditunda, Kalkulator pembayaran pinjaman, Kalkulator pembayaran ditunda, Kalkulator amortisasi pinjaman, Kalkulator bunga pinjaman, Cara menghitung pinjaman dengan pembayaran ditunda online, Kalkulator pinjaman dengan pembayaran ditunda gratis dengan amortisasi, Kalkulator pinjaman ditunda dengan bunga, Hitung pembayaran bulanan pada pinjaman ditunda, Alat amortisasi pinjaman ditunda untuk peminjam baru",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Kalkulator Pinjaman Jumlah Tetap",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Kalkulator Pinjaman Jumlah Tetap – Estimasi Pembayaran",
-        "meta_description": "Gunakan Kalkulator Pinjaman Jumlah Tetap kami untuk memahami cara menghitung pembayaran pinjaman tetap dan memperkirakan angsuran bulanan tetap Anda dengan mudah.",
-        "meta_keyword": "Kalkulator Pinjaman Jumlah Tetap, Pinjaman tetap, Kalkulator pinjaman, Kalkulator pinjaman tetap, Kalkulator angsuran, Kalkulator amortisasi pinjaman, Kalkulator pinjaman jumlah tetap online, Cara menghitung pembayaran pinjaman tetap, Kalkulator pembayaran bulanan untuk jumlah pinjaman tetap, Kalkulator amortisasi pinjaman tetap gratis, Estimasi pembayaran bulanan pada pinjaman tetap, Kalkulator sederhana untuk pinjaman jumlah tetap, Jadwal amortisasi untuk pinjaman tetap",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "Kalkulator Ilmiah",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Kalkulator Ilmiah Gratis Online",
-        "meta_description": "Temukan kalkulator ilmiah gratis online kami untuk matematika, teknik, pecahan, dan logaritma. Mudah digunakan, akurat, sempurna untuk pelajar!",
-        "meta_keyword": "Kalkulator ilmiah, Kalkulator online, Kalkulator gratis, Kalkulator matematika, Kalkulator canggih, Alat kalkulator, Kalkulator pecahan, Kalkulator logaritma, Kalkulator teknik, Kalkulator untuk pelajar",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Kalkulator Persentase",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -144,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Kalkulator Keliling",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -157,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "Kalkulator Luas",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -169,8 +91,72 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Kalkulator Pinjaman Pembayaran Tertunda",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator Pinjaman Tertunda - Estimasi Mudah",
+        "meta_description": "Gunakan kalkulator pinjaman pembayaran tertunda gratis kami dengan amortisasi untuk memperkirakan pembayaran bulanan dan bunga setelah periode penangguhan",
+        "meta_keyword": "kalkulator pinjaman pembayaran tertunda, kalkulator pinjaman pembayaran, kalkulator pembayaran tertunda, kalkulator amortisasi pinjaman, kalkulator bunga pinjaman, cara menghitung pinjaman pembayaran tertunda online, kalkulator pinjaman pembayaran tertunda gratis dengan amortisasi, kalkulator pinjaman tertunda dengan bunga, hitung pembayaran bulanan pinjaman tertunda, alat pembayaran kembali pinjaman tertunda untuk peminjam baru",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Kalkulator Keuangan",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "Koleksi Lengkap Kalkulator Keuangan untuk Anda",
+        "meta_description": "Jelajahi koleksi lengkap kalkulator keuangan untuk membantu Anda mengelola anggaran, pinjaman, investasi, dan lainnya, semuanya dalam satu alat yang praktis.",
+        "meta_keyword": "Kalkulator Hipotek, Kalkulator Pinjaman, Kalkulator Bunga Majemuk, Kalkulator Pensiun, Kalkulator Investasi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "Kalkulator Matematika",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Matematika untuk Semua Kebutuhan Matematis Anda",
+        "meta_description": "Kalkulator matematika menawarkan alat untuk menyelesaikan aritmatika, aljabar, kalkulus, dan lainnya, membuat perhitungan kompleks lebih cepat dan mudah.",
+        "meta_keyword": "Kalkulator Matematika Online, Alat Kalkulator Ilmiah, Kalkulator Grafik Online, Aplikasi Kalkulator Matematika Terbaik, Fitur Lanjutan Kalkulator Matematika",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Kalkulator Pinjaman Jumlah Tetap",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator Pinjaman Jumlah Tetap – Estimasi Pembayaran",
+        "meta_description": "Gunakan Kalkulator Pinjaman Jumlah Tetap kami untuk memahami cara menghitung pembayaran pinjaman tetap dan memperkirakan angsuran bulanan tetap Anda dengan mudah.",
+        "meta_keyword": "Kalkulator Pinjaman Jumlah Tetap, Pinjaman tetap, Kalkulator pinjaman, Kalkulator pinjaman tetap, Kalkulator angsuran, Kalkulator amortisasi pinjaman, Kalkulator pinjaman jumlah tetap online, Cara menghitung pembayaran pinjaman tetap, Kalkulator pembayaran bulanan untuk jumlah pinjaman tetap, Kalkulator amortisasi pinjaman tetap gratis, Estimasi pembayaran bulanan pada pinjaman tetap, Kalkulator sederhana untuk pinjaman jumlah tetap, Jadwal amortisasi untuk pinjaman tetap",
+        "status": "1",
+        "is_show": "0",
+        "orders": "10000"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Kalkulator Ilmiah",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Ilmiah Gratis Online",
+        "meta_description": "Temukan kalkulator ilmiah gratis online kami untuk matematika, teknik, pecahan, dan logaritma. Mudah digunakan, akurat, sempurna untuk pelajar!",
+        "meta_keyword": "Kalkulator ilmiah, Kalkulator online, Kalkulator gratis, Kalkulator matematika, Kalkulator canggih, Alat kalkulator, Kalkulator pecahan, Kalkulator logaritma, Kalkulator teknik, Kalkulator untuk pelajar",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "Kalkulator Volume",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -182,8 +168,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "Kalkulator Lainnya",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Koleksi Kalkulator yang Berguna",
+        "meta_description": "Temukan koleksi kalkulator lain yang berguna, dirancang untuk membantu Anda menyelesaikan berbagai perhitungan dengan cepat dan akurat.",
+        "meta_keyword": "Koleksi Kalkulator Berguna, Alat Kalkulator Lainnya, Alat Perhitungan Serbaguna, Beragam Kalkulator Online, Alat Perhitungan Populer",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "Kalkulator Usia",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -196,12 +195,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "Kalkulator Tanggal",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Kalkulator Tanggal: Hari Antara Tanggal & Penjumlahan/Pengurangan Tanggal",
-        "meta_description": "Kalkulator Tanggal Gratis: Hitung hari antara dua tanggal atau tambah/kurang tanggal dengan mudah. Coba kalkulator perbedaan tanggal online kami untuk hasil cepat dan akurat!",
+        "meta_title": "Kalkulator Tanggal: Hari Antara Tanggal & Penjumlahan\/Pengurangan Tanggal",
+        "meta_description": "Kalkulator Tanggal Gratis: Hitung hari antara dua tanggal atau tambah\/kurang tanggal dengan mudah. Coba kalkulator perbedaan tanggal online kami untuk hasil cepat dan akurat!",
         "meta_keyword": "Kalkulator Tanggal, Menghitung hari antara dua tanggal, Kalkulator perbedaan tanggal, Kalkulator hari antara tanggal, Hari antara tanggal, Kalkulator penjumlahan dan pengurangan tanggal, Penjumlahan dan pengurangan tanggal",
         "status": "1",
         "is_show": "1",
@@ -209,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "Kalkulator Waktu",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -222,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "Kalkulator Jam",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -235,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Kalkulator Pecahan",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -248,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Kalkulator Bilangan Campuran",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -261,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Kalkulator Kesehatan dan Kebugaran",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -274,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Kalkulator IMT",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -287,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Kalkulator TMB",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -300,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Kalkulator Persentase Lemak Tubuh",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -313,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "Konverter Satuan",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -326,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Kalkulator Bilangan Prima",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -339,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "Timer Hitung Mundur",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -352,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Generator Kata Sandi",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,21 +363,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "Kalkulator Kecepatan Lari",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Kalkulator Kecepatan Lari: Tingkatkan Kecepatan Lari Anda Hari Ini",
-        "meta_description": "Pelajari cara menghitung kecepatan lari dengan akurat dan konversi kecepatan lari ke pace dengan mudah menggunakan kalkulator kecepatan lari terbaik kami untuk latihan.",
-        "meta_keyword": "Kalkulator Kecepatan Lari, Kalkulator Pace, Kalkulator Pace Maraton, Kalkulator Kecepatan Lari, Kalkulator Kecepatan Lari, Menghitung kecepatan lari dengan akurat, Kalkulator kecepatan lari terbaik untuk latihan, Konversi kecepatan ke pace dengan mudah, Tabel kecepatan lari untuk berbagai jarak, Temukan kecepatan lari optimal Anda",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Kalkulator TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -391,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Konverter Data",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -404,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Kalkulator Kalori",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -417,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "Konverter Mata Uang",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -430,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Pemeriksa Tahun Kabisat",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -443,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "Saluran Cuaca",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -456,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Kalkulator Tanggal Kelahiran",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -469,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Kalkulator Kadar Alkohol dalam Darah (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -482,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Kalkulator Zodiak",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -495,12 +481,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Timer Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Timer Pomodoro | Tingkatkan Produktivitas dengan Alat Timer Fokus dan Belajar",
-        "meta_description": "Timer Pomodoro gratis untuk meningkatkan produktivitas. Interval 25/5 menit yang dapat disesuaikan, musik fokus, dan fitur pelacakan. Sempurna untuk kerja, belajar, dan fokus. Coba sekarang!",
+        "meta_description": "Timer Pomodoro gratis untuk meningkatkan produktivitas. Interval 25\/5 menit yang dapat disesuaikan, musik fokus, dan fitur pelacakan. Sempurna untuk kerja, belajar, dan fokus. Coba sekarang!",
         "meta_keyword": "Timer Pomodoro, Teknik Pomodoro, Timer fokus, Timer produktivitas, Timer tomat, Timer belajar, Timer kerja, Alat manajemen waktu, Timer 25 menit, Pelacak Pomodoro, Aplikasi Pomodoro, Teknik fokus, Metode produktivitas, Timer istirahat, Timer Pomodoro online, Timer fokus kerja, Timer fokus belajar, Alat pemblokiran waktu, Aplikasi timer Pomodoro, Kalkulator produktivitas, Timer Pomodoro terbaik, Timer Pomodoro dengan musik, Timer fokus online, Timer Pomodoro dan perencana, Timer yang dapat disesuaikan, Timer Pomodoro gratis, Pomodoro digital, Alat produktivitas web, Kalkulator manajemen waktu, Timer Pomodoro untuk kerja",
         "status": "1",
         "is_show": "1",
@@ -508,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Generator Kode QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -521,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Kalkulator Turunan",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -534,7 +520,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Kalkulator Logaritma",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -546,8 +532,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Kalkulator Kecepatan Lari",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Kalkulator Kecepatan Lari: Tingkatkan Kecepatan Lari Anda Hari Ini",
+        "meta_description": "Pelajari cara menghitung kecepatan lari dengan akurat dan konversi kecepatan lari ke pace dengan mudah menggunakan kalkulator kecepatan lari terbaik kami untuk latihan.",
+        "meta_keyword": "Kalkulator Kecepatan Lari, Kalkulator Pace, Kalkulator Pace Maraton, Kalkulator Kecepatan Lari, Kalkulator Kecepatan Lari, Menghitung kecepatan lari dengan akurat, Kalkulator kecepatan lari terbaik untuk latihan, Konversi kecepatan ke pace dengan mudah, Tabel kecepatan lari untuk berbagai jarak, Temukan kecepatan lari optimal Anda",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Kalkulator Teknik",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -560,12 +559,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Kalkulator Daya Listrik",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Kalkulator Daya Listrik - Daya AC/DC, Tegangan & Arus",
-        "meta_description": "Kalkulator daya listrik gratis untuk sirkuit AC/DC. Hitung daya, tegangan, arus, resistansi menggunakan hukum Ohm. Mendukung perhitungan satu fase, tiga fase secara instan.",
+        "meta_title": "Kalkulator Daya Listrik - Daya AC\/DC, Tegangan & Arus",
+        "meta_description": "Kalkulator daya listrik gratis untuk sirkuit AC\/DC. Hitung daya, tegangan, arus, resistansi menggunakan hukum Ohm. Mendukung perhitungan satu fase, tiga fase secara instan.",
         "meta_keyword": "kalkulator daya listrik, perhitungan daya, kalkulator tegangan, kalkulator arus, kalkulator hukum ohm, kalkulator daya AC, kalkulator daya DC, kalkulator daya tiga fase, daya satu fase, kalkulator teknik elektro, kalkulator watt, kalkulator ampere, kalkulator resistansi, kalkulator sirkuit listrik, kalkulator konsumsi daya, kalkulator kilowatt, kalkulator beban listrik",
         "status": "1",
         "is_show": "1",
@@ -573,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Kalkulator Resistansi",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -586,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "Kalkulator Gaya",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -599,33 +598,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Kalkulator Kecepatan",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulator Kecepatan - Alat Kecepatan Jarak Waktu",
-        "meta_description": "Kalkulator kecepatan gratis dengan 3 metode: dasar v=d/t, percepatan & kecepatan rata-rata. Hitung kecepatan, jarak, waktu dengan konversi satuan.",
-        "meta_keyword": "kalkulator kecepatan, kalkulator kecepatan, kalkulator jarak, kalkulator waktu, kalkulator fisika, kalkulator percepatan, kecepatan rata-rata, rumus kecepatan, kecepatan jarak waktu, kalkulator v=d/t, kalkulator kinematika, kalkulator gerak, alat fisika, kalkulator online, kalkulator gratis, konverter satuan kecepatan, konverter m/s km/h mph, bantuan pr fisika, pemecah kecepatan",
+        "meta_description": "Kalkulator kecepatan gratis dengan 3 metode: dasar v=d\/t, percepatan & kecepatan rata-rata. Hitung kecepatan, jarak, waktu dengan konversi satuan.",
+        "meta_keyword": "kalkulator kecepatan, kalkulator kecepatan, kalkulator jarak, kalkulator waktu, kalkulator fisika, kalkulator percepatan, kecepatan rata-rata, rumus kecepatan, kecepatan jarak waktu, kalkulator v=d\/t, kalkulator kinematika, kalkulator gerak, alat fisika, kalkulator online, kalkulator gratis, konverter satuan kecepatan, konverter m\/s km\/h mph, bantuan pr fisika, pemecah kecepatan",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Kalkulator Tekanan",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Kalkulator Tekanan - Konversi Unit & Hitung P=F/A Online",
-        "meta_description": "Kalkulator tekanan online gratis dengan konverter unit, tekanan dasar (P=F/A), hidrostatik, dan perhitungan gauge vs absolut. Konversi Pa, psi, bar instan.",
-        "meta_keyword": "kalkulator tekanan, konverter tekanan, unit tekanan, konverter pascal, kalkulator psi, konverter bar, kalkulator rumus tekanan, tekanan hidrostatik, tekanan gauge, tekanan absolut, kalkulator P=F/A, alat konversi tekanan, kalkulator tekanan online, konverter unit tekanan, tekanan gaya area, kalkulator tekanan fluida, konverter tekanan atmosfer, kalkulator tekanan vakum",
+        "meta_title": "Kalkulator Tekanan - Konversi Unit & Hitung P=F\/A Online",
+        "meta_description": "Kalkulator tekanan online gratis dengan konverter unit, tekanan dasar (P=F\/A), hidrostatik, dan perhitungan gauge vs absolut. Konversi Pa, psi, bar instan.",
+        "meta_keyword": "kalkulator tekanan, konverter tekanan, unit tekanan, konverter pascal, kalkulator psi, konverter bar, kalkulator rumus tekanan, tekanan hidrostatik, tekanan gauge, tekanan absolut, kalkulator P=F\/A, alat konversi tekanan, kalkulator tekanan online, konverter unit tekanan, tekanan gaya area, kalkulator tekanan fluida, konverter tekanan atmosfer, kalkulator tekanan vakum",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Kalkulator Torsi",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -638,7 +637,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "Kalkulator Kekuatan Material",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -651,7 +650,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Kalkulator Suhu",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -664,7 +663,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "Kalkulator Toleransi",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -677,7 +676,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Kalkulator Frekuensi Resonansi",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -690,7 +689,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Kalkulator kapasitansi",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -703,7 +702,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Kalkulator Kumparan",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -716,20 +715,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Kalkulator Arus",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulator Arus - Hukum Ohm, Tegangan & Daya | Gratis",
-        "meta_description": "Kalkulator arus gratis dengan 3 metode: Hukum Ohm (I=V/R), rumus daya. Hitung arus listrik dari tegangan, hambatan, daya secara instan online.",
-        "meta_keyword": "kalkulator arus, kalkulator arus listrik, kalkulator hukum ohm, kalkulator tegangan arus, kalkulator daya arus, hitung arus online, kalkulator teknik elektro, kalkulator arus hukum ohm, kalkulator I=V/R, kalkulator ampere, kalkulator rangkaian listrik, alat hitung arus, kalkulator arus gratis, kalkulator listrik online, rumus arus listrik, arus dari tegangan hambatan, arus dari daya tegangan, arus dari daya hambatan, alat listrik online, kalkulator elektronika, alat teknik elektro, kalkulator analisis rangkaian, perhitungan listrik, kalkulator amperage, kalkulator arus listrik, kalkulator arus gratis online, konverter tegangan ke arus, kalkulator hambatan arus, kalkulator daya ke arus, kalkulator rumus listrik, kalkulator densitas arus, kalkulator arus AC, kalkulator arus DC, kalkulator pengukuran listrik",
+        "meta_description": "Kalkulator arus gratis dengan 3 metode: Hukum Ohm (I=V\/R), rumus daya. Hitung arus listrik dari tegangan, hambatan, daya secara instan online.",
+        "meta_keyword": "kalkulator arus, kalkulator arus listrik, kalkulator hukum ohm, kalkulator tegangan arus, kalkulator daya arus, hitung arus online, kalkulator teknik elektro, kalkulator arus hukum ohm, kalkulator I=V\/R, kalkulator ampere, kalkulator rangkaian listrik, alat hitung arus, kalkulator arus gratis, kalkulator listrik online, rumus arus listrik, arus dari tegangan hambatan, arus dari daya tegangan, arus dari daya hambatan, alat listrik online, kalkulator elektronika, alat teknik elektro, kalkulator analisis rangkaian, perhitungan listrik, kalkulator amperage, kalkulator arus listrik, kalkulator arus gratis online, konverter tegangan ke arus, kalkulator hambatan arus, kalkulator daya ke arus, kalkulator rumus listrik, kalkulator densitas arus, kalkulator arus AC, kalkulator arus DC, kalkulator pengukuran listrik",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Kalkulator Pendidikan",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,13 +739,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "Kalkulator Keuangan",
-        "Daftar kalkulator pendidikan populer"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "Kalkulator IPK (Indeks Prestasi Kumulatif)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -758,8 +753,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "Kalkulator Waktu Belajar",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulator Waktu Belajar | Lacak Fokus & Efisiensi",
+        "meta_description": "Kalkulator waktu belajar gratis untuk melacak jam belajar efektif, istirahat, gangguan & kualitas fokus. Optimalkan sesi belajar dengan teknik Pomodoro!",
+        "meta_keyword": "kalkulator waktu belajar, waktu belajar efektif, kalkulator efisiensi belajar, pelacak produktivitas belajar, kalkulator sesi belajar, kalkulator waktu fokus, alat produktivitas akademik, manajemen waktu mahasiswa, cara menghitung waktu belajar efektif, kalkulator produktivitas belajar online gratis, lacak efisiensi dan kualitas fokus belajar, timer pomodoro, perencana belajar, alat manajemen waktu, pelacak fokus, analitik pembelajaran, pelacak kebiasaan belajar, kalkulator produktivitas, pelacak performa akademik, alat pengukur konsentrasi, kalkulator optimasi belajar, hitung waktu belajar aktual vs total, kalkulator waktu istirahat belajar dengan rating fokus, pelacak waktu belajar pomodoro online, alat analisis produktivitas mahasiswa gratis, kalkulator efisiensi sesi pembelajaran, kalkulator waktu gangguan belajar, kalkulator manajemen waktu akademik",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Kalkulator Pinjaman Mahasiswa",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -772,7 +780,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Kalkulator Biaya Pendidikan",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -785,20 +793,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "Kalkulator Waktu Penyelesaian Program",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "Kalkulator Waktu Penyelesaian - Alat Timeline Proyek",
-        "meta_description": "Hitung waktu penyelesaian proyek akurat dengan efisiensi tim, perencanaan buffer & laporan PDF. Tool online gratis untuk manajer proyek estimasi deadline.",
-        "meta_keyword": "kalkulator waktu penyelesaian program, kalkulator penyelesaian proyek, kalkulator timeline proyek, kalkulator deadline proyek, estimator waktu penyelesaian, kalkulator durasi proyek, kalkulator efisiensi tim, alat perencanaan proyek, kalkulator manajemen proyek, estimasi waktu penyelesaian, alat timeline proyek, kalkulator penyelesaian kerja, waktu penyelesaian tugas, kalkulator jadwal proyek, alat estimasi deadline, kalkulator waktu proyek, kalkulator tanggal penyelesaian, kalkulator perencanaan proyek, kalkulator timeline program, alat estimasi proyek, pelacak waktu penyelesaian, estimator penyelesaian proyek, kalkulator produktivitas tim, kalkulator buffer proyek, perencana waktu penyelesaian, perencana deadline proyek, alat penyelesaian program, estimasi waktu proyek, kalkulator timeline penyelesaian, perencanaan penyelesaian proyek, alat kalkulasi deadline, pelacak waktu proyek, estimator tanggal penyelesaian, alat penjadwalan proyek, kalkulator deadline program, pelacak penyelesaian proyek, kalkulator penyelesaian tim, estimator timeline proyek, analisis waktu penyelesaian, estimator durasi proyek, estimator penyelesaian program, timeline penyelesaian proyek, alat perencanaan deadline, perencanaan waktu penyelesaian, perencana waktu proyek, alat timeline program, analisis penyelesaian proyek, perencana efisiensi tim, pelacak deadline proyek, kalkulator penyelesaian online, manajemen waktu proyek, perencanaan penyelesaian program, alat penyelesaian proyek, kalkulator deadline gratis",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Kalkulator Waktu Penyelesaian Program",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -811,7 +806,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Kalkulator Kemahiran Bahasa",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

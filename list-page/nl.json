@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "Financiële Rekenmachines",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "Een Volledige Collectie Financiële Rekenmachines voor U",
-        "meta_description": "Ontdek een complete verzameling financiële rekenmachines om u te helpen met budgetten, leningen, investeringen en meer, allemaal in één handige tool.",
-        "meta_keyword": "Hypotheekcalculator, Leningcalculator, Samengestelde Rente Calculator, Pensioencalculator, Investeringscalculator",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "Wiskundige Rekenmachines",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Wiskundige rekenmachines voor al uw wiskundige behoeften",
-        "meta_description": "Een wiskundige rekenmachine biedt tools om rekenkunde, algebra, calculus en meer op te lossen, waardoor complexe berekeningen sneller en eenvoudiger worden.",
-        "meta_keyword": "Online wiskundige rekenmachine, Wetenschappelijke rekenmachine tools, Grafische rekenmachine online, Beste wiskundige rekenmachine app, Geavanceerde wiskundige rekenmachine functies",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "Overige Rekenmachines",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Andere nuttige rekenmachine collecties",
-        "meta_description": "Ontdek een verzameling andere nuttige rekenmachines, ontworpen om verschillende berekeningen snel en nauwkeurig op te lossen.",
-        "meta_keyword": "Nuttige rekenmachine collectie, overige rekenmachine tools, veelzijdige berekeningstools, online rekenmachines variëteit, populaire berekeningstools",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Hypotheekcalculator",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Aflossingslening Calculator",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Betalingscalculator",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "Rente Calculator",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Uitgestelde Betalingslening Calculator",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Uitgestelde Betalingslening Calculator – Eenvoudig Schatten",
-        "meta_description": "Gebruik onze gratis uitgestelde betalingslening calculator met aflossing om maandelijkse betalingen en rente na de uitstelperiode te schatten.",
-        "meta_keyword": "uitgestelde betalingslening calculator, betalingslening calculator, uitgestelde betaling calculator, lening aflossing calculator, rente lening calculator, hoe uitgestelde betalingslening online te berekenen, gratis uitgestelde betalingslening calculator met aflossing, uitgestelde lening calculator met rente, bereken maandelijkse betalingen op een uitgestelde lening, uitgestelde lening aflossingstool voor nieuwe leners",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Vast Bedrag Lening Calculator",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Vast Bedrag Lening Calculator – Schat Betalingen",
-        "meta_description": "Gebruik onze Vast Bedrag Lening Calculator om te begrijpen hoe u vooraf bepaalde leningbetalingen kunt berekenen en uw maandelijkse vaste aflossingen eenvoudig kunt schatten.",
-        "meta_keyword": "Vast Bedrag Lening Calculator, Vaste lening, Leningcalculator, Vaste lening calculator, Termijncalculator, Lening aflossing calculator, Vast bedrag lening calculator online, Hoe vooraf bepaalde leningbetalingen te berekenen, Maandelijkse betalingscalculator voor vast leenbedrag, Gratis vooraf bepaalde lening aflossing calculator, Schat maandelijkse betalingen op vooraf bepaalde lening, Eenvoudige calculator voor vast bedrag lening, Aflossingsschema voor vooraf bepaalde lening",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "Wetenschappelijke Rekenmachine",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Gratis Online Wetenschappelijke Rekenmachine",
-        "meta_description": "Ontdek onze gratis online wetenschappelijke rekenmachine voor wiskunde, techniek, breuken en logaritmen. Gebruiksvriendelijk, nauwkeurig, perfect voor studenten!",
-        "meta_keyword": "wetenschappelijke rekenmachine, online rekenmachine, gratis rekenmachine, wiskundige rekenmachine, geavanceerde rekenmachine, rekenmachine tool, breuken rekenmachine, logaritmen rekenmachine, techniek rekenmachine, studenten rekenmachine",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Percentage Calculator",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Omtrek Calculator",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "Oppervlakte Calculator",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Calculator Lening Uitgestelde Betaling",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Uitgestelde Lening Calculator - Eenvoudig Schatten",
+        "meta_description": "Gebruik onze gratis calculator voor lening met uitgestelde betaling met aflossingsschema om maandelijkse betalingen en rente na uitstelperiode te schatten",
+        "meta_keyword": "calculator lening uitgestelde betaling, betaling lening calculator, uitgestelde betaling calculator, lening afschrijving calculator, lening rente calculator, hoe uitgestelde betaling lening online berekenen, gratis lening uitgestelde betaling calculator met aflossing, uitgestelde lening calculator met rente, maandelijkse betalingen uitgestelde lening berekenen, terugbetalingstool uitgestelde lening voor nieuwe leners",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Financiële Rekenmachines",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "Een Volledige Collectie Financiële Rekenmachines voor U",
+        "meta_description": "Ontdek een complete verzameling financiële rekenmachines om u te helpen met budgetten, leningen, investeringen en meer, allemaal in één handige tool.",
+        "meta_keyword": "Hypotheekcalculator, Leningcalculator, Samengestelde Rente Calculator, Pensioencalculator, Investeringscalculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "Wiskundige Rekenmachines",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Wiskundige rekenmachines voor al uw wiskundige behoeften",
+        "meta_description": "Een wiskundige rekenmachine biedt tools om rekenkunde, algebra, calculus en meer op te lossen, waardoor complexe berekeningen sneller en eenvoudiger worden.",
+        "meta_keyword": "Online wiskundige rekenmachine, Wetenschappelijke rekenmachine tools, Grafische rekenmachine online, Beste wiskundige rekenmachine app, Geavanceerde wiskundige rekenmachine functies",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Vast Bedrag Lening Calculator",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Vast Bedrag Lening Calculator – Schat Betalingen",
+        "meta_description": "Gebruik onze Vast Bedrag Lening Calculator om te begrijpen hoe u vooraf bepaalde leningbetalingen kunt berekenen en uw maandelijkse vaste aflossingen eenvoudig kunt schatten.",
+        "meta_keyword": "Vast Bedrag Lening Calculator, Vaste lening, Leningcalculator, Vaste lening calculator, Termijncalculator, Lening aflossing calculator, Vast bedrag lening calculator online, Hoe vooraf bepaalde leningbetalingen te berekenen, Maandelijkse betalingscalculator voor vast leenbedrag, Gratis vooraf bepaalde lening aflossing calculator, Schat maandelijkse betalingen op vooraf bepaalde lening, Eenvoudige calculator voor vast bedrag lening, Aflossingsschema voor vooraf bepaalde lening",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Wetenschappelijke Rekenmachine",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Gratis Online Wetenschappelijke Rekenmachine",
+        "meta_description": "Ontdek onze gratis online wetenschappelijke rekenmachine voor wiskunde, techniek, breuken en logaritmen. Gebruiksvriendelijk, nauwkeurig, perfect voor studenten!",
+        "meta_keyword": "wetenschappelijke rekenmachine, online rekenmachine, gratis rekenmachine, wiskundige rekenmachine, geavanceerde rekenmachine, rekenmachine tool, breuken rekenmachine, logaritmen rekenmachine, techniek rekenmachine, studenten rekenmachine",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "Volume Calculator",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "Overige Rekenmachines",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Andere nuttige rekenmachine collecties",
+        "meta_description": "Ontdek een verzameling andere nuttige rekenmachines, ontworpen om verschillende berekeningen snel en nauwkeurig op te lossen.",
+        "meta_keyword": "Nuttige rekenmachine collectie, overige rekenmachine tools, veelzijdige berekeningstools, online rekenmachines variëteit, populaire berekeningstools",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "Leeftijdscalculator",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,11 +194,11 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "Datumcalculator",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Datumcalculator: Dagen Tussen Datums & Datums Optellen/Aftrekken",
+        "meta_title": "Datumcalculator: Dagen Tussen Datums & Datums Optellen\/Aftrekken",
         "meta_description": "Gratis Datumcalculator: Bereken dagen tussen twee datums of tel datums op of trek ze af. Probeer onze online datumverschil calculator voor snelle, nauwkeurige resultaten!",
         "meta_keyword": "Datumcalculator, Dagen tussen twee datums berekenen, Datumverschil calculator, Dagen tussen datums calculator, Dagen tussen datums, datumcalculator optellen en aftrekken, datums optellen en aftrekken",
         "status": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "Tijdcalculator",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "Uren Calculator",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Breuken Calculator",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Gemengde Getallen Calculator",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Gezondheid & Fitness Rekenmachines",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "BMI Calculator",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "BMR Calculator",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Lichaamsvet Percentage Calculator",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "Eenheden Converter",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Priemgetal Calculator",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "Afteltimer",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Wachtwoord Generator",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "Hardlooptempo Calculator",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Hardlooptempo Calculator: Verbeter uw Wedstrijdtempo Vandaag",
-        "meta_description": "Leer hoe u het hardlooptempo nauwkeurig kunt berekenen en hardloopsnelheid eenvoudig naar tempo kunt omzetten met onze beste hardlooptempo calculator voor training!",
-        "meta_keyword": "Hardlooptempo Calculator, Tempo Calculator, Marathon Tempo Calculator, Wedstrijdtempo Calculator, Hardloopsnelheid Calculator, Hardlooptempo nauwkeurig berekenen, Beste hardlooptempo calculator voor training, Snelheid naar tempo eenvoudig omzetten, Hardlooptempo tabel voor verschillende afstanden, Vind uw optimale hardlooptempo",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "TDEE Calculator",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Gegevens Converter",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Calorie Calculator",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "Valuta Converter",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Schrikkeljaar Checker",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "Weerkanaal",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Zwangerschapsuitgerekende Datum Calculator",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Bloedalcoholconcentratie (BAC) Calculator",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Sterrenbeeld Calculator",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Pomodoro Timer",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Pomodoro Timer | Verhoog Productiviteit met Focus & Studie Timer Tool",
-        "meta_description": "Gratis Pomodoro Timer om productiviteit te verhogen. Aanpasbare 25/5 minuten intervallen, focusmuziek en tracking functies. Perfect voor werk, studie en focus. Probeer nu!",
+        "meta_description": "Gratis Pomodoro Timer om productiviteit te verhogen. Aanpasbare 25\/5 minuten intervallen, focusmuziek en tracking functies. Perfect voor werk, studie en focus. Probeer nu!",
         "meta_keyword": "pomodoro timer, pomodoro techniek, focus timer, productiviteit timer, tomaat timer, studie timer, werk timer, tijdmanagement tool, 25 minuten timer, pomodoro tracker, pomodoro app, focus techniek, productiviteit methode, pauze timer, pomodoro timer online, werk focus timer, studie focus timer, tijdblokkerings tool, pomodoro timer app, productiviteit calculator, beste pomodoro timer, pomodoro timer met muziek, online focus timer, pomodoro timer en planner, aanpasbare timer, gratis pomodoro timer, digitale pomodoro, web productiviteit tool, tijdmanagement calculator, pomodoro timer voor werk",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "QR Code Generator",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Afgeleide Calculator",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Logaritme Calculator",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Hardlooptempo Calculator",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Hardlooptempo Calculator: Verbeter uw Wedstrijdtempo Vandaag",
+        "meta_description": "Leer hoe u het hardlooptempo nauwkeurig kunt berekenen en hardloopsnelheid eenvoudig naar tempo kunt omzetten met onze beste hardlooptempo calculator voor training!",
+        "meta_keyword": "Hardlooptempo Calculator, Tempo Calculator, Marathon Tempo Calculator, Wedstrijdtempo Calculator, Hardloopsnelheid Calculator, Hardlooptempo nauwkeurig berekenen, Beste hardlooptempo calculator voor training, Snelheid naar tempo eenvoudig omzetten, Hardlooptempo tabel voor verschillende afstanden, Vind uw optimale hardlooptempo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Technische Rekenmachines",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Elektrisch Vermogen Rekenmachine",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Elektrisch Vermogen Rekenmachine - AC/DC Vermogen, Spanning & Stroom",
-        "meta_description": "Gratis elektrisch vermogen rekenmachine voor AC/DC circuits. Bereken vermogen, spanning, stroom, weerstand met de wet van Ohm. Ondersteunt enkelfase, driefase berekeningen direct.",
+        "meta_title": "Elektrisch Vermogen Rekenmachine - AC\/DC Vermogen, Spanning & Stroom",
+        "meta_description": "Gratis elektrisch vermogen rekenmachine voor AC\/DC circuits. Bereken vermogen, spanning, stroom, weerstand met de wet van Ohm. Ondersteunt enkelfase, driefase berekeningen direct.",
         "meta_keyword": "elektrisch vermogen rekenmachine, vermogensberekening, spanning rekenmachine, stroom rekenmachine, ohm wet rekenmachine, AC vermogen rekenmachine, DC vermogen rekenmachine, driefase vermogen rekenmachine, enkelfase vermogen, elektrotechniek rekenmachine, watt rekenmachine, amperage rekenmachine, weerstand rekenmachine, elektrisch circuit rekenmachine, energieverbruik rekenmachine, kilowatt rekenmachine, elektrische belasting rekenmachine",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Weerstand Calculator",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "Kracht Calculator",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Snelheid Calculator",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Snelheid Calculator - Snelheid Afstand Tijd Tool",
-        "meta_description": "Gratis snelheid calculator met 3 methoden: basis v=d/t, versnelling & gemiddelde snelheid. Bereken snelheid, afstand, tijd met eenheid conversie.",
-        "meta_keyword": "snelheid calculator, snelheid calculator, afstand calculator, tijd calculator, natuurkunde calculator, versnelling calculator, gemiddelde snelheid, snelheid formule, snelheid afstand tijd, v=d/t calculator, kinematica calculator, beweging calculator, natuurkunde tools, online calculator, gratis calculator, snelheid eenheid converter, m/s km/u mph converter, natuurkunde huiswerk hulp, snelheid oplosser",
+        "meta_description": "Gratis snelheid calculator met 3 methoden: basis v=d\/t, versnelling & gemiddelde snelheid. Bereken snelheid, afstand, tijd met eenheid conversie.",
+        "meta_keyword": "snelheid calculator, snelheid calculator, afstand calculator, tijd calculator, natuurkunde calculator, versnelling calculator, gemiddelde snelheid, snelheid formule, snelheid afstand tijd, v=d\/t calculator, kinematica calculator, beweging calculator, natuurkunde tools, online calculator, gratis calculator, snelheid eenheid converter, m\/s km\/u mph converter, natuurkunde huiswerk hulp, snelheid oplosser",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Druk Calculator",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Druk Calculator - Eenheden Omrekenen & P=F/A Berekenen",
-        "meta_description": "Gratis online druk calculator met eenheid omrekener, basis druk (P=F/A), hydrostatisch en overdruk vs absolute berekeningen. Reken Pa, psi, bar direct om.",
-        "meta_keyword": "druk calculator, druk omrekener, druk eenheden, pascal omrekener, psi calculator, bar omrekener, druk formule calculator, hydrostatische druk, overdruk, absolute druk, P=F/A calculator, druk omreken tool, online druk calculator, druk eenheid omrekener, druk kracht oppervlakte, vloeistof druk calculator, atmosferische druk omrekener, vacuüm druk calculator",
+        "meta_title": "Druk Calculator - Eenheden Omrekenen & P=F\/A Berekenen",
+        "meta_description": "Gratis online druk calculator met eenheid omrekener, basis druk (P=F\/A), hydrostatisch en overdruk vs absolute berekeningen. Reken Pa, psi, bar direct om.",
+        "meta_keyword": "druk calculator, druk omrekener, druk eenheden, pascal omrekener, psi calculator, bar omrekener, druk formule calculator, hydrostatische druk, overdruk, absolute druk, P=F\/A calculator, druk omreken tool, online druk calculator, druk eenheid omrekener, druk kracht oppervlakte, vloeistof druk calculator, atmosferische druk omrekener, vacuüm druk calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Koppel Calculator",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "Materiaalsterkte Calculator",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Temperatuurrekenmachine",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "Tolerantie Calculator",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Resonantiefrequentie Calculator",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Capaciteit calculator",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Spoel Calculator",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Stroomcalculator",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Stroomcalculator - Wet van Ohm, Spanning & Vermogen | Gratis",
-        "meta_description": "Gratis stroomcalculator met 3 methoden: Wet van Ohm (I=V/R), vermogenformules. Bereken elektrische stroom uit spanning, weerstand, vermogen direct online.",
-        "meta_keyword": "stroomcalculator, elektrische stroomcalculator, wet van ohm calculator, spanning stroom calculator, vermogen stroom calculator, stroom berekenen online, elektrotechniek calculator, stroomcalculator wet van ohm, I=V/R calculator, ampère calculator, elektrische circuit calculator, stroom berekeningtool, gratis stroomcalculator, online elektrische calculator, elektrische stroomformule, stroom uit spanning weerstand, stroom uit vermogen spanning, stroom uit vermogen weerstand, elektrische tools online, electronica calculator, elektrotechniek tools, circuit analyse calculator, elektrische berekening, amperage calculator, elektrische stroom calculator, stroomcalculator gratis online, spanning naar stroom omzetter, weerstand stroom calculator, vermogen naar stroom calculator, elektrische formules calculator, stroomdichtheid calculator, AC stroom calculator, DC stroom calculator, elektrische metingen calculator",
+        "meta_description": "Gratis stroomcalculator met 3 methoden: Wet van Ohm (I=V\/R), vermogenformules. Bereken elektrische stroom uit spanning, weerstand, vermogen direct online.",
+        "meta_keyword": "stroomcalculator, elektrische stroomcalculator, wet van ohm calculator, spanning stroom calculator, vermogen stroom calculator, stroom berekenen online, elektrotechniek calculator, stroomcalculator wet van ohm, I=V\/R calculator, ampère calculator, elektrische circuit calculator, stroom berekeningtool, gratis stroomcalculator, online elektrische calculator, elektrische stroomformule, stroom uit spanning weerstand, stroom uit vermogen spanning, stroom uit vermogen weerstand, elektrische tools online, electronica calculator, elektrotechniek tools, circuit analyse calculator, elektrische berekening, amperage calculator, elektrische stroom calculator, stroomcalculator gratis online, spanning naar stroom omzetter, weerstand stroom calculator, vermogen naar stroom calculator, elektrische formules calculator, stroomdichtheid calculator, AC stroom calculator, DC stroom calculator, elektrische metingen calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Onderwijscalculators",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -738,13 +738,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "Financiële Rekenmachines",
-        "Lijst van populaire onderwijsrekenmachines"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "GPA Calculator (Gemiddeld Cijfer)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -756,8 +752,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "Studietijd Calculator",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Studietijd Calculator | Focus & Efficiëntie Volgen",
+        "meta_description": "Gratis studietijd calculator om effectieve studieuren, pauzes, afleidingen & focuskwaliteit te volgen. Optimaliseer uw sessies met Pomodoro!",
+        "meta_keyword": "studietijd calculator, effectieve studietijd, studie-efficiëntie calculator, studieproductiviteit tracker, studiesessie calculator, focustijd calculator, academische productiviteit tool, tijdmanagement studenten, hoe effectieve studietijd berekenen, studieproductiviteit calculator online gratis, studie-efficiëntie en focuskwaliteit volgen, pomodoro timer, studieplanner, tijdmanagement tool, focus tracker, leeranalyse, studiegewoonten tracker, productiviteitscalculator, academische prestatie tracker, concentratiemeting tool, studieoptimalisatie calculator, werkelijke vs totale studietijd berekenen, studiepauze calculator met focusbeoordeling, pomodoro studietijd tracker online, studentenproductiviteit analyse tool gratis, studiesessie efficiëntie calculator, studieafleiding tijd calculator, academisch tijdmanagement calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Studieschuld Calculator",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -770,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Onderwijskosten Calculator",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -783,20 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "Programma Voltooiingstijd Calculator",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "Voltooiingstijd Calculator - Project Timeline Tool",
-        "meta_description": "Bereken nauwkeurige project voltooiingstijden met team efficiëntie, buffer planning en PDF rapporten. Gratis tool voor projectmanagers deadlines schatten.",
-        "meta_keyword": "programma voltooiingstijd calculator, project voltooiing calculator, project timeline calculator, project deadline calculator, voltooiingstijd schatter, project duur calculator, team efficiëntie calculator, project planning tool, projectmanagement calculator, voltooiingstijd schatting, project timeline tool, werk voltooiing calculator, taak voltooiingstijd, project schema calculator, deadline schattingstool, project tijd calculator, voltooiingsdatum calculator, project planning calculator, programma timeline calculator, project schattingstool, voltooiingstijd tracker, project voltooiing schatter, team productiviteit calculator, project buffer calculator, voltooiingstijd planner, project deadline planner, programma voltooiing tool, project tijd schatting, voltooiings timeline calculator, project voltooiing planning, deadline berekeningtool, project tijd tracker, voltooiingsdatum schatter, project planningtool, programma deadline calculator, project voltooiing tracker, team voltooiing calculator, project timeline schatter, voltooiingstijd analyse, project duur schatter, programma voltooiing schatter, project voltooiings timeline, deadline planningtool, voltooiingstijd planning, project tijd planner, programma timeline tool, project voltooiing analyse, team efficiëntie planner, project deadline tracker, voltooiing calculator online, project tijdmanagement, programma voltooiing planning, project voltooiing tool, deadline calculator gratis",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Programma Voltooiingstijd Calculator",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -809,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Taalvaardigheid Calculator",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

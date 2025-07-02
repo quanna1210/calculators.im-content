@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "재무 계산기",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "당신을 위한 완벽한 재무 계산기 컬렉션",
-        "meta_description": "예산, 대출, 투자 등을 관리하는 데 도움을 주는 완벽한 재무 계산기 컬렉션을 탐색하세요. 모든 것이 하나의 편리한 도구에 있습니다.",
-        "meta_keyword": "모기지 계산기, 대출 계산기, 복리 계산기, 퇴직 계산기, 투자 계산기",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "수학 계산기",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "모든 수학적 요구를 위한 수학 계산기",
-        "meta_description": "수학 계산기는 산술, 대수, 미적분 등을 해결하는 도구를 제공하여 복잡한 계산을 더 빠르고 쉽게 만듭니다.",
-        "meta_keyword": "온라인 수학 계산기, 과학 계산기 도구, 온라인 그래프 계산기, 최고의 수학 계산기 앱, 고급 수학 계산기 기능",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "기타 계산기",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "유용한 기타 계산기 컬렉션",
-        "meta_description": "다양한 계산을 빠르고 정확하게 해결하는 데 도움을 주는 유용한 기타 계산기 컬렉션을 발견하세요.",
-        "meta_keyword": "유용한 계산기 컬렉션, 기타 계산기 도구, 다목적 계산 도구, 온라인 계산기 다양성, 인기 계산 도구",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "모기지 계산기",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "대출 상환 계산기",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "지불 계산기",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "이자 계산기",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,47 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "지연 지급 대출 계산기",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "지연 지급 대출 계산기 – 쉽게 추정하기",
-        "meta_description": "상환 기능을 포함한 무료 지연 지급 대출 계산기를 사용하여 지연 기간 이후의 월별 지불액과 이자를 추정하세요.",
-        "meta_keyword": "지연 지급 대출 계산기, 지불 대출 계산기, 지연 지급 계산기, 대출 상환 계산기, 대출 이자 계산기, 온라인으로 지연 지급 대출 계산 방법, 상환 기능 포함 무료 지연 지급 대출 계산기, 이자를 포함한 지연 대출 계산기, 지연 대출의 월별 지불액 계산, 신규 차입자를 위한 지연 대출 상환 도구",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "고정 금액 대출 계산기",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "고정 금액 대출 계산기 – 지불 추정",
-        "meta_description": "고정 금액 대출 계산기를 사용하여 고정 대출 지급액 계산 방법을 이해하고 월별 고정 상환액을 쉽게 추정하세요.",
-        "meta_keyword": "고정 금액 대출 계산기, 고정 대출, 대출 계산기, 고정 대출 계산기, 할부 계산기, 대출 상환 계산기, 온라인 고정 금액 대출 계산기, 고정 대출 지급액 계산 방법, 고정 대출 금액에 대한 월별 지급 계산기, 무료 고정 대출 상환 계산기, 고정 대출의 월별 지급액 추정, 고정 금액 대출을 위한 간단한 계산기, 고정 대출 상환 일정",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "과학 계산기",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "무료 온라인 과학 계산기",
-        "meta_description": "수학, 공학, 분수, 로그를 위한 무료 온라인 과학 계산기를 제공합니다. 사용이 간편하고 정확하며 학생들에게 적합합니다!",
-        "meta_keyword": "과학 계산기, 온라인 계산기, 무료 계산기, 수학 계산기, 고급 계산기, 계산기 도구, 분수 계산기, 로그 계산기, 공학 계산기, 학생 계산기",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "백분율 계산기",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -144,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "둘레 계산기",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -157,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "면적 계산기",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -169,8 +91,72 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "거치기간 대출 계산기",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "거치 대출 계산기 - 간편한 추정",
+        "meta_description": "상환표가 포함된 무료 거치기간 대출 계산기를 사용하여 거치기간 후 월 상환금과 이자를 추정하세요",
+        "meta_keyword": "거치기간 대출 계산기, 대출 상환 계산기, 거치 상환 계산기, 대출 상환표 계산기, 대출 이자 계산기, 거치기간 대출 온라인 계산 방법, 상환표 포함 무료 거치기간 대출 계산기, 이자 포함 거치 대출 계산기, 거치 대출 월 상환금 계산, 신규 대출자를 위한 거치 대출 상환 도구",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "재무 계산기",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "당신을 위한 완벽한 재무 계산기 컬렉션",
+        "meta_description": "예산, 대출, 투자 등을 관리하는 데 도움을 주는 완벽한 재무 계산기 컬렉션을 탐색하세요. 모든 것이 하나의 편리한 도구에 있습니다.",
+        "meta_keyword": "모기지 계산기, 대출 계산기, 복리 계산기, 퇴직 계산기, 투자 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "수학 계산기",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "모든 수학적 요구를 위한 수학 계산기",
+        "meta_description": "수학 계산기는 산술, 대수, 미적분 등을 해결하는 도구를 제공하여 복잡한 계산을 더 빠르고 쉽게 만듭니다.",
+        "meta_keyword": "온라인 수학 계산기, 과학 계산기 도구, 온라인 그래프 계산기, 최고의 수학 계산기 앱, 고급 수학 계산기 기능",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "고정 금액 대출 계산기",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "고정 금액 대출 계산기 – 지불 추정",
+        "meta_description": "고정 금액 대출 계산기를 사용하여 고정 대출 지급액 계산 방법을 이해하고 월별 고정 상환액을 쉽게 추정하세요.",
+        "meta_keyword": "고정 금액 대출 계산기, 고정 대출, 대출 계산기, 고정 대출 계산기, 할부 계산기, 대출 상환 계산기, 온라인 고정 금액 대출 계산기, 고정 대출 지급액 계산 방법, 고정 대출 금액에 대한 월별 지급 계산기, 무료 고정 대출 상환 계산기, 고정 대출의 월별 지급액 추정, 고정 금액 대출을 위한 간단한 계산기, 고정 대출 상환 일정",
+        "status": "1",
+        "is_show": "0",
+        "orders": "10000"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "과학 계산기",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "무료 온라인 과학 계산기",
+        "meta_description": "수학, 공학, 분수, 로그를 위한 무료 온라인 과학 계산기를 제공합니다. 사용이 간편하고 정확하며 학생들에게 적합합니다!",
+        "meta_keyword": "과학 계산기, 온라인 계산기, 무료 계산기, 수학 계산기, 고급 계산기, 계산기 도구, 분수 계산기, 로그 계산기, 공학 계산기, 학생 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "부피 계산기",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -182,8 +168,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "기타 계산기",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "유용한 기타 계산기 컬렉션",
+        "meta_description": "다양한 계산을 빠르고 정확하게 해결하는 데 도움을 주는 유용한 기타 계산기 컬렉션을 발견하세요.",
+        "meta_keyword": "유용한 계산기 컬렉션, 기타 계산기 도구, 다목적 계산 도구, 온라인 계산기 다양성, 인기 계산 도구",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "나이 계산기",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -196,11 +195,11 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "날짜 계산기",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "날짜 계산기: 두 날짜 간 일수 및 날짜 더하기/빼기",
+        "meta_title": "날짜 계산기: 두 날짜 간 일수 및 날짜 더하기\/빼기",
         "meta_description": "무료 날짜 계산기: 두 날짜 간 일수를 계산하거나 날짜를 쉽게 더하거나 빼세요. 빠르고 정확한 결과를 위한 온라인 날짜 차이 계산기를 사용해보세요!",
         "meta_keyword": "날짜 계산기, 두 날짜 간 일수 계산, 날짜 차이 계산기, 날짜 간 일수 계산기, 날짜 더하기 빼기 계산기, 날짜 더하기 빼기",
         "status": "1",
@@ -209,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "시간 계산기",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -222,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "시간 계산기",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -235,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "분수 계산기",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -248,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "혼합수 계산기",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -261,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "건강 및 피트니스 계산기",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -274,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "BMI 계산기",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -287,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "BMR 계산기",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -300,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "체지방 비율 계산기",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -313,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "단위 변환기",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -326,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "소수 계산기",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -339,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "카운트다운 타이머",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -352,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "비밀번호 생성기",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,21 +363,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "러닝 페이스 계산기",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "러닝 페이스 계산기: 오늘 레이스 페이스를 향상시키세요",
-        "meta_description": "러닝 페이스를 정확히 계산하고 러닝 속도를 페이스로 쉽게 변환하는 최고의 러닝 페이스 계산기로 훈련을 개선하세요!",
-        "meta_keyword": "러닝 페이스 계산기, 페이스 계산기, 마라톤 페이스 계산기, 레이스 페이스 계산기, 러닝 속도 계산기, 러닝 페이스 정확히 계산, 훈련을 위한 최고의 러닝 페이스 계산기, 속도를 페이스로 쉽게 변환, 다양한 거리의 러닝 페이스 차트, 최적의 러닝 페이스 찾기",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "TDEE 계산기",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -391,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "데이터 변환기",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -404,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "칼로리 계산기",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -417,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "통화 변환기",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -430,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "윤년 확인기",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -443,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "날씨 채널",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -456,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "출산 예정일 계산기",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -469,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "혈중 알코올 농도 (BAC) 계산기",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -482,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/",
         "title": "별자리 계산기",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -495,12 +481,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "포모도로 타이머",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "포모도로 타이머 | 집중 & 공부 타이머 도구로 생산성 향상",
-        "meta_description": "생산성을 높이는 무료 포모도로 타이머입니다. 25/5분 간격, 집중 음악, 추적 기능을 사용자 지정할 수 있습니다. 일, 공부, 집중에 완벽합니다. 지금 사용하세요!",
+        "meta_description": "생산성을 높이는 무료 포모도로 타이머입니다. 25\/5분 간격, 집중 음악, 추적 기능을 사용자 지정할 수 있습니다. 일, 공부, 집중에 완벽합니다. 지금 사용하세요!",
         "meta_keyword": "포모도로 타이머, 포모도로 기법, 집중 타이머, 생산성 타이머, 토마토 타이머, 공부 타이머, 일 타이머, 시간 관리 도구, 25분 타이머, 포모도로 추적기, 포모도로 앱, 집중 기법, 생산성 방법, 휴식 타이머, 온라인 포모도로 타이머, 일 집중 타이머, 공부 집중 타이머, 시간 블록 도구, 포모도로 타이머 앱, 생산성 계산기, 최고 포모도로 타이머, 음악과 함께 포모도로 타이머, 온라인 집중 타이머, 포모도로 타이머와 플래너, 사용자 지정 타이머, 무료 포모도로 타이머, 디지털 포모도로, 웹 생산성 도구, 시간 관리 계산기, 일용 포모도로 타이머",
         "status": "1",
         "is_show": "1",
@@ -508,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "QR 코드 생성기",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -521,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "미분 계산기",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -534,7 +520,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/",
         "title": "로그 계산기",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -546,8 +532,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "러닝 페이스 계산기",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "러닝 페이스 계산기: 오늘 레이스 페이스를 향상시키세요",
+        "meta_description": "러닝 페이스를 정확히 계산하고 러닝 속도를 페이스로 쉽게 변환하는 최고의 러닝 페이스 계산기로 훈련을 개선하세요!",
+        "meta_keyword": "러닝 페이스 계산기, 페이스 계산기, 마라톤 페이스 계산기, 레이스 페이스 계산기, 러닝 속도 계산기, 러닝 페이스 정확히 계산, 훈련을 위한 최고의 러닝 페이스 계산기, 속도를 페이스로 쉽게 변환, 다양한 거리의 러닝 페이스 차트, 최적의 러닝 페이스 찾기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "공학 계산기",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -560,12 +559,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "전력 계산기",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "전력 계산기 - AC/DC 전력, 전압 및 전류",
-        "meta_description": "AC/DC 회로용 무료 전력 계산기. 옴의 법칙을 사용하여 전력, 전압, 전류, 저항을 계산하세요. 단상, 삼상 계산을 즉시 지원합니다.",
+        "meta_title": "전력 계산기 - AC\/DC 전력, 전압 및 전류",
+        "meta_description": "AC\/DC 회로용 무료 전력 계산기. 옴의 법칙을 사용하여 전력, 전압, 전류, 저항을 계산하세요. 단상, 삼상 계산을 즉시 지원합니다.",
         "meta_keyword": "전력 계산기, 전력 계산, 전압 계산기, 전류 계산기, 옴의 법칙 계산기, AC 전력 계산기, DC 전력 계산기, 삼상 전력 계산기, 단상 전력, 전기 공학 계산기, 와트 계산기, 암페어 계산기, 저항 계산기, 전기 회로 계산기, 전력 소비 계산기, 킬로와트 계산기, 전기 부하 계산기",
         "status": "1",
         "is_show": "1",
@@ -573,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "저항 계산기",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -586,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "힘 계산기",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -599,33 +598,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "속도 계산기",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "속도 계산기 - 속도 거리 시간 도구",
-        "meta_description": "3가지 방법의 무료 속도 계산기: 기본 v=d/t, 가속도, 평균 속도. 단위 변환으로 속도, 거리, 시간을 계산하세요.",
-        "meta_keyword": "속도 계산기, 속도 계산기, 거리 계산기, 시간 계산기, 물리학 계산기, 가속도 계산기, 평균 속도, 속도 공식, 속도 거리 시간, v=d/t 계산기, 운동학 계산기, 운동 계산기, 물리학 도구, 온라인 계산기, 무료 계산기, 속도 단위 변환기, m/s km/h mph 변환기, 물리학 숙제 도움, 속도 해결사",
+        "meta_description": "3가지 방법의 무료 속도 계산기: 기본 v=d\/t, 가속도, 평균 속도. 단위 변환으로 속도, 거리, 시간을 계산하세요.",
+        "meta_keyword": "속도 계산기, 속도 계산기, 거리 계산기, 시간 계산기, 물리학 계산기, 가속도 계산기, 평균 속도, 속도 공식, 속도 거리 시간, v=d\/t 계산기, 운동학 계산기, 운동 계산기, 물리학 도구, 온라인 계산기, 무료 계산기, 속도 단위 변환기, m\/s km\/h mph 변환기, 물리학 숙제 도움, 속도 해결사",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "압력 계산기",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "압력 계산기 - 단위 변환 및 P=F/A 계산 온라인",
-        "meta_description": "무료 온라인 압력 계산기 단위 변환기, 기본 압력 (P=F/A), 정수압 및 게이지 vs 절대압 계산. Pa, psi, bar 즉시 변환.",
-        "meta_keyword": "압력 계산기, 압력 변환기, 압력 단위, 파스칼 변환기, psi 계산기, bar 변환기, 압력 공식 계산기, 정수압, 게이지압, 절대압, P=F/A 계산기, 압력 변환 도구, 온라인 압력 계산기, 압력 단위 변환기, 압력 힘 면적, 유체 압력 계산기, 대기압 변환기, 진공 압력 계산기",
+        "meta_title": "압력 계산기 - 단위 변환 및 P=F\/A 계산 온라인",
+        "meta_description": "무료 온라인 압력 계산기 단위 변환기, 기본 압력 (P=F\/A), 정수압 및 게이지 vs 절대압 계산. Pa, psi, bar 즉시 변환.",
+        "meta_keyword": "압력 계산기, 압력 변환기, 압력 단위, 파스칼 변환기, psi 계산기, bar 변환기, 압력 공식 계산기, 정수압, 게이지압, 절대압, P=F\/A 계산기, 압력 변환 도구, 온라인 압력 계산기, 압력 단위 변환기, 압력 힘 면적, 유체 압력 계산기, 대기압 변환기, 진공 압력 계산기",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "토크 계산기",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -638,7 +637,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "재료 강도 계산기",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -651,7 +650,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "온도 계산기",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -664,7 +663,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "공차 계산기",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -677,7 +676,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "공진 주파수 계산기",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -690,7 +689,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "정전용량 계산기",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -703,7 +702,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "코일 계산기",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -716,20 +715,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "전류 계산기",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "전류 계산기 - 옴의 법칙, 전압 & 전력 | 무료 도구",
-        "meta_description": "3가지 방법을 제공하는 무료 전류 계산기: 옴의 법칙 (I=V/R), 전력 공식. 전압, 저항, 전력으로부터 전류를 즉시 온라인 계산.",
-        "meta_keyword": "전류 계산기, 전기 전류 계산기, 옴의 법칙 계산기, 전압 전류 계산기, 전력 전류 계산기, 온라인 전류 계산, 전기공학 계산기, 전류 계산기 옴의 법칙, I=V/R 계산기, 암페어 계산기, 전기 회로 계산기, 전류 계산 도구, 무료 전류 계산기, 온라인 전기 계산기, 전기 전류 공식, 전압 저항에서 전류, 전력 전압에서 전류, 전력 저항에서 전류, 온라인 전기 도구, 전자 계산기, 전기공학 도구, 회로 분석 계산기, 전기 계산, 암페어수 계산기, 전기 전류 계산기, 무료 온라인 전류 계산기, 전압 전류 변환기, 저항 전류 계산기, 전력 전류 계산기, 전기 공식 계산기, 전류 밀도 계산기, AC 전류 계산기, DC 전류 계산기, 전기 측정 계산기",
+        "meta_description": "3가지 방법을 제공하는 무료 전류 계산기: 옴의 법칙 (I=V\/R), 전력 공식. 전압, 저항, 전력으로부터 전류를 즉시 온라인 계산.",
+        "meta_keyword": "전류 계산기, 전기 전류 계산기, 옴의 법칙 계산기, 전압 전류 계산기, 전력 전류 계산기, 온라인 전류 계산, 전기공학 계산기, 전류 계산기 옴의 법칙, I=V\/R 계산기, 암페어 계산기, 전기 회로 계산기, 전류 계산 도구, 무료 전류 계산기, 온라인 전기 계산기, 전기 전류 공식, 전압 저항에서 전류, 전력 전압에서 전류, 전력 저항에서 전류, 온라인 전기 도구, 전자 계산기, 전기공학 도구, 회로 분석 계산기, 전기 계산, 암페어수 계산기, 전기 전류 계산기, 무료 온라인 전류 계산기, 전압 전류 변환기, 저항 전류 계산기, 전력 전류 계산기, 전기 공식 계산기, 전류 밀도 계산기, AC 전류 계산기, DC 전류 계산기, 전기 측정 계산기",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "교육 계산기",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,13 +739,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "금융 계산기",
-        "인기 교육 계산기 목록"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "GPA 계산기 (학점 평균)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -758,8 +753,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "학습 시간 계산기",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "학습 시간 계산기 | 집중력과 효율성 추적",
+        "meta_description": "효과적인 학습 시간, 휴식, 산만함, 집중 품질을 추적하는 무료 학습 시간 계산기. 포모도로 기법으로 세션을 최적화하세요!",
+        "meta_keyword": "학습 시간 계산기, 효과적인 학습 시간, 학습 효율성 계산기, 학습 생산성 추적기, 학습 세션 계산기, 집중 시간 계산기, 학업 생산성 도구, 학생 시간 관리, 효과적인 학습 시간 계산 방법, 학습 생산성 계산기 온라인 무료, 학습 효율성과 집중 품질 추적, 포모도로 타이머, 학습 계획자, 시간 관리 도구, 집중력 추적기, 학습 분석, 학습 습관 추적기, 생산성 계산기, 학업 성과 추적기, 집중력 측정 도구, 학습 최적화 계산기, 실제 대 총 학습 시간 계산, 집중 평가가 있는 학습 휴식 계산기, 포모도로 학습 시간 추적기 온라인, 학생 생산성 분석 도구 무료, 학습 세션 효율성 계산기, 학습 산만함 시간 계산기, 학업 시간 관리 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "학자금 대출 계산기",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -772,7 +780,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "교육비 계산기",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -785,20 +793,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "프로그램 완료 시간 계산기",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "완료 시간 계산기 - 프로젝트 타임라인 도구",
-        "meta_description": "팀 효율성, 버퍼 계획 및 PDF 보고서로 정확한 프로젝트 완료 시간을 계산하세요. 프로젝트 매니저를 위한 무료 도구로 마감일을 추정하세요.",
-        "meta_keyword": "프로그램 완료 시간 계산기, 프로젝트 완료 계산기, 프로젝트 타임라인 계산기, 프로젝트 마감일 계산기, 완료 시간 추정기, 프로젝트 기간 계산기, 팀 효율성 계산기, 프로젝트 계획 도구, 프로젝트 관리 계산기, 완료 시간 추정, 프로젝트 타임라인 도구, 작업 완료 계산기, 작업 완료 시간, 프로젝트 일정 계산기, 마감일 추정 도구, 프로젝트 시간 계산기, 완료 날짜 계산기, 프로젝트 계획 계산기, 프로그램 타임라인 계산기, 프로젝트 추정 도구, 완료 시간 추적기, 프로젝트 완료 추정기, 팀 생산성 계산기, 프로젝트 버퍼 계산기, 완료 시간 계획기, 프로젝트 마감일 계획기, 프로그램 완료 도구, 프로젝트 시간 추정, 완료 타임라인 계산기, 프로젝트 완료 계획, 마감일 계산 도구, 프로젝트 시간 추적기, 완료 날짜 추정기, 프로젝트 일정 도구, 프로그램 마감일 계산기, 프로젝트 완료 추적기, 팀 완료 계산기, 프로젝트 타임라인 추정기, 완료 시간 분석, 프로젝트 기간 추정기, 프로그램 완료 추정기, 프로젝트 완료 타임라인, 마감일 계획 도구, 완료 시간 계획, 프로젝트 시간 계획기, 프로그램 타임라인 도구, 프로젝트 완료 분석, 팀 효율성 계획기, 프로젝트 마감일 추적기, 완료 계산기 온라인, 프로젝트 시간 관리, 프로그램 완료 계획, 프로젝트 완료 도구, 마감일 계산기 무료",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "프로그램 완료 시간 계산기",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -811,7 +806,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "언어 숙련도 계산기",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

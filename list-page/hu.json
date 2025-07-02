@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "Pénzügyi Számológépek",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "Teljes Pénzügyi Számológép Gyűjtemény Számodra",
-        "meta_description": "Fedezd fel a pénzügyi számológépek teljes gyűjteményét, amelyek segítenek költségvetések, hitelek, befektetések és még sok más kezelésében, egyetlen kényelmes eszközben.",
-        "meta_keyword": "Lakáshitel Kalkulátor, Hitelkalkulátor, Kamatos Kamat Kalkulátor, Nyugdíjkalkulátor, Befektetési Kalkulátor",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "Matematikai Számológépek",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Matematikai számológépek minden matematikai igényedhez",
-        "meta_description": "Egy matematikai számológép eszközöket kínál aritmetika, algebra, kalkulus és egyebek megoldására, gyorsabbá és egyszerűbbé téve az összetett számításokat.",
-        "meta_keyword": "Online Matematikai Számológép, Tudományos Számológép Eszközök, Online Grafikus Számológép, Legjobb Matematikai Számológép Alkalmazás, Haladó Matematikai Számológép Funkciók",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "Egyéb Számológépek",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Hasznos számológépek gyűjteménye",
-        "meta_description": "Fedezd fel az egyéb hasznos számológépek gyűjteményét, amelyek gyors és pontos számítások elvégzésére szolgálnak különböző területeken.",
-        "meta_keyword": "Hasznos Számológépek Gyűjteménye, Egyéb Számológép Eszközök, Sokoldalú Számítási Eszközök, Online Számológépek Változatai, Népszerű Számítási Eszközök",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Lakáshitel Kalkulátor",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Hitel Amortizációs Kalkulátor",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Törlesztés Kalkulátor",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "Kamat Kalkulátor",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,47 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Halasztott Törlesztésű Hitel Kalkulátor",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Halasztott Törlesztésű Hitel Kalkulátor – Könnyű Becslés",
-        "meta_description": "Használd ingyenes halasztott törlesztésű hitel kalkulátorunkat amortizációval a havi törlesztések és kamatok becsléséhez a halasztási időszak után.",
-        "meta_keyword": "Halasztott Törlesztésű Hitel Kalkulátor, Hiteltörlesztés Kalkulátor, Halasztott Törlesztés Kalkulátor, Hitel Amortizációs Kalkulátor, Hitel Kamat Kalkulátor, Hogyan Számoljuk a Halasztott Törlesztésű Hitelt Online, Ingyenes Halasztott Törlesztésű Hitel Kalkulátor Amortizációval, Halasztott Hitel Kalkulátor Kamatokkal, Havi Törlesztések Számítása Halasztott Hitelnél, Halasztott Hitel Amortizációs Eszköz Új Hitelfelvevőknek",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Előre Megállapított Összegű Hitel Kalkulátor",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Előre Megállapított Összegű Hitel Kalkulátor – Törlesztések Becslése",
-        "meta_description": "Használd az Előre Megállapított Összegű Hitel Kalkulátorunkat, hogy megértsd, hogyan számold ki az előre meghatározott hitelek törlesztéseit, és könnyen becsüld meg a fix havi törlesztőrészleteket.",
-        "meta_keyword": "Előre Megállapított Összegű Hitel Kalkulátor, Előre Meghatározott Hitel, Hitelkalkulátor, Fix Hitel Kalkulátor, Törlesztőrészlet Kalkulátor, Hitel Amortizációs Kalkulátor, Online Előre Megállapított Összegű Hitel Kalkulátor, Hogyan Számoljuk az Előre Meghatározott Hitel Törlesztéseit, Havi Törlesztés Kalkulátor Fix Hitelösszeghez, Ingyenes Előre Meghatározott Hitel Amortizációs Kalkulátor, Havi Törlesztések Becslése Előre Meghatározott Hitelnél, Egyszerű Kalkulátor Fix Összegű Hitelhez, Amortizációs Táblázat Előre Meghatározott Hitelhez",
-        "status": "1",
-        "is_show": "0",
-        "orders": "10000"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "Tudományos Számológép",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Ingyenes Online Tudományos Számológép",
-        "meta_description": "Fedezd fel ingyenes online tudományos számológépünket matematikához, mérnöki számításokhoz, törtekhez és logaritmusokhoz. Könnyen használható, pontos, tökéletes diákoknak!",
-        "meta_keyword": "Tudományos Számológép, Online Számológép, Ingyenes Számológép, Matematikai Számológép, Haladó Számológép, Számológép Eszköz, Tört Számológép, Logaritmus Számológép, Mérnöki Számológép, Diák Számológép",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Százalék Kalkulátor",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -144,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Kerület Kalkulátor",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -157,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "Terület Kalkulátor",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -169,8 +91,72 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Halasztott Fizetésű Kölcsön Kalkulátor",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Halasztott Kölcsön Kalkulátor - Könnyű Becslés",
+        "meta_description": "Használja ingyenes halasztott fizetésű kölcsön kalkulátorunkat amortizációval a havi törlesztések és kamatok becsléséhez a halasztási időszak után",
+        "meta_keyword": "halasztott fizetésű kölcsön kalkulátor, fizetési kölcsön kalkulátor, halasztott fizetés kalkulátor, kölcsön amortizáció kalkulátor, kölcsön kamat kalkulátor, hogyan számítsuk ki halasztott fizetésű kölcsön online, ingyenes halasztott fizetésű kölcsön kalkulátor amortizációval, halasztott kölcsön kalkulátor kamattal, havi törlesztések számítása halasztott kölcsön, visszafizetési eszköz halasztott kölcsön új hitelfelvevőknek",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Pénzügyi Számológépek",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "Teljes Pénzügyi Számológép Gyűjtemény Számodra",
+        "meta_description": "Fedezd fel a pénzügyi számológépek teljes gyűjteményét, amelyek segítenek költségvetések, hitelek, befektetések és még sok más kezelésében, egyetlen kényelmes eszközben.",
+        "meta_keyword": "Lakáshitel Kalkulátor, Hitelkalkulátor, Kamatos Kamat Kalkulátor, Nyugdíjkalkulátor, Befektetési Kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "Matematikai Számológépek",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Matematikai számológépek minden matematikai igényedhez",
+        "meta_description": "Egy matematikai számológép eszközöket kínál aritmetika, algebra, kalkulus és egyebek megoldására, gyorsabbá és egyszerűbbé téve az összetett számításokat.",
+        "meta_keyword": "Online Matematikai Számológép, Tudományos Számológép Eszközök, Online Grafikus Számológép, Legjobb Matematikai Számológép Alkalmazás, Haladó Matematikai Számológép Funkciók",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Előre Megállapított Összegű Hitel Kalkulátor",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Előre Megállapított Összegű Hitel Kalkulátor – Törlesztések Becslése",
+        "meta_description": "Használd az Előre Megállapított Összegű Hitel Kalkulátorunkat, hogy megértsd, hogyan számold ki az előre meghatározott hitelek törlesztéseit, és könnyen becsüld meg a fix havi törlesztőrészleteket.",
+        "meta_keyword": "Előre Megállapított Összegű Hitel Kalkulátor, Előre Meghatározott Hitel, Hitelkalkulátor, Fix Hitel Kalkulátor, Törlesztőrészlet Kalkulátor, Hitel Amortizációs Kalkulátor, Online Előre Megállapított Összegű Hitel Kalkulátor, Hogyan Számoljuk az Előre Meghatározott Hitel Törlesztéseit, Havi Törlesztés Kalkulátor Fix Hitelösszeghez, Ingyenes Előre Meghatározott Hitel Amortizációs Kalkulátor, Havi Törlesztések Becslése Előre Meghatározott Hitelnél, Egyszerű Kalkulátor Fix Összegű Hitelhez, Amortizációs Táblázat Előre Meghatározott Hitelhez",
+        "status": "1",
+        "is_show": "0",
+        "orders": "10000"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Tudományos Számológép",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Ingyenes Online Tudományos Számológép",
+        "meta_description": "Fedezd fel ingyenes online tudományos számológépünket matematikához, mérnöki számításokhoz, törtekhez és logaritmusokhoz. Könnyen használható, pontos, tökéletes diákoknak!",
+        "meta_keyword": "Tudományos Számológép, Online Számológép, Ingyenes Számológép, Matematikai Számológép, Haladó Számológép, Számológép Eszköz, Tört Számológép, Logaritmus Számológép, Mérnöki Számológép, Diák Számológép",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "Térfogat Kalkulátor",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -182,8 +168,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "Egyéb Számológépek",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Hasznos számológépek gyűjteménye",
+        "meta_description": "Fedezd fel az egyéb hasznos számológépek gyűjteményét, amelyek gyors és pontos számítások elvégzésére szolgálnak különböző területeken.",
+        "meta_keyword": "Hasznos Számológépek Gyűjteménye, Egyéb Számológép Eszközök, Sokoldalú Számítási Eszközök, Online Számológépek Változatai, Népszerű Számítási Eszközök",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "Életkor Kalkulátor",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -196,12 +195,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "Dátum Kalkulátor",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Dátum Kalkulátor: Napok Két Dátum Között & Dátumok Összeadása/Kivonása",
-        "meta_description": "Ingyenes Dátum Kalkulátor: Számold ki a napokat két dátum között, vagy adj hozzá/vonj ki dátumokat könnyen. Próbáld ki online dátumkülönbség kalkulátorunkat gyors és pontos eredményekért!",
+        "meta_title": "Dátum Kalkulátor: Napok Két Dátum Között & Dátumok Összeadása\/Kivonása",
+        "meta_description": "Ingyenes Dátum Kalkulátor: Számold ki a napokat két dátum között, vagy adj hozzá\/vonj ki dátumokat könnyen. Próbáld ki online dátumkülönbség kalkulátorunkat gyors és pontos eredményekért!",
         "meta_keyword": "Dátum Kalkulátor, Napok Számítása Két Dátum Között, Dátumkülönbség Kalkulátor, Napok Két Dátum Között Kalkulátor, Napok Két Dátum Között, Dátum Összeadás és Kivonás Kalkulátor, Dátum Összeadás és Kivonás",
         "status": "1",
         "is_show": "1",
@@ -209,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "Idő Kalkulátor",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -222,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "Óra Kalkulátor",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -235,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Tört Kalkulátor",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -248,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Vegyes Szám Kalkulátor",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -261,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Egészség és Fitnesz Számológépek",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -274,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "BMI Kalkulátor",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -287,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "BMR Kalkulátor",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -300,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Testzsír Százalék Kalkulátor",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -313,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "Mértékegység Átváltó",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -326,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Prímszám Kalkulátor",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -339,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "Visszaszámláló Időzítő",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -352,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Jelszó Generátor",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,21 +363,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "Futási Tempó Kalkulátor",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Futási Tempó Kalkulátor: Javítsd Futási Tempódat Ma",
-        "meta_description": "Tanuld meg, hogyan számold ki pontosan a futási tempót, és alakítsd át a futási sebességet tempóvá könnyen a legjobb futási tempó kalkulátorunkkal edzéshez.",
-        "meta_keyword": "Futási Tempó Kalkulátor, Tempó Kalkulátor, Maratoni Tempó Kalkulátor, Futási Tempó Kalkulátor, Futási Sebesség Kalkulátor, Futási Tempó Pontos Számítása, Legjobb Futási Tempó Kalkulátor Edzéshez, Sebesség Tempóvá Alakítása Könnyen, Futási Tempó Táblázat Különböző Távolságokhoz, Találd meg az optimális futási tempódat",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "TDEE Kalkulátor",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -391,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Adatátváltó",
         "slug": "data-storage",
         "parent_id": "15",
@@ -404,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Kalóriakalkulátor",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -417,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "Pénzváltó",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -430,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Szökőév Ellenőrző",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -443,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculatorscloud/weather-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculatorscloud\/weather-calculator.jpg",
         "title": "Időjárás Csatorna",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -456,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Szülés Terminusz Kalkulátor",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -469,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/blood-alcohol-content-calculator.jpg",
         "title": "Véralkohol Szint (VAS) Kalkulátor",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -482,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Horoszkóp Kalkulátor",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -495,12 +481,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/pomodoro-timer.jpg",
         "title": "Pomodoro Időmérő",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Pomodoro Időmérő | Növeld Produktivitásodat a Fókusz és Tanulási Időmérő Eszközzel",
-        "meta_description": "Ingyenes Pomodoro időmérő a produktivitás növeléséhez. Testreszabható 25/5 perces intervallumok, fókusz zene és nyomon követési funkciók. Tökéletes munkához, tanuláshoz és koncentrációhoz. Próbáld ki most!",
+        "meta_description": "Ingyenes Pomodoro időmérő a produktivitás növeléséhez. Testreszabható 25\/5 perces intervallumok, fókusz zene és nyomon követési funkciók. Tökéletes munkához, tanuláshoz és koncentrációhoz. Próbáld ki most!",
         "meta_keyword": "Pomodoro Időmérő, Pomodoro Technika, Fókusz Időmérő, Produktivitás Időmérő, Paradicsom Időmérő, Tanulási Időmérő, Munka Időmérő, Időgazdálkodási Eszköz, 25 Perces Időmérő, Pomodoro Nyomon Követő, Pomodoro Alkalmazás, Fókusz Technika, Produktivitási Módszer, Szünet Időmérő, Online Pomodoro Időmérő, Munka Fókusz Időmérő, Tanulási Fókusz Időmérő, Időblokkolási Eszköz, Pomodoro Időmérő Alkalmazás, Produktivitás Kalkulátor, Legjobb Pomodoro Időmérő, Pomodoro Időmérő Zenével, Online Fókusz Időmérő, Pomodoro Időmérő és Tervező, Testreszabható Időmérő, Ingyenes Pomodoro Időmérő, Digitális Pomodoro, Web Produktivitási Eszköz, Időgazdálkodási Kalkulátor, Pomodoro Időmérő Munkához",
         "status": "1",
         "is_show": "1",
@@ -508,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/qr-code-generator.jpg",
         "title": "QR Kód Generátor",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -521,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/derivative-calculator-2.jpg",
         "title": "Derivált Kalkulátor",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -534,7 +520,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/master/upload/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/master\/upload\/logarithm-calculator.jpg",
         "title": "Logaritmus Kalkulátor",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -546,8 +532,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Futási Tempó Kalkulátor",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Futási Tempó Kalkulátor: Javítsd Futási Tempódat Ma",
+        "meta_description": "Tanuld meg, hogyan számold ki pontosan a futási tempót, és alakítsd át a futási sebességet tempóvá könnyen a legjobb futási tempó kalkulátorunkkal edzéshez.",
+        "meta_keyword": "Futási Tempó Kalkulátor, Tempó Kalkulátor, Maratoni Tempó Kalkulátor, Futási Tempó Kalkulátor, Futási Sebesség Kalkulátor, Futási Tempó Pontos Számítása, Legjobb Futási Tempó Kalkulátor Edzéshez, Sebesség Tempóvá Alakítása Könnyen, Futási Tempó Táblázat Különböző Távolságokhoz, Találd meg az optimális futási tempódat",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Mérnöki Számológépek",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -560,12 +559,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Elektromos Teljesítmény Számológép",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Elektromos Teljesítmény Számológép - AC/DC Teljesítmény, Feszültség és Áram",
-        "meta_description": "Ingyenes elektromos teljesítmény számológép AC/DC áramkörökhez. Számítsa ki a teljesítményt, feszültséget, áramot, ellenállást az Ohm-törvény használatával. Támogatja az egyfázisú, háromfázisú számításokat azonnal.",
+        "meta_title": "Elektromos Teljesítmény Számológép - AC\/DC Teljesítmény, Feszültség és Áram",
+        "meta_description": "Ingyenes elektromos teljesítmény számológép AC\/DC áramkörökhez. Számítsa ki a teljesítményt, feszültséget, áramot, ellenállást az Ohm-törvény használatával. Támogatja az egyfázisú, háromfázisú számításokat azonnal.",
         "meta_keyword": "elektromos teljesítmény számológép, teljesítményszámítás, feszültség számológép, áram számológép, ohm törvény számológép, AC teljesítmény számológép, DC teljesítmény számológép, háromfázisú teljesítmény számológép, egyfázisú teljesítmény, villamosmérnöki számológép, watt számológép, ampere számológép, ellenállás számológép, elektromos áramkör számológép, energiafogyasztás számológép, kilowatt számológép, elektromos terhelés számológép",
         "status": "1",
         "is_show": "1",
@@ -573,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Ellenállás Kalkulátor",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -586,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "Erő Számológép",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -599,33 +598,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Sebesség Kalkulátor",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Sebesség Kalkulátor - Sebesség Távolság Idő Eszköz",
-        "meta_description": "Ingyenes sebesség kalkulátor 3 módszerrel: alap v=d/t, gyorsulás és átlagsebesség. Számítson sebességet, távolságot, időt egység konverzióval.",
-        "meta_keyword": "sebesség kalkulátor, sebesség kalkulátor, távolság kalkulátor, idő kalkulátor, fizika kalkulátor, gyorsulás kalkulátor, átlagsebesség, sebesség képlet, sebesség távolság idő, v=d/t kalkulátor, kinematika kalkulátor, mozgás kalkulátor, fizika eszközök, online kalkulátor, ingyenes kalkulátor, sebesség egység konverter, m/s km/h mph konverter, fizika házi segítség, sebesség megoldó",
+        "meta_description": "Ingyenes sebesség kalkulátor 3 módszerrel: alap v=d\/t, gyorsulás és átlagsebesség. Számítson sebességet, távolságot, időt egység konverzióval.",
+        "meta_keyword": "sebesség kalkulátor, sebesség kalkulátor, távolság kalkulátor, idő kalkulátor, fizika kalkulátor, gyorsulás kalkulátor, átlagsebesség, sebesség képlet, sebesség távolság idő, v=d\/t kalkulátor, kinematika kalkulátor, mozgás kalkulátor, fizika eszközök, online kalkulátor, ingyenes kalkulátor, sebesség egység konverter, m\/s km\/h mph konverter, fizika házi segítség, sebesség megoldó",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Nyomás Kalkulátor",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Nyomás Kalkulátor - Egység Átváltás & P=F/A Számítás",
-        "meta_description": "Ingyenes online nyomás kalkulátor egység átváltóval, alap nyomás (P=F/A), hidrosztatikus és túlnyomás vs abszolút számítások. Pa, psi, bar átváltás azonnal.",
-        "meta_keyword": "nyomás kalkulátor, nyomás átváltó, nyomás egységek, pascal átváltó, psi kalkulátor, bar átváltó, nyomás képlet kalkulátor, hidrosztatikus nyomás, túlnyomás, abszolút nyomás, P=F/A kalkulátor, nyomás átváltó eszköz, online nyomás kalkulátor, nyomás egység átváltó, nyomás erő terület, folyadék nyomás kalkulátor, légköri nyomás átváltó, vákuum nyomás kalkulátor",
+        "meta_title": "Nyomás Kalkulátor - Egység Átváltás & P=F\/A Számítás",
+        "meta_description": "Ingyenes online nyomás kalkulátor egység átváltóval, alap nyomás (P=F\/A), hidrosztatikus és túlnyomás vs abszolút számítások. Pa, psi, bar átváltás azonnal.",
+        "meta_keyword": "nyomás kalkulátor, nyomás átváltó, nyomás egységek, pascal átváltó, psi kalkulátor, bar átváltó, nyomás képlet kalkulátor, hidrosztatikus nyomás, túlnyomás, abszolút nyomás, P=F\/A kalkulátor, nyomás átváltó eszköz, online nyomás kalkulátor, nyomás egység átváltó, nyomás erő terület, folyadék nyomás kalkulátor, légköri nyomás átváltó, vákuum nyomás kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Forgatónyomaték Kalkulátor",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -638,7 +637,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "Anyagszilárdsági Számológép",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -651,7 +650,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Hőmérséklet kalkulátor",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -664,7 +663,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "Tűrés Kalkulátor",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -677,7 +676,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Rezonancia frekvencia kalkulátor",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -690,7 +689,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Kapacitás kalkulátor",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -703,7 +702,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Tekercs Kalkulátor",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -716,20 +715,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Áram Kalkulátor",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Áram Kalkulátor - Ohm Törvény, Feszültség & Teljesítmény | Ingyenes",
-        "meta_description": "Ingyenes áram kalkulátor 3 módszerrel: Ohm törvénye (I=V/R), teljesítmény képletek. Számítsa ki az elektromos áramot feszültségből, ellenállásból, teljesítményből azonnal online.",
-        "meta_keyword": "áram kalkulátor, elektromos áram kalkulátor, ohm törvény kalkulátor, feszültség áram kalkulátor, teljesítmény áram kalkulátor, áram számítás online, villamosmérnöki kalkulátor, áram kalkulátor ohm törvény, I=V/R kalkulátor, amper kalkulátor, elektromos áramkör kalkulátor, áram számítási eszköz, ingyenes áram kalkulátor, online elektromos kalkulátor, elektromos áram képlet, áram feszültség ellenállásból, áram teljesítmény feszültségből, áram teljesítmény ellenállásból, elektromos eszközök online, elektronikai kalkulátor, villamosmérnöki eszközök, áramkör elemzési kalkulátor, elektromos számítás, amperázskalkulátor, elektromos áram kalkulátor, áram kalkulátor ingyenes online, feszültség áram átalakító, ellenállás áram kalkulátor, teljesítmény áram kalkulátor, elektromos képletek kalkulátor, áramsűrűség kalkulátor, AC áram kalkulátor, DC áram kalkulátor, elektromos mérések kalkulátor",
+        "meta_description": "Ingyenes áram kalkulátor 3 módszerrel: Ohm törvénye (I=V\/R), teljesítmény képletek. Számítsa ki az elektromos áramot feszültségből, ellenállásból, teljesítményből azonnal online.",
+        "meta_keyword": "áram kalkulátor, elektromos áram kalkulátor, ohm törvény kalkulátor, feszültség áram kalkulátor, teljesítmény áram kalkulátor, áram számítás online, villamosmérnöki kalkulátor, áram kalkulátor ohm törvény, I=V\/R kalkulátor, amper kalkulátor, elektromos áramkör kalkulátor, áram számítási eszköz, ingyenes áram kalkulátor, online elektromos kalkulátor, elektromos áram képlet, áram feszültség ellenállásból, áram teljesítmény feszültségből, áram teljesítmény ellenállásból, elektromos eszközök online, elektronikai kalkulátor, villamosmérnöki eszközök, áramkör elemzési kalkulátor, elektromos számítás, amperázskalkulátor, elektromos áram kalkulátor, áram kalkulátor ingyenes online, feszültség áram átalakító, ellenállás áram kalkulátor, teljesítmény áram kalkulátor, elektromos képletek kalkulátor, áramsűrűség kalkulátor, AC áram kalkulátor, DC áram kalkulátor, elektromos mérések kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Oktatási Kalkulátorok",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,13 +739,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "Pénzügyi Kalkulátorok",
-        "Népszerű oktatási kalkulátorok listája"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "GPA Számológép (Tanulmányi Átlag)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -758,8 +753,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "Tanulási Idő Kalkulátor",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Tanulási Idő Kalkulátor | Fókusz & Hatékonyság",
+        "meta_description": "Ingyenes tanulási idő kalkulátor a hatékony tanulási órák, szünetek, figyelemelterelések és fókusz minőség követésére. Optimalizáljon Pomodoro-val!",
+        "meta_keyword": "tanulási idő kalkulátor, hatékony tanulási idő, tanulási hatékonyság kalkulátor, tanulási produktivitás követő, tanulási munkamenet kalkulátor, fókusz idő kalkulátor, akadémiai produktivitás eszköz, diák időmenedzsment, hogyan számítsuk ki a hatékony tanulási időt, tanulási produktivitás kalkulátor online ingyen, tanulási hatékonyság és fókusz minőség követése, pomodoro időzítő, tanulási tervező, időmenedzsment eszköz, fókusz követő, tanulási analitika, tanulási szokások követő, produktivitás kalkulátor, akadémiai teljesítmény követő, koncentráció mérő eszköz, tanulási optimalizálás kalkulátor, valós vs teljes tanulási idő számítása, tanulási szünet kalkulátor fókusz értékeléssel, pomodoro tanulási idő követő online, diák produktivitás elemző eszköz ingyen, tanulási munkamenet hatékonyság kalkulátor, tanulási figyelemelterelés idő kalkulátor, akadémiai időmenedzsment kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Diákhitel Kalkulátor",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -772,7 +780,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Oktatási Költség Kalkulátor",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -785,20 +793,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "Program Befejezési Idő Kalkulátor",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "Befejezési Idő Kalkulátor - Projekt Timeline Eszköz",
-        "meta_description": "Számítsa ki a projekt befejezési időket pontosan csapat hatékonysággal, puffer tervezéssel és PDF jelentésekkel. Ingyenes eszköz projektmenedzsereknek.",
-        "meta_keyword": "program befejezési idő kalkulátor, projekt befejezési kalkulátor, projekt timeline kalkulátor, projekt határidő kalkulátor, befejezési idő becslő, projekt időtartam kalkulátor, csapat hatékonyság kalkulátor, projekt tervezési eszköz, projektmenedzsment kalkulátor, befejezési idő becslés, projekt timeline eszköz, munka befejezési kalkulátor, feladat befejezési idő, projekt ütemterv kalkulátor, határidő becslési eszköz, projekt idő kalkulátor, befejezési dátum kalkulátor, projekt tervezési kalkulátor, program timeline kalkulátor, projekt becslési eszköz, befejezési idő követő, projekt befejezési becslő, csapat produktivitási kalkulátor, projekt puffer kalkulátor, befejezési idő tervező, projekt határidő tervező, program befejezési eszköz, projekt idő becslés, befejezési timeline kalkulátor, projekt befejezési tervezés, határidő számítási eszköz, projekt idő követő, befejezési dátum becslő, projekt ütemezési eszköz, program határidő kalkulátor, projekt befejezési követő, csapat befejezési kalkulátor, projekt timeline becslő, befejezési idő elemzés, projekt időtartam becslő, program befejezési becslő, projekt befejezési timeline, határidő tervezési eszköz, befejezési idő tervezés, projekt idő tervező, program timeline eszköz, projekt befejezési elemzés, csapat hatékonyság tervező, projekt határidő követő, befejezési kalkulátor online, projekt időmenedzsment, program befejezési tervezés, projekt befejezési eszköz, határidő kalkulátor ingyenes",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Program Befejezési Idő Kalkulátor",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -811,7 +806,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Nyelvi Jártasság Kalkulátor",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

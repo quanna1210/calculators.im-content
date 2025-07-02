@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "Фінансові калькулятори",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "Повна колекція фінансових калькуляторів для вас",
-        "meta_description": "Ознайомтеся з повною колекцією фінансових калькуляторів, які допоможуть вам керувати бюджетом, кредитами, інвестиціями та багато іншим у зручному інструменті.",
-        "meta_keyword": "Калькулятор іпотеки, Калькулятор кредиту, Калькулятор складних відсотків, Калькулятор пенсійного забезпечення, Калькулятор інвестицій",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "Математичні калькулятори",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Математичні калькулятори для всіх ваших потреб",
-        "meta_description": "Математичний калькулятор пропонує інструменти для вирішення завдань з арифметики, алгебри, обчислень тощо, спрощуючи складні розрахунки.",
-        "meta_keyword": "Онлайн математичний калькулятор, Наукові калькулятори, Графічний калькулятор онлайн, Найкращий додаток математичного калькулятора, Розширені функції математичного калькулятора",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "Інші калькулятори",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Колекція інших корисних калькуляторів",
-        "meta_description": "Відкрийте для себе колекцію інших корисних калькуляторів, призначених для швидкого та точного вирішення різноманітних розрахунків.",
-        "meta_keyword": "Колекція корисних калькуляторів, Інструменти інших калькуляторів, Універсальні інструменти для розрахунків, Різноманітні онлайн-калькулятори, Популярні інструменти для розрахунків",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Калькулятор іпотеки",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Калькулятор амортизації кредиту",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Калькулятор платежів",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "Калькулятор відсотків",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Калькулятор кредиту з відстрочкою платежу",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Калькулятор кредиту з відстрочкою платежу – Легко оцінюйте",
-        "meta_description": "Використовуйте наш безкоштовний калькулятор кредиту з відстрочкою платежу з амортизацією для оцінки щомісячних платежів та відсотків після періоду відстрочки.",
-        "meta_keyword": "Калькулятор кредиту з відстрочкою платежу, Калькулятор платежів за кредитом, Калькулятор відстрочки платежу, Калькулятор амортизації кредиту, Калькулятор відсотків за кредитом, Як обчислити кредит з відстрочкою платежу онлайн, Безкоштовний калькулятор кредиту з відстрочкою платежу з амортизацією, Калькулятор кредиту з відстрочкою з відсотками, Розрахунок щомісячних платежів за кредитом з відстрочкою, Інструмент погашення кредиту з відстрочкою для нових позичальників",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Калькулятор кредиту з фіксованою сумою",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Калькулятор кредиту з фіксованою сумою – Оцініть платежі",
-        "meta_description": "Використовуйте наш калькулятор кредиту з фіксованою сумою, щоб зрозуміти, як обчислити платежі за кредитом та оцінити щомісячні фіксовані виплати.",
-        "meta_keyword": "Калькулятор кредиту з фіксованою сумою, Фіксований кредит, Калькулятор кредиту, Калькулятор фіксованого кредиту, Калькулятор розстрочки, Калькулятор погашення кредиту, Онлайн-калькулятор кредиту з фіксованою сумою, Як обчислити платежі за кредитом з фіксованою сумою, Калькулятор щомісячних платежів за кредитом з фіксованою сумою, Безкоштовний калькулятор погашення кредиту з фіксованою сумою, Оцінка щомісячних платежів за кредитом з фіксованою сумою, Простий калькулятор для кредиту з фіксованою сумою, Графік амортизації для кредиту з фіксованою сумою",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "Науковий калькулятор",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Безкоштовний науковий калькулятор онлайн",
-        "meta_description": "Відкрийте для себе наш безкоштовний онлайн науковий калькулятор для математики, інженерії, дробів і логарифмів. Простий у використанні, точний, ідеальний для студентів!",
-        "meta_keyword": "Науковий калькулятор, Онлайн-калькулятор, Безкоштовний калькулятор, Математичний калькулятор, Розширений калькулятор, Інструмент калькулятора, Калькулятор дробів, Калькулятор логарифмів, Інженерний калькулятор, Студентський калькулятор",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Калькулятор відсотків",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Калькулятор периметру",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "Калькулятор площі",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Калькулятор Кредиту з Відстроченням Платежу",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Калькулятор Відстроченого Кредиту - Легка Оцінка",
+        "meta_description": "Використовуйте наш безкоштовний калькулятор кредиту з відстроченням платежу з амортизацією для оцінки щомісячних платежів та відсотків після періоду відстрочки",
+        "meta_keyword": "калькулятор кредит відстрочення платежу, калькулятор платежу кредиту, калькулятор відстроченого платежу, калькулятор амортизації кредиту, калькулятор відсотків кредиту, як розрахувати кредит відстрочення платежу онлайн, безкоштовний калькулятор кредиту відстрочення платежу з амортизацією, калькулятор відстроченого кредиту з відсотками, розрахувати щомісячні платежі відстроченого кредиту, інструмент погашення відстроченого кредиту для нових позичальників",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Фінансові калькулятори",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "Повна колекція фінансових калькуляторів для вас",
+        "meta_description": "Ознайомтеся з повною колекцією фінансових калькуляторів, які допоможуть вам керувати бюджетом, кредитами, інвестиціями та багато іншим у зручному інструменті.",
+        "meta_keyword": "Калькулятор іпотеки, Калькулятор кредиту, Калькулятор складних відсотків, Калькулятор пенсійного забезпечення, Калькулятор інвестицій",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "Математичні калькулятори",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Математичні калькулятори для всіх ваших потреб",
+        "meta_description": "Математичний калькулятор пропонує інструменти для вирішення завдань з арифметики, алгебри, обчислень тощо, спрощуючи складні розрахунки.",
+        "meta_keyword": "Онлайн математичний калькулятор, Наукові калькулятори, Графічний калькулятор онлайн, Найкращий додаток математичного калькулятора, Розширені функції математичного калькулятора",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Калькулятор кредиту з фіксованою сумою",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Калькулятор кредиту з фіксованою сумою – Оцініть платежі",
+        "meta_description": "Використовуйте наш калькулятор кредиту з фіксованою сумою, щоб зрозуміти, як обчислити платежі за кредитом та оцінити щомісячні фіксовані виплати.",
+        "meta_keyword": "Калькулятор кредиту з фіксованою сумою, Фіксований кредит, Калькулятор кредиту, Калькулятор фіксованого кредиту, Калькулятор розстрочки, Калькулятор погашення кредиту, Онлайн-калькулятор кредиту з фіксованою сумою, Як обчислити платежі за кредитом з фіксованою сумою, Калькулятор щомісячних платежів за кредитом з фіксованою сумою, Безкоштовний калькулятор погашення кредиту з фіксованою сумою, Оцінка щомісячних платежів за кредитом з фіксованою сумою, Простий калькулятор для кредиту з фіксованою сумою, Графік амортизації для кредиту з фіксованою сумою",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Науковий калькулятор",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Безкоштовний науковий калькулятор онлайн",
+        "meta_description": "Відкрийте для себе наш безкоштовний онлайн науковий калькулятор для математики, інженерії, дробів і логарифмів. Простий у використанні, точний, ідеальний для студентів!",
+        "meta_keyword": "Науковий калькулятор, Онлайн-калькулятор, Безкоштовний калькулятор, Математичний калькулятор, Розширений калькулятор, Інструмент калькулятора, Калькулятор дробів, Калькулятор логарифмів, Інженерний калькулятор, Студентський калькулятор",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "Калькулятор об'єму",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "Інші калькулятори",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Колекція інших корисних калькуляторів",
+        "meta_description": "Відкрийте для себе колекцію інших корисних калькуляторів, призначених для швидкого та точного вирішення різноманітних розрахунків.",
+        "meta_keyword": "Колекція корисних калькуляторів, Інструменти інших калькуляторів, Універсальні інструменти для розрахунків, Різноманітні онлайн-калькулятори, Популярні інструменти для розрахунків",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "Калькулятор віку",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "Калькулятор дат",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Калькулятор дат: Дні між датами та додавання/віднімання дат",
-        "meta_description": "Безкоштовний калькулятор дат: обчислюйте дні між двома датами або додавайте/віднімайте дати легко. Спробуйте наш онлайн-калькулятор різниці дат для швидких і точних результатів!",
+        "meta_title": "Калькулятор дат: Дні між датами та додавання\/віднімання дат",
+        "meta_description": "Безкоштовний калькулятор дат: обчислюйте дні між двома датами або додавайте\/віднімайте дати легко. Спробуйте наш онлайн-калькулятор різниці дат для швидких і точних результатів!",
         "meta_keyword": "Калькулятор дат, Обчислити дні між двома датами, Калькулятор різниці дат, Калькулятор днів між датами, Додати та відняти дати",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "Калькулятор часу",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "Калькулятор годин",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Калькулятор дробів",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Калькулятор змішаних чисел",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Калькулятори здоров’я та фітнесу",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Калькулятор ІМТ",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Калькулятор BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Калькулятор відсотка жиру в тілі",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "Конвертер одиниць",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Калькулятор простих чисел",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "Таймер зворотного відліку",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Генератор паролів",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "Калькулятор темпу бігу",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Калькулятор темпу бігу: Покращте свій темп перегонів сьогодні",
-        "meta_description": "Дізнайтесь, як точно обчислити темп бігу та легко конвертувати швидкість бігу в темп за допомогою нашого найкращого калькулятора темпу бігу для тренувань!",
-        "meta_keyword": "Калькулятор темпу бігу, Калькулятор темпу, Калькулятор темпу марафону, Калькулятор темпу перегонів, Калькулятор швидкості бігу, Точно обчислити темп бігу, Найкращий калькулятор темпу бігу для тренувань, Легко конвертувати швидкість у темп, Таблиця темпу бігу для різних дистанцій, Знайти оптимальний темп бігу",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Калькулятор TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Конвертер даних",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Калькулятор калорій",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "Конвертер валют",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Перевірка високосного року",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "Погодний канал",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Калькулятор дати пологів",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Калькулятор вмісту алкоголю в крові (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Калькулятор знаків зодіаку",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Таймер Помодоро",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Таймер Помодоро | Підвищуйте продуктивність за допомогою таймера для фокусу та навчання",
-        "meta_description": "Безкоштовний таймер Помодоро для підвищення продуктивності. Налаштовувані інтервали 25/5 хвилин, музика для фокусу та функції відстеження. Ідеально для роботи, навчання та фокусу. Спробуйте зараз!",
+        "meta_description": "Безкоштовний таймер Помодоро для підвищення продуктивності. Налаштовувані інтервали 25\/5 хвилин, музика для фокусу та функції відстеження. Ідеально для роботи, навчання та фокусу. Спробуйте зараз!",
         "meta_keyword": "Таймер Помодоро, Техніка Помодоро, Таймер для фокусу, Таймер продуктивності, Томатний таймер, Таймер для навчання, Таймер для роботи, Інструмент управління часом, Таймер на 25 хвилин, Трекер Помодоро, Додаток Помодоро, Техніка фокусу, Метод продуктивності, Таймер перерви, Онлайн-таймер Помодоро, Таймер для фокусу на роботі, Таймер для фокусу на навчанні, Інструмент блокування часу, Додаток таймера Помодоро, Калькулятор продуктивності, Найкращий таймер Помодоро, Таймер Помодоро з музикою, Онлайн-таймер для фокусу, Таймер Помодоро та планувальник, Настроюваний таймер, Безкоштовний таймер Помодоро, Цифровий Помодоро, Веб-інструмент продуктивності, Калькулятор управління часом, Таймер Помодоро для роботи",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Генератор QR-кодів",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Калькулятор похідних",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Калькулятор логарифмів",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Калькулятор темпу бігу",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Калькулятор темпу бігу: Покращте свій темп перегонів сьогодні",
+        "meta_description": "Дізнайтесь, як точно обчислити темп бігу та легко конвертувати швидкість бігу в темп за допомогою нашого найкращого калькулятора темпу бігу для тренувань!",
+        "meta_keyword": "Калькулятор темпу бігу, Калькулятор темпу, Калькулятор темпу марафону, Калькулятор темпу перегонів, Калькулятор швидкості бігу, Точно обчислити темп бігу, Найкращий калькулятор темпу бігу для тренувань, Легко конвертувати швидкість у темп, Таблиця темпу бігу для різних дистанцій, Знайти оптимальний темп бігу",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Інженерні Калькулятори",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Калькулятор Електричної Потужності",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Калькулятор Електричної Потужності - Потужність AC/DC, Напруга і Струм",
-        "meta_description": "Безкоштовний калькулятор електричної потужності для схем AC/DC. Обчисліть потужність, напругу, струм, опір використовуючи закон Ома. Підтримує однофазні, трифазні обчислення миттєво.",
+        "meta_title": "Калькулятор Електричної Потужності - Потужність AC\/DC, Напруга і Струм",
+        "meta_description": "Безкоштовний калькулятор електричної потужності для схем AC\/DC. Обчисліть потужність, напругу, струм, опір використовуючи закон Ома. Підтримує однофазні, трифазні обчислення миттєво.",
         "meta_keyword": "калькулятор електричної потужності, розрахунок потужності, калькулятор напруги, калькулятор струму, калькулятор закону ома, калькулятор потужності AC, калькулятор потужності DC, калькулятор трифазної потужності, однофазна потужність, калькулятор електротехніки, калькулятор ватів, калькулятор ампер, калькулятор опору, калькулятор електричного кола, калькулятор споживання енергії, калькулятор кіловат, калькулятор електричного навантаження",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Калькулятор Опору",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "Калькулятор Сили",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Калькулятор Швидкості",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Калькулятор Швидкості - Інструмент Швидкість Відстань",
-        "meta_description": "Безкоштовний калькулятор швидкості з 3 методами: базовий v=d/t, прискорення та середня швидкість. Розрахуйте швидкість, відстань, час з конверсією одиниць.",
-        "meta_keyword": "калькулятор швидкості, калькулятор швидкості, калькулятор відстані, калькулятор часу, калькулятор фізики, калькулятор прискорення, середня швидкість, формула швидкості, швидкість відстань час, калькулятор v=d/t, калькулятор кінематики, калькулятор руху, інструменти фізики, онлайн калькулятор, безкоштовний калькулятор, конвертер одиниць швидкості, конвертер м/с км/год миль/год, допомога домашні завдання фізика, розв'язувач швидкості",
+        "meta_description": "Безкоштовний калькулятор швидкості з 3 методами: базовий v=d\/t, прискорення та середня швидкість. Розрахуйте швидкість, відстань, час з конверсією одиниць.",
+        "meta_keyword": "калькулятор швидкості, калькулятор швидкості, калькулятор відстані, калькулятор часу, калькулятор фізики, калькулятор прискорення, середня швидкість, формула швидкості, швидкість відстань час, калькулятор v=d\/t, калькулятор кінематики, калькулятор руху, інструменти фізики, онлайн калькулятор, безкоштовний калькулятор, конвертер одиниць швидкості, конвертер м\/с км\/год миль\/год, допомога домашні завдання фізика, розв'язувач швидкості",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Калькулятор Тиску",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Калькулятор Тиску - Перетворення Одиниць & Розрахунок P=F/A",
-        "meta_description": "Безкоштовний онлайн калькулятор тиску з конвертером одиниць, базовий тиск (P=F/A), гідростатичний та розрахунки манометричний vs абсолютний. Перетворення Pa, psi, bar.",
-        "meta_keyword": "калькулятор тиску, конвертер тиску, одиниці тиску, конвертер паскаль, калькулятор psi, конвертер бар, калькулятор формули тиску, гідростатичний тиск, манометричний тиск, абсолютний тиск, калькулятор P=F/A, інструмент перетворення тиску, онлайн калькулятор тиску, конвертер одиниць тиску, тиск сила площа, калькулятор тиску рідин, конвертер атмосферного тиску, калькулятор тиску вакууму",
+        "meta_title": "Калькулятор Тиску - Перетворення Одиниць & Розрахунок P=F\/A",
+        "meta_description": "Безкоштовний онлайн калькулятор тиску з конвертером одиниць, базовий тиск (P=F\/A), гідростатичний та розрахунки манометричний vs абсолютний. Перетворення Pa, psi, bar.",
+        "meta_keyword": "калькулятор тиску, конвертер тиску, одиниці тиску, конвертер паскаль, калькулятор psi, конвертер бар, калькулятор формули тиску, гідростатичний тиск, манометричний тиск, абсолютний тиск, калькулятор P=F\/A, інструмент перетворення тиску, онлайн калькулятор тиску, конвертер одиниць тиску, тиск сила площа, калькулятор тиску рідин, конвертер атмосферного тиску, калькулятор тиску вакууму",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Калькулятор Моменту",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "Калькулятор Міцності Матеріалів",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Калькулятор температури",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "Калькулятор Допусків",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Калькулятор резонансної частоти",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Калькулятор ємності",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Калькулятор Котушки",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Калькулятор Струму",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Калькулятор Струму - Закон Ома, Напруга & Потужність | Безкоштовно",
-        "meta_description": "Безкоштовний калькулятор струму з 3 методами: Закон Ома (I=V/R), формули потужності. Розрахуйте електричний струм з напруги, опору, потужності миттєво онлайн.",
-        "meta_keyword": "калькулятор струму, калькулятор електричного струму, калькулятор закону ома, калькулятор напруги струму, калькулятор потужності струму, розрахувати струм онлайн, калькулятор електротехніки, калькулятор струму закон ома, калькулятор I=V/R, калькулятор ампер, калькулятор електричного кола, інструмент розрахунку струму, безкоштовний калькулятор струму, онлайн електричний калькулятор, формула електричного струму, струм з напруги опору, струм з потужності напруги, струм з потужності опору, електричні інструменти онлайн, калькулятор електроніки, інструменти електротехніки, калькулятор аналізу кола, електричний розрахунок, калькулятор сили струму, калькулятор електричного струму, калькулятор струму безкоштовно онлайн, конвертер напруги в струм, калькулятор опору струму, калькулятор потужності в струм, калькулятор електричних формул, калькулятор густини струму, калькулятор струму AC, калькулятор струму DC, калькулятор електричних вимірювань",
+        "meta_description": "Безкоштовний калькулятор струму з 3 методами: Закон Ома (I=V\/R), формули потужності. Розрахуйте електричний струм з напруги, опору, потужності миттєво онлайн.",
+        "meta_keyword": "калькулятор струму, калькулятор електричного струму, калькулятор закону ома, калькулятор напруги струму, калькулятор потужності струму, розрахувати струм онлайн, калькулятор електротехніки, калькулятор струму закон ома, калькулятор I=V\/R, калькулятор ампер, калькулятор електричного кола, інструмент розрахунку струму, безкоштовний калькулятор струму, онлайн електричний калькулятор, формула електричного струму, струм з напруги опору, струм з потужності напруги, струм з потужності опору, електричні інструменти онлайн, калькулятор електроніки, інструменти електротехніки, калькулятор аналізу кола, електричний розрахунок, калькулятор сили струму, калькулятор електричного струму, калькулятор струму безкоштовно онлайн, конвертер напруги в струм, калькулятор опору струму, калькулятор потужності в струм, калькулятор електричних формул, калькулятор густини струму, калькулятор струму AC, калькулятор струму DC, калькулятор електричних вимірювань",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Освітні Калькулятори",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -738,13 +738,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "Фінансові Калькулятори",
-        "Список популярних освітніх калькуляторів"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "Калькулятор GPA (Середній Бал)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -756,8 +752,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "Калькулятор Часу Навчання",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Калькулятор Часу Навчання | Концентрація & Ефективність",
+        "meta_description": "Безкоштовний калькулятор часу навчання для відстеження ефективних годин, перерв, відволікань та якості концентрації. Оптимізуйте з Pomodoro!",
+        "meta_keyword": "калькулятор часу навчання, ефективний час навчання, калькулятор ефективності навчання, трекер продуктивності навчання, калькулятор сесії навчання, калькулятор часу концентрації, інструмент академічної продуктивності, управління часом студентів, як розрахувати ефективний час навчання, калькулятор продуктивності навчання онлайн безкоштовно, відстеження ефективності та якості концентрації навчання, таймер pomodoro, планувальник навчання, інструмент управління часом, трекер концентрації, аналітика навчання, трекер навчальних звичок, калькулятор продуктивності, трекер академічної продуктивності, інструмент вимірювання концентрації, калькулятор оптимізації навчання, розрахунок реального vs загального часу навчання, калькулятор часу перерви навчання з оцінкою концентрації, трекер часу навчання pomodoro онлайн, інструмент аналізу продуктивності студентів безкоштовно, калькулятор ефективності сесії навчання, калькулятор часу відволікання навчання, калькулятор управління академічним часом",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Калькулятор Студентської Позики",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -770,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Калькулятор Вартості Освіти",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -783,20 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "Калькулятор Часу Завершення Програми",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "Калькулятор Часу Завершення - Інструмент Timeline Проекту",
-        "meta_description": "Розрахуйте точні часи завершення проекту з ефективністю команди, плануванням буфера та PDF звітами. Безкоштовний інструмент для менеджерів.",
-        "meta_keyword": "калькулятор часу завершення програми, калькулятор завершення проекту, калькулятор timeline проекту, калькулятор терміну проекту, оцінювач часу завершення, калькулятор тривалості проекту, калькулятор ефективності команди, інструмент планування проекту, калькулятор управління проектом, оцінка часу завершення, інструмент timeline проекту, калькулятор завершення роботи, час завершення завдання, калькулятор розкладу проекту, інструмент оцінки терміну, калькулятор часу проекту, калькулятор дати завершення, калькулятор планування проекту, калькулятор timeline програми, інструмент оцінки проекту, відстеження часу завершення, оцінювач завершення проекту, калькулятор продуктивності команди, калькулятор буфера проекту, планувальник часу завершення, планувальник терміну проекту, інструмент завершення програми, оцінка часу проекту, калькулятор timeline завершення, планування завершення проекту, інструмент розрахунку терміну, відстеження часу проекту, оцінювач дати завершення, інструмент планування проекту, калькулятор терміну програми, відстеження завершення проекту, калькулятор завершення команди, оцінювач timeline проекту, аналіз часу завершення, оцінювач тривалості проекту, оцінювач завершення програми, timeline завершення проекту, інструмент планування терміну, планування часу завершення, планувальник часу проекту, інструмент timeline програми, аналіз завершення проекту, планувальник ефективності команди, відстеження терміну проекту, калькулятор завершення онлайн, управління часом проекту, планування завершення програми, інструмент завершення проекту, калькулятор терміну безкоштовно",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Калькулятор Часу Завершення Програми",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -809,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Калькулятор Мовної Компетентності",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",

@@ -1,46 +1,7 @@
 [
     {
-        "id": "9",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/financial-calculators.jpg",
-        "title": "Finanční kalkulačky",
-        "slug": "financial-calculators",
-        "parent_id": "0",
-        "meta_title": "Kompletní sbírka finančních kalkulaček pro vás",
-        "meta_description": "Objevte kompletní sbírku finančních kalkulaček, které vám pomohou spravovat rozpočty, půjčky, investice a další, vše v jednom praktickém nástroji.",
-        "meta_keyword": "Hypoteční kalkulačka, Kalkulačka půjček, Kalkulačka složeného úroku, Kalkulačka důchodu, Investiční kalkulačka",
-        "status": "1",
-        "is_show": "1",
-        "orders": "1"
-    },
-    {
-        "id": "10",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/math-calculators.jpg",
-        "title": "Matematické kalkulačky",
-        "slug": "math-calculators",
-        "parent_id": "0",
-        "meta_title": "Matematické kalkulačky pro všechny vaše potřeby",
-        "meta_description": "Matematická kalkulačka nabízí nástroje pro řešení aritmetiky, algebry, kalkulu a další, díky čemuž jsou složité výpočty rychlejší a snazší.",
-        "meta_keyword": "Online matematická kalkulačka, Vědecké kalkulačky, Grafická kalkulačka online, Nejlepší aplikace matematické kalkulačky, Pokročilé funkce matematické kalkulačky",
-        "status": "1",
-        "is_show": "1",
-        "orders": "3"
-    },
-    {
-        "id": "15",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/other-calculators.jpg",
-        "title": "Další kalkulačky",
-        "slug": "other-calculators",
-        "parent_id": "0",
-        "meta_title": "Sbírka dalších užitečných kalkulaček",
-        "meta_description": "Objevte sbírku dalších užitečných kalkulaček, navržených tak, aby vám pomohly rychle a přesně řešit různé výpočty.",
-        "meta_keyword": "Sbírka užitečných kalkulaček, Další nástroje kalkulaček, Všestranné výpočetní nástroje, Rozmanitost online kalkulaček, Populární výpočetní nástroje",
-        "status": "1",
-        "is_show": "1",
-        "orders": "4"
-    },
-    {
         "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mortgage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Hypoteční kalkulačka",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -53,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Kalkulačka amortizace půjček",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -66,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/payment-calculator.jpeg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Kalkulačka splátek",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -79,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/interest-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
         "title": "Kalkulačka úroků",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -91,45 +52,8 @@
         "orders": "10000"
     },
     {
-        "id": "1",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/deferred-payment-loan-calculator.jpg",
-        "title": "Kalkulačka půjček s odloženými platbami",
-        "slug": "deferred-payment-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Kalkulačka půjček s odloženými platbami – Snadný odhad",
-        "meta_description": "Použijte naši zdarma kalkulačku půjček s odloženými platbami s amortizací k odhadu měsíčních splátek a úroků po období odkladu.",
-        "meta_keyword": "Kalkulačka půjček s odloženými platbami, Kalkulačka splátek půjček, Kalkulačka odložených plateb, Amortizační kalkulačka půjček, Kalkulačka úroků půjček, Jak vypočítat půjčku s odloženými platbami online, Zdarma kalkulačka půjček s odloženými platbami s amortizací, Kalkulačka půjček s odloženými platbami s úroky, Vypočítat měsíční splátky na půjčku s odloženými platbami, Nástroj pro splácení půjček s odloženými platbami pro nové dlužníky",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "12",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/predetermined-amount-loan-calculator.jpeg",
-        "title": "Kalkulačka půjček s předem určenou částkou",
-        "slug": "predetermined-amount-loan-calculator",
-        "parent_id": "9",
-        "meta_title": "Kalkulačka půjček s předem určenou částkou – Odhadněte platby",
-        "meta_description": "Použijte naši kalkulačku půjček s předem určenou částkou, abyste pochopili, jak vypočítat platby půjček a snadno odhadnout vaše měsíční fixní splátky.",
-        "meta_keyword": "Kalkulačka půjček s předem určenou částkou, Předem určená půjčka, Kalkulačka půjček, Kalkulačka fixních půjček, Kalkulačka splátek, Kalkulačka splácení půjček, Online kalkulačka půjček s předem určenou částkou, Jak vypočítat platby půjček s předem určenou částkou, Kalkulačka měsíčních splátek pro fixní částku půjčky, Zdarma kalkulačka splácení půjček s předem určenou částkou, Odhad měsíčních splátek na půjčku s předem určenou částkou, Jednoduchá kalkulačka pro půjčku s fixní částkou, Amortizační plán pro půjčku s předem určenou částkou",
-        "status": "1",
-        "is_show": "0"
-    },
-    {
-        "id": "13",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/scientific-calculator.jpg",
-        "title": "Vědecká kalkulačka",
-        "slug": "scientific-calculator",
-        "parent_id": "10",
-        "meta_title": "Zdarma vědecká kalkulačka online",
-        "meta_description": "Objevte naši zdarma online vědeckou kalkulačku pro matematiku, inženýrství, zlomky a logaritmy. Snadno použitelná, přesná, ideální pro studenty!",
-        "meta_keyword": "Vědecká kalkulačka, Online kalkulačka, Zdarma kalkulačka, Matematická kalkulačka, Pokročilá kalkulačka, Nástroj kalkulačky, Kalkulačka zlomků, Kalkulačka logaritmů, Inženýrská kalkulačka, Studentská kalkulačka",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "5",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Kalkulačka procent",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -142,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/perimeter-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Kalkulačka obvodu",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -155,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/area-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
         "title": "Kalkulačka plochy",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -167,8 +91,71 @@
         "orders": "10000"
     },
     {
+        "id": "8",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "title": "Kalkulačka Půjčky s Odloženou Splátkou",
+        "slug": "deferred-payment-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulačka Odložené Půjčky - Snadný Odhad",
+        "meta_description": "Použijte naši bezplatnou kalkulačku půjčky s odloženou splátkou s amortizací pro odhad měsíčních plateb a úroků po období odkladu",
+        "meta_keyword": "kalkulačka půjčky s odloženou splátkou, kalkulačka splátky půjčky, kalkulačka odložené splátky, kalkulačka amortizace půjčky, kalkulačka úroku půjčky, jak vypočítat půjčku s odloženou splátkou online, bezplatná kalkulačka půjčky s odloženou splátkou s amortizací, kalkulačka odložené půjčky s úrokem, vypočítat měsíční platby odložené půjčky, nástroj splácení odložené půjčky pro nové dlužníky",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "9",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "title": "Finanční kalkulačky",
+        "slug": "financial-calculators",
+        "parent_id": "0",
+        "meta_title": "Kompletní sbírka finančních kalkulaček pro vás",
+        "meta_description": "Objevte kompletní sbírku finančních kalkulaček, které vám pomohou spravovat rozpočty, půjčky, investice a další, vše v jednom praktickém nástroji.",
+        "meta_keyword": "Hypoteční kalkulačka, Kalkulačka půjček, Kalkulačka složeného úroku, Kalkulačka důchodu, Investiční kalkulačka",
+        "status": "1",
+        "is_show": "1",
+        "orders": "1"
+    },
+    {
+        "id": "10",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "title": "Matematické kalkulačky",
+        "slug": "math-calculators",
+        "parent_id": "0",
+        "meta_title": "Matematické kalkulačky pro všechny vaše potřeby",
+        "meta_description": "Matematická kalkulačka nabízí nástroje pro řešení aritmetiky, algebry, kalkulu a další, díky čemuž jsou složité výpočty rychlejší a snazší.",
+        "meta_keyword": "Online matematická kalkulačka, Vědecké kalkulačky, Grafická kalkulačka online, Nejlepší aplikace matematické kalkulačky, Pokročilé funkce matematické kalkulačky",
+        "status": "1",
+        "is_show": "1",
+        "orders": "3"
+    },
+    {
+        "id": "12",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "title": "Kalkulačka půjček s předem určenou částkou",
+        "slug": "predetermined-amount-loan-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulačka půjček s předem určenou částkou – Odhadněte platby",
+        "meta_description": "Použijte naši kalkulačku půjček s předem určenou částkou, abyste pochopili, jak vypočítat platby půjček a snadno odhadnout vaše měsíční fixní splátky.",
+        "meta_keyword": "Kalkulačka půjček s předem určenou částkou, Předem určená půjčka, Kalkulačka půjček, Kalkulačka fixních půjček, Kalkulačka splátek, Kalkulačka splácení půjček, Online kalkulačka půjček s předem určenou částkou, Jak vypočítat platby půjček s předem určenou částkou, Kalkulačka měsíčních splátek pro fixní částku půjčky, Zdarma kalkulačka splácení půjček s předem určenou částkou, Odhad měsíčních splátek na půjčku s předem určenou částkou, Jednoduchá kalkulačka pro půjčku s fixní částkou, Amortizační plán pro půjčku s předem určenou částkou",
+        "status": "1",
+        "is_show": "0"
+    },
+    {
+        "id": "13",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "title": "Vědecká kalkulačka",
+        "slug": "scientific-calculator",
+        "parent_id": "10",
+        "meta_title": "Zdarma vědecká kalkulačka online",
+        "meta_description": "Objevte naši zdarma online vědeckou kalkulačku pro matematiku, inženýrství, zlomky a logaritmy. Snadno použitelná, přesná, ideální pro studenty!",
+        "meta_keyword": "Vědecká kalkulačka, Online kalkulačka, Zdarma kalkulačka, Matematická kalkulačka, Pokročilá kalkulačka, Nástroj kalkulačky, Kalkulačka zlomků, Kalkulačka logaritmů, Inženýrská kalkulačka, Studentská kalkulačka",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "14",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/volume-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
         "title": "Kalkulačka objemu",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -180,8 +167,21 @@
         "orders": "10000"
     },
     {
+        "id": "15",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "title": "Další kalkulačky",
+        "slug": "other-calculators",
+        "parent_id": "0",
+        "meta_title": "Sbírka dalších užitečných kalkulaček",
+        "meta_description": "Objevte sbírku dalších užitečných kalkulaček, navržených tak, aby vám pomohly rychle a přesně řešit různé výpočty.",
+        "meta_keyword": "Sbírka užitečných kalkulaček, Další nástroje kalkulaček, Všestranné výpočetní nástroje, Rozmanitost online kalkulaček, Populární výpočetní nástroje",
+        "status": "1",
+        "is_show": "1",
+        "orders": "4"
+    },
+    {
         "id": "16",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/age-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
         "title": "Kalkulačka věku",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
         "title": "Kalkulačka dat",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Kalkulačka dat: Dny mezi daty a přidání/odečtení dat",
-        "meta_description": "Zdarma kalkulačka dat: Vypočítejte dny mezi dvěma daty nebo snadno přidávejte/odečítejte data. Vyzkoušejte naši online kalkulačku rozdílu dat pro rychlé a přesné výsledky!",
+        "meta_title": "Kalkulačka dat: Dny mezi daty a přidání\/odečtení dat",
+        "meta_description": "Zdarma kalkulačka dat: Vypočítejte dny mezi dvěma daty nebo snadno přidávejte\/odečítejte data. Vyzkoušejte naši online kalkulačku rozdílu dat pro rychlé a přesné výsledky!",
         "meta_keyword": "Kalkulačka dat, Vypočítat dny mezi dvěma daty, Kalkulačka rozdílu dat, Kalkulačka dní mezi daty, Dny mezi daty, Kalkulačka přidání a odečtení dat, Přidat a odečíst datum",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/time-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
         "title": "Kalkulačka času",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/hours-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
         "title": "Kalkulačka hodin",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/fraction-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Kalkulačka zlomků",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Kalkulačka smíšených čísel",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Kalkulačky zdraví a fitness",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmi-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Kalkulačka BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/bmr-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Kalkulačka BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Kalkulačka procenta tělesného tuku",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/unit-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
         "title": "Převodník jednotek",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/prime-number-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Kalkulačka prvočísel",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/countdown-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
         "title": "Odpočítávací časovač",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Generátor hesel",
         "slug": "password-generator",
         "parent_id": "15",
@@ -362,21 +362,8 @@
         "orders": "10000"
     },
     {
-        "id": "43",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/running-pace-calculator.jpg",
-        "title": "Kalkulačka tempa běhu",
-        "slug": "running-pace-calculator",
-        "parent_id": "22",
-        "meta_title": "Kalkulačka tempa běhu: Zvyšte své závodní tempo ještě dnes",
-        "meta_description": "Naučte se přesně vypočítat tempo běhu a snadno převést rychlost běhu na tempo s naší nejlepší kalkulačkou tempa běhu pro trénink!",
-        "meta_keyword": "Kalkulačka tempa běhu, Kalkulačka tempa, Kalkulačka tempa maratonu, Kalkulačka závodního tempa, Kalkulačka rychlosti běhu, Přesně vypočítat tempo běhu, Nejlepší kalkulačka tempa běhu pro trénink, Snadno převést rychlost na tempo, Graf tempa běhu pro různé vzdálenosti, Najděte své optimální tempo běhu",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
         "id": "30",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/tdee-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Kalkulačka TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -389,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/data-storage-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Převodník dat",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -402,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/calorie-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Kalkulačka kalorií",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -415,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/currency-converter.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
         "title": "Převodník měn",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -428,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/leap-year-checker.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Kontrola přestupného roku",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -441,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/weather-channel.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
         "title": "Počasí",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -454,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Kalkulačka data porodu",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -467,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Kalkulačka hladiny alkoholu v krvi (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -480,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/zodiac-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Kalkulačka zvěrokruhu",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -493,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pomodoro-timer.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Pomodoro časovač",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Pomodoro časovač | Zvyšte produktivitu s časovačem pro soustředění a studium",
-        "meta_description": "Zdarma Pomodoro časovač pro zvýšení produktivity. Vlastní intervaly 25/5 minut, hudba pro soustředění a funkce sledování. Ideální pro práci, studium a soustředění. Vyzkoušejte nyní!",
+        "meta_description": "Zdarma Pomodoro časovač pro zvýšení produktivity. Vlastní intervaly 25\/5 minut, hudba pro soustředění a funkce sledování. Ideální pro práci, studium a soustředění. Vyzkoušejte nyní!",
         "meta_keyword": "Pomodoro časovač, Technika Pomodoro, Časovač pro soustředění, Časovač produktivity, Časovač tomato, Studijní časovač, Pracovní časovač, Nástroj pro správu času, Časovač 25 minut, Sledovač Pomodoro, Aplikace Pomodoro, Technika soustředění, Metoda produktivity, Časovač přestávek, Online Pomodoro časovač, Časovač pro soustředění při práci, Časovač pro soustředění při studiu, Nástroj pro blokování času, Aplikace Pomodoro časovače, Kalkulačka produktivity, Nejlepší Pomodoro časovač, Pomodoro časovač s hudbou, Online časovač pro soustředění, Pomodoro časovač a plánovač, Přizpůsobitelný časovač, Zdarma Pomodoro časovač, Digitální Pomodoro, Webový nástroj produktivity, Kalkulačka správy času, Pomodoro časovač pro práci",
         "status": "1",
         "is_show": "1",
@@ -506,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/qr-code-generator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Generátor QR kódů",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -519,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Kalkulačka derivací",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -532,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/logarithm-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Kalkulačka logaritmů",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -544,8 +531,21 @@
         "orders": "10000"
     },
     {
+        "id": "43",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "title": "Kalkulačka tempa běhu",
+        "slug": "running-pace-calculator",
+        "parent_id": "22",
+        "meta_title": "Kalkulačka tempa běhu: Zvyšte své závodní tempo ještě dnes",
+        "meta_description": "Naučte se přesně vypočítat tempo běhu a snadno převést rychlost běhu na tempo s naší nejlepší kalkulačkou tempa běhu pro trénink!",
+        "meta_keyword": "Kalkulačka tempa běhu, Kalkulačka tempa, Kalkulačka tempa maratonu, Kalkulačka závodního tempa, Kalkulačka rychlosti běhu, Přesně vypočítat tempo běhu, Nejlepší kalkulačka tempa běhu pro trénink, Snadno převést rychlost na tempo, Graf tempa běhu pro různé vzdálenosti, Najděte své optimální tempo běhu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "44",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/engineering-calculators.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Inženýrské Kalkulačky",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Kalkulačka Elektrického Výkonu",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Kalkulačka Elektrického Výkonu - AC/DC Výkon, Napětí & Proud",
-        "meta_description": "Bezplatná kalkulačka elektrického výkonu pro AC/DC obvody. Vypočítejte výkon, napětí, proud, odpor pomocí Ohmova zákona. Podporuje výpočty jednofázové, třífázové okamžitě.",
+        "meta_title": "Kalkulačka Elektrického Výkonu - AC\/DC Výkon, Napětí & Proud",
+        "meta_description": "Bezplatná kalkulačka elektrického výkonu pro AC\/DC obvody. Vypočítejte výkon, napětí, proud, odpor pomocí Ohmova zákona. Podporuje výpočty jednofázové, třífázové okamžitě.",
         "meta_keyword": "kalkulačka elektrického výkonu, výpočet výkonu, kalkulačka napětí, kalkulačka proudu, kalkulačka ohmova zákona, kalkulačka AC výkonu, kalkulačka DC výkonu, kalkulačka třífázového výkonu, jednofázový výkon, kalkulačka elektrotechniky, kalkulačka wattů, kalkulačka ampérů, kalkulačka odporu, kalkulačka elektrických obvodů, kalkulačka spotřeby energie, kalkulačka kilowattů, kalkulačka elektrického zatížení",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/resistance-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Kalkulátor odporu",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
         "title": "Kalkulačka Síly",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/force-calculator-2.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Kalkulačka rychlosti",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulačka rychlosti - nástroj pro rychlost a vzdálenost",
-        "meta_description": "Zdarma kalkulačka rychlosti se 3 metodami: základní v=d/t, zrychlení a průměrná rychlost. Vypočítejte rychlost, vzdálenost, čas s převodem jednotek.",
-        "meta_keyword": "kalkulačka rychlosti, kalkulačka rychlosti, kalkulačka vzdálenosti, kalkulačka času, kalkulačka fyziky, kalkulačka zrychlení, průměrná rychlost, vzorec rychlosti, rychlost vzdálenost čas, kalkulačka v=d/t, kalkulačka kinematiky, kalkulačka pohybu, nástroje fyziky, online kalkulačka, zdarma kalkulačka, převodník jednotek rychlosti, převodník m/s km/h mph, pomoc s fyzikou, řešič rychlosti",
+        "meta_description": "Zdarma kalkulačka rychlosti se 3 metodami: základní v=d\/t, zrychlení a průměrná rychlost. Vypočítejte rychlost, vzdálenost, čas s převodem jednotek.",
+        "meta_keyword": "kalkulačka rychlosti, kalkulačka rychlosti, kalkulačka vzdálenosti, kalkulačka času, kalkulačka fyziky, kalkulačka zrychlení, průměrná rychlost, vzorec rychlosti, rychlost vzdálenost čas, kalkulačka v=d\/t, kalkulačka kinematiky, kalkulačka pohybu, nástroje fyziky, online kalkulačka, zdarma kalkulačka, převodník jednotek rychlosti, převodník m\/s km\/h mph, pomoc s fyzikou, řešič rychlosti",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/velocity-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Kalkulačka Tlaku",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Kalkulačka Tlaku - Převod Jednotek & Výpočet P=F/A",
-        "meta_description": "Bezplatná online kalkulačka tlaku s převodníkem jednotek, základní tlak (P=F/A), hydrostatický a výpočty relativní vs absolutní. Převod Pa, psi, bar okamžitě.",
-        "meta_keyword": "kalkulačka tlaku, převodník tlaku, jednotky tlaku, převodník pascal, kalkulačka psi, převodník bar, kalkulačka vzorce tlaku, hydrostatický tlak, relativní tlak, absolutní tlak, kalkulačka P=F/A, nástroj převodu tlaku, online kalkulačka tlaku, převodník jednotek tlaku, tlak síla plocha, kalkulačka tlaku tekutin, převodník atmosférického tlaku, kalkulačka tlaku vakua",
+        "meta_title": "Kalkulačka Tlaku - Převod Jednotek & Výpočet P=F\/A",
+        "meta_description": "Bezplatná online kalkulačka tlaku s převodníkem jednotek, základní tlak (P=F\/A), hydrostatický a výpočty relativní vs absolutní. Převod Pa, psi, bar okamžitě.",
+        "meta_keyword": "kalkulačka tlaku, převodník tlaku, jednotky tlaku, převodník pascal, kalkulačka psi, převodník bar, kalkulačka vzorce tlaku, hydrostatický tlak, relativní tlak, absolutní tlak, kalkulačka P=F\/A, nástroj převodu tlaku, online kalkulačka tlaku, převodník jednotek tlaku, tlak síla plocha, kalkulačka tlaku tekutin, převodník atmosférického tlaku, kalkulačka tlaku vakua",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/pressure-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Kalkulačka Točivého Momentu",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https://cdn.statically.io/gh/quanna1210/calculators.im-content/refs/heads/master/upload/thumb/torque-calculator.jpg",
+        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
         "title": "Kalkulačka Pevnosti Materiálu",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
         "title": "Kalkulačka teploty",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
         "title": "Kalkulačka Tolerance",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
         "title": "Kalkulačka rezonanční frekvence",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
         "title": "Kalkulačka kapacity",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
         "title": "Kalkulačka Cívky",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
         "title": "Kalkulátor proudu",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Kalkulátor proudu - Ohmův zákon, napětí & výkon | Zdarma",
-        "meta_description": "Zdarma kalkulátor proudu se 3 metodami: Ohmův zákon (I=V/R), vzorce výkonu. Vypočítejte elektrický proud z napětí, odporu, výkonu okamžitě online.",
-        "meta_keyword": "kalkulátor proudu, kalkulátor elektrického proudu, kalkulátor ohmova zákona, kalkulátor napětí proudu, kalkulátor výkonu proudu, výpočet proudu online, kalkulátor elektrotechniky, kalkulátor proudu ohmův zákon, kalkulátor I=V/R, kalkulátor ampérů, kalkulátor elektrického obvodu, nástroj výpočtu proudu, zdarma kalkulátor proudu, online elektrický kalkulátor, vzorec elektrického proudu, proud z napětí odporu, proud z výkonu napětí, proud z výkonu odporu, elektrické nástroje online, kalkulátor elektroniky, nástroje elektrotechniky, kalkulátor analýzy obvodu, elektrický výpočet, kalkulátor ampéráže, kalkulátor elektrického proudu, kalkulátor proudu zdarma online, převodník napětí na proud, kalkulátor odporu proudu, kalkulátor výkonu na proud, kalkulátor elektrických vzorců, kalkulátor hustoty proudu, kalkulátor AC proudu, kalkulátor DC proudu, kalkulátor elektrických měření",
+        "meta_description": "Zdarma kalkulátor proudu se 3 metodami: Ohmův zákon (I=V\/R), vzorce výkonu. Vypočítejte elektrický proud z napětí, odporu, výkonu okamžitě online.",
+        "meta_keyword": "kalkulátor proudu, kalkulátor elektrického proudu, kalkulátor ohmova zákona, kalkulátor napětí proudu, kalkulátor výkonu proudu, výpočet proudu online, kalkulátor elektrotechniky, kalkulátor proudu ohmův zákon, kalkulátor I=V\/R, kalkulátor ampérů, kalkulátor elektrického obvodu, nástroj výpočtu proudu, zdarma kalkulátor proudu, online elektrický kalkulátor, vzorec elektrického proudu, proud z napětí odporu, proud z výkonu napětí, proud z výkonu odporu, elektrické nástroje online, kalkulátor elektroniky, nástroje elektrotechniky, kalkulátor analýzy obvodu, elektrický výpočet, kalkulátor ampéráže, kalkulátor elektrického proudu, kalkulátor proudu zdarma online, převodník napětí na proud, kalkulátor odporu proudu, kalkulátor výkonu na proud, kalkulátor elektrických vzorců, kalkulátor hustoty proudu, kalkulátor AC proudu, kalkulátor DC proudu, kalkulátor elektrických měření",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
         "title": "Vzdělávací Kalkulačky",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -738,13 +738,9 @@
         "is_show": "1",
         "orders": "6"
     },
-    [
-        "Finanční Kalkulačky",
-        "Seznam populárních vzdělávacích kalkulaček"
-    ],
     {
         "id": "59",
-        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
         "title": "GPA Kalkulačka (Průměr Známek)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -756,8 +752,21 @@
         "orders": "10000"
     },
     {
+        "id": "60",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "title": "Kalkulačka Času Studia",
+        "slug": "study-time-calculator",
+        "parent_id": "58",
+        "meta_title": "Kalkulačka Času Studia | Sleduj Fokus & Efektivitu",
+        "meta_description": "Bezplatná kalkulačka času studia pro sledování efektivních hodin učení, přestávek, rozptýlení & kvality fokusace. Optimalizuj studium s Pomodoro!",
+        "meta_keyword": "kalkulačka času studia, efektivní čas studia, kalkulačka efektivity učení, sledovač produktivity studia, kalkulačka studijní relace, kalkulačka času fokusace, nástroj akademické produktivity, řízení času studentů, jak vypočítat efektivní čas studia, kalkulačka produktivity studia online zdarma, sleduj efektivitu a kvalitu fokusace studia, pomodoro časovač, plánovač studia, nástroj řízení času, sledovač fokusace, analytika učení, sledovač studijních návyků, kalkulačka produktivity, sledovač akademické výkonnosti, nástroj měření koncentrace, kalkulačka optimalizace studia, vypočítej skutečný vs celkový čas studia, kalkulačka času přestávek studia s hodnocením fokusace, sledovač času studia pomodoro online, nástroj analýzy produktivity studentů zdarma, kalkulačka efektivity studijní relace, kalkulačka času rozptýlení studia, kalkulačka řízení akademického času",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
         "id": "61",
-        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
         "title": "Kalkulačka Studentských Půjček",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -770,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
         "title": "Kalkulačka Nákladů na Vzdělání",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -783,20 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
-        "title": "Kalkulátor Času Dokončení Programu",
-        "slug": "program-completion-time-calculator",
-        "parent_id": "58",
-        "meta_title": "Kalkulátor Času Dokončení - Nástroj Timeline Projektu",
-        "meta_description": "Vypočítejte přesný čas dokončení projektu s efektivitou týmu, plánování rezervy a PDF reporty. Bezplatný nástroj pro projektové manažery k odhadu termínů.",
-        "meta_keyword": "kalkulátor času dokončení programu, kalkulátor dokončení projektu, kalkulátor timeline projektu, kalkulátor termínu projektu, odhad času dokončení, kalkulátor trvání projektu, kalkulátor efektivity týmu, nástroj plánování projektu, kalkulátor řízení projektu, odhad času dokončení, nástroj timeline projektu, kalkulátor dokončení práce, čas dokončení úkolu, kalkulátor harmonogramu projektu, nástroj odhadu termínu, kalkulátor času projektu, kalkulátor data dokončení, kalkulátor plánování projektu, kalkulátor timeline programu, nástroj odhadu projektu, sledování času dokončení, odhad dokončení projektu, kalkulátor produktivity týmu, kalkulátor rezervy projektu, plánovač času dokončení, plánovač termínu projektu, nástroj dokončení programu, odhad času projektu, kalkulátor timeline dokončení, plánování dokončení projektu, nástroj výpočtu termínu, sledování času projektu, odhad data dokončení, nástroj plánování projektu, kalkulátor termínu programu, sledování dokončení projektu, kalkulátor dokončení týmu, odhad timeline projektu, analýza času dokončení, odhad trvání projektu, odhad dokončení programu, timeline dokončení projektu, nástroj plánování termínu, plánování času dokončení, plánovač času projektu, nástroj timeline programu, analýza dokončení projektu, plánovač efektivity týmu, sledování termínu projektu, kalkulátor dokončení online, řízení času projektu, plánování dokončení programu, nástroj dokončení projektu, kalkulátor termínu zdarma",
-        "status": "1",
-        "is_show": "1",
-        "orders": "10000"
-    },
-    {
-        "id": "63",
-        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
         "title": "Kalkulátor Času Dokončení Programu",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -809,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
         "title": "Kalkulačka Jazykové Způsobilosti",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",
