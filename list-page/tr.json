@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "İpotek Hesaplayıcı",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Amortisman Kredi Hesaplayıcı",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Ödeme Hesaplayıcı",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
         "title": "Faiz Hesaplayıcı",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Yüzde Hesaplayıcı",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Çevre Hesaplayıcı",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
         "title": "Alan Hesaplayıcı",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -92,7 +92,7 @@
     },
     {
         "id": "8",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Ertelenmiş Ödeme Kredisi Hesaplayıcısı",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
         "title": "Finansal Hesap Makineleri",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
         "title": "Matematik Hesap Makineleri",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
         "title": "Önceden Belirlenmiş Miktar Kredi Hesaplayıcı",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -142,7 +142,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
         "title": "Bilimsel Hesap Makinesi",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
         "title": "Hacim Hesaplayıcı",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
         "title": "Diğer Hesap Makineleri",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
         "title": "Yaş Hesaplayıcı",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
         "title": "Tarih Hesaplayıcı",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Tarih Hesaplayıcı: Tarihler Arası Günler ve Tarih Ekle\/Çıkar",
-        "meta_description": "Ücretsiz Tarih Hesaplayıcı: İki tarih arasındaki günleri hesaplayın veya tarihleri kolayca ekleyin\/çıkarın. Çevrimiçi tarih farkı hesaplayıcımızla hızlı, doğru sonuçlar alın!",
+        "meta_title": "Tarih Hesaplayıcı: Tarihler Arası Günler ve Tarih Ekle/Çıkar",
+        "meta_description": "Ücretsiz Tarih Hesaplayıcı: İki tarih arasındaki günleri hesaplayın veya tarihleri kolayca ekleyin/çıkarın. Çevrimiçi tarih farkı hesaplayıcımızla hızlı, doğru sonuçlar alın!",
         "meta_keyword": "Tarih Hesaplayıcı, İki tarih arasındaki günleri hesaplama, Tarih farkı hesaplayıcı, Tarihler arası gün hesaplayıcı, Tarihler arası günler, tarih hesaplayıcı ekle ve çıkar, tarih ekle ve çıkar",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
         "title": "Zaman Hesaplayıcı",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
         "title": "Saat Hesaplayıcı",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Kesir Hesaplayıcı",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Karma Sayı Hesaplayıcı",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Sağlık ve Fitness Hesap Makineleri",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
         "title": "VKİ Hesaplayıcı",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
         "title": "BMR Hesaplayıcı",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Vücut Yağ Yüzdesi Hesaplayıcı",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
         "title": "Birim Dönüştürücü",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Asal Sayı Hesaplayıcı",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
         "title": "Geri Sayım Zamanlayıcı",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Şifre Oluşturucu",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
         "title": "TDEE Hesaplayıcı",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Veri Dönüştürücü",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -389,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Kalori Hesaplayıcı",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -402,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
         "title": "Döviz Dönüştürücü",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -415,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Artık Yıl Kontrolü",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -428,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
         "title": "Hava Durumu Kanalı",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Hamilelik Doğum Tarihi Hesaplayıcı",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -454,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Kan Alkol Konsantrasyonu (BAC) Hesaplayıcı",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Burç Hesaplayıcı",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -480,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Pomodoro Zamanlayıcı",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Pomodoro Zamanlayıcı | Odak ve Çalışma Zamanlayıcı Aracıyla Üretkenliğinizi Artırın",
-        "meta_description": "Üretkenliği artırmak için ücretsiz Pomodoro Zamanlayıcı. Özel 25\/5 dakikalık aralıklar, odak müziği ve takip özellikleri. İş, çalışma ve odaklanma için mükemmel. Şimdi deneyin!",
+        "meta_description": "Üretkenliği artırmak için ücretsiz Pomodoro Zamanlayıcı. Özel 25/5 dakikalık aralıklar, odak müziği ve takip özellikleri. İş, çalışma ve odaklanma için mükemmel. Şimdi deneyin!",
         "meta_keyword": "Pomodoro zamanlayıcı, pomodoro tekniği, odak zamanlayıcı, üretkenlik zamanlayıcı, domates zamanlayıcı, çalışma zamanlayıcı, iş zamanlayıcı, zaman yönetimi aracı, 25 dakikalık zamanlayıcı, pomodoro izleyici, pomodoro uygulaması, odak tekniği, üretkenlik yöntemi, mola zamanlayıcı, çevrimiçi pomodoro zamanlayıcı, iş odak zamanlayıcı, çalışma odak zamanlayıcı, zaman engelleme aracı, pomodoro zamanlayıcı uygulaması, üretkenlik hesaplayıcı, en iyi pomodoro zamanlayıcı, müzikli pomodoro zamanlayıcı, çevrimiçi odak zamanlayıcı, pomodoro zamanlayıcı ve planlayıcı, özelleştirilebilir zamanlayıcı, ücretsiz pomodoro zamanlayıcı, dijital pomodoro, web üretkenlik aracı, zaman yönetimi hesaplayıcı, iş için pomodoro zamanlayıcı",
         "status": "1",
         "is_show": "1",
@@ -493,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
         "title": "QR Kodu Oluşturucu",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Türev Hesaplayıcı",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -519,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Logaritma Hesaplayıcı",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Koşu Hızı Hesaplayıcı",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Mühendislik Hesaplayıcıları",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Elektrik Güç Hesaplayıcısı",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Elektrik Güç Hesaplayıcısı - AC\/DC Güç, Gerilim ve Akım",
-        "meta_description": "AC\/DC devreleri için ücretsiz elektrik güç hesaplayıcısı. Ohm yasasını kullanarak güç, gerilim, akım, direnç hesaplayın. Tek faz, üç faz hesaplamalarını anında destekler.",
+        "meta_title": "Elektrik Güç Hesaplayıcısı - AC/DC Güç, Gerilim ve Akım",
+        "meta_description": "AC/DC devreleri için ücretsiz elektrik güç hesaplayıcısı. Ohm yasasını kullanarak güç, gerilim, akım, direnç hesaplayın. Tek faz, üç faz hesaplamalarını anında destekler.",
         "meta_keyword": "elektrik güç hesaplayıcısı, güç hesaplama, gerilim hesaplayıcısı, akım hesaplayıcısı, ohm yasası hesaplayıcısı, AC güç hesaplayıcısı, DC güç hesaplayıcısı, üç faz güç hesaplayıcısı, tek faz güç, elektrik mühendisliği hesaplayıcısı, watt hesaplayıcısı, amper hesaplayıcısı, direnç hesaplayıcısı, elektrik devre hesaplayıcısı, güç tüketimi hesaplayıcısı, kilowatt hesaplayıcısı, elektrik yük hesaplayıcısı",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Direnç Hesaplayıcı",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
         "title": "Kuvvet Hesaplayıcısı",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Hız Hesaplayıcısı",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Hız Hesaplayıcısı - Hız Mesafe Zaman Aracı",
-        "meta_description": "3 yöntemli ücretsiz hız hesaplayıcısı: temel v=d\/t, ivme ve ortalama hız. Birim dönüşümü ile hız, mesafe, zaman hesaplayın.",
-        "meta_keyword": "hız hesaplayıcısı, hız hesaplayıcısı, mesafe hesaplayıcısı, zaman hesaplayıcısı, fizik hesaplayıcısı, ivme hesaplayıcısı, ortalama hız, hız formülü, hız mesafe zaman, v=d\/t hesaplayıcısı, kinematik hesaplayıcısı, hareket hesaplayıcısı, fizik araçları, online hesaplayıcı, ücretsiz hesaplayıcı, hız birimi dönüştürücü, m\/s km\/s mph dönüştürücü, fizik ödev yardımı, hız çözücü",
+        "meta_description": "3 yöntemli ücretsiz hız hesaplayıcısı: temel v=d/t, ivme ve ortalama hız. Birim dönüşümü ile hız, mesafe, zaman hesaplayın.",
+        "meta_keyword": "hız hesaplayıcısı, hız hesaplayıcısı, mesafe hesaplayıcısı, zaman hesaplayıcısı, fizik hesaplayıcısı, ivme hesaplayıcısı, ortalama hız, hız formülü, hız mesafe zaman, v=d/t hesaplayıcısı, kinematik hesaplayıcısı, hareket hesaplayıcısı, fizik araçları, online hesaplayıcı, ücretsiz hesaplayıcı, hız birimi dönüştürücü, m/s km/s mph dönüştürücü, fizik ödev yardımı, hız çözücü",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Basınç Hesaplayıcısı",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Basınç Hesaplayıcısı - Birim Çevir & P=F\/A Hesapla",
-        "meta_description": "Ücretsiz online basınç hesaplayıcısı birim çevirici ile, temel basınç (P=F\/A), hidrostatik ve gösterge vs mutlak hesaplamalar. Pa, psi, bar anında çevir.",
-        "meta_keyword": "basınç hesaplayıcısı, basınç çevirici, basınç birimleri, pascal çevirici, psi hesaplayıcısı, bar çevirici, basınç formülü hesaplayıcısı, hidrostatik basınç, gösterge basıncı, mutlak basınç, P=F\/A hesaplayıcısı, basınç çevirme aracı, online basınç hesaplayıcısı, basınç birimi çevirici, basınç kuvvet alan, akışkan basıncı hesaplayıcısı, atmosferik basınç çevirici, vakum basıncı hesaplayıcısı",
+        "meta_title": "Basınç Hesaplayıcısı - Birim Çevir & P=F/A Hesapla",
+        "meta_description": "Ücretsiz online basınç hesaplayıcısı birim çevirici ile, temel basınç (P=F/A), hidrostatik ve gösterge vs mutlak hesaplamalar. Pa, psi, bar anında çevir.",
+        "meta_keyword": "basınç hesaplayıcısı, basınç çevirici, basınç birimleri, pascal çevirici, psi hesaplayıcısı, bar çevirici, basınç formülü hesaplayıcısı, hidrostatik basınç, gösterge basıncı, mutlak basınç, P=F/A hesaplayıcısı, basınç çevirme aracı, online basınç hesaplayıcısı, basınç birimi çevirici, basınç kuvvet alan, akışkan basıncı hesaplayıcısı, atmosferik basınç çevirici, vakum basıncı hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Tork Hesaplayıcı",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
         "title": "Malzeme Dayanımı Hesaplayıcısı",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Sıcaklık hesaplayıcısı",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
         "title": "Tolerans Hesaplayıcı",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
         "title": "Rezonans Frekansı Hesaplayıcısı",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
         "title": "Kapasitans hesaplayıcısı",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
         "title": "Bobin Hesaplayıcı",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
         "title": "Akım Hesaplayıcısı",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Akım Hesaplayıcısı - Ohm Yasası, Gerilim & Güç | Ücretsiz",
-        "meta_description": "3 yöntemli ücretsiz akım hesaplayıcısı: Ohm Yasası (I=V\/R), güç formülleri. Gerilim, direnç, güçten elektrik akımını anında online hesaplayın.",
-        "meta_keyword": "akım hesaplayıcısı, elektrik akım hesaplayıcısı, ohm yasası hesaplayıcısı, gerilim akım hesaplayıcısı, güç akım hesaplayıcısı, akım hesapla online, elektrik mühendisliği hesaplayıcısı, akım hesaplayıcısı ohm yasası, I=V\/R hesaplayıcısı, amper hesaplayıcısı, elektrik devre hesaplayıcısı, akım hesaplama aracı, ücretsiz akım hesaplayıcısı, online elektrik hesaplayıcısı, elektrik akım formülü, gerilim dirençten akım, güç gerilimden akım, güç dirençten akım, online elektrik araçları, elektronik hesaplayıcısı, elektrik mühendisliği araçları, devre analizi hesaplayıcısı, elektrik hesaplama, amperaj hesaplayıcısı, elektrik akım hesaplayıcısı, akım hesaplayıcısı ücretsiz online, gerilim akım dönüştürücüsü, direnç akım hesaplayıcısı, güç akım hesaplayıcısı, elektrik formülleri hesaplayıcısı, akım yoğunluğu hesaplayıcısı, AC akım hesaplayıcısı, DC akım hesaplayıcısı, elektrik ölçümleri hesaplayıcısı",
+        "meta_description": "3 yöntemli ücretsiz akım hesaplayıcısı: Ohm Yasası (I=V/R), güç formülleri. Gerilim, direnç, güçten elektrik akımını anında online hesaplayın.",
+        "meta_keyword": "akım hesaplayıcısı, elektrik akım hesaplayıcısı, ohm yasası hesaplayıcısı, gerilim akım hesaplayıcısı, güç akım hesaplayıcısı, akım hesapla online, elektrik mühendisliği hesaplayıcısı, akım hesaplayıcısı ohm yasası, I=V/R hesaplayıcısı, amper hesaplayıcısı, elektrik devre hesaplayıcısı, akım hesaplama aracı, ücretsiz akım hesaplayıcısı, online elektrik hesaplayıcısı, elektrik akım formülü, gerilim dirençten akım, güç gerilimden akım, güç dirençten akım, online elektrik araçları, elektronik hesaplayıcısı, elektrik mühendisliği araçları, devre analizi hesaplayıcısı, elektrik hesaplama, amperaj hesaplayıcısı, elektrik akım hesaplayıcısı, akım hesaplayıcısı ücretsiz online, gerilim akım dönüştürücüsü, direnç akım hesaplayıcısı, güç akım hesaplayıcısı, elektrik formülleri hesaplayıcısı, akım yoğunluğu hesaplayıcısı, AC akım hesaplayıcısı, DC akım hesaplayıcısı, elektrik ölçümleri hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
         "title": "Eğitim Hesaplayıcıları",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,7 +740,7 @@
     },
     {
         "id": "59",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
         "title": "GPA Hesaplayıcı (Not Ortalaması)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -753,7 +753,7 @@
     },
     {
         "id": "60",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
         "title": "Çalışma Süresi Hesaplayıcısı",
         "slug": "study-time-calculator",
         "parent_id": "58",
@@ -766,7 +766,7 @@
     },
     {
         "id": "61",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
         "title": "Öğrenci Kredisi Hesaplayıcısı",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -779,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
         "title": "Eğitim Maliyeti Hesaplayıcısı",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -792,7 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
         "title": "Program Tamamlanma Zamanı Hesaplayıcısı",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -805,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
         "title": "Dil Yeterliliği Hesaplayıcısı",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",
@@ -815,5 +815,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "65",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
+        "title": "Ulaşım Hesaplayıcıları",
+        "slug": "transportation-calculators",
+        "parent_id": "0",
+        "meta_title": "Ulaşım Hesaplayıcıları - Ücretsiz Seyahat ve Maliyet Araçları",
+        "meta_description": "Tam ücretsiz ulaşım hesaplayıcıları koleksiyonu: yakıt tüketimi, seyahat maliyetleri, karbon emisyonları, rota optimizasyonu ve daha fazlası. Bugün daha akıllı seyahatler planlayın!",
+        "meta_keyword": "ulaşım hesaplayıcıları, yakıt tüketimi hesaplayıcısı, seyahat maliyeti hesaplayıcısı, mesafe hesaplayıcısı, seyahat süresi hesaplayıcısı, karbon emisyonu hesaplayıcısı, uçak bileti fiyat hesaplayıcısı, motorlu taşıt vergisi hesaplayıcısı, araba sigortası hesaplayıcısı, araç değer kaybı hesaplayıcısı, rota optimizasyonu hesaplayıcısı, ücretsiz seyahat araçları, seyahat planlama hesaplayıcıları, ulaşım maliyeti tahmincisi, seyahat bütçesi hesaplayıcısı, yakıt verimliliği hesaplayıcısı, kilometre hesaplayıcısı, benzin maliyeti hesaplayıcısı, sürüş mesafesi hesaplayıcısı, seyahat harcaması hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "2"
     }
 ]

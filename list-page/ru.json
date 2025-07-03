@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Калькулятор ипотеки",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Калькулятор амортизации кредита",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Калькулятор платежей",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
         "title": "Калькулятор процентов",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Калькулятор процентов",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Калькулятор периметра",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
         "title": "Калькулятор площади",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -92,7 +92,7 @@
     },
     {
         "id": "8",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Калькулятор Кредита с Отсрочкой Платежа",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
         "title": "Финансовые калькуляторы",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
         "title": "Математические калькуляторы",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
         "title": "Калькулятор кредита с фиксированной суммой",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -142,7 +142,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
         "title": "Научный калькулятор",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
         "title": "Калькулятор объема",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
         "title": "Прочие калькуляторы",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
         "title": "Калькулятор возраста",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
         "title": "Калькулятор дат",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Калькулятор дат: Дни между датами и сложение\/вычитание дат",
-        "meta_description": "Бесплатный калькулятор дат: Рассчитайте дни между двумя датами или добавьте\/вычтите даты легко. Попробуйте наш онлайн-калькулятор разницы дат для быстрых и точных результатов!",
+        "meta_title": "Калькулятор дат: Дни между датами и сложение/вычитание дат",
+        "meta_description": "Бесплатный калькулятор дат: Рассчитайте дни между двумя датами или добавьте/вычтите даты легко. Попробуйте наш онлайн-калькулятор разницы дат для быстрых и точных результатов!",
         "meta_keyword": "Калькулятор дат, Рассчитать дни между двумя датами, Калькулятор разницы дат, Калькулятор дней между датами, Дни между датами, Калькулятор сложения и вычитания дат, Сложение и вычитание дат",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
         "title": "Калькулятор времени",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
         "title": "Калькулятор часов",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Калькулятор дробей",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Калькулятор смешанных чисел",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Калькуляторы здоровья и фитнеса",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Калькулятор ИМТ",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Калькулятор BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Калькулятор процента жира в теле",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
         "title": "Конвертер единиц",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Калькулятор простых чисел",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
         "title": "Таймер обратного отсчета",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Генератор паролей",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Калькулятор TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Конвертер данных",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -389,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Калькулятор калорий",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -402,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
         "title": "Конвертер валют",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -415,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Проверка високосного года",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -428,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
         "title": "Погодный канал",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Калькулятор предполагаемой даты родов",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -454,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Калькулятор содержания алкоголя в крови (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Калькулятор знаков зодиака",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -480,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Таймер Помодоро",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Таймер Помодоро | Повысьте продуктивность с помощью таймера для работы и учебы",
-        "meta_description": "Бесплатный таймер Помодоро для повышения продуктивности. Настраиваемые интервалы 25\/5 минут, музыка для концентрации и функции отслеживания. Идеально для работы, учебы и сосредоточенности. Попробуйте сейчас!",
+        "meta_description": "Бесплатный таймер Помодоро для повышения продуктивности. Настраиваемые интервалы 25/5 минут, музыка для концентрации и функции отслеживания. Идеально для работы, учебы и сосредоточенности. Попробуйте сейчас!",
         "meta_keyword": "Таймер Помодоро, Техника Помодоро, Таймер для концентрации, Таймер продуктивности, Таймер томата, Таймер для учебы, Таймер для работы, Инструмент управления временем, Таймер на 25 минут, Трекер Помодоро, Приложение Помодоро, Техника концентрации, Метод продуктивности, Таймер перерыва, Онлайн-таймер Помодоро, Таймер для работы, Таймер для учебы, Инструмент для блокировки времени, Приложение таймера Помодоро, Калькулятор продуктивности, Лучший таймер Помодоро, Таймер Помодоро с музыкой, Онлайн-таймер для концентрации, Таймер Помодоро и планировщик, Настраиваемый таймер, Бесплатный таймер Помодоро, Цифровой Помодоро, Веб-инструмент продуктивности, Калькулятор управления временем, Таймер Помодоро для работы",
         "status": "1",
         "is_show": "1",
@@ -493,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Генератор QR-кодов",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Калькулятор производных",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -519,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Калькулятор логарифмов",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Калькулятор темпа бега",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Инженерные Калькуляторы",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Калькулятор Электрической Мощности",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Калькулятор Электрической Мощности - Мощность AC\/DC, Напряжение и Ток",
-        "meta_description": "Бесплатный калькулятор электрической мощности для схем AC\/DC. Вычисляйте мощность, напряжение, ток, сопротивление используя закон Ома. Поддерживает однофазные, трехфазные вычисления мгновенно.",
+        "meta_title": "Калькулятор Электрической Мощности - Мощность AC/DC, Напряжение и Ток",
+        "meta_description": "Бесплатный калькулятор электрической мощности для схем AC/DC. Вычисляйте мощность, напряжение, ток, сопротивление используя закон Ома. Поддерживает однофазные, трехфазные вычисления мгновенно.",
         "meta_keyword": "калькулятор электрической мощности, расчет мощности, калькулятор напряжения, калькулятор тока, калькулятор закона ома, калькулятор мощности AC, калькулятор мощности DC, калькулятор трехфазной мощности, однофазная мощность, калькулятор электротехники, калькулятор ватт, калькулятор ампер, калькулятор сопротивления, калькулятор электрической схемы, калькулятор потребления энергии, калькулятор киловатт, калькулятор электрической нагрузки",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Калькулятор Сопротивления",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
         "title": "Калькулятор Силы",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Калькулятор Скорости",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Калькулятор Скорости - Инструмент Скорость Расстояние",
-        "meta_description": "Бесплатный калькулятор скорости с 3 методами: базовый v=d\/t, ускорение и средняя скорость. Рассчитайте скорость, расстояние, время с конверсией единиц.",
-        "meta_keyword": "калькулятор скорости, калькулятор скорости, калькулятор расстояния, калькулятор времени, калькулятор физики, калькулятор ускорения, средняя скорость, формула скорости, скорость расстояние время, калькулятор v=d\/t, калькулятор кинематики, калькулятор движения, инструменты физики, онлайн калькулятор, бесплатный калькулятор, конвертер единиц скорости, конвертер м\/с км\/ч миль\/ч, помощь домашние задания физика, решатель скорости",
+        "meta_description": "Бесплатный калькулятор скорости с 3 методами: базовый v=d/t, ускорение и средняя скорость. Рассчитайте скорость, расстояние, время с конверсией единиц.",
+        "meta_keyword": "калькулятор скорости, калькулятор скорости, калькулятор расстояния, калькулятор времени, калькулятор физики, калькулятор ускорения, средняя скорость, формула скорости, скорость расстояние время, калькулятор v=d/t, калькулятор кинематики, калькулятор движения, инструменты физики, онлайн калькулятор, бесплатный калькулятор, конвертер единиц скорости, конвертер м/с км/ч миль/ч, помощь домашние задания физика, решатель скорости",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Калькулятор Давления",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Калькулятор Давления - Перевод Единиц & Расчет P=F\/A",
-        "meta_description": "Бесплатный онлайн калькулятор давления с конвертером единиц, базовое давление (P=F\/A), гидростатическое и расчеты избыточное vs абсолютное. Перевод Pa, psi, bar.",
-        "meta_keyword": "калькулятор давления, конвертер давления, единицы давления, конвертер паскаль, калькулятор psi, конвертер бар, калькулятор формулы давления, гидростатическое давление, избыточное давление, абсолютное давление, калькулятор P=F\/A, инструмент преобразования давления, онлайн калькулятор давления, конвертер единиц давления, давление сила площадь, калькулятор давления жидкостей, конвертер атмосферного давления, калькулятор давления вакуума",
+        "meta_title": "Калькулятор Давления - Перевод Единиц & Расчет P=F/A",
+        "meta_description": "Бесплатный онлайн калькулятор давления с конвертером единиц, базовое давление (P=F/A), гидростатическое и расчеты избыточное vs абсолютное. Перевод Pa, psi, bar.",
+        "meta_keyword": "калькулятор давления, конвертер давления, единицы давления, конвертер паскаль, калькулятор psi, конвертер бар, калькулятор формулы давления, гидростатическое давление, избыточное давление, абсолютное давление, калькулятор P=F/A, инструмент преобразования давления, онлайн калькулятор давления, конвертер единиц давления, давление сила площадь, калькулятор давления жидкостей, конвертер атмосферного давления, калькулятор давления вакуума",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Калькулятор Момента",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
         "title": "Калькулятор Прочности Материалов",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Калькулятор температуры",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
         "title": "Калькулятор Допусков",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
         "title": "Калькулятор резонансной частоты",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
         "title": "Калькулятор ёмкости",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
         "title": "Калькулятор Катушки",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
         "title": "Калькулятор Тока",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Калькулятор Тока - Закон Ома, Напряжение & Мощность | Бесплатно",
-        "meta_description": "Бесплатный калькулятор тока с 3 методами: Закон Ома (I=V\/R), формулы мощности. Рассчитайте электрический ток из напряжения, сопротивления, мощности мгновенно онлайн.",
-        "meta_keyword": "калькулятор тока, калькулятор электрического тока, калькулятор закона ома, калькулятор напряжения тока, калькулятор мощности тока, рассчитать ток онлайн, калькулятор электротехники, калькулятор тока закон ома, калькулятор I=V\/R, калькулятор ампер, калькулятор электрической цепи, инструмент расчета тока, бесплатный калькулятор тока, онлайн электрический калькулятор, формула электрического тока, ток из напряжения сопротивления, ток из мощности напряжения, ток из мощности сопротивления, электрические инструменты онлайн, калькулятор электроники, инструменты электротехники, калькулятор анализа цепи, электрический расчет, калькулятор силы тока, калькулятор электрического тока, калькулятор тока бесплатно онлайн, конвертер напряжения в ток, калькулятор сопротивления тока, калькулятор мощности в ток, калькулятор электрических формул, калькулятор плотности тока, калькулятор тока AC, калькулятор тока DC, калькулятор электрических измерений",
+        "meta_description": "Бесплатный калькулятор тока с 3 методами: Закон Ома (I=V/R), формулы мощности. Рассчитайте электрический ток из напряжения, сопротивления, мощности мгновенно онлайн.",
+        "meta_keyword": "калькулятор тока, калькулятор электрического тока, калькулятор закона ома, калькулятор напряжения тока, калькулятор мощности тока, рассчитать ток онлайн, калькулятор электротехники, калькулятор тока закон ома, калькулятор I=V/R, калькулятор ампер, калькулятор электрической цепи, инструмент расчета тока, бесплатный калькулятор тока, онлайн электрический калькулятор, формула электрического тока, ток из напряжения сопротивления, ток из мощности напряжения, ток из мощности сопротивления, электрические инструменты онлайн, калькулятор электроники, инструменты электротехники, калькулятор анализа цепи, электрический расчет, калькулятор силы тока, калькулятор электрического тока, калькулятор тока бесплатно онлайн, конвертер напряжения в ток, калькулятор сопротивления тока, калькулятор мощности в ток, калькулятор электрических формул, калькулятор плотности тока, калькулятор тока AC, калькулятор тока DC, калькулятор электрических измерений",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
         "title": "Образовательные Калькуляторы",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,7 +740,7 @@
     },
     {
         "id": "59",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
         "title": "Калькулятор GPA (Средний Балл)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -753,7 +753,7 @@
     },
     {
         "id": "60",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
         "title": "Калькулятор Времени Обучения",
         "slug": "study-time-calculator",
         "parent_id": "58",
@@ -766,7 +766,7 @@
     },
     {
         "id": "61",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
         "title": "Калькулятор Студенческого Кредита",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -779,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
         "title": "Калькулятор Стоимости Образования",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -792,7 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
         "title": "Калькулятор Времени Завершения Программы",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -805,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
         "title": "Калькулятор Языковой Компетенции",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",
@@ -815,5 +815,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "65",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
+        "title": "Калькуляторы Транспорта",
+        "slug": "transportation-calculators",
+        "parent_id": "0",
+        "meta_title": "Калькуляторы Транспорта - Бесплатные Инструменты Путешествий",
+        "meta_description": "Полная коллекция бесплатных калькуляторов транспорта: расход топлива, расходы на поездки, выбросы углерода, оптимизация маршрутов и многое другое. Планируйте умные поездки сегодня!",
+        "meta_keyword": "калькуляторы транспорта, калькулятор расхода топлива, калькулятор расходов на поездки, калькулятор расстояния, калькулятор времени поездки, калькулятор выбросов углерода, калькулятор цен на авиабилеты, калькулятор транспортного налога, калькулятор страхования авто, калькулятор амортизации транспортного средства, калькулятор оптимизации маршрута, бесплатные инструменты путешествий, калькуляторы планирования поездок, оценщик расходов на транспорт, калькулятор бюджета поездки, калькулятор эффективности топлива, калькулятор пробега, калькулятор расходов на бензин, калькулятор расстояния вождения, калькулятор расходов на поездки",
+        "status": "1",
+        "is_show": "1",
+        "orders": "2"
     }
 ]

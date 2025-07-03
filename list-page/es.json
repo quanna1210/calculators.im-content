@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Calculadora de Hipotecas",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Calculadora de Amortización de Préstamos",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Calculadora de Pagos",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
         "title": "Calculadora de Intereses",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Calculadora de Porcentajes",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Calculadora de Perímetro",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
         "title": "Calculadora de Área",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -92,7 +92,7 @@
     },
     {
         "id": "8",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Calculadora de Préstamo de Pago Diferido",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
         "title": "Calculadoras Financieras",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
         "title": "Calculadoras Matemáticas",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
         "title": "Calculadora de Préstamos de Monto Predeterminado",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -143,7 +143,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
         "title": "Calculadora Científica",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -156,7 +156,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
         "title": "Calculadora de Volumen",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -169,7 +169,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
         "title": "Otras Calculadoras",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -182,7 +182,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
         "title": "Calculadora de Edad",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -195,12 +195,12 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
         "title": "Calculadora de Fechas",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Calculadora de Fechas: Días entre Fechas y Suma\/Resta de Fechas",
-        "meta_description": "Calculadora de Fechas Gratuita: Calcula los días entre dos fechas o suma\/resta fechas fácilmente. ¡Prueba nuestra calculadora de diferencia de fechas en línea para resultados rápidos y precisos!",
+        "meta_title": "Calculadora de Fechas: Días entre Fechas y Suma/Resta de Fechas",
+        "meta_description": "Calculadora de Fechas Gratuita: Calcula los días entre dos fechas o suma/resta fechas fácilmente. ¡Prueba nuestra calculadora de diferencia de fechas en línea para resultados rápidos y precisos!",
         "meta_keyword": "Calculadora de Fechas, Calcular días entre dos fechas, Calculadora de diferencia de fechas, Calculadora de días entre fechas, Días entre fechas, Calculadora de suma y resta de fechas, Suma y resta de fecha",
         "status": "1",
         "is_show": "1",
@@ -208,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
         "title": "Calculadora de Tiempo",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -221,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
         "title": "Calculadora de Horas",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -234,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Calculadora de Fracciones",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -247,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Calculadora de Números Mixtos",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -260,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Calculadoras de Salud y Fitness",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -273,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Calculadora de IMC",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -286,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Calculadora de TMB",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -299,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Calculadora de Porcentaje de Grasa Corporal",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -312,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
         "title": "Convertidor de Unidades",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -325,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Calculadora de Números Primos",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -338,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
         "title": "Temporizador de Cuenta Regresiva",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -351,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Generador de Contraseñas",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,7 +364,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Calculadora de TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -377,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Convertidor de Datos",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -390,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Calculadora de Calorías",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -403,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
         "title": "Convertidor de Monedas",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -416,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Verificador de Año Bisiesto",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -429,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
         "title": "Canal del Clima",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -442,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Calculadora de Fecha de Parto",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -455,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Calculadora de Concentración de Alcohol en Sangre (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -468,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Calculadora de Signos del Zodiaco",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -481,12 +481,12 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Temporizador Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Temporizador Pomodoro | Aumenta la Productividad con la Herramienta de Temporizador de Enfoque y Estudio",
-        "meta_description": "Temporizador Pomodoro gratuito para aumentar la productividad. Intervalos personalizables de 25\/5 minutos, música de enfoque y funciones de seguimiento. Perfecto para trabajo, estudio y enfoque. ¡Pruébalo ahora!",
+        "meta_description": "Temporizador Pomodoro gratuito para aumentar la productividad. Intervalos personalizables de 25/5 minutos, música de enfoque y funciones de seguimiento. Perfecto para trabajo, estudio y enfoque. ¡Pruébalo ahora!",
         "meta_keyword": "Temporizador Pomodoro, Técnica Pomodoro, Temporizador de enfoque, Temporizador de productividad, Temporizador de tomate, Temporizador de estudio, Temporizador de trabajo, Herramienta de gestión del tiempo, Temporizador de 25 minutos, Rastreador Pomodoro, Aplicación Pomodoro, Técnica de enfoque, Método de productividad, Temporizador de descanso, Temporizador Pomodoro en línea, Temporizador de enfoque de trabajo, Temporizador de enfoque de estudio, Herramienta de bloqueo de tiempo, Aplicación de temporizador Pomodoro, Calculadora de productividad, Mejor temporizador Pomodoro, Temporizador Pomodoro con música, Temporizador de enfoque en línea, Temporizador Pomodoro y planificador, Temporizador personalizable, Temporizador Pomodoro gratuito, Pomodoro digital, Herramienta de productividad web, Calculadora de gestión del tiempo, Temporizador Pomodoro para trabajo",
         "status": "1",
         "is_show": "1",
@@ -494,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Generador de Códigos QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -507,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Calculadora de Derivadas",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -520,7 +520,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Calculadora de Logaritmos",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -533,7 +533,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Calculadora de Ritmo de Carrera",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -546,7 +546,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Calculadoras de Ingeniería",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -559,12 +559,12 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Calculadora de Potencia Eléctrica",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Calculadora de Potencia Eléctrica - Potencia AC\/DC, Voltaje y Corriente",
-        "meta_description": "Calculadora gratuita de potencia eléctrica para circuitos AC\/DC. Calcule potencia, voltaje, corriente, resistencia usando la ley de Ohm. Soporta cálculos monofásicos, trifásicos al instante.",
+        "meta_title": "Calculadora de Potencia Eléctrica - Potencia AC/DC, Voltaje y Corriente",
+        "meta_description": "Calculadora gratuita de potencia eléctrica para circuitos AC/DC. Calcule potencia, voltaje, corriente, resistencia usando la ley de Ohm. Soporta cálculos monofásicos, trifásicos al instante.",
         "meta_keyword": "calculadora de potencia eléctrica, cálculo de potencia, calculadora de voltaje, calculadora de corriente, calculadora ley de ohm, calculadora potencia AC, calculadora potencia DC, calculadora potencia trifásica, potencia monofásica, calculadora ingeniería eléctrica, calculadora watts, calculadora amperaje, calculadora resistencia, calculadora circuito eléctrico, calculadora consumo energía, calculadora kilowatts, calculadora carga eléctrica",
         "status": "1",
         "is_show": "1",
@@ -572,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Calculadora de Resistencia",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -585,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
         "title": "Calculadora de Fuerza",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -598,33 +598,33 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Calculadora de Velocidad",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Calculadora de Velocidad - Herramienta de Velocidad y Tiempo",
-        "meta_description": "Calculadora de velocidad gratuita con 3 métodos: básico v=d\/t, aceleración y velocidad promedio. Calcula velocidad, distancia, tiempo con conversión de unidades.",
-        "meta_keyword": "calculadora de velocidad, calculadora de velocidad, calculadora de distancia, calculadora de tiempo, calculadora de física, calculadora de aceleración, velocidad promedio, fórmula de velocidad, velocidad distancia tiempo, calculadora v=d\/t, calculadora de cinemática, calculadora de movimiento, herramientas de física, calculadora online, calculadora gratis, convertidor unidades velocidad, convertidor m\/s km\/h mph, ayuda tareas física, solucionador velocidad",
+        "meta_description": "Calculadora de velocidad gratuita con 3 métodos: básico v=d/t, aceleración y velocidad promedio. Calcula velocidad, distancia, tiempo con conversión de unidades.",
+        "meta_keyword": "calculadora de velocidad, calculadora de velocidad, calculadora de distancia, calculadora de tiempo, calculadora de física, calculadora de aceleración, velocidad promedio, fórmula de velocidad, velocidad distancia tiempo, calculadora v=d/t, calculadora de cinemática, calculadora de movimiento, herramientas de física, calculadora online, calculadora gratis, convertidor unidades velocidad, convertidor m/s km/h mph, ayuda tareas física, solucionador velocidad",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Calculadora de Presión",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Calculadora Presión - Convertir Unidades & Calcular P=F\/A",
-        "meta_description": "Calculadora de presión online gratis con conversor de unidades, presión básica (P=F\/A), hidrostática y cálculos manométrica vs absoluta. Convierte Pa, psi, bar.",
-        "meta_keyword": "calculadora presión, conversor presión, unidades presión, conversor pascal, calculadora psi, conversor bar, calculadora fórmula presión, presión hidrostática, presión manométrica, presión absoluta, calculadora P=F\/A, herramienta conversión presión, calculadora presión online, conversor unidades presión, presión fuerza área, calculadora presión fluidos, conversor presión atmosférica, calculadora presión vacío",
+        "meta_title": "Calculadora Presión - Convertir Unidades & Calcular P=F/A",
+        "meta_description": "Calculadora de presión online gratis con conversor de unidades, presión básica (P=F/A), hidrostática y cálculos manométrica vs absoluta. Convierte Pa, psi, bar.",
+        "meta_keyword": "calculadora presión, conversor presión, unidades presión, conversor pascal, calculadora psi, conversor bar, calculadora fórmula presión, presión hidrostática, presión manométrica, presión absoluta, calculadora P=F/A, herramienta conversión presión, calculadora presión online, conversor unidades presión, presión fuerza área, calculadora presión fluidos, conversor presión atmosférica, calculadora presión vacío",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Calculadora de Torque",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -637,7 +637,7 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
         "title": "Calculadora de Resistencia de Materiales",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -650,7 +650,7 @@
     },
     {
         "id": "52",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Calculadora de temperatura",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -663,7 +663,7 @@
     },
     {
         "id": "53",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
         "title": "Calculadora de Tolerancias",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -676,7 +676,7 @@
     },
     {
         "id": "54",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
         "title": "Calculadora de frecuencia de resonancia",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -689,7 +689,7 @@
     },
     {
         "id": "55",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
         "title": "Calculadora de capacitancia",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -702,7 +702,7 @@
     },
     {
         "id": "56",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
         "title": "Calculadora de Bobina",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -715,20 +715,20 @@
     },
     {
         "id": "57",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
         "title": "Calculadora de Corriente",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Calculadora Corriente - Ley Ohm, Voltaje & Potencia | Gratis",
-        "meta_description": "Calculadora de corriente gratis con 3 métodos: Ley de Ohm (I=V\/R), fórmulas de potencia. Calcula corriente eléctrica de voltaje, resistencia, potencia al instante online.",
-        "meta_keyword": "calculadora de corriente, calculadora de corriente eléctrica, calculadora ley de ohm, calculadora voltaje corriente, calculadora potencia corriente, calcular corriente online, calculadora ingeniería eléctrica, calculadora corriente ley ohm, calculadora I=V\/R, calculadora amperios, calculadora circuito eléctrico, herramienta cálculo corriente, calculadora corriente gratis, calculadora eléctrica online, fórmula corriente eléctrica, corriente de voltaje resistencia, corriente de potencia voltaje, corriente de potencia resistencia, herramientas eléctricas online, calculadora electrónica, herramientas ingeniería eléctrica, calculadora análisis circuito, cálculo eléctrico, calculadora amperaje, calculadora corriente eléctrica, calculadora corriente gratis online, convertidor voltaje a corriente, calculadora resistencia corriente, calculadora potencia a corriente, calculadora fórmulas eléctricas, calculadora densidad corriente, calculadora corriente AC, calculadora corriente DC, calculadora mediciones eléctricas",
+        "meta_description": "Calculadora de corriente gratis con 3 métodos: Ley de Ohm (I=V/R), fórmulas de potencia. Calcula corriente eléctrica de voltaje, resistencia, potencia al instante online.",
+        "meta_keyword": "calculadora de corriente, calculadora de corriente eléctrica, calculadora ley de ohm, calculadora voltaje corriente, calculadora potencia corriente, calcular corriente online, calculadora ingeniería eléctrica, calculadora corriente ley ohm, calculadora I=V/R, calculadora amperios, calculadora circuito eléctrico, herramienta cálculo corriente, calculadora corriente gratis, calculadora eléctrica online, fórmula corriente eléctrica, corriente de voltaje resistencia, corriente de potencia voltaje, corriente de potencia resistencia, herramientas eléctricas online, calculadora electrónica, herramientas ingeniería eléctrica, calculadora análisis circuito, cálculo eléctrico, calculadora amperaje, calculadora corriente eléctrica, calculadora corriente gratis online, convertidor voltaje a corriente, calculadora resistencia corriente, calculadora potencia a corriente, calculadora fórmulas eléctricas, calculadora densidad corriente, calculadora corriente AC, calculadora corriente DC, calculadora mediciones eléctricas",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
         "title": "Calculadoras Educativas",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -741,7 +741,7 @@
     },
     {
         "id": "59",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
         "title": "Calculadora GPA (Promedio de Calificaciones)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -754,7 +754,7 @@
     },
     {
         "id": "60",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
         "title": "Calculadora de Tiempo de Estudio",
         "slug": "study-time-calculator",
         "parent_id": "58",
@@ -767,7 +767,7 @@
     },
     {
         "id": "61",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
         "title": "Calculadora de Préstamos Estudiantiles",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -780,7 +780,7 @@
     },
     {
         "id": "62",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
         "title": "Calculadora de Costos Educativos",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -793,7 +793,7 @@
     },
     {
         "id": "63",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
         "title": "Calculadora de Tiempo de Finalización de Programa",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -806,7 +806,7 @@
     },
     {
         "id": "64",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
         "title": "Calculadora de Competencia Lingüística",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",
@@ -816,5 +816,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "65",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
+        "title": "Calculadoras de Transporte",
+        "slug": "transportation-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculadoras de Transporte - Herramientas Gratuitas de Viaje",
+        "meta_description": "Colección completa de calculadoras de transporte gratuitas: consumo de combustible, costos de viaje, emisiones de carbono, optimización de rutas y más. ¡Planifica viajes inteligentes hoy!",
+        "meta_keyword": "calculadoras de transporte, calculadora de consumo de combustible, calculadora de costos de viaje, calculadora de distancia, calculadora de tiempo de viaje, calculadora de emisiones de carbono, calculadora de tarifas aéreas, calculadora de impuestos vehiculares, calculadora de seguro de auto, calculadora de depreciación de vehículo, calculadora de optimización de rutas, herramientas gratuitas de viaje, calculadoras de planificación de viajes, estimador de costos de transporte, calculadora de presupuesto de viaje, calculadora de eficiencia de combustible, calculadora de millaje, calculadora de costos de gasolina, calculadora de distancia de conducción, calculadora de gastos de viaje",
+        "status": "1",
+        "is_show": "1",
+        "orders": "2"
     }
 ]

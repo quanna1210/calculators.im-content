@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
         "title": "Calculator Ipotecă",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
         "title": "Calculator Împrumut cu Amortizare",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
         "title": "Calculator Plăți",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
         "title": "Calculator Dobândă",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
         "title": "Calculator Procentaj",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
         "title": "Calculator Perimetru",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
         "title": "Calculator Arie",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -92,7 +92,7 @@
     },
     {
         "id": "8",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/deferred-payment-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/deferred-payment-loan-calculator.jpg",
         "title": "Calculator Împrumut cu Plată Amânată",
         "slug": "deferred-payment-loan-calculator",
         "parent_id": "9",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
         "title": "Calculatoare Financiare",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
         "title": "Calculatoare Matematice",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
         "title": "Calculator Împrumut cu Sumă Predeterminată",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -142,7 +142,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
         "title": "Calculator Științific",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
         "title": "Calculator Volum",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
         "title": "Alte Calculatoare",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
         "title": "Calculator Vârstă",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,12 +194,12 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
         "title": "Calculator Date",
         "slug": "date-calculator",
         "parent_id": "15",
-        "meta_title": "Calculator Date: Zile între Date și Adunare\/Scădere Date",
-        "meta_description": "Calculator date gratuit: Calculează zilele între două date sau adaugă\/scade date cu ușurință. Încearcă calculatorul nostru online de diferență între date pentru rezultate rapide și precise!",
+        "meta_title": "Calculator Date: Zile între Date și Adunare/Scădere Date",
+        "meta_description": "Calculator date gratuit: Calculează zilele între două date sau adaugă/scade date cu ușurință. Încearcă calculatorul nostru online de diferență între date pentru rezultate rapide și precise!",
         "meta_keyword": "Calculator date, Calcul zile între două date, Calculator diferență date, Calculator zile între date, Zile între date, Calculator adunare și scădere date, Adunare și scădere date",
         "status": "1",
         "is_show": "1",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
         "title": "Calculator Timp",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
         "title": "Calculator Ore",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
         "title": "Calculator Fracții",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
         "title": "Calculator Numere Mixte",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
         "title": "Calculatoare Sănătate și Fitness",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
         "title": "Calculator IMC",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
         "title": "Calculator Rata Metabolică Bazală",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
         "title": "Calculator Procent Grăsime Corporală",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
         "title": "Convertor Unități",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
         "title": "Calculator Numere Prime",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
         "title": "Cronometru Numărătoare Inversă",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Generator Parolă",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
         "title": "Calculator TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
         "title": "Convertor Date",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -389,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
         "title": "Calculator Calorii",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -402,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
         "title": "Convertor Valutar",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -415,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
         "title": "Verificator An Bisect",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -428,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
         "title": "Canal Meteo",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
         "title": "Calculator Data Nașterii",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -454,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
         "title": "Calculator Concentrație Alcool în Sânge (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
         "title": "Calculator Zodiac",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -480,12 +480,12 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
         "title": "Cronometru Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
         "meta_title": "Cronometru Pomodoro | Crește Productivitatea cu Instrument de Focalizare și Studiu",
-        "meta_description": "Cronometru Pomodoro gratuit pentru a crește productivitatea. Intervale personalizabile de 25\/5 minute, muzică pentru concentrare și funcții de urmărire. Perfect pentru muncă, studiu și concentrare. Încearcă acum!",
+        "meta_description": "Cronometru Pomodoro gratuit pentru a crește productivitatea. Intervale personalizabile de 25/5 minute, muzică pentru concentrare și funcții de urmărire. Perfect pentru muncă, studiu și concentrare. Încearcă acum!",
         "meta_keyword": "Cronometru Pomodoro, Tehnica Pomodoro, Cronometru focalizare, Cronometru productivitate, Cronometru tomate, Cronometru studiu, Cronometru lucru, Instrument gestionare timp, Cronometru 25 minute, Urmăritor Pomodoro, Aplicație Pomodoro, Tehnică focalizare, Metodă productivitate, Cronometru pauză, Cronometru Pomodoro online, Cronometru focalizare lucru, Cronometru focalizare studiu, Instrument blocare timp, Aplicație cronometru Pomodoro, Calculator productivitate, Cel mai bun cronometru Pomodoro, Cronometru Pomodoro cu muzică, Cronometru focalizare online, Cronometru și planificator Pomodoro, Cronometru personalizabil, Cronometru Pomodoro gratuit, Pomodoro digital, Instrument productivitate web, Calculator gestionare timp, Cronometru Pomodoro pentru lucru",
         "status": "1",
         "is_show": "1",
@@ -493,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
         "title": "Generator Cod QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
         "title": "Calculator Derivate",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -519,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
         "title": "Calculator Logaritmi",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
         "title": "Calculator Ritm Alergare",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
         "title": "Calculatoare de Inginerie",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,12 +558,12 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
         "title": "Calculator Putere Electrică",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
-        "meta_title": "Calculator Putere Electrică - Putere AC\/DC, Tensiune și Curent",
-        "meta_description": "Calculator gratuit de putere electrică pentru circuite AC\/DC. Calculați puterea, tensiunea, curentul, rezistența folosind legea lui Ohm. Suportă calcule monofazate, trifazate instant.",
+        "meta_title": "Calculator Putere Electrică - Putere AC/DC, Tensiune și Curent",
+        "meta_description": "Calculator gratuit de putere electrică pentru circuite AC/DC. Calculați puterea, tensiunea, curentul, rezistența folosind legea lui Ohm. Suportă calcule monofazate, trifazate instant.",
         "meta_keyword": "calculator putere electrică, calculul puterii, calculator tensiune, calculator curent, calculator legea ohm, calculator putere AC, calculator putere DC, calculator putere trifazată, putere monofazată, calculator inginerie electrică, calculator wați, calculator amperaj, calculator rezistență, calculator circuit electric, calculator consum energie, calculator kilowați, calculator sarcină electrică",
         "status": "1",
         "is_show": "1",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
         "title": "Calculator Rezistență",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
         "title": "Calculator Forță",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,33 +597,33 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
         "title": "Calculator de Viteză",
         "slug": "velocity-calculator",
         "parent_id": "44",
         "meta_title": "Calculator Viteză - Instrument Viteză Distanță Timp",
-        "meta_description": "Calculator viteză gratuit cu 3 metode: de bază v=d\/t, accelerație și viteză medie. Calculează viteză, distanță, timp cu conversie unități.",
-        "meta_keyword": "calculator de viteză, calculator de viteză, calculator de distanță, calculator de timp, calculator de fizică, calculator de accelerație, viteză medie, formulă de viteză, viteză distanță timp, calculator v=d\/t, calculator de cinematică, calculator de mișcare, instrumente de fizică, calculator online, calculator gratuit, convertor unități viteză, convertor m\/s km\/h mph, ajutor teme fizică, rezolvitor viteză",
+        "meta_description": "Calculator viteză gratuit cu 3 metode: de bază v=d/t, accelerație și viteză medie. Calculează viteză, distanță, timp cu conversie unități.",
+        "meta_keyword": "calculator de viteză, calculator de viteză, calculator de distanță, calculator de timp, calculator de fizică, calculator de accelerație, viteză medie, formulă de viteză, viteză distanță timp, calculator v=d/t, calculator de cinematică, calculator de mișcare, instrumente de fizică, calculator online, calculator gratuit, convertor unități viteză, convertor m/s km/h mph, ajutor teme fizică, rezolvitor viteză",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "49",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
         "title": "Calculator Presiune",
         "slug": "pressure-calculator",
         "parent_id": "44",
-        "meta_title": "Calculator Presiune - Convertește Unități & Calculează P=F\/A",
-        "meta_description": "Calculator presiune online gratuit cu convertor unități, presiune de bază (P=F\/A), hidrostatică și calcule manometrică vs absolută. Convertește Pa, psi, bar instant.",
-        "meta_keyword": "calculator presiune, convertor presiune, unități presiune, convertor pascal, calculator psi, convertor bar, calculator formulă presiune, presiune hidrostatică, presiune manometrică, presiune absolută, calculator P=F\/A, instrument conversie presiune, calculator presiune online, convertor unități presiune, presiune forță suprafață, calculator presiune fluide, convertor presiune atmosferică, calculator presiune vid",
+        "meta_title": "Calculator Presiune - Convertește Unități & Calculează P=F/A",
+        "meta_description": "Calculator presiune online gratuit cu convertor unități, presiune de bază (P=F/A), hidrostatică și calcule manometrică vs absolută. Convertește Pa, psi, bar instant.",
+        "meta_keyword": "calculator presiune, convertor presiune, unități presiune, convertor pascal, calculator psi, convertor bar, calculator formulă presiune, presiune hidrostatică, presiune manometrică, presiune absolută, calculator P=F/A, instrument conversie presiune, calculator presiune online, convertor unități presiune, presiune forță suprafață, calculator presiune fluide, convertor presiune atmosferică, calculator presiune vid",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "50",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
         "title": "Calculator de Cuplu",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,7 +636,7 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/cdn.statically.io\/gh\/quanna1210\/calculators.im-content\/refs\/heads\/master\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
         "title": "Calculator Rezistența Materialelor",
         "slug": "material-strength-calculator",
         "parent_id": "44",
@@ -649,7 +649,7 @@
     },
     {
         "id": "52",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/material-strength-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Calculator temperatură",
         "slug": "temperature-calculator",
         "parent_id": "44",
@@ -662,7 +662,7 @@
     },
     {
         "id": "53",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tolerance-calculator",
+        "thumb": "https://static.calculators.im/upload/thumb/tolerance-calculator",
         "title": "Calculator de Toleranțe",
         "slug": "tolerance-calculator",
         "parent_id": "44",
@@ -675,7 +675,7 @@
     },
     {
         "id": "54",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resonance-frequency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resonance-frequency-calculator.jpg",
         "title": "Calculator de frecvență de rezonanță",
         "slug": "resonance-frequency-calculator",
         "parent_id": "44",
@@ -688,7 +688,7 @@
     },
     {
         "id": "55",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/capacitance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/capacitance-calculator.jpg",
         "title": "Calculator de capacitate",
         "slug": "capacitance-calculator",
         "parent_id": "44",
@@ -701,7 +701,7 @@
     },
     {
         "id": "56",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/coil-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/coil-calculator.jpg",
         "title": "Calculator Bobină",
         "slug": "coil-calculator",
         "parent_id": "44",
@@ -714,20 +714,20 @@
     },
     {
         "id": "57",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/current-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/current-calculator.jpg",
         "title": "Calculator de Curent",
         "slug": "current-calculator",
         "parent_id": "44",
         "meta_title": "Calculator Curent - Legea Ohm, Tensiune & Putere | Gratuit",
-        "meta_description": "Calculator de curent gratuit cu 3 metode: Legea lui Ohm (I=V\/R), formule de putere. Calculați curentul electric din tensiune, rezistență, putere instant online.",
-        "meta_keyword": "calculator de curent, calculator de curent electric, calculator legea ohm, calculator tensiune curent, calculator putere curent, calculează curent online, calculator inginerie electrică, calculator curent legea ohm, calculator I=V\/R, calculator amperi, calculator circuit electric, instrument calcul curent, calculator curent gratuit, calculator electric online, formulă curent electric, curent din tensiune rezistență, curent din putere tensiune, curent din putere rezistență, instrumente electrice online, calculator electronică, instrumente inginerie electrică, calculator analiză circuit, calcul electric, calculator amperaj, calculator curent electric, calculator curent gratuit online, convertor tensiune la curent, calculator rezistență curent, calculator putere la curent, calculator formule electrice, calculator densitate curent, calculator curent AC, calculator curent DC, calculator măsurători electrice",
+        "meta_description": "Calculator de curent gratuit cu 3 metode: Legea lui Ohm (I=V/R), formule de putere. Calculați curentul electric din tensiune, rezistență, putere instant online.",
+        "meta_keyword": "calculator de curent, calculator de curent electric, calculator legea ohm, calculator tensiune curent, calculator putere curent, calculează curent online, calculator inginerie electrică, calculator curent legea ohm, calculator I=V/R, calculator amperi, calculator circuit electric, instrument calcul curent, calculator curent gratuit, calculator electric online, formulă curent electric, curent din tensiune rezistență, curent din putere tensiune, curent din putere rezistență, instrumente electrice online, calculator electronică, instrumente inginerie electrică, calculator analiză circuit, calcul electric, calculator amperaj, calculator curent electric, calculator curent gratuit online, convertor tensiune la curent, calculator rezistență curent, calculator putere la curent, calculator formule electrice, calculator densitate curent, calculator curent AC, calculator curent DC, calculator măsurători electrice",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
     },
     {
         "id": "58",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-calculators.jpg",
         "title": "Calculatoare Educaționale",
         "slug": "education-calculators",
         "parent_id": "0",
@@ -740,7 +740,7 @@
     },
     {
         "id": "59",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/gpa-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/gpa-calculator.jpg",
         "title": "Calculator GPA (Media Academică)",
         "slug": "gpa-calculator",
         "parent_id": "58",
@@ -753,7 +753,7 @@
     },
     {
         "id": "60",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/study-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/study-time-calculator.jpg",
         "title": "Calculator Timp de Studiu",
         "slug": "study-time-calculator",
         "parent_id": "58",
@@ -766,7 +766,7 @@
     },
     {
         "id": "61",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/student-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/student-loan-calculator.jpg",
         "title": "Calculator Împrumut Studențesc",
         "slug": "student-loan-calculator",
         "parent_id": "58",
@@ -779,7 +779,7 @@
     },
     {
         "id": "62",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/education-cost-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/education-cost-calculator.jpg",
         "title": "Calculator Costuri Educaționale",
         "slug": "education-cost-calculator",
         "parent_id": "58",
@@ -792,7 +792,7 @@
     },
     {
         "id": "63",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/program-completion-time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/program-completion-time-calculator.jpg",
         "title": "Calculator Timp Finalizare Program",
         "slug": "program-completion-time-calculator",
         "parent_id": "58",
@@ -805,7 +805,7 @@
     },
     {
         "id": "64",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/language-proficiency-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/language-proficiency-calculator.jpg",
         "title": "Calculator Competență Lingvistică",
         "slug": "language-proficiency-calculator",
         "parent_id": "58",
@@ -815,5 +815,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "65",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
+        "title": "Calculatoare Transport",
+        "slug": "transportation-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatoare Transport - Instrumente Gratuite Călătorie",
+        "meta_description": "Colecție completă calculatoare transport gratuite: consum combustibil, costuri călătorie, emisii carbon, optimizare rute și mai mult. Planifică călătorii inteligent astăzi!",
+        "meta_keyword": "calculatoare transport, calculator consum combustibil, calculator costuri călătorie, calculator distanță, calculator timp călătorie, calculator emisii carbon, calculator tarife avion, calculator taxe auto, calculator asigurare auto, calculator deprecierea vehiculului, calculator optimizare rute, instrumente călătorie gratuite, calculatoare planificare călătorie, estimator costuri transport, calculator buget călătorie, calculator eficiență combustibil, calculator kilometraj, calculator costuri benzină, calculator distanță condus, calculator cheltuieli călătorie",
+        "status": "1",
+        "is_show": "1",
+        "orders": "2"
     }
 ]
