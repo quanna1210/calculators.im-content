@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "交通計算機",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "交通計算機 - 無料の旅行・コストツール",
         "meta_description": "完全な無料交通計算機コレクション：燃料消費、旅行コスト、炭素排出、ルート最適化など。今日、よりスマートな旅行を計画しましょう！",
@@ -838,6 +838,19 @@
         "meta_title": "無料燃費計算機 - MPG & L/100km",
         "meta_description": "燃費効率を瞬時に計算！MPG、L/100km、コスト分析、多通貨対応の無料燃料消費計算機。すべての車両で使用可能です。",
         "meta_keyword": "燃費計算機, ガソリン計算機, 燃料効率計算機, mpg計算機, l/100km計算機, 燃料費計算機, 自動車燃費, ディーゼル計算機, 車両燃料効率, ガソリン消費量計算, 燃費節約計算機, レギュラーガソリン計算機, ハイオク計算機, 燃料費分析, 燃費追跡, バイク燃費計算機, 車燃費計算機, トラック燃費計算機, 旅行費用見積, リッター当たりキロメートル計算機, 燃費節約, 無料オンライン燃費計算機, 燃費計算アプリ, 燃料効率ツール, ガソリン消費量計算機, 軽油消費量計算機, 燃費比較, 車両効率分析, 車両運営費計算機, 燃費モニター, 正確な燃費計算機, 燃料消費推定器, 燃料効率メーター, 燃費計算式, 燃費変換器, 燃料効率比較, 燃費分析, キロメートル当たり燃料費, マイル当たり燃料費, mpgオンライン計算, 燃料効率計算, 車両燃料効率, 自動車航続距離計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "旅行費用計算機",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "無料旅行費用計算機 - 予算プランナーツール",
+        "meta_description": "旅行費用を即座に計算！複数通貨対応、支出カテゴリ、リアルタイム合計付きの無料予算計算機。完璧な旅行を計画しましょう。",
+        "meta_keyword": "旅行計算機, 旅行費用計算機, 旅行予算計算機, 休暇費用計算機, 旅行支出計算機, 旅行計画ツール, 予算プランナー旅行, 旅行費用見積もり, 無料旅行計算機, オンライン旅行計算機, 旅行予算ツール, 休暇計画日本, 旅行費用計算",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

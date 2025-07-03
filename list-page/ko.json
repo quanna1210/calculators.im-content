@@ -819,9 +819,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "교통 계산기",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "교통 계산기 - 무료 여행 및 비용 도구",
         "meta_description": "완전한 무료 교통 계산기 컬렉션: 연료 소비, 여행 비용, 탄소 배출, 경로 최적화 등. 오늘 더 스마트한 여행을 계획하세요!",
@@ -839,6 +839,19 @@
         "meta_title": "무료 연료 계산기 - MPG & L/100km",
         "meta_description": "연료 효율성을 즉시 계산하세요! MPG, L/100km, 비용 분석 및 다중 통화 지원이 포함된 무료 연료 소비량 계산기. 모든 차량에 사용 가능합니다.",
         "meta_keyword": "연료 소비량 계산기, 휘발유 계산기, 연료 효율성 계산기, mpg 계산기, l/100km 계산기, 연료 비용 계산기, 자동차 연료 소비량, 경유 계산기, 차량 연료 효율성, 휘발유 소비량 계산, 연료 절약 계산기, 휘발유 계산기, 프리미엄 휘발유 계산기, 연료 비용 분석, 연료 소비량 추적, 오토바이 연료 계산기, 자동차 연료 계산기, 트럭 연료 계산기, 여행 비용 추정, 리터당 킬로미터 계산기, 연료 절약, 무료 온라인 연료 계산기, 연료 계산 앱, 연료 효율성 도구, 휘발유 소비량 계산기, 경유 소비량 계산기, 연료 소비량 비교, 차량 효율성 분석, 차량 운영 비용 계산기, 연료 소비량 모니터, 정확한 연료 계산기, 연료 소비량 추정기, 연료 효율성 측정기, 연료 소비량 공식, 연료 소비량 변환기, 연료 효율성 비교, 연료 소비량 분석, 킬로미터당 연료 비용, 마일당 연료 비용, mpg 온라인 계산, 연료 효율성 계산, 차량 연료 효율성, 자동차 주행 거리 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "여행 비용 계산기",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "무료 여행 비용 계산기 - 예산 계획 도구",
+        "meta_description": "여행 비용을 즉시 계산하세요! 다중 통화 지원, 지출 카테고리 및 실시간 합계가 있는 무료 예산 계산기. 완벽한 여행을 계획하세요.",
+        "meta_keyword": "여행 계산기, 여행 비용 계산기, 여행 예산 계산기, 휴가 비용 계산기, 여행 경비 계산기, 여행 계획 도구, 예산 계획 여행, 여행 비용 추정기, 무료 여행 계산기, 온라인 여행 계산기, 여행 예산 도구, 휴가 계획 한국, 여행 경비 계산",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

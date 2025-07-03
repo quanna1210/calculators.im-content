@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Ulaşım Hesaplayıcıları",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Ulaşım Hesaplayıcıları - Ücretsiz Seyahat ve Maliyet Araçları",
         "meta_description": "Tam ücretsiz ulaşım hesaplayıcıları koleksiyonu: yakıt tüketimi, seyahat maliyetleri, karbon emisyonları, rota optimizasyonu ve daha fazlası. Bugün daha akıllı seyahatler planlayın!",
@@ -838,6 +838,19 @@
         "meta_title": "Ücretsiz Yakıt Hesaplayıcısı - MPG & L/100km",
         "meta_description": "Yakıt verimliliğini anında hesaplayın! MPG, L/100km, maliyet analizi ve çoklu para birimi desteği ile ücretsiz yakıt tüketimi hesaplayıcısı. Tüm araçlar için çalışır.",
         "meta_keyword": "yakıt tüketimi hesaplayıcısı, benzin hesaplayıcısı, yakıt verimliliği hesaplayıcısı, yakıt hesaplayıcısı, mpg hesaplayıcısı, l/100km hesaplayıcısı, yakıt maliyeti hesaplayıcısı, araç yakıt tüketimi, dizel hesaplayıcısı, yakıt verimliliği araç, yakıt tüketimi hesaplama, yakıt tasarrufu hesaplayıcısı, kurşunsuz benzin hesaplayıcısı, süper benzin hesaplayıcısı, yakıt maliyeti analizi, yakıt tüketimi takibi, motosiklet yakıt hesaplayıcısı, otomobil yakıt hesaplayıcısı, kamyon yakıt hesaplayıcısı, seyahat maliyeti tahmini, kilometre başına litre hesaplayıcısı, yakıt tasarrufu, ücretsiz online yakıt hesaplayıcısı, yakıt hesaplama uygulaması, yakıt verimliliği aracı, benzin tüketimi hesaplayıcısı, dizel tüketimi hesaplayıcısı, yakıt tüketimi karşılaştırması, araç verimliliği analizi, araç işletme maliyeti hesaplayıcısı, yakıt tüketimi monitörü, hassas yakıt hesaplayıcısı, yakıt tüketimi tahmincisi, yakıt verimliliği ölçer, yakıt tüketimi formülü, yakıt tüketimi dönüştürücü, yakıt verimliliği karşılaştırması, yakıt tüketimi analizi, kilometre başına yakıt maliyeti, mil başına yakıt maliyeti, online mpg hesaplama, yakıt verimliliği hesaplama, araç yakıt verimliliği, otomobil menzil hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Seyahat Maliyeti Hesaplayıcısı",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Ücretsiz Seyahat Maliyeti Hesaplayıcısı - Bütçe Planlayıcı",
+        "meta_description": "Seyahat maliyetlerini anında hesaplayın! Çoklu para birimi desteği, harcama kategorileri ve gerçek zamanlı toplamlarla ücretsiz bütçe hesaplayıcısı. Mükemmel seyahatinizi planlayın.",
+        "meta_keyword": "seyahat hesaplayıcısı, seyahat maliyeti hesaplayıcısı, seyahat bütçesi hesaplayıcısı, tatil maliyeti hesaplayıcısı, seyahat harcama hesaplayıcısı, seyahat planlama aracı, bütçe planlayıcı seyahat, seyahat maliyeti tahmincisi, ücretsiz seyahat hesaplayıcısı, online seyahat hesaplayıcısı, seyahat bütçe aracı, tatil planlama Türkiye",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

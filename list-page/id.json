@@ -819,9 +819,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Kalkulator Transportasi",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Kalkulator Transportasi - Alat Perjalanan & Biaya Gratis",
         "meta_description": "Koleksi lengkap kalkulator transportasi gratis: konsumsi bahan bakar, biaya perjalanan, emisi karbon, optimasi rute & lainnya. Rencanakan perjalanan lebih cerdas hari ini!",
@@ -839,6 +839,19 @@
         "meta_title": "Kalkulator BBM Gratis - MPG & L/100km",
         "meta_description": "Hitung efisiensi bahan bakar secara instan! Kalkulator konsumsi BBM gratis dengan MPG, L/100km, analisis biaya & dukungan multi mata uang. Cocok untuk semua kendaraan.",
         "meta_keyword": "kalkulator konsumsi bahan bakar, kalkulator bbm, kalkulator efisiensi bahan bakar, kalkulator jarak tempuh, kalkulator bensin, kalkulator solar, kalkulator biaya bbm, konsumsi bahan bakar mobil, kalkulator mpg indonesia, kalkulator l/100km, efisiensi bahan bakar kendaraan, hitung konsumsi bbm, kalkulator irit bbm, kalkulator pertalite, kalkulator pertamax, analisis biaya bahan bakar, tracker konsumsi bbm, kalkulator bbm motor, kalkulator bbm mobil, kalkulator bbm truk, estimasi biaya perjalanan, kalkulator kilometer per liter, penghematan bahan bakar, kalkulator bbm online gratis, aplikasi hitung bbm, tools efisiensi bahan bakar, kalkulator konsumsi bensin, kalkulator konsumsi solar, perbandingan konsumsi bbm, analisis efisiensi kendaraan, kalkulator biaya operasional kendaraan, monitor konsumsi bahan bakar, kalkulator bbm akurat, estimator konsumsi bahan bakar, meter efisiensi bbm, formula konsumsi bahan bakar, konverter konsumsi bbm, perbandingan efisiensi bbm, analisis konsumsi bahan bakar, biaya bbm per kilometer, biaya bbm per mil, hitung mpg online, hitung efisiensi bahan bakar, efisiensi bbm kendaraan, kalkulator jarak tempuh mobil, kalkulator bbm motor, kalkulator bbm hibrid",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Kalkulator Biaya Perjalanan",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Biaya Perjalanan Gratis - Alat Budget Wisata",
+        "meta_description": "Hitung biaya perjalanan instan! Kalkulator budget wisata gratis dengan dukungan multi mata uang, kategori pengeluaran & total real-time. Rencanakan perjalanan sempurna Anda.",
+        "meta_keyword": "kalkulator perjalanan, kalkulator biaya perjalanan, kalkulator budget wisata, kalkulator biaya liburan, kalkulator pengeluaran travel, alat perencanaan wisata, perencana budget perjalanan, estimator biaya wisata, kalkulator perjalanan gratis, kalkulator wisata online, alat budget perjalanan, perencanaan liburan, kalkulator multi mata uang, estimator biaya travel, perencanaan perjalanan Indonesia",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Calculatoare Transport",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Calculatoare Transport - Instrumente Gratuite Călătorie",
         "meta_description": "Colecție completă calculatoare transport gratuite: consum combustibil, costuri călătorie, emisii carbon, optimizare rute și mai mult. Planifică călătorii inteligent astăzi!",
@@ -838,6 +838,19 @@
         "meta_title": "Calculator Combustibil Gratuit - MPG & L/100km",
         "meta_description": "Calculează eficiența combustibilului instant! Calculator gratuit de consum cu MPG, L/100km, analiză costuri și suport multi-valută. Funcționează pentru toate vehiculele.",
         "meta_keyword": "calculator consum combustibil, calculator benzină, calculator eficiență combustibil, calculator mpg, calculator l/100km, calculator cost combustibil, consum combustibil mașină, calculator motorină, eficiență combustibil vehicul, calculare consum benzină, calculator economie combustibil, calculator benzină 95, calculator benzină 98, analiză costuri combustibil, urmărire consum combustibil, calculator combustibil motocicletă, calculator combustibil mașină, calculator combustibil camion, estimare costuri călătorie, calculator kilometri pe litru, economie combustibil, calculator combustibil online gratuit, aplicație calculare combustibil, instrument eficiență combustibil, calculator consum benzină, calculator consum motorină, comparație consum combustibil, analiză eficiență vehicul, calculator costuri operaționale vehicul, monitor consum combustibil, calculator combustibil precis, estimator consum combustibil, măsurător eficiență combustibil, formulă consum combustibil, convertor consum combustibil, comparație eficiență combustibil, analiză consum combustibil, cost combustibil pe kilometru, cost combustibil pe milă, calculare mpg online, calculare eficiență combustibil, eficiență combustibil vehicul, calculator autonomie mașină",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Calculator Costuri Călătorie",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Costuri Călătorie Gratuit - Planificator Buget",
+        "meta_description": "Calculați costurile călătoriei instant! Calculator buget gratuit cu suport multi-valută, categorii cheltuieli și totaluri în timp real. Planificați călătoria perfectă.",
+        "meta_keyword": "calculator călătorie, calculator costuri călătorie, calculator buget călătorie, calculator costuri vacanță, calculator cheltuieli călătorie, instrument planificare călătorie, planificator buget călătorie, estimator costuri călătorie, calculator călătorie gratuit, calculator călătorie online, instrument buget călătorie, planificare vacanțe România",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

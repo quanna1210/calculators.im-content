@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Kalkulačky dopravy",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Kalkulačky dopravy - Bezplatné nástroje pro cestování a náklady",
         "meta_description": "Kompletní kolekce bezplatných kalkulaček dopravy: spotřeba paliva, náklady na cestování, emise uhlíku, optimalizace tras a další. Plánujte chytřeji ještě dnes!",
@@ -838,6 +838,19 @@
         "meta_title": "Kalkulačka Paliva Zdarma - MPG & L/100km",
         "meta_description": "Vypočítejte efektivitu paliva okamžitě! Bezplatná kalkulačka spotřeby paliva s MPG, L/100km, analýzou nákladů a podporou více měn. Funguje pro všechna vozidla.",
         "meta_keyword": "kalkulačka spotřeby paliva, kalkulačka benzínu, kalkulačka efektivity paliva, kalkulačka spotřeby, kalkulačka mpg, kalkulačka l/100km, kalkulačka nákladů na palivo, spotřeba paliva auto, kalkulačka diesel, efektivita paliva vozidla, výpočet spotřeby paliva, kalkulačka úspory paliva, kalkulačka natural 95, kalkulačka natural 98, analýza nákladů paliva, sledování spotřeby paliva, kalkulačka paliva motocykl, kalkulačka paliva auto, kalkulačka paliva nákladní, odhad nákladů cesty, kalkulačka kilometrů na litr, úspora paliva, kalkulačka paliva online zdarma, aplikace výpočet paliva, nástroj efektivity paliva, kalkulačka spotřeby benzínu, kalkulačka spotřeby nafty, porovnání spotřeby paliva, analýza efektivity vozidla, kalkulačka provozních nákladů vozidla, monitor spotřeby paliva, přesná kalkulačka paliva, estimátor spotřeby paliva, měřič efektivity paliva, vzorec spotřeby paliva, převodník spotřeby paliva, porovnání efektivity paliva, analýza spotřeby paliva, náklady paliva na kilometr, náklady paliva na míli, výpočet mpg online, výpočet efektivity paliva, efektivita paliva vozidla, kalkulačka dojezdu auta",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Kalkulačka Nákladů na Cestování",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Nákladů Cestování - Plánovač Rozpočtu Zdarma",
+        "meta_description": "Vypočítejte náklady na cestování okamžitě! Bezplatná kalkulačka rozpočtu s podporou více měn, kategoriemi výdajů a součty v reálném čase. Naplánujte si dokonalou cestu.",
+        "meta_keyword": "kalkulačka cestování, kalkulačka nákladů cestování, kalkulačka rozpočtu cestování, kalkulačka nákladů dovolené, kalkulačka výdajů cestování, nástroj plánování cestování, plánovač rozpočtu cestování, odhad nákladů cestování, kalkulačka cestování zdarma, online kalkulačka cestování, nástroj rozpočtu cestování, plánování dovolené Česko",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

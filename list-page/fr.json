@@ -819,9 +819,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Calculateurs de Transport",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Calculateurs de Transport - Outils de Voyage et Coût Gratuits",
         "meta_description": "Collection complète de calculateurs de transport gratuits : consommation de carburant, coûts de voyage, émissions carbone, optimisation d'itinéraires et plus. Planifiez intelligemment dès aujourd'hui !",
@@ -839,6 +839,19 @@
         "meta_title": "Calculateur Carburant Gratuit - MPG & L/100km",
         "meta_description": "Calculez l'efficacité carburant instantanément! Calculateur gratuit de consommation avec MPG, L/100km, analyse des coûts et support multi-devises. Fonctionne pour tous véhicules.",
         "meta_keyword": "calculateur consommation carburant, calculateur essence, calculateur efficacité carburant, calculateur mpg, calculateur l/100km, calculateur coût carburant, consommation carburant voiture, calculateur diesel, efficacité carburant véhicule, calculer consommation essence, calculateur économie carburant, calculateur sp95, calculateur sp98, analyse coûts carburant, suivi consommation carburant, calculateur carburant moto, calculateur carburant voiture, calculateur carburant camion, estimation coûts voyage, calculateur kilomètres par litre, économie carburant, calculateur carburant en ligne gratuit, app calculer carburant, outil efficacité carburant, calculateur consommation essence, calculateur consommation gasoil, comparaison consommation carburant, analyse efficacité véhicule, calculateur coûts opérationnels véhicule, moniteur consommation carburant, calculateur carburant précis, estimateur consommation carburant, compteur efficacité carburant, formule consommation carburant, convertisseur consommation carburant, comparaison efficacité carburant, analyse consommation carburant, coût carburant par kilomètre, coût carburant par mile, calculer mpg en ligne, calculer efficacité carburant, efficacité carburant véhicule, calculateur autonomie voiture",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Calculateur de Coûts de Voyage",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculateur Coûts Voyage Gratuit - Planificateur Budget",
+        "meta_description": "Calculez les coûts de voyage instantanément! Calculateur de budget gratuit avec support multi-devises, catégories de dépenses et totaux en temps réel. Planifiez votre voyage parfait.",
+        "meta_keyword": "calculateur voyage, calculateur coûts voyage, calculateur budget voyage, calculateur coûts vacances, calculateur dépenses voyage, outil planification voyage, planificateur budget voyage, estimateur coûts voyage, calculateur voyage gratuit, calculateur voyage en ligne, outil budget voyage, planification vacances France",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

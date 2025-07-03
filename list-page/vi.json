@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Máy Tính Giao Thông",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Máy Tính Giao Thông - Công Cụ Du Lịch & Chi Phí Miễn Phí",
         "meta_description": "Bộ sưu tập hoàn chỉnh máy tính giao thông miễn phí: tiêu thụ nhiên liệu, chi phí du lịch, khí thải carbon, tối ưu tuyến đường & nhiều hơn. Lập kế hoạch du lịch thông minh ngay!",
@@ -838,6 +838,19 @@
         "meta_title": "Máy Tính Xăng Dầu Miễn Phí - MPG & L/100km",
         "meta_description": "Tính toán hiệu suất nhiên liệu ngay lập tức! Máy tính tiêu thụ xăng dầu miễn phí với MPG, L/100km, phân tích chi phí & hỗ trợ đa tiền tệ. Dùng cho mọi xe.",
         "meta_keyword": "máy tính tiêu thụ nhiên liệu, máy tính xăng dầu, máy tính hiệu suất nhiên liệu, máy tính km/lít, tính toán tiêu hao xăng, máy tính chi phí xăng dầu, tiêu thụ nhiên liệu xe máy, tiêu thụ nhiên liệu ô tô, máy tính mpg việt nam, máy tính l/100km, hiệu suất nhiên liệu xe, tính tiêu thụ xăng dầu, máy tính tiết kiệm xăng, máy tính xăng ron 95, máy tính xăng ron 92, phân tích chi phí nhiên liệu, theo dõi tiêu thụ xăng, máy tính xăng xe máy, máy tính xăng ô tô, máy tính xăng xe tải, ước tính chi phí đi lại, máy tính km trên lít, tiết kiệm nhiên liệu, máy tính xăng dầu online miễn phí, ứng dụng tính xăng dầu, công cụ hiệu suất nhiên liệu, máy tính tiêu thụ xăng, máy tính tiêu thụ dầu diesel, so sánh tiêu thụ xăng dầu, phân tích hiệu suất xe, máy tính chi phí vận hành xe, giám sát tiêu thụ nhiên liệu, máy tính xăng dầu chính xác, ước lượng tiêu thụ nhiên liệu, đồng hồ hiệu suất xăng dầu, công thức tiêu thụ nhiên liệu, chuyển đổi tiêu thụ xăng dầu, so sánh hiệu suất xăng dầu, phân tích tiêu thụ nhiên liệu, chi phí xăng dầu mỗi km, chi phí xăng dầu mỗi dặm, tính mpg online, tính hiệu suất nhiên liệu, hiệu suất xăng dầu xe, máy tính quãng đường xe",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Máy Tính Chi Phí Du Lịch",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Chi Phí Du Lịch Miễn Phí - Lập Kế Hoạch Budget",
+        "meta_description": "Tính chi phí du lịch ngay lập tức! Máy tính ngân sách chuyến đi miễn phí với hỗ trợ đa tiền tệ, danh mục chi phí & tổng thời gian thực. Lên kế hoạch chuyến đi hoàn hảo.",
+        "meta_keyword": "máy tính du lịch, tính chi phí du lịch, máy tính ngân sách du lịch, tính tiền đi du lịch, chi phí chuyến đi, lập kế hoạch du lịch, máy tính budget du lịch, ước tính chi phí du lịch, máy tính du lịch miễn phí, công cụ tính chi phí du lịch, kế hoạch ngân sách du lịch, máy tính đa tiền tệ, chi phí du lịch Việt Nam",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

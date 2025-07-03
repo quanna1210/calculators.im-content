@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Calculadoras de Transporte",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Calculadoras de Transporte - Ferramentas Gratuitas de Viagem",
         "meta_description": "Coleção completa de calculadoras de transporte gratuitas: consumo combustível, custos viagem, emissões carbono, otimização rotas e mais. Planeje viagens inteligentes hoje!",
@@ -838,6 +838,19 @@
         "meta_title": "Calculadora Combustível Grátis - MPG & L/100km",
         "meta_description": "Calcule a eficiência do combustível instantaneamente! Calculadora gratuita de consumo com MPG, L/100km, análise de custos e suporte multi-moeda. Funciona para todos os veículos.",
         "meta_keyword": "calculadora consumo combustível, calculadora gasolina, calculadora eficiência combustível, calculadora mpg, calculadora l/100km, calculadora custo combustível, consumo combustível carro, calculadora diesel, eficiência combustível veículo, calcular consumo gasolina, calculadora economia combustível, calculadora gasolina comum, calculadora gasolina aditivada, análise custos combustível, acompanhamento consumo combustível, calculadora combustível moto, calculadora combustível carro, calculadora combustível caminhão, estimativa custos viagem, calculadora quilômetros por litro, economia combustível, calculadora combustível online grátis, app calcular combustível, ferramenta eficiência combustível, calculadora consumo gasolina, calculadora consumo óleo diesel, comparação consumo combustível, análise eficiência veículo, calculadora custos operacionais veículo, monitor consumo combustível, calculadora combustível precisa, estimador consumo combustível, medidor eficiência combustível, fórmula consumo combustível, conversor consumo combustível, comparação eficiência combustível, análise consumo combustível, custo combustível por quilômetro, custo combustível por milha, calcular mpg online, calcular eficiência combustível, eficiência combustível veículo, calculadora autonomia carro",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Calculadora de Custos de Viagem",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Custos Viagem Grátis - Planejador Orçamento",
+        "meta_description": "Calcule custos de viagem instantaneamente! Calculadora de orçamento gratuita com suporte multi-moeda, categorias de gastos e totais em tempo real. Planeje sua viagem perfeita.",
+        "meta_keyword": "calculadora viagem, calculadora custos viagem, calculadora orçamento viagem, calculadora custos férias, calculadora gastos viagem, ferramenta planejamento viagem, planejador orçamento viagem, estimador custos viagem, calculadora viagem grátis, calculadora viagem online, ferramenta orçamento viagem, planejamento férias Portugal",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

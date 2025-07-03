@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Kalkulator Pengangkutan",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Kalkulator Pengangkutan - Alat Perjalanan & Kos Percuma",
         "meta_description": "Koleksi lengkap kalkulator pengangkutan percuma: penggunaan bahan api, kos perjalanan, pelepasan karbon, pengoptimuman laluan & lagi. Rancang perjalanan bijak hari ini!",
@@ -838,6 +838,19 @@
         "meta_title": "Kalkulator Minyak Percuma - MPG & L/100km",
         "meta_description": "Kira kecekapan bahan api serta-merta! Kalkulator penggunaan minyak percuma dengan MPG, L/100km, analisis kos & sokongan pelbagai mata wang. Sesuai untuk semua kenderaan.",
         "meta_keyword": "kalkulator penggunaan bahan api, kalkulator minyak, kalkulator kecekapan bahan api, kalkulator jarak tempuh, kalkulator petrol, kalkulator diesel, kalkulator kos minyak, penggunaan bahan api kereta, kalkulator mpg malaysia, kalkulator l/100km, kecekapan bahan api kenderaan, kira penggunaan minyak, kalkulator jimat minyak, kalkulator ron 95, kalkulator ron 97, analisis kos bahan api, penjejak penggunaan minyak, kalkulator minyak motor, kalkulator minyak kereta, kalkulator minyak lori, anggaran kos perjalanan, kalkulator kilometer per liter, penjimatan bahan api, kalkulator minyak online percuma, aplikasi kira minyak, alat kecekapan bahan api, kalkulator penggunaan petrol, kalkulator penggunaan diesel, perbandingan penggunaan minyak, analisis kecekapan kenderaan, kalkulator kos operasi kenderaan, monitor penggunaan bahan api, kalkulator minyak tepat, penganggar penggunaan bahan api, meter kecekapan minyak, formula penggunaan bahan api, penukar penggunaan minyak, perbandingan kecekapan minyak, analisis penggunaan bahan api, kos minyak per kilometer, kos minyak per batu, kira mpg online, kira kecekapan bahan api, kecekapan minyak kenderaan, kalkulator jarak kereta",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Kalkulator Kos Perjalanan",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Kos Perjalanan Percuma - Alat Rancang Budget",
+        "meta_description": "Kira kos perjalanan serta-merta! Kalkulator bajet perjalanan percuma dengan sokongan pelbagai mata wang, kategori perbelanjaan & jumlah masa nyata. Rancang perjalanan sempurna.",
+        "meta_keyword": "kalkulator perjalanan, kalkulator kos perjalanan, kalkulator bajet perjalanan, kalkulator kos percutian, kalkulator perbelanjaan perjalanan, alat perancang perjalanan, perancang bajet perjalanan, penganggar kos perjalanan, kalkulator perjalanan percuma, kalkulator perjalanan online, alat bajet perjalanan, perancangan percutian Malaysia",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

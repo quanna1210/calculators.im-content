@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Transport Rekenmachines",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Transport Rekenmachines - Gratis Reis & Kosten Tools",
         "meta_description": "Complete collectie gratis transport rekenmachines: brandstofverbruik, reiskosten, koolstofuitstoot, route optimalisatie & meer. Plan slimmer reizen vandaag!",
@@ -838,6 +838,19 @@
         "meta_title": "Brandstof Calculator Gratis - MPG & L/100km",
         "meta_description": "Bereken brandstofefficiëntie direct! Gratis verbruikscalculator met MPG, L/100km, kostenanalyse & multi-valuta ondersteuning. Werkt voor alle voertuigen.",
         "meta_keyword": "brandstofverbruik calculator, benzine calculator, brandstofefficiëntie calculator, verbruik calculator, mpg calculator, l/100km calculator, brandstofkosten calculator, brandstofverbruik auto, diesel calculator, brandstofefficiëntie voertuig, brandstofverbruik berekenen, brandstof besparing calculator, euro 95 calculator, euro 98 calculator, brandstofkosten analyse, verbruik bijhouden, brandstof calculator motor, brandstof calculator auto, brandstof calculator vrachtwagen, reiskosten schatting, kilometer per liter calculator, brandstof besparen, brandstof calculator online gratis, app brandstofverbruik, brandstofefficiëntie tool, benzineverbruik calculator, dieselverbruik calculator, brandstofverbruik vergelijking, voertuig efficiëntie analyse, operationele kosten calculator voertuig, brandstofverbruik monitor, nauwkeurige brandstof calculator, brandstofverbruik schatting, brandstofefficiëntie meter, brandstofverbruik formule, brandstofverbruik omrekenen, brandstofefficiëntie vergelijking, brandstofverbruik analyse, brandstofkosten per kilometer, brandstofkosten per mijl, mpg online berekenen, brandstofefficiëntie berekenen, voertuig brandstofefficiëntie, auto bereik calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Reiskosten Calculator",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Gratis Reiskosten Calculator - Budget Planner Tool",
+        "meta_description": "Bereken reiskosten direct! Gratis budget calculator met multi-valuta ondersteuning, uitgavencategorieën en real-time totalen. Plan uw perfecte reis vandaag.",
+        "meta_keyword": "reiskosten calculator, reis calculator, budget calculator reis, vakantiekosten calculator, reiskosten berekenen, reisverzekeringen nederland, budget planner reis, reiskosten schatting, gratis reis calculator, online reiskosten calculator, reis budget tool, vakantieplanning Nederland, reiskosten berekenen online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

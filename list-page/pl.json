@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Kalkulatory Transportowe",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Kalkulatory Transportowe - Darmowe Narzędzia Podróży",
         "meta_description": "Kompletna kolekcja darmowych kalkulatorów transportowych: zużycie paliwa, koszty podróży, emisje CO2, optymalizacja tras i więcej. Planuj mądrzej już dziś!",
@@ -838,6 +838,19 @@
         "meta_title": "Kalkulator Paliwa Za Darmo - MPG & L/100km",
         "meta_description": "Oblicz efektywność paliwa natychmiast! Darmowy kalkulator zużycia z MPG, L/100km, analizą kosztów i obsługą wielu walut. Działa dla wszystkich pojazdów.",
         "meta_keyword": "kalkulator zużycia paliwa, kalkulator benzyny, kalkulator efektywności paliwa, kalkulator spalania, kalkulator mpg, kalkulator l/100km, kalkulator kosztów paliwa, zużycie paliwa samochód, kalkulator diesla, efektywność paliwa pojazd, oblicz zużycie paliwa, kalkulator oszczędności paliwa, kalkulator pb95, kalkulator pb98, analiza kosztów paliwa, śledzenie zużycia paliwa, kalkulator paliwa motocykl, kalkulator paliwa samochód, kalkulator paliwa ciężarówka, szacowanie kosztów podróży, kalkulator kilometrów na litr, oszczędność paliwa, kalkulator paliwa online za darmo, aplikacja obliczania paliwa, narzędzie efektywności paliwa, kalkulator zużycia benzyny, kalkulator zużycia oleju napędowego, porównanie zużycia paliwa, analiza efektywności pojazdu, kalkulator kosztów operacyjnych pojazdu, monitor zużycia paliwa, dokładny kalkulator paliwa, estymator zużycia paliwa, miernik efektywności paliwa, wzór zużycia paliwa, konwerter zużycia paliwa, porównanie efektywności paliwa, analiza zużycia paliwa, koszt paliwa na kilometr, koszt paliwa na milę, oblicz mpg online, oblicz efektywność paliwa, efektywność paliwa pojazdu, kalkulator zasięgu samochodu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Kalkulator Kosztów Podróży",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Darmowy Kalkulator Kosztów Podróży - Planer Budżetu",
+        "meta_description": "Oblicz koszty podróży natychmiast! Darmowy kalkulator budżetu z obsługą wielu walut, kategoriami wydatków i sumami w czasie rzeczywistym. Zaplanuj idealną podróż.",
+        "meta_keyword": "kalkulator podróży, kalkulator kosztów podróży, kalkulator budżetu podróży, kalkulator kosztów wakacji, kalkulator wydatków podróży, narzędzie planowania podróży, planer budżetu podróży, estymator kosztów podróży, darmowy kalkulator podróży, online kalkulator podróży, narzędzie budżetu podróży, planowanie wakacji Polska",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

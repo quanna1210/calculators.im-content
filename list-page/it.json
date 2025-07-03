@@ -819,9 +819,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Calcolatrici di Trasporto",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Calcolatrici di Trasporto - Strumenti Gratuiti di Viaggio",
         "meta_description": "Collezione completa di calcolatrici di trasporto gratuite: consumo carburante, costi viaggio, emissioni carbonio, ottimizzazione percorsi e altro. Pianifica viaggi intelligenti oggi!",
@@ -839,6 +839,19 @@
         "meta_title": "Calcolatore Carburante Gratis - MPG & L/100km",
         "meta_description": "Calcola l'efficienza carburante istantaneamente! Calcolatore gratuito consumo con MPG, L/100km, analisi costi e supporto multi-valuta. Funziona per tutti i veicoli.",
         "meta_keyword": "calcolatore consumo carburante, calcolatore benzina, calcolatore efficienza carburante, calcolatore mpg, calcolatore l/100km, calcolatore costo carburante, consumo carburante auto, calcolatore diesel, efficienza carburante veicolo, calcolare consumo benzina, calcolatore risparmio carburante, calcolatore benzina verde, calcolatore benzina super, analisi costi carburante, monitoraggio consumo carburante, calcolatore carburante moto, calcolatore carburante auto, calcolatore carburante camion, stima costi viaggio, calcolatore chilometri per litro, risparmio carburante, calcolatore carburante online gratuito, app calcolare carburante, strumento efficienza carburante, calcolatore consumo benzina, calcolatore consumo gasolio, confronto consumo carburante, analisi efficienza veicolo, calcolatore costi operativi veicolo, monitor consumo carburante, calcolatore carburante preciso, stimatore consumo carburante, misuratore efficienza carburante, formula consumo carburante, convertitore consumo carburante, confronto efficienza carburante, analisi consumo carburante, costo carburante per chilometro, costo carburante per miglio, calcolare mpg online, calcolare efficienza carburante, efficienza carburante veicolo, calcolatore autonomia auto",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Calcolatore Costi di Viaggio",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Costi Viaggio Gratuito - Pianificatore Budget",
+        "meta_description": "Calcola i costi di viaggio istantaneamente! Calcolatore budget gratuito con supporto multi-valuta, categorie spese e totali in tempo reale. Pianifica il tuo viaggio perfetto.",
+        "meta_keyword": "calcolatore viaggio, calcolatore costi viaggio, calcolatore budget viaggio, calcolatore costi vacanza, calcolatore spese viaggio, strumento pianificazione viaggio, pianificatore budget viaggio, stimatore costi viaggio, calcolatore viaggio gratuito, calcolatore viaggio online, strumento budget viaggio, pianificazione vacanze Italia",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

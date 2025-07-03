@@ -818,9 +818,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Transport-Rechner",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Transport-Rechner - Kostenlose Reise- & Kostentools",
         "meta_description": "Vollständige Sammlung kostenloser Transport-Rechner: Kraftstoffverbrauch, Reisekosten, CO2-Emissionen, Routenoptimierung & mehr. Planen Sie heute intelligenter!",
@@ -838,6 +838,19 @@
         "meta_title": "Spritrechner Kostenlos - MPG & L/100km",
         "meta_description": "Kraftstoffeffizienz sofort berechnen! Kostenloser Verbrauchsrechner mit MPG, L/100km, Kostenanalyse & Multi-Währungsunterstützung. Funktioniert für alle Fahrzeuge.",
         "meta_keyword": "kraftstoffverbrauch rechner, spritrechner, kraftstoffeffizienz rechner, verbrauchsrechner, mpg rechner, l/100km rechner, spritkosten rechner, kraftstoffverbrauch auto, diesel rechner, kraftstoffeffizienz fahrzeug, kraftstoffverbrauch berechnen, sprit sparen rechner, benzin rechner, super 95 rechner, super plus rechner, kraftstoffkosten analyse, verbrauch überwachen, spritrechner motorrad, spritrechner auto, spritrechner lkw, reisekosten schätzen, kilometer pro liter rechner, kraftstoff sparen, spritrechner online kostenlos, app kraftstoffverbrauch, kraftstoffeffizienz tool, benzinverbrauch rechner, dieselverbrauch rechner, kraftstoffverbrauch vergleich, fahrzeugeffizienz analyse, betriebskosten rechner fahrzeug, kraftstoffverbrauch monitor, genauer spritrechner, kraftstoffverbrauch schätzer, kraftstoffeffizienz messer, kraftstoffverbrauch formel, kraftstoffverbrauch umrechner, kraftstoffeffizienz vergleich, kraftstoffverbrauch analyse, kraftstoffkosten pro kilometer, kraftstoffkosten pro meile, mpg online berechnen, kraftstoffeffizienz berechnen, fahrzeug kraftstoffeffizienz, auto reichweite rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Reisekosten Rechner",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Kostenloser Reisekosten Rechner - Budget Planer Tool",
+        "meta_description": "Reisekosten sofort berechnen! Kostenloser Budget-Rechner mit Multi-Währungsunterstützung, Ausgabenkategorien und Echtzeit-Summen. Planen Sie Ihre perfekte Reise.",
+        "meta_keyword": "reisekosten rechner, reise rechner, budget rechner reise, urlaubskosten rechner, reisekosten kalkulator, reiseplaner tool, budget planer reise, reisekosten schätzer, kostenloser reise rechner, online reisekosten rechner, reise budget tool, urlaubsplanung Deutschland, reisekosten berechnen",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

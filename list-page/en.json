@@ -841,5 +841,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Travel Cost Calculator",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Free Travel Cost Calculator - Trip Budget Planner Tool",
+        "meta_description": "Calculate travel costs instantly! Free trip budget calculator with multi-currency support, expense categories & real-time totals. Plan your perfect trip today.",
+        "meta_keyword": "travel calculator, trip cost calculator, travel budget calculator, vacation cost calculator, travel expense calculator, travel planner tool, trip budget planner, vacation budget planner, travel cost estimator, trip expense calculator, free travel calculator, online travel calculator, travel budget tool, trip planning calculator, vacation planning tool, travel cost planner, multi currency travel calculator, international travel calculator, travel budget estimator, trip cost estimator tool, travel expense planner online, vacation cost planning tool, travel budget calculator free, trip expense planning calculator, comprehensive travel cost calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -819,9 +819,9 @@
     },
     {
         "id": "65",
-        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Közlekedési Kalkulátorok",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Közlekedési Kalkulátorok - Ingyenes Utazási Eszközök",
         "meta_description": "Teljes ingyenes közlekedési kalkulátor gyűjtemény: üzemanyag-fogyasztás, utazási költségek, szén-dioxid kibocsátás, útvonal optimalizálás és több. Tervezzen okosan ma!",
@@ -839,6 +839,19 @@
         "meta_title": "Üzemanyag Kalkulátor Ingyen - MPG & L/100km",
         "meta_description": "Számítsa ki az üzemanyag-hatékonyságot azonnal! Ingyenes fogyasztás kalkulátor MPG, L/100km, költségelemzés és többvaluta támogatással. Minden járműhöz használható.",
         "meta_keyword": "üzemanyag-fogyasztás kalkulátor, benzin kalkulátor, üzemanyag-hatékonyság kalkulátor, fogyasztás kalkulátor, mpg kalkulátor, l/100km kalkulátor, üzemanyagköltség kalkulátor, üzemanyag-fogyasztás autó, dízel kalkulátor, üzemanyag-hatékonyság jármű, üzemanyag-fogyasztás számítás, üzemanyag-takarékosság kalkulátor, 95-ös benzin kalkulátor, 98-as benzin kalkulátor, üzemanyagköltség elemzés, fogyasztás követés, üzemanyag kalkulátor motor, üzemanyag kalkulátor autó, üzemanyag kalkulátor teherautó, utazási költség becslés, kilométer per liter kalkulátor, üzemanyag-takarékosság, üzemanyag kalkulátor online ingyen, app üzemanyag számítás, üzemanyag-hatékonyság eszköz, benzinfogyasztás kalkulátor, dízelfogyasztás kalkulátor, üzemanyag-fogyasztás összehasonlítás, jármű hatékonyság elemzés, üzemeltetési költség kalkulátor jármű, üzemanyag-fogyasztás monitor, pontos üzemanyag kalkulátor, üzemanyag-fogyasztás becslő, üzemanyag-hatékonyság mérő, üzemanyag-fogyasztás képlet, üzemanyag-fogyasztás átváltó, üzemanyag-hatékonyság összehasonlítás, üzemanyag-fogyasztás elemzés, üzemanyagköltség kilométerenként, üzemanyagköltség mérföldenként, mpg online számítás, üzemanyag-hatékonyság számítás, jármű üzemanyag-hatékonyság, autó hatótáv kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "67",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-cost-calculator.jpg",
+        "title": "Utazási Költség Kalkulátor",
+        "slug": "travel-cost-calculator",
+        "parent_id": "65",
+        "meta_title": "Ingyenes Utazási Költség Kalkulátor - Költségvetés Tervező",
+        "meta_description": "Számítsa ki az utazási költségeket azonnal! Ingyenes költségvetés kalkulátor több pénznem támogatással, kiadási kategóriákkal és valós idejű összegekkel.",
+        "meta_keyword": "utazási kalkulátor, utazási költség kalkulátor, utazási költségvetés kalkulátor, nyaralási költség kalkulátor, utazási kiadás kalkulátor, utazástervező eszköz, költségvetés tervező utazás, utazási költség becslő, ingyenes utazási kalkulátor, online utazási kalkulátor, utazási költségvetés eszköz, nyaralástervezés Magyarország",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
