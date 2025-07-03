@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Input Data",
+        "Results",
+        "Distance Traveled",
+        "Fuel Used",
+        "Fuel Price (Optional)",
+        "Kilometers",
+        "Miles",
+        "Liters",
+        "Gallons (US)",
+        "Gallons (UK)",
+        "Enter distance",
+        "Enter fuel amount",
+        "Enter price per unit",
+        "Efficiency Rating",
+        "Cost Analysis",
+        "Cost per 100km",
+        "Cost per mile",
+        "Excellent",
+        "Good",
+        "Average",
+        "Poor",
+        "Tips to Improve Fuel Efficiency",
+        "Maintain steady speeds and avoid rapid acceleration",
+        "Keep tires properly inflated",
+        "Remove excess weight from your vehicle",
+        "Regular maintenance and tune-ups",
+        "Enter distance and fuel data to see results",
+        "Reset all inputs"
+    ]
+}

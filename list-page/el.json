@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "Υπολογιστής Υποθηκών",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Υπολογιστής Αποπληρωμής Δανείου",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "Υπολογιστής Πληρωμών",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "Υπολογιστής Τόκων",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "Υπολογιστής Ποσοστών",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "Υπολογιστής Περιμέτρου",
         "slug": "perinander-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "Υπολογιστής Εμβαδού",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "Οικονομικές Αριθμομηχανές",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "Μαθηματικές Αριθμομηχανές",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Υπολογιστής Δανείου Προκαθορισμένου Ποσού",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -142,7 +142,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "Επιστημονικός Υπολογιστής",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "Υπολογιστής Όγκου",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "Άλλες Αριθμομηχανές",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "Υπολογιστής Ηλικίας",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +194,7 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "Υπολογιστής Ημερομηνιών",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "Υπολογιστής Χρόνου",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "Υπολογιστής Ωρών",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "Υπολογιστής Κλασμάτων",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "Υπολογιστής Μικτών Αριθμών",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "Αριθμομηχανές Υγείας & Φυσικής Κατάστασης",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "Υπολογιστής BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "Υπολογιστής BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Υπολογιστής Ποσοστού Λίπους Σώματος",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "Μετατροπέας Μονάδων",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "Υπολογιστής Πρώτων Αριθμών",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "Χρονοδιακόπτης Αντίστροφης Μέτρησης",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Γεννήτρια Κωδικών Πρόσβασης",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "Υπολογιστής TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "Μετατροπέας Δεδομένων",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -389,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "Υπολογιστής Θερμίδων",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -402,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "Μετατροπέας Νομισμάτων",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -415,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "Ελεγκτής Δίσεκτου Έτους",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -428,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "Κανάλι Καιρού",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Υπολογιστής Ημερομηνίας Τοκετού",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -454,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Υπολογιστής Συγκέντρωσης Αλκοόλ στο Αίμα (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-leap-year-checker.jpg",
         "title": "Υπολογιστής Ζωδίων",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -480,7 +480,7 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "Χρονοδιακόπτης Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -493,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "Γεννήτρια Κωδικών QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "Υπολογιστής Παραγώγου",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -519,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
         "title": "Υπολογιστής Λογαρίθμων",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Υπολογιστής Ρυθμού Τρεξίματος",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "Μηχανικοί Υπολογιστές",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,7 +558,7 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "Υπολογιστής Ηλεκτρικής Ισχύος",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "Υπολογιστής Αντίστασης",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "Αριθμομηχανή Δύναμης",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,7 +597,7 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "Υπολογιστής Ταχύτητας",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -610,7 +610,7 @@
     },
     {
         "id": "49",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "Αριθμομηχανή Πίεσης",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -623,7 +623,7 @@
     },
     {
         "id": "50",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
         "title": "Υπολογιστής Ροπής",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,13 +636,13 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Υπολογιστής Αντοχής Υλικών",
         "slug": "material-strength-calculator",
         "parent_id": "44",
-        "meta_title": "Υπολογιστής Αντοχής Υλικών | Υπολογισμός Τάσεων",
-        "meta_description": "Υπολογίστε την αντοχή υλικών, τάσεις και συντελεστή ασφαλείας με δωρεάν online υπολογιστή. Ανάλυση εφελκυσμού, θλίψης, διάτμησης και κάμψης δοκού.",
-        "meta_keyword": "υπολογιστής αντοχής υλικών, υπολογιστής τάσεων, υπολογιστής εφελκυσμού, υπολογιστής θλίψης, υπολογιστής διάτμησης, κάμψη δοκού, ανάλυση υλικών, συντελεστής ασφαλείας, αντοχή χάλυβα, αντοχή αλουμινίου, αντοχή σκυροδέματος",
+        "meta_title": "Υπολογιστής Αντοχής Υλικών - Δωρεάν | Calculators",
+        "meta_description": "Υπολογίστε εφελκυστική, θλιπτική, διατμητική αντοχή και τάση κάμψης δοκού για 20+ υλικά. Δωρεάν με ανάλυση συντελεστή ασφαλείας.",
+        "meta_keyword": "υπολογιστής υλικών, υπολογιστής αντοχής, υπολογιστής τάσης, εφελκυστική αντοχή, τάση υλικού, υπολογιστής δοκού, συντελεστής ασφαλείας, μηχανικό εργαλείο, δομική ανάλυση, δοκιμή υλικών, υπολογιστής αντοχής υλικών online, υπολογιστής εφελκυστικής αντοχής δωρεάν, εργαλείο υπολογιστή θλιπτικής αντοχής, υπολογισμός διατμητικής αντοχής online, υπολογιστής τάσης κάμψης δοκού, υπολογιστής ιδιοτήτων υλικών δωρεάν, εργαλείο μηχανικής ανάλυσης τάσης, υπολογιστής δομικών υλικών online, υπολογιστής δοκιμής υλικών δωρεάν, υπολογιστής συντελεστή ασφαλείας online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -820,7 +820,7 @@
         "id": "65",
         "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Υπολογιστές Μεταφορών",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Υπολογιστές Μεταφορών - Δωρεάν Εργαλεία Ταξιδιού",
         "meta_description": "Πλήρης συλλογή δωρεάν υπολογιστών μεταφορών: κατανάλωση καυσίμου, κόστος ταξιδιού, εκπομπές άνθρακα, βελτιστοποίηση διαδρομής και άλλα. Σχεδιάστε έξυπνα ταξίδια σήμερα!",
@@ -828,5 +828,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "2"
+    },
+    {
+        "id": "66",
+        "thumb": "https://static.calculators.im/upload/thumb/fuel-consumption-calculator.jpg",
+        "title": "Υπολογιστής Κατανάλωσης Καυσίμου",
+        "slug": "fuel-consumption-calculator",
+        "parent_id": "65",
+        "meta_title": "Δωρεάν Υπολογιστής Καυσίμου - MPG & L/100km",
+        "meta_description": "Υπολογίστε την αποδοτικότητα καυσίμου άμεσα! Δωρεάν υπολογιστής κατανάλωσης με MPG, L/100km, ανάλυση κόστους και υποστήριξη πολλαπλών νομισμάτων. Λειτουργεί για όλα τα οχήματα.",
+        "meta_keyword": "υπολογιστής κατανάλωσης καυσίμου, υπολογιστής βενζίνης, υπολογιστής αποδοτικότητας καυσίμου, υπολογιστής mpg, υπολογιστής l/100km, υπολογιστής κόστους καυσίμου, κατανάλωση καυσίμου αυτοκινήτου, υπολογιστής ντίζελ, αποδοτικότητα καυσίμου οχήματος, υπολογισμός κατανάλωσης βενζίνης, υπολογιστής εξοικονόμησης καυσίμου, υπολογιστής αμόλυβδης βενζίνης, υπολογιστής super βενζίνης, ανάλυση κόστους καυσίμου, παρακολούθηση κατανάλωσης καυσίμου, υπολογιστής καυσίμου μοτοσικλέτας, υπολογιστής καυσίμου αυτοκινήτου, υπολογιστής καυσίμου φορτηγού, εκτίμηση κόστους ταξιδιού, υπολογιστής χιλιομέτρων ανά λίτρο, εξοικονόμηση καυσίμου, δωρεάν online υπολογιστής καυσίμου, εφαρμογή υπολογισμού καυσίμου, εργαλείο αποδοτικότητας καυσίμου, υπολογιστής κατανάλωσης βενζίνης, υπολογιστής κατανάλωσης πετρελαίου, σύγκριση κατανάλωσης καυσίμου, ανάλυση αποδοτικότητας οχήματος, υπολογιστής λειτουργικού κόστους οχήματος, παρακολούθηση κατανάλωσης καυσίμου, ακριβής υπολογιστής καυσίμου, εκτιμητής κατανάλωσης καυσίμου, μετρητής αποδοτικότητας καυσίμου, τύπος κατανάλωσης καυσίμου, μετατροπέας κατανάλωσης καυσίμου, σύγκριση αποδοτικότητας καυσίμου, ανάλυση κατανάλωσης καυσίμου, κόστος καυσίμου ανά χιλιόμετρο, κόστος καυσίμου ανά μίλι, υπολογισμός mpg online, υπολογισμός αποδοτικότητας καυσίμου, αποδοτικότητα καυσίμου οχήματος, υπολογιστής εμβέλειας αυτοκινήτου",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Data Masukan",
+        "Keputusan",
+        "Jarak Perjalanan",
+        "Bahan Api Digunakan",
+        "Harga Bahan Api (Pilihan)",
+        "Kilometer",
+        "Batu",
+        "Liter",
+        "Gelen (AS)",
+        "Gelen (UK)",
+        "Masukkan jarak",
+        "Masukkan jumlah bahan api",
+        "Masukkan harga seunit",
+        "Penilaian Kecekapan",
+        "Analisis Kos",
+        "Kos setiap 100km",
+        "Kos setiap batu",
+        "Cemerlang",
+        "Baik",
+        "Sederhana",
+        "Lemah",
+        "Petua Meningkatkan Kecekapan Bahan Api",
+        "Kekalkan kelajuan stabil dan elak pecutan mendadak",
+        "Kekalkan tekanan tayar yang sesuai",
+        "Buang beban berlebihan dari kenderaan anda",
+        "Penyelenggaraan berkala dan tune-up",
+        "Masukkan data jarak dan bahan api untuk melihat keputusan",
+        "Set semula semua masukan"
+    ]
+}

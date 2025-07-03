@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Dane Wejściowe",
+        "Wyniki",
+        "Pokonana Odległość",
+        "Zużyte Paliwo",
+        "Cena Paliwa (Opcjonalnie)",
+        "Kilometry",
+        "Mile",
+        "Litry",
+        "Galony (US)",
+        "Galony (UK)",
+        "Wprowadź odległość",
+        "Wprowadź ilość paliwa",
+        "Wprowadź cenę za jednostkę",
+        "Ocena Efektywności",
+        "Analiza Kosztów",
+        "Koszt na 100km",
+        "Koszt na milę",
+        "Doskonały",
+        "Dobry",
+        "Średni",
+        "Słaby",
+        "Wskazówki Poprawy Efektywności Paliwa",
+        "Utrzymuj stałe prędkości i unikaj gwałtownego przyspieszania",
+        "Utrzymuj odpowiednie ciśnienie w oponach",
+        "Usuń nadmiarowy ciężar z pojazdu",
+        "Regularne konserwacje i strojenie",
+        "Wprowadź dane odległości i paliwa, aby zobaczyć wyniki",
+        "Zresetuj wszystkie dane wejściowe"
+    ]
+}

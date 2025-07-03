@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Giriş Verileri",
+        "Sonuçlar",
+        "Kat Edilen Mesafe",
+        "Kullanılan Yakıt",
+        "Yakıt Fiyatı (İsteğe Bağlı)",
+        "Kilometre",
+        "Mil",
+        "Litre",
+        "Galon (ABD)",
+        "Galon (İngiltere)",
+        "Mesafeyi girin",
+        "Yakıt miktarını girin",
+        "Birim fiyatını girin",
+        "Verimlilik Değerlendirmesi",
+        "Maliyet Analizi",
+        "100km başına maliyet",
+        "Mil başına maliyet",
+        "Mükemmel",
+        "İyi",
+        "Ortalama",
+        "Kötü",
+        "Yakıt Verimliliğini Artırma İpuçları",
+        "Sabit hızları koruyun ve ani hızlanmadan kaçının",
+        "Lastikleri doğru şekilde şişirin",
+        "Aracınızdan fazla ağırlığı çıkarın",
+        "Düzenli bakım ve ayarlama",
+        "Sonuçları görmek için mesafe ve yakıt verilerini girin",
+        "Tüm girişleri sıfırla"
+    ]
+}

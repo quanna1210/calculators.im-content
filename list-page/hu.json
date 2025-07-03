@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "Lakáshitel Kalkulátor",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Hitel Amortizációs Kalkulátor",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "Törlesztés Kalkulátor",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "Kamat Kalkulátor",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "Százalék Kalkulátor",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "Kerület Kalkulátor",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "Terület Kalkulátor",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "Pénzügyi Számológépek",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "Matematikai Számológépek",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Előre Megállapított Összegű Hitel Kalkulátor",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -143,7 +143,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "Tudományos Számológép",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -156,7 +156,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "Térfogat Kalkulátor",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -169,7 +169,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "Egyéb Számológépek",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -182,7 +182,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "Életkor Kalkulátor",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -195,7 +195,7 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "Dátum Kalkulátor",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -208,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "Idő Kalkulátor",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -221,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "Óra Kalkulátor",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -234,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "Tört Kalkulátor",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -247,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "Vegyes Szám Kalkulátor",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -260,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "Egészség és Fitnesz Számológépek",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -273,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "BMI Kalkulátor",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -286,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "BMR Kalkulátor",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -299,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Testzsír Százalék Kalkulátor",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -312,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "Mértékegység Átváltó",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -325,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "Prímszám Kalkulátor",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -338,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "Visszaszámláló Időzítő",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -351,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Jelszó Generátor",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,7 +364,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE Kalkulátor",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -377,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "Adatátváltó",
         "slug": "data-storage",
         "parent_id": "15",
@@ -390,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "Kalóriakalkulátor",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -403,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "Pénzváltó",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -416,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "Szökőév Ellenőrző",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -442,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Szülés Terminusz Kalkulátor",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -468,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
         "title": "Horoszkóp Kalkulátor",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -533,7 +533,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Futási Tempó Kalkulátor",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -546,7 +546,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "Mérnöki Számológépek",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -559,7 +559,7 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "Elektromos Teljesítmény Számológép",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -572,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "Ellenállás Kalkulátor",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -585,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "Erő Számológép",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -598,7 +598,7 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "Sebesség Kalkulátor",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -611,7 +611,7 @@
     },
     {
         "id": "49",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "Nyomás Kalkulátor",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -624,7 +624,7 @@
     },
     {
         "id": "50",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
         "title": "Forgatónyomaték Kalkulátor",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -637,13 +637,13 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
-        "title": "Anyagszilárdsági Számológép",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
+        "title": "Anyag Szilárdság Kalkulátor",
         "slug": "material-strength-calculator",
         "parent_id": "44",
-        "meta_title": "Anyagszilárdsági Számológép | Feszültség Számítás",
-        "meta_description": "Számítsa ki anyag szilárdságát, feszültségeket és biztonsági tényezőt ingyenes online számológéppel. Húzó, nyomó, nyíró és gerenda hajlítás elemzés.",
-        "meta_keyword": "anyagszilárdsági számológép, feszültség számológép, húzó szilárdság számológép, nyomó szilárdság számológép, nyíró szilárdság számológép, gerenda hajlítás, anyag analízis, biztonsági tényező, acél szilárdság, alumínium szilárdság, beton szilárdság, mérnöki eszközök",
+        "meta_title": "Anyag Szilárdság Kalkulátor - Ingyenes | Calculators",
+        "meta_description": "Számítsa ki húzó-, nyomó-, nyírószilárdságot és gerenda hajlítási feszültséget 20+ anyaghoz. Ingyenes biztonsági tényező elemzéssel.",
+        "meta_keyword": "anyag kalkulátor, szilárdság kalkulátor, feszültség kalkulátor, húzószilárdság, anyag feszültség, gerenda kalkulátor, biztonsági tényező, mérnöki eszköz, szerkezeti elemzés, anyagvizsgálat, anyag szilárdság kalkulátor online, húzószilárdság kalkulátor ingyenes, nyomószilárdság kalkulátor eszköz, nyírószilárdság számítás online, gerenda hajlítási feszültség kalkulátor, anyag tulajdonságok kalkulátor ingyenes, mérnöki feszültségelemzés eszköz, szerkezeti anyag kalkulátor online, anyagvizsgálat kalkulátor ingyenes, biztonsági tényező kalkulátor online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -821,7 +821,7 @@
         "id": "65",
         "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Közlekedési Kalkulátorok",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Közlekedési Kalkulátorok - Ingyenes Utazási Eszközök",
         "meta_description": "Teljes ingyenes közlekedési kalkulátor gyűjtemény: üzemanyag-fogyasztás, utazási költségek, szén-dioxid kibocsátás, útvonal optimalizálás és több. Tervezzen okosan ma!",
@@ -829,5 +829,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "2"
+    },
+    {
+        "id": "66",
+        "thumb": "https://static.calculators.im/upload/thumb/fuel-consumption-calculator.jpg",
+        "title": "Üzemanyag-fogyasztás Kalkulátor",
+        "slug": "fuel-consumption-calculator",
+        "parent_id": "65",
+        "meta_title": "Üzemanyag Kalkulátor Ingyen - MPG & L/100km",
+        "meta_description": "Számítsa ki az üzemanyag-hatékonyságot azonnal! Ingyenes fogyasztás kalkulátor MPG, L/100km, költségelemzés és többvaluta támogatással. Minden járműhöz használható.",
+        "meta_keyword": "üzemanyag-fogyasztás kalkulátor, benzin kalkulátor, üzemanyag-hatékonyság kalkulátor, fogyasztás kalkulátor, mpg kalkulátor, l/100km kalkulátor, üzemanyagköltség kalkulátor, üzemanyag-fogyasztás autó, dízel kalkulátor, üzemanyag-hatékonyság jármű, üzemanyag-fogyasztás számítás, üzemanyag-takarékosság kalkulátor, 95-ös benzin kalkulátor, 98-as benzin kalkulátor, üzemanyagköltség elemzés, fogyasztás követés, üzemanyag kalkulátor motor, üzemanyag kalkulátor autó, üzemanyag kalkulátor teherautó, utazási költség becslés, kilométer per liter kalkulátor, üzemanyag-takarékosság, üzemanyag kalkulátor online ingyen, app üzemanyag számítás, üzemanyag-hatékonyság eszköz, benzinfogyasztás kalkulátor, dízelfogyasztás kalkulátor, üzemanyag-fogyasztás összehasonlítás, jármű hatékonyság elemzés, üzemeltetési költség kalkulátor jármű, üzemanyag-fogyasztás monitor, pontos üzemanyag kalkulátor, üzemanyag-fogyasztás becslő, üzemanyag-hatékonyság mérő, üzemanyag-fogyasztás képlet, üzemanyag-fogyasztás átváltó, üzemanyag-hatékonyság összehasonlítás, üzemanyag-fogyasztás elemzés, üzemanyagköltség kilométerenként, üzemanyagköltség mérföldenként, mpg online számítás, üzemanyag-hatékonyság számítás, jármű üzemanyag-hatékonyság, autó hatótáv kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

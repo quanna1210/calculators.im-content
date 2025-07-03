@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Data Input",
+        "Hasil",
+        "Jarak Tempuh",
+        "Bahan Bakar Digunakan",
+        "Harga Bahan Bakar (Opsional)",
+        "Kilometer",
+        "Mil",
+        "Liter",
+        "Galon (AS)",
+        "Galon (Inggris)",
+        "Masukkan jarak",
+        "Masukkan jumlah bahan bakar",
+        "Masukkan harga per unit",
+        "Rating Efisiensi",
+        "Analisis Biaya",
+        "Biaya per 100km",
+        "Biaya per mil",
+        "Sangat Baik",
+        "Baik",
+        "Rata-rata",
+        "Buruk",
+        "Tips Meningkatkan Efisiensi Bahan Bakar",
+        "Jaga kecepatan stabil dan hindari akselerasi mendadak",
+        "Jaga tekanan ban yang tepat",
+        "Kurangi beban berlebih dari kendaraan Anda",
+        "Perawatan rutin dan tune-up",
+        "Masukkan data jarak dan bahan bakar untuk melihat hasil",
+        "Reset semua input"
+    ]
+}

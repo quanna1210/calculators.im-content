@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Données d'Entrée",
+        "Résultats",
+        "Distance Parcourue",
+        "Carburant Utilisé",
+        "Prix du Carburant (Optionnel)",
+        "Kilomètres",
+        "Miles",
+        "Litres",
+        "Gallons (US)",
+        "Gallons (UK)",
+        "Entrez la distance",
+        "Entrez la quantité de carburant",
+        "Entrez le prix par unité",
+        "Évaluation d'Efficacité",
+        "Analyse des Coûts",
+        "Coût par 100km",
+        "Coût par mile",
+        "Excellent",
+        "Bon",
+        "Moyen",
+        "Mauvais",
+        "Conseils pour Améliorer l'Efficacité du Carburant",
+        "Maintenez des vitesses constantes et évitez l'accélération rapide",
+        "Gardez les pneus correctement gonflés",
+        "Enlevez le poids excessif de votre véhicule",
+        "Entretien régulier et mise au point",
+        "Entrez les données de distance et de carburant pour voir les résultats",
+        "Réinitialiser toutes les entrées"
+    ]
+}

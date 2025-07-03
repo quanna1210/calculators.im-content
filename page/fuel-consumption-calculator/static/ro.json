@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Date de Intrare",
+        "Rezultate",
+        "Distanța Parcursă",
+        "Combustibilul Utilizat",
+        "Prețul Combustibilului (Opțional)",
+        "Kilometri",
+        "Mile",
+        "Litri",
+        "Galoni (SUA)",
+        "Galoni (Regatul Unit)",
+        "Introduceți distanța",
+        "Introduceți cantitatea de combustibil",
+        "Introduceți prețul pe unitate",
+        "Evaluarea Eficienței",
+        "Analiza Costurilor",
+        "Cost per 100km",
+        "Cost per milă",
+        "Excelent",
+        "Bun",
+        "Mediu",
+        "Slab",
+        "Sfaturi pentru Îmbunătățirea Eficienței Combustibilului",
+        "Mențineți viteze constante și evitați accelerația rapidă",
+        "Mențineți anvelopele corect umflate",
+        "Îndepărtați greutatea excesivă din vehicul",
+        "Întreținere regulată și reglaje",
+        "Introduceți datele de distanță și combustibil pentru a vedea rezultatele",
+        "Resetați toate intrările"
+    ]
+}

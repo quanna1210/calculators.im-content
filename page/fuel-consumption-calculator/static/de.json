@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Eingabedaten",
+        "Ergebnisse",
+        "Zurückgelegte Strecke",
+        "Verbrauchter Kraftstoff",
+        "Kraftstoffpreis (Optional)",
+        "Kilometer",
+        "Meilen",
+        "Liter",
+        "Gallonen (US)",
+        "Gallonen (UK)",
+        "Entfernung eingeben",
+        "Kraftstoffmenge eingeben",
+        "Preis pro Einheit eingeben",
+        "Effizienz-Bewertung",
+        "Kostenanalyse",
+        "Kosten pro 100km",
+        "Kosten pro Meile",
+        "Ausgezeichnet",
+        "Gut",
+        "Durchschnittlich",
+        "Schlecht",
+        "Tipps zur Verbesserung der Kraftstoffeffizienz",
+        "Halten Sie konstante Geschwindigkeiten und vermeiden Sie schnelle Beschleunigung",
+        "Halten Sie die Reifen richtig aufgepumpt",
+        "Entfernen Sie überflüssiges Gewicht aus Ihrem Fahrzeug",
+        "Regelmäßige Wartung und Abstimmung",
+        "Geben Sie Entfernungs- und Kraftstoffdaten ein, um Ergebnisse zu sehen",
+        "Alle Eingaben zurücksetzen"
+    ]
+}

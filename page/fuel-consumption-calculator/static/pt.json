@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Dados de Entrada",
+        "Resultados",
+        "Distância Percorrida",
+        "Combustível Utilizado",
+        "Preço do Combustível (Opcional)",
+        "Quilômetros",
+        "Milhas",
+        "Litros",
+        "Galões (EUA)",
+        "Galões (Reino Unido)",
+        "Digite a distância",
+        "Digite a quantidade de combustível",
+        "Digite o preço por unidade",
+        "Avaliação de Eficiência",
+        "Análise de Custos",
+        "Custo por 100km",
+        "Custo por milha",
+        "Excelente",
+        "Bom",
+        "Médio",
+        "Ruim",
+        "Dicas para Melhorar a Eficiência do Combustível",
+        "Mantenha velocidades constantes e evite aceleração rápida",
+        "Mantenha os pneus corretamente calibrados",
+        "Remova peso excessivo do seu veículo",
+        "Manutenção regular e ajustes",
+        "Digite dados de distância e combustível para ver resultados",
+        "Redefinir todas as entradas"
+    ]
+}

@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "Máy tính thế chấp",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Máy tính khoản vay khấu hao",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "Máy tính thanh toán",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "Máy tính lãi suất",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "Máy tính phần trăm",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "Máy tính chu vi",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "Máy tính diện tích",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "Máy tính tài chính",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "Máy tính toán học",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Máy tính khoản vay số tiền cố định",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -142,7 +142,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "Máy tính khoa học",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -155,7 +155,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "Máy tính thể tích",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -168,7 +168,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "Máy tính khác",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "Máy tính tuổi",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -194,7 +194,7 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "Máy tính ngày",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -207,7 +207,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "Máy tính thời gian",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -220,7 +220,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "Máy tính giờ",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -233,7 +233,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "Máy tính phân số",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -246,7 +246,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "Máy tính số hỗn hợp",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -259,7 +259,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "Máy tính sức khỏe & thể dục",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -272,7 +272,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "Máy tính BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -285,7 +285,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "Máy tính BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -298,7 +298,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Máy tính tỷ lệ mỡ cơ thể",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -311,7 +311,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "Bộ chuyển đổi đơn vị",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -324,7 +324,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "Máy tính số nguyên tố",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -337,7 +337,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "Bộ đếm ngược",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -350,7 +350,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Trình tạo mật khẩu",
         "slug": "password-generator",
         "parent_id": "15",
@@ -363,7 +363,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "Máy tính TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -376,7 +376,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "Bộ chuyển đổi dữ liệu",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -389,7 +389,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "Máy tính calo",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -402,7 +402,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "Bộ chuyển đổi tiền tệ",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -415,7 +415,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "Kiểm tra năm nhuận",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -428,7 +428,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "Kênh thời tiết",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -441,7 +441,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Máy tính ngày dự sinh",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -454,7 +454,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Máy tính nồng độ cồn trong máu (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -467,7 +467,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
         "title": "Máy tính cung hoàng đạo",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -480,7 +480,7 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "Bộ hẹn giờ Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -493,7 +493,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "Trình tạo mã QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -506,7 +506,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "Máy tính đạo hàm",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -519,7 +519,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
         "title": "Máy tính lôgarit",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -532,7 +532,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Máy tính tốc độ chạy",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -545,7 +545,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "Máy Tính Kỹ Thuật",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -558,7 +558,7 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "Máy Tính Công Suất Điện",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -571,7 +571,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "Máy Tính Điện Trở",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -584,7 +584,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "Máy Tính Lực",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -597,7 +597,7 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "Máy Tính Vận Tốc",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -610,7 +610,7 @@
     },
     {
         "id": "49",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "Máy Tính Áp Suất",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -623,7 +623,7 @@
     },
     {
         "id": "50",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
         "title": "Máy Tính Mô-men",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -636,13 +636,13 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Máy Tính Cường Độ Vật Liệu",
         "slug": "material-strength-calculator",
         "parent_id": "44",
-        "meta_title": "Máy Tính Cường Độ Vật Liệu Miễn Phí | Tính Ứng Suất",
-        "meta_description": "Tính cường độ vật liệu, ứng suất và hệ số an toàn với máy tính online miễn phí. Phân tích kéo, nén, cắt & uốn dầm cho 20+ vật liệu khác nhau.",
-        "meta_keyword": "máy tính cường độ vật liệu, máy tính ứng suất, máy tính kéo, máy tính nén, máy tính cắt, máy tính uốn dầm, phân tích vật liệu, hệ số an toàn, cường độ thép, cường độ nhôm, cường độ bê tông, công cụ kỹ thuật, tính toán kết cấu, phân tích cường độ",
+        "meta_title": "Máy Tính Cường Độ Vật Liệu - Miễn Phí | Calculators",
+        "meta_description": "Tính cường độ kéo, nén, cắt và ứng suất uốn dầm cho 20+ vật liệu. Máy tính cường độ vật liệu miễn phí với phân tích hệ số an toàn.",
+        "meta_keyword": "máy tính vật liệu, máy tính cường độ, máy tính ứng suất, cường độ kéo, ứng suất vật liệu, máy tính dầm, hệ số an toàn, công cụ kỹ thuật, phân tích cấu trúc, thử nghiệm vật liệu, máy tính cường độ vật liệu online, máy tính cường độ kéo miễn phí, công cụ máy tính cường độ nén, tính cường độ cắt online, máy tính ứng suất uốn dầm, máy tính tính chất vật liệu miễn phí, công cụ phân tích ứng suất kỹ thuật, máy tính vật liệu cấu trúc online, máy tính thử nghiệm vật liệu miễn phí, máy tính hệ số an toàn online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -820,7 +820,7 @@
         "id": "65",
         "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Máy Tính Giao Thông",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Máy Tính Giao Thông - Công Cụ Du Lịch & Chi Phí Miễn Phí",
         "meta_description": "Bộ sưu tập hoàn chỉnh máy tính giao thông miễn phí: tiêu thụ nhiên liệu, chi phí du lịch, khí thải carbon, tối ưu tuyến đường & nhiều hơn. Lập kế hoạch du lịch thông minh ngay!",
@@ -828,5 +828,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "2"
+    },
+    {
+        "id": "66",
+        "thumb": "https://static.calculators.im/upload/thumb/fuel-consumption-calculator.jpg",
+        "title": "Máy Tính Tiêu Thụ Nhiên Liệu",
+        "slug": "fuel-consumption-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Xăng Dầu Miễn Phí - MPG & L/100km",
+        "meta_description": "Tính toán hiệu suất nhiên liệu ngay lập tức! Máy tính tiêu thụ xăng dầu miễn phí với MPG, L/100km, phân tích chi phí & hỗ trợ đa tiền tệ. Dùng cho mọi xe.",
+        "meta_keyword": "máy tính tiêu thụ nhiên liệu, máy tính xăng dầu, máy tính hiệu suất nhiên liệu, máy tính km/lít, tính toán tiêu hao xăng, máy tính chi phí xăng dầu, tiêu thụ nhiên liệu xe máy, tiêu thụ nhiên liệu ô tô, máy tính mpg việt nam, máy tính l/100km, hiệu suất nhiên liệu xe, tính tiêu thụ xăng dầu, máy tính tiết kiệm xăng, máy tính xăng ron 95, máy tính xăng ron 92, phân tích chi phí nhiên liệu, theo dõi tiêu thụ xăng, máy tính xăng xe máy, máy tính xăng ô tô, máy tính xăng xe tải, ước tính chi phí đi lại, máy tính km trên lít, tiết kiệm nhiên liệu, máy tính xăng dầu online miễn phí, ứng dụng tính xăng dầu, công cụ hiệu suất nhiên liệu, máy tính tiêu thụ xăng, máy tính tiêu thụ dầu diesel, so sánh tiêu thụ xăng dầu, phân tích hiệu suất xe, máy tính chi phí vận hành xe, giám sát tiêu thụ nhiên liệu, máy tính xăng dầu chính xác, ước lượng tiêu thụ nhiên liệu, đồng hồ hiệu suất xăng dầu, công thức tiêu thụ nhiên liệu, chuyển đổi tiêu thụ xăng dầu, so sánh hiệu suất xăng dầu, phân tích tiêu thụ nhiên liệu, chi phí xăng dầu mỗi km, chi phí xăng dầu mỗi dặm, tính mpg online, tính hiệu suất nhiên liệu, hiệu suất xăng dầu xe, máy tính quãng đường xe",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

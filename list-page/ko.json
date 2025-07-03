@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "모기지 계산기",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "대출 상환 계산기",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "지불 계산기",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "이자 계산기",
         "slug": "interest-calculator",
         "parent_id": "9",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "백분율 계산기",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "둘레 계산기",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "면적 계산기",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "재무 계산기",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "수학 계산기",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "고정 금액 대출 계산기",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -143,7 +143,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "과학 계산기",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -156,7 +156,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "부피 계산기",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -169,7 +169,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "기타 계산기",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -182,7 +182,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "나이 계산기",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -195,7 +195,7 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "날짜 계산기",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -208,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "시간 계산기",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -221,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "시간 계산기",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -234,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "분수 계산기",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -247,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "혼합수 계산기",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -260,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "건강 및 피트니스 계산기",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -273,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "BMI 계산기",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -286,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "BMR 계산기",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -299,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "체지방 비율 계산기",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -312,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "단위 변환기",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -325,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "소수 계산기",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -338,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "카운트다운 타이머",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -351,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "비밀번호 생성기",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,7 +364,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "TDEE 계산기",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -377,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "데이터 변환기",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -390,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "칼로리 계산기",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -403,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "통화 변환기",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -416,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "윤년 확인기",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -429,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "날씨 채널",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -442,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "출산 예정일 계산기",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -455,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "혈중 알코올 농도 (BAC) 계산기",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -481,7 +481,7 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "포모도로 타이머",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -494,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "QR 코드 생성기",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -507,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "미분 계산기",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -533,7 +533,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "러닝 페이스 계산기",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -546,7 +546,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "공학 계산기",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -559,7 +559,7 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "전력 계산기",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -572,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "저항 계산기",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -585,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "힘 계산기",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -598,7 +598,7 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "속도 계산기",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -611,7 +611,7 @@
     },
     {
         "id": "49",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "압력 계산기",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -624,7 +624,7 @@
     },
     {
         "id": "50",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
         "title": "토크 계산기",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -637,13 +637,13 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "재료 강도 계산기",
         "slug": "material-strength-calculator",
         "parent_id": "44",
-        "meta_title": "재료 강도 계산기 | 응력 및 안전계수 계산",
-        "meta_description": "무료 온라인 계산기로 재료 강도, 응력 및 안전계수를 계산하세요. 20가지 이상 재료의 인장, 압축, 전단 및 보 굽힘 분석을 수행할 수 있습니다.",
-        "meta_keyword": "재료 강도 계산기, 응력 계산기, 인장 강도 계산기, 압축 강도 계산기, 전단 강도 계산기, 보 굽힘, 재료 분석, 안전계수, 강철 강도, 알루미늄 강도, 콘크리트 강도, 공학 도구, 구조 계산",
+        "meta_title": "재료 강도 계산기 - 무료 온라인 도구 | Calculators",
+        "meta_description": "20가지 이상 재료의 인장, 압축, 전단 강도와 보 굽힘 응력을 계산하세요. 안전 계수 분석이 포함된 무료 재료 강도 계산기입니다.",
+        "meta_keyword": "재료 계산기, 강도 계산기, 응력 계산기, 인장 강도, 재료 응력, 보 계산기, 안전 계수, 공학 도구, 구조 해석, 재료 시험, 재료 강도 계산기 온라인, 인장 강도 계산기 무료, 압축 강도 계산기 도구, 전단 강도 계산 온라인, 보 굽힘 응력 계산기, 재료 특성 계산기 무료, 공학 응력 해석 도구, 구조 재료 계산기 온라인, 재료 시험 계산기 무료, 안전 계수 계산기 온라인",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -821,7 +821,7 @@
         "id": "65",
         "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "교통 계산기",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "교통 계산기 - 무료 여행 및 비용 도구",
         "meta_description": "완전한 무료 교통 계산기 컬렉션: 연료 소비, 여행 비용, 탄소 배출, 경로 최적화 등. 오늘 더 스마트한 여행을 계획하세요!",
@@ -829,5 +829,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "2"
+    },
+    {
+        "id": "66",
+        "thumb": "https://static.calculators.im/upload/thumb/fuel-consumption-calculator.jpg",
+        "title": "연료 소비량 계산기",
+        "slug": "fuel-consumption-calculator",
+        "parent_id": "65",
+        "meta_title": "무료 연료 계산기 - MPG & L/100km",
+        "meta_description": "연료 효율성을 즉시 계산하세요! MPG, L/100km, 비용 분석 및 다중 통화 지원이 포함된 무료 연료 소비량 계산기. 모든 차량에 사용 가능합니다.",
+        "meta_keyword": "연료 소비량 계산기, 휘발유 계산기, 연료 효율성 계산기, mpg 계산기, l/100km 계산기, 연료 비용 계산기, 자동차 연료 소비량, 경유 계산기, 차량 연료 효율성, 휘발유 소비량 계산, 연료 절약 계산기, 휘발유 계산기, 프리미엄 휘발유 계산기, 연료 비용 분석, 연료 소비량 추적, 오토바이 연료 계산기, 자동차 연료 계산기, 트럭 연료 계산기, 여행 비용 추정, 리터당 킬로미터 계산기, 연료 절약, 무료 온라인 연료 계산기, 연료 계산 앱, 연료 효율성 도구, 휘발유 소비량 계산기, 경유 소비량 계산기, 연료 소비량 비교, 차량 효율성 분석, 차량 운영 비용 계산기, 연료 소비량 모니터, 정확한 연료 계산기, 연료 소비량 추정기, 연료 효율성 측정기, 연료 소비량 공식, 연료 소비량 변환기, 연료 효율성 비교, 연료 소비량 분석, 킬로미터당 연료 비용, 마일당 연료 비용, mpg 온라인 계산, 연료 효율성 계산, 차량 연료 효율성, 자동차 주행 거리 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

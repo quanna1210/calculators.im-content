@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Vstupní Data",
+        "Výsledky",
+        "Ujetá Vzdálenost",
+        "Spotřebované Palivo",
+        "Cena Paliva (Volitelné)",
+        "Kilometry",
+        "Míle",
+        "Litry",
+        "Galony (US)",
+        "Galony (UK)",
+        "Zadejte vzdálenost",
+        "Zadejte množství paliva",
+        "Zadejte cenu za jednotku",
+        "Hodnocení Efektivity",
+        "Analýza Nákladů",
+        "Náklady na 100km",
+        "Náklady na míli",
+        "Vynikající",
+        "Dobrý",
+        "Průměrný",
+        "Špatný",
+        "Tipy pro Zlepšení Efektivity Paliva",
+        "Udržujte stálou rychlost a vyhněte se prudkému zrychlování",
+        "Udržujte správný tlak v pneumatikách",
+        "Odstraňte přebytečnou váhu z vozidla",
+        "Pravidelná údržba a seřízení",
+        "Zadejte data vzdálenosti a paliva pro zobrazení výsledků",
+        "Resetovat všechny vstupy"
+    ]
+}

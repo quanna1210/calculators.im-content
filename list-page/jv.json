@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mortgage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mortgage-calculator.jpg",
         "title": "Kalkulator Hipotek",
         "slug": "mortgage-calculator",
         "parent_id": "9",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/amortization-loan-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/amortization-loan-calculator.jpg",
         "title": "Kalkulator Amortisasi Utang",
         "slug": "amortization-loan-calculator",
         "parent_id": "9",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/payment-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/payment-calculator.jpeg",
         "title": "Kalkulator Pembayaran",
         "slug": "payment-calculator",
         "parent_id": "9",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/interest-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/interest-calculator.jpg",
         "title": "Kalkulator Bunga",
         "slug": "Bunga-calculator",
         "parent_id": "0",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/percentage-calculator.jpg",
         "title": "Kalkulator Persentase",
         "slug": "percentage-calculator",
         "parent_id": "10",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/perimeter-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/perimeter-calculator.jpg",
         "title": "Kalkulator Keliling",
         "slug": "perimeter-calculator",
         "parent_id": "10",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/area-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/area-calculator.jpg",
         "title": "Kalkulator Luas",
         "slug": "area-calculator",
         "parent_id": "10",
@@ -104,7 +104,7 @@
     },
     {
         "id": "9",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/financial-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/financial-calculators.jpg",
         "title": "Kalkulator Keuangan",
         "slug": "financial-calculators",
         "parent_id": "0",
@@ -117,7 +117,7 @@
     },
     {
         "id": "10",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/math-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/math-calculators.jpg",
         "title": "Kalkulator Matematika",
         "slug": "math-calculators",
         "parent_id": "0",
@@ -130,7 +130,7 @@
     },
     {
         "id": "12",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/predetermined-amount-loan-calculator.jpeg",
+        "thumb": "https://static.calculators.im/upload/thumb/predetermined-amount-loan-calculator.jpeg",
         "title": "Kalkulator Utang Jumlah Tetap",
         "slug": "predetermined-amount-loan-calculator",
         "parent_id": "9",
@@ -143,7 +143,7 @@
     },
     {
         "id": "13",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/scientific-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/scientific-calculator.jpg",
         "title": "Kalkulator Ilmiah",
         "slug": "scientific-calculator",
         "parent_id": "10",
@@ -156,7 +156,7 @@
     },
     {
         "id": "14",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/volume-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/volume-calculator.jpg",
         "title": "Kalkulator Volume",
         "slug": "volume-calculator",
         "parent_id": "10",
@@ -169,7 +169,7 @@
     },
     {
         "id": "15",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/other-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/other-calculators.jpg",
         "title": "Kalkulator Liyane",
         "slug": "other-calculators",
         "parent_id": "0",
@@ -182,7 +182,7 @@
     },
     {
         "id": "16",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/age-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/age-calculator.jpg",
         "title": "Kalkulator Umur",
         "slug": "age-calculator",
         "parent_id": "15",
@@ -195,7 +195,7 @@
     },
     {
         "id": "17",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/date-calculator.jpg",
         "title": "Kalkulator Tanggal",
         "slug": "date-calculator",
         "parent_id": "15",
@@ -208,7 +208,7 @@
     },
     {
         "id": "18",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/time-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/time-calculator.jpg",
         "title": "Kalkulator Wektu",
         "slug": "time-calculator",
         "parent_id": "15",
@@ -221,7 +221,7 @@
     },
     {
         "id": "19",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/hours-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/hours-calculator.jpg",
         "title": "Kalkulator Jam",
         "slug": "hours-calculator",
         "parent_id": "15",
@@ -234,7 +234,7 @@
     },
     {
         "id": "20",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/fraction-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/fraction-calculator.jpg",
         "title": "Kalkulator Pecahan",
         "slug": "fraction-calculator",
         "parent_id": "10",
@@ -247,7 +247,7 @@
     },
     {
         "id": "21",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/mixed-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/mixed-number-calculator.jpg",
         "title": "Kalkulator Angka Campuran",
         "slug": "mixed-number-calculator",
         "parent_id": "10",
@@ -260,7 +260,7 @@
     },
     {
         "id": "22",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/health-fitness-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/health-fitness-calculators.jpg",
         "title": "Kalkulator Kesehatan & Kebugaran",
         "slug": "health-fitness-calculators",
         "parent_id": "0",
@@ -273,7 +273,7 @@
     },
     {
         "id": "23",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmi-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmi-calculator.jpg",
         "title": "Kalkulator BMI",
         "slug": "bmi-calculator",
         "parent_id": "22",
@@ -286,7 +286,7 @@
     },
     {
         "id": "24",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/bmr-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/bmr-calculator.jpg",
         "title": "Kalkulator BMR",
         "slug": "bmr-calculator",
         "parent_id": "22",
@@ -299,7 +299,7 @@
     },
     {
         "id": "25",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/body-fat-percentage-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/body-fat-percentage-calculator.jpg",
         "title": "Kalkulator Persentase Lemak Tubuh",
         "slug": "body-fat-percentage-calculator",
         "parent_id": "22",
@@ -312,7 +312,7 @@
     },
     {
         "id": "26",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/unit-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/unit-converter.jpg",
         "title": "Konverter Unit",
         "slug": "unit-converter",
         "parent_id": "10",
@@ -325,7 +325,7 @@
     },
     {
         "id": "27",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/prime-number-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/prime-number-calculator.jpg",
         "title": "Kalkulator Angka Prima",
         "slug": "prime-number-calculator",
         "parent_id": "10",
@@ -338,7 +338,7 @@
     },
     {
         "id": "28",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/countdown-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/countdown-timer.jpg",
         "title": "Timer Mundur",
         "slug": "countdown-timer",
         "parent_id": "15",
@@ -351,7 +351,7 @@
     },
     {
         "id": "29",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Generator Sandi",
         "slug": "password-generator",
         "parent_id": "15",
@@ -364,7 +364,7 @@
     },
     {
         "id": "30",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/tdee-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/tdee-calculator.jpg",
         "title": "Kalkulator TDEE",
         "slug": "tdee-calculator",
         "parent_id": "22",
@@ -377,7 +377,7 @@
     },
     {
         "id": "31",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/data-storage-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/data-storage-converter.jpg",
         "title": "Konverter Data",
         "slug": "data-storage-converter",
         "parent_id": "15",
@@ -390,7 +390,7 @@
     },
     {
         "id": "32",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/calorie-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/calorie-calculator.jpg",
         "title": "Kalkulator Kalori",
         "slug": "calorie-calculator",
         "parent_id": "22",
@@ -403,7 +403,7 @@
     },
     {
         "id": "33",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/currency-converter.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/currency-converter.jpg",
         "title": "Konverter Mata Uang",
         "slug": "currency-converter",
         "parent_id": "9",
@@ -416,7 +416,7 @@
     },
     {
         "id": "34",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/leap-year-checker.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/leap-year-checker.jpg",
         "title": "Pemeriksa Taun Kabisat",
         "slug": "leap-year-checker",
         "parent_id": "15",
@@ -429,7 +429,7 @@
     },
     {
         "id": "35",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/weather-channel.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/weather-channel.jpg",
         "title": "Saluran Cuaca",
         "slug": "weather-channel",
         "parent_id": "15",
@@ -442,7 +442,7 @@
     },
     {
         "id": "36",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pregnancy-due-date-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pregnancy-due-date-calculator.jpg",
         "title": "Kalkulator Tanggal Lahir",
         "slug": "pregnancy-due-date-calculator",
         "parent_id": "22",
@@ -455,7 +455,7 @@
     },
     {
         "id": "37",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/blood-alcohol-content-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/blood-alcohol-content-calculator.jpg",
         "title": "Kalkulator Konsentrasi Alkohol ing Darah (BAC)",
         "slug": "blood-alcohol-content-calculator",
         "parent_id": "22",
@@ -468,7 +468,7 @@
     },
     {
         "id": "38",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/zodiac-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/zodiac-calculator.jpg",
         "title": "Kalkulator Tanda Zodiak",
         "slug": "zodiac-calculator",
         "parent_id": "15",
@@ -481,7 +481,7 @@
     },
     {
         "id": "39",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pomodoro-timer.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pomodoro-timer.jpg",
         "title": "Timer Pomodoro",
         "slug": "pomodoro-timer",
         "parent_id": "15",
@@ -494,7 +494,7 @@
     },
     {
         "id": "40",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/qr-code-generator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/qr-code-generator.jpg",
         "title": "Generator Kode QR",
         "slug": "qr-code-generator",
         "parent_id": "15",
@@ -507,7 +507,7 @@
     },
     {
         "id": "41",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/derivative-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/derivative-calculator-2.jpg",
         "title": "Kalkulator Turunan",
         "slug": "derivative-calculator",
         "parent_id": "10",
@@ -520,7 +520,7 @@
     },
     {
         "id": "42",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/logarithm-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/logarithm-calculator.jpg",
         "title": "Kalkulator Logaritma",
         "slug": "logarithm-calculator",
         "parent_id": "10",
@@ -533,7 +533,7 @@
     },
     {
         "id": "43",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/running-pace-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/running-pace-calculator.jpg",
         "title": "Kalkulator Pace Lari",
         "slug": "running-pace-calculator",
         "parent_id": "22",
@@ -546,7 +546,7 @@
     },
     {
         "id": "44",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/engineering-calculators.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/engineering-calculators.jpg",
         "title": "Kalkulator Teknik",
         "slug": "engineering-calculators",
         "parent_id": "0",
@@ -559,7 +559,7 @@
     },
     {
         "id": "45",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/electrical-power-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/electrical-power-calculator.jpg",
         "title": "Kalkulator Daya Listrik",
         "slug": "electrical-power-calculator",
         "parent_id": "44",
@@ -572,7 +572,7 @@
     },
     {
         "id": "46",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/resistance-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/resistance-calculator.jpg",
         "title": "Kalkulator Resistensi",
         "slug": "resistance-calculator",
         "parent_id": "44",
@@ -585,7 +585,7 @@
     },
     {
         "id": "47",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator.jpg",
         "title": "Kalkulator Gaya",
         "slug": "force-calculator",
         "parent_id": "44",
@@ -598,7 +598,7 @@
     },
     {
         "id": "48",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/force-calculator-2.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/force-calculator-2.jpg",
         "title": "Kalkulator Kacepetan",
         "slug": "velocity-calculator",
         "parent_id": "44",
@@ -611,7 +611,7 @@
     },
     {
         "id": "49",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/velocity-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/velocity-calculator.jpg",
         "title": "Kalkulator Tekanan",
         "slug": "pressure-calculator",
         "parent_id": "44",
@@ -624,7 +624,7 @@
     },
     {
         "id": "50",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/pressure-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/pressure-calculator.jpg",
         "title": "Kalkulator Torsi",
         "slug": "torque-calculator",
         "parent_id": "44",
@@ -637,13 +637,13 @@
     },
     {
         "id": "51",
-        "thumb": "https:\/\/static.calculators.im\/upload\/thumb\/torque-calculator.jpg",
+        "thumb": "https://static.calculators.im/upload/thumb/material-strength-calculator.jpg",
         "title": "Kalkulator Kekuwatan Bahan",
         "slug": "material-strength-calculator",
         "parent_id": "44",
-        "meta_title": "Kalkulator Kekuwatan Bahan Gratis | Etung Tegangan",
-        "meta_description": "Etung kekuwatan bahan, tegangan lan faktor keamanan nganggo kalkulator online gratis. Analisis tarik, tekan, geser & lengkung kanggo 20+ bahan.",
-        "meta_keyword": "kalkulator kekuwatan bahan, kalkulator tegangan, kalkulator tarik, kalkulator tekan, kalkulator geser, kalkulator lengkung balok, analisis bahan, faktor keamanan, kekuwatan baja, kekuwatan aluminium, kekuwatan beton, piranti engineering, petungan struktur",
+        "meta_title": "Kalkulator Kekuwatan Bahan - Gratis | Calculators",
+        "meta_description": "Etung kekuwatan tarik, tekan, geser lan tegangan lengkung balok kanggo 20+ bahan. Kalkulator kekuwatan bahan gratis karo analisis faktor keamanan.",
+        "meta_keyword": "kalkulator bahan, kalkulator kekuwatan, kalkulator tegangan, kekuwatan tarik, tegangan bahan, kalkulator balok, faktor keamanan, piranti teknik, analisis struktural, tes bahan, kalkulator kekuwatan bahan online, kalkulator kekuwatan tarik gratis, piranti kalkulator kekuwatan tekan, petungan kekuwatan geser online, kalkulator tegangan lengkung balok, kalkulator sipat bahan gratis, piranti analisis tegangan teknik, kalkulator bahan struktural online, kalkulator tes bahan gratis, kalkulator faktor keamanan online",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
@@ -821,7 +821,7 @@
         "id": "65",
         "thumb": "https://static.calculators.im/upload/thumb/transportation-calculator.jpg",
         "title": "Kalkulator Transportasi",
-        "slug": "transportation-calculators",
+        "slug": "transportation-calculator",
         "parent_id": "0",
         "meta_title": "Kalkulator Transportasi - Alat Perjalanan & Biaya Gratis",
         "meta_description": "Koleksi lengkap kalkulator transportasi gratis: konsumsi bahan bakar, biaya perjalanan, emisi karbon, optimasi rute & liyane. Rencanakna perjalanan luwih pinter saiki!",
@@ -829,5 +829,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "2"
+    },
+    {
+        "id": "66",
+        "thumb": "https://static.calculators.im/upload/thumb/fuel-consumption-calculator.jpg",
+        "title": "Kalkulator Panggunaan Bahan Bakar",
+        "slug": "fuel-consumption-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator BBM Gratis - MPG & L/100km",
+        "meta_description": "Ngitung efisiensi bahan bakar langsung! Kalkulator panggunaan BBM gratis karo MPG, L/100km, analisis biaya & dhukungan mata uang akeh. Cocok kanggo kabeh kendaraan.",
+        "meta_keyword": "kalkulator panggunaan bahan bakar, kalkulator bbm, kalkulator efisiensi bahan bakar, kalkulator jarak tempuh, kalkulator bensin, kalkulator solar, kalkulator biaya bbm, panggunaan bahan bakar mobil, kalkulator mpg jawa, kalkulator l/100km, efisiensi bahan bakar kendaraan, ngitung panggunaan bbm, kalkulator irit bbm, kalkulator pertalite, kalkulator pertamax, analisis biaya bahan bakar, tracker panggunaan bbm, kalkulator bbm motor, kalkulator bbm mobil, kalkulator bbm truk, estimasi biaya lelampahan, kalkulator kilometer per liter, penghematan bahan bakar, kalkulator bbm online gratis, aplikasi ngitung bbm, tools efisiensi bahan bakar, kalkulator panggunaan bensin, kalkulator panggunaan solar, bandingan panggunaan bbm, analisis efisiensi kendaraan, kalkulator biaya operasional kendaraan, monitor panggunaan bahan bakar, kalkulator bbm akurat, estimator panggunaan bahan bakar, meter efisiensi bbm, rumus panggunaan bahan bakar, konverter panggunaan bbm, bandingan efisiensi bbm, analisis panggunaan bahan bakar, biaya bbm per kilometer, biaya bbm per mil, ngitung mpg online, ngitung efisiensi bahan bakar, efisiensi bbm kendaraan, kalkulator jarak tempuh mobil",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
