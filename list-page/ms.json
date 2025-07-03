@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Kalkulator Jarak",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Jarak - Kira Jarak Titik 2D & 3D",
+        "meta_description": "Kalkulator jarak online percuma untuk titik 2D dan 3D. Kira jarak Euclidean dengan pelbagai unit. Alat pengukur jarak titik yang mudah digunakan.",
+        "meta_keyword": "kalkulator jarak, jarak titik, jarak 2D, jarak 3D, jarak Euclidean, jarak koordinat, formula jarak, kalkulator geometri, kalkulator matematik, kalkulator online, kalkulator jarak dua titik, kira jarak koordinat, kalkulator jarak 2D 3D online, kalkulator formula jarak Euclidean, kalkulator jarak online percuma, kalkulator jarak titik ke titik, kalkulator jarak koordinat online, kalkulator jarak dengan pelbagai unit, cara mengira jarak antara titik, kalkulator formula jarak online, cari jarak antara koordinat, ukur jarak dua titik, kira jarak garis lurus, alat pengukur jarak titik, kalkulator geometri koordinat, pengiraan jarak online percuma",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

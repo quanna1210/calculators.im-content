@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Kalkulačka vzdálenosti",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka vzdálenosti - Vypočítejte 2D & 3D",
+        "meta_description": "Bezplatná online kalkulačka vzdálenosti pro 2D a 3D body. Vypočítejte Euklidovskou vzdálenost s různými jednotkami. Snadno použitelný nástroj.",
+        "meta_keyword": "kalkulačka vzdálenosti, vzdálenost bodů, 2D vzdálenost, 3D vzdálenost, Euklidovská vzdálenost, vzdálenost souřadnic, vzorec vzdálenosti, geometrická kalkulačka, matematická kalkulačka, online kalkulačka, kalkulačka vzdálenosti dvou bodů, vypočítat vzdálenost souřadnic, kalkulačka 2D 3D vzdálenosti online, kalkulačka Euklidovského vzorce vzdálenosti, bezplatná online kalkulačka vzdálenosti, kalkulačka vzdálenosti bod k bodu, kalkulačka vzdálenosti souřadnic online, kalkulačka vzdálenosti s různými jednotkami, jak vypočítat vzdálenost mezi body, kalkulačka vzorce vzdálenosti online, najít vzdálenost mezi souřadnicemi, měřit vzdálenost dvou bodů, vypočítat přímou vzdálenost, nástroj měření vzdálenosti bodů, kalkulačka souřadnicové geometrie, výpočet vzdálenosti online zdarma",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

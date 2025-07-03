@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Wie es funktioniert:",
+        "Der Abstand zwischen zwei Punkten wird mit der euklidischen Abstandsformel berechnet. Für 2D: √[(x₂-x₁)² + (y₂-y₁)²] und für 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Berechnungsmodus",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Einheit",
+        "Einheiten",
+        "Millimeter (mm)",
+        "Zentimeter (cm)",
+        "Meter (m)",
+        "Kilometer (km)",
+        "Zoll (in)",
+        "Fuß (ft)",
+        "Yards (yd)",
+        "Meilen (mi)",
+        "Punkt 1",
+        "Punkt 2",
+        "X-Koordinate",
+        "Y-Koordinate",
+        "Z-Koordinate",
+        "X",
+        "Y",
+        "Z",
+        "Ergebnis",
+        "Formel:",
+        "Kopieren",
+        "Kopiert!",
+        "Alle Eingaben zurücksetzen"
+    ]
+}

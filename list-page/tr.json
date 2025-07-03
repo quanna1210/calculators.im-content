@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Mesafe Hesaplayıcı",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Mesafe Hesaplayıcı - 2D & 3D Nokta Hesaplama",
+        "meta_description": "2D ve 3D noktalar için ücretsiz online mesafe hesaplayıcı. Çoklu birimlerle Öklid mesafesi hesaplayın. Kullanımı kolay mesafe aracı.",
+        "meta_keyword": "mesafe hesaplayıcı, nokta mesafesi, 2D mesafe, 3D mesafe, öklid mesafesi, koordinat mesafesi, mesafe formülü, geometri hesaplayıcı, matematik hesaplayıcı, online hesaplayıcı, iki nokta arası mesafe hesaplayıcı, koordinatlar arası mesafe hesaplama, 2D 3D mesafe hesaplayıcı online, öklid mesafe formülü hesaplayıcı, ücretsiz online mesafe hesaplayıcı, nokta noktaya mesafe hesaplayıcı, koordinat mesafe hesaplayıcı online, çoklu birimli mesafe hesaplayıcı, noktalar arası mesafe nasıl hesaplanır, mesafe formülü hesaplayıcı online, koordinatlar arası mesafe bulma, iki nokta arası mesafe ölçme, düz çizgi mesafesi hesaplama, nokta mesafe ölçüm aracı, koordinat geometri hesaplayıcı, online ücretsiz mesafe hesaplama",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Cum funcționează:",
+        "Distanța dintre două puncte este calculată folosind formula distanței euclidiene. Pentru 2D: √[(x₂-x₁)² + (y₂-y₁)²] și pentru 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Modul de Calcul",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Unitate",
+        "Unități",
+        "Milimetri (mm)",
+        "Centimetri (cm)",
+        "Metri (m)",
+        "Kilometri (km)",
+        "Inci (in)",
+        "Picioare (ft)",
+        "Yarzi (yd)",
+        "Mile (mi)",
+        "Punctul 1",
+        "Punctul 2",
+        "Coordonata X",
+        "Coordonata Y",
+        "Coordonata Z",
+        "X",
+        "Y",
+        "Z",
+        "Rezultat",
+        "Formula:",
+        "Copiază",
+        "Copiat!",
+        "Resetează toate intrările"
+    ]
+}

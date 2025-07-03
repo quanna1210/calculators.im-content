@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Comment ça marche:",
+        "La distance entre deux points est calculée en utilisant la formule de distance euclidienne. Pour 2D: √[(x₂-x₁)² + (y₂-y₁)²] et pour 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Mode de Calcul",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Unité",
+        "Unités",
+        "Millimètres (mm)",
+        "Centimètres (cm)",
+        "Mètres (m)",
+        "Kilomètres (km)",
+        "Pouces (in)",
+        "Pieds (ft)",
+        "Yards (yd)",
+        "Miles (mi)",
+        "Point 1",
+        "Point 2",
+        "Coordonnée X",
+        "Coordonnée Y",
+        "Coordonnée Z",
+        "X",
+        "Y",
+        "Z",
+        "Résultat",
+        "Formule:",
+        "Copier",
+        "Copié!",
+        "Réinitialiser toutes les entrées"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Jak to działa:",
+        "Odległość między dwoma punktami obliczana jest za pomocą wzoru odległości euklidesowej. Dla 2D: √[(x₂-x₁)² + (y₂-y₁)²] i dla 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Tryb Obliczania",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Jednostka",
+        "Jednostki",
+        "Milimetry (mm)",
+        "Centymetry (cm)",
+        "Metry (m)",
+        "Kilometry (km)",
+        "Cale (in)",
+        "Stopy (ft)",
+        "Jardy (yd)",
+        "Mile (mi)",
+        "Punkt 1",
+        "Punkt 2",
+        "Współrzędna X",
+        "Współrzędna Y",
+        "Współrzędna Z",
+        "X",
+        "Y",
+        "Z",
+        "Wynik",
+        "Wzór:",
+        "Kopiuj",
+        "Skopiowane!",
+        "Resetuj wszystkie dane"
+    ]
+}

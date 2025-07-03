@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Hogyan működik:",
+        "A két pont közötti távolságot az euklideszi távolság képlettel számoljuk ki. 2D esetén: √[(x₂-x₁)² + (y₂-y₁)²] és 3D esetén: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Számítási Mód",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Egység",
+        "Egységek",
+        "Milliméter (mm)",
+        "Centiméter (cm)",
+        "Méter (m)",
+        "Kilométer (km)",
+        "Hüvelyk (in)",
+        "Láb (ft)",
+        "Yard (yd)",
+        "Mérföld (mi)",
+        "1. pont",
+        "2. pont",
+        "X koordináta",
+        "Y koordináta",
+        "Z koordináta",
+        "X",
+        "Y",
+        "Z",
+        "Eredmény",
+        "Képlet:",
+        "Másolás",
+        "Másolva!",
+        "Összes bemenet visszaállítása"
+    ]
+}

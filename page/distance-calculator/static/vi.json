@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Cách hoạt động:",
+        "Khoảng cách giữa hai điểm được tính bằng công thức khoảng cách Euclidean. Đối với 2D: √[(x₂-x₁)² + (y₂-y₁)²] và đối với 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Chế độ tính toán",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Đơn vị",
+        "Đơn vị",
+        "Milimét (mm)",
+        "Centimét (cm)",
+        "Mét (m)",
+        "Kilomét (km)",
+        "Inch (in)",
+        "Feet (ft)",
+        "Yard (yd)",
+        "Dặm (mi)",
+        "Điểm 1",
+        "Điểm 2",
+        "Tọa độ X",
+        "Tọa độ Y",
+        "Tọa độ Z",
+        "X",
+        "Y",
+        "Z",
+        "Kết quả",
+        "Công thức:",
+        "Sao chép",
+        "Đã sao chép!",
+        "Đặt lại tất cả"
+    ]
+}

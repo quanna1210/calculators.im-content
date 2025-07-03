@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Calculator Distanță",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Distanță - Calculează Puncte 2D & 3D",
+        "meta_description": "Calculator distanță online gratuit pentru puncte 2D și 3D. Calculează distanța euclidiană cu multiple unități. Instrument ușor de folosit.",
+        "meta_keyword": "calculator distanță, distanță puncte, distanță 2D, distanță 3D, distanță euclidiană, distanță coordonate, formula distanței, calculator geometrie, calculator matematic, calculator online, calculator distanță între două puncte, calculează distanța între coordonate, calculator distanță 2D 3D online, calculator formula distanței euclidiene, calculator distanță online gratuit, calculator distanță punct la punct, calculator distanță coordonate online, calculator distanță cu multiple unități, cum să calculezi distanța între puncte, calculator formula distanței online, găsește distanța între coordonate, măsoară distanța între două puncte, calculează distanța liniei drepte, instrument măsurare distanță puncte, calculator geometrie coordonate, calculare distanță online gratuit",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

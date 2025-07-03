@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Kalkulator Odległości",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Odległości - Oblicz Punkty 2D & 3D",
+        "meta_description": "Darmowy kalkulator odległości online dla punktów 2D i 3D. Oblicz odległość euklidesową z wieloma jednostkami. Łatwe w użyciu narzędzie.",
+        "meta_keyword": "kalkulator odległości, odległość punktów, odległość 2D, odległość 3D, odległość euklidesowa, odległość współrzędnych, wzór odległości, kalkulator geometrii, kalkulator matematyczny, kalkulator online, kalkulator odległości między dwoma punktami, oblicz odległość między współrzędnymi, kalkulator odległości 2D 3D online, kalkulator wzoru odległości euklidesowej, darmowy kalkulator odległości online, kalkulator odległości punkt do punktu, kalkulator odległości współrzędnych online, kalkulator odległości z wieloma jednostkami, jak obliczyć odległość między punktami, kalkulator wzoru odległości online, znajdź odległość między współrzędnymi, zmierz odległość między dwoma punktami, oblicz odległość linii prostej, narzędzie pomiarowe odległości punktów, kalkulator geometrii współrzędnych, obliczanie odległości online za darmo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

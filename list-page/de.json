@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Entfernungsrechner",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Entfernungsrechner - 2D & 3D Punkte berechnen",
+        "meta_description": "Kostenloser Online-Entfernungsrechner für 2D- und 3D-Punkte. Berechnen Sie euklidische Entfernung mit verschiedenen Einheiten. Einfach zu verwenden.",
+        "meta_keyword": "entfernungsrechner, punktentfernung, 2D entfernung, 3D entfernung, euklidische entfernung, koordinatenentfernung, entfernungsformel, geometrierechner, mathematikrechner, online rechner, entfernungsrechner zwei punkte, entfernung zwischen koordinaten berechnen, 2D 3D entfernungsrechner online, euklidische entfernungsformel rechner, kostenloser online entfernungsrechner, punkt zu punkt entfernungsrechner, koordinaten entfernungsrechner online, entfernungsrechner mit verschiedenen einheiten, wie entfernung zwischen punkten berechnen, entfernungsformel rechner online, entfernung zwischen koordinaten finden, entfernung zwischen zwei punkten messen, gerade linie entfernung berechnen, punkt entfernungsmessung tool, koordinatengeometrie rechner, entfernungsberechnung online kostenlos",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Hoe het werkt:",
+        "De afstand tussen twee punten wordt berekend met de Euclidische afstandsformule. Voor 2D: √[(x₂-x₁)² + (y₂-y₁)²] en voor 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Berekeningswijze",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Eenheid",
+        "Eenheden",
+        "Millimeter (mm)",
+        "Centimeter (cm)",
+        "Meter (m)",
+        "Kilometer (km)",
+        "Inch (in)",
+        "Voet (ft)",
+        "Yard (yd)",
+        "Mijl (mi)",
+        "Punt 1",
+        "Punt 2",
+        "X Coördinaat",
+        "Y Coördinaat",
+        "Z Coördinaat",
+        "X",
+        "Y",
+        "Z",
+        "Resultaat",
+        "Formule:",
+        "Kopiëren",
+        "Gekopieerd!",
+        "Alle invoer resetten"
+    ]
+}

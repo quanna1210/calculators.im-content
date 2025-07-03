@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Afstand Calculator",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Afstand Calculator - Bereken 2D & 3D Punten",
+        "meta_description": "Gratis online afstand calculator voor 2D en 3D punten. Bereken Euclidische afstand met meerdere eenheden. Gebruiksvriendelijke afstand tool.",
+        "meta_keyword": "afstand calculator, punt afstand, 2D afstand, 3D afstand, euclidische afstand, coördinaat afstand, afstand formule, geometrie calculator, wiskunde calculator, online calculator, afstand calculator tussen twee punten, afstand berekenen tussen coördinaten, 2D 3D afstand calculator online, euclidische afstand formule calculator, gratis online afstand calculator, punt naar punt afstand calculator, coördinaat afstand calculator online, afstand calculator met meerdere eenheden, hoe afstand tussen punten berekenen, afstand formule calculator online, afstand vinden tussen coördinaten, afstand meten tussen twee punten, rechte lijn afstand berekenen, punt afstand meetinstrument, coördinaat geometrie calculator, afstand berekening online gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

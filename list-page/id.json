@@ -855,5 +855,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Kalkulator Jarak",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Jarak - Hitung Jarak Titik 2D & 3D",
+        "meta_description": "Kalkulator jarak online gratis untuk titik 2D dan 3D. Hitung jarak Euclidean dengan berbagai satuan. Alat pengukur jarak titik yang mudah digunakan.",
+        "meta_keyword": "kalkulator jarak, jarak titik, jarak 2D, jarak 3D, jarak Euclidean, jarak koordinat, rumus jarak, kalkulator geometri, kalkulator matematika, kalkulator online, kalkulator jarak dua titik, hitung jarak koordinat, kalkulator jarak 2D 3D online, kalkulator rumus jarak Euclidean, kalkulator jarak online gratis, kalkulator jarak titik ke titik, kalkulator jarak koordinat online, kalkulator jarak dengan berbagai satuan, cara menghitung jarak antar titik, kalkulator rumus jarak online, cari jarak antar koordinat, ukur jarak dua titik, hitung jarak garis lurus, alat pengukur jarak titik, kalkulator geometri koordinat, perhitungan jarak online gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

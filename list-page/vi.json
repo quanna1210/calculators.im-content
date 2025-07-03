@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Máy tính khoảng cách",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy tính khoảng cách - Tính khoảng cách 2D & 3D",
+        "meta_description": "Máy tính khoảng cách trực tuyến miễn phí cho điểm 2D và 3D. Tính khoảng cách Euclidean với nhiều đơn vị. Công cụ đo khoảng cách dễ sử dụng.",
+        "meta_keyword": "máy tính khoảng cách, khoảng cách điểm, khoảng cách 2D, khoảng cách 3D, khoảng cách Euclidean, khoảng cách tọa độ, công thức khoảng cách, máy tính hình học, máy tính toán học, máy tính trực tuyến, máy tính khoảng cách hai điểm, tính khoảng cách tọa độ, máy tính khoảng cách 2D 3D trực tuyến, máy tính công thức khoảng cách Euclidean, máy tính khoảng cách trực tuyến miễn phí, máy tính khoảng cách điểm đến điểm, máy tính khoảng cách tọa độ trực tuyến, máy tính khoảng cách với nhiều đơn vị, cách tính khoảng cách giữa các điểm, máy tính công thức khoảng cách trực tuyến, tìm khoảng cách giữa tọa độ, đo khoảng cách hai điểm, tính khoảng cách đường thẳng, công cụ đo khoảng cách điểm, máy tính hình học tọa độ, tính toán khoảng cách trực tuyến miễn phí",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

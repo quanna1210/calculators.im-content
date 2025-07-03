@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Nasıl çalışır:",
+        "İki nokta arasındaki mesafe Öklid mesafe formülü kullanılarak hesaplanır. 2D için: √[(x₂-x₁)² + (y₂-y₁)²] ve 3D için: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Hesaplama Modu",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Birim",
+        "Birimler",
+        "Milimetre (mm)",
+        "Santimetre (cm)",
+        "Metre (m)",
+        "Kilometre (km)",
+        "İnç (in)",
+        "Ayak (ft)",
+        "Yarda (yd)",
+        "Mil (mi)",
+        "Nokta 1",
+        "Nokta 2",
+        "X Koordinatı",
+        "Y Koordinatı",
+        "Z Koordinatı",
+        "X",
+        "Y",
+        "Z",
+        "Sonuç",
+        "Formül:",
+        "Kopyala",
+        "Kopyalandı!",
+        "Tüm girişleri sıfırla"
+    ]
+}

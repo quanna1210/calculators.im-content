@@ -855,5 +855,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Távolság Kalkulátor",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Távolság Kalkulátor - 2D & 3D Pontok számítása",
+        "meta_description": "Ingyenes online távolság kalkulátor 2D és 3D pontokhoz. Számítsa ki az euklideszi távolságot több egységgel. Könnyen használható eszköz.",
+        "meta_keyword": "távolság kalkulátor, pont távolság, 2D távolság, 3D távolság, euklideszi távolság, koordináta távolság, távolság képlet, geometria kalkulátor, matematika kalkulátor, online kalkulátor, távolság kalkulátor két pont között, távolság számítása koordináták között, 2D 3D távolság kalkulátor online, euklideszi távolság képlet kalkulátor, ingyenes online távolság kalkulátor, pont-pont távolság kalkulátor, koordináta távolság kalkulátor online, távolság kalkulátor több egységgel, hogyan számítsuk ki a pontok közötti távolságot, távolság képlet kalkulátor online, távolság keresése koordináták között, távolság mérése két pont között, egyenes vonal távolság számítása, pont távolság mérő eszköz, koordináta geometria kalkulátor, távolság számítás online ingyen",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

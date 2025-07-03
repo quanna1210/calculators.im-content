@@ -854,5 +854,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "68",
+        "thumb": "https://static.calculators.im/upload/thumb/distance-calculator.jpg",
+        "title": "Distance Calculator",
+        "slug": "distance-calculator",
+        "parent_id": "65",
+        "meta_title": "Distance Calculator - Calculate 2D & 3D Point Distance",
+        "meta_description": "Free online distance calculator for 2D and 3D points. Calculate Euclidean distance instantly with multiple units. Easy-to-use point distance tool.",
+        "meta_keyword": "distance calculator, point distance, 2D distance, 3D distance, Euclidean distance, coordinate distance, distance formula, geometry calculator, math calculator, online calculator, distance between two points calculator, calculate distance between coordinates, 2D 3D distance calculator online, Euclidean distance formula calculator, free online distance calculator, point to point distance calculator, coordinate distance calculator online, distance calculator with multiple units, how to calculate distance between points, distance formula calculator online, find distance between coordinates, measure distance between two points, calculate straight line distance, point distance measurement tool, coordinate geometry calculator, distance calculation online free",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

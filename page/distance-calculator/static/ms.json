@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Cara ia berfungsi:",
+        "Jarak antara dua titik dikira menggunakan formula jarak Euclidean. Untuk 2D: √[(x₂-x₁)² + (y₂-y₁)²] dan untuk 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Mod Pengiraan",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Unit",
+        "Unit",
+        "Milimeter (mm)",
+        "Sentimeter (cm)",
+        "Meter (m)",
+        "Kilometer (km)",
+        "Inci (in)",
+        "Kaki (ft)",
+        "Ela (yd)",
+        "Batu (mi)",
+        "Titik 1",
+        "Titik 2",
+        "Koordinat X",
+        "Koordinat Y",
+        "Koordinat Z",
+        "X",
+        "Y",
+        "Z",
+        "Keputusan",
+        "Formula:",
+        "Salin",
+        "Disalin!",
+        "Reset semua input"
+    ]
+}

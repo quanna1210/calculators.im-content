@@ -1,0 +1,32 @@
+{
+    "trans": [
+        "Jak to funguje:",
+        "Vzdálenost mezi dvěma body se vypočítá pomocí Euklidovské vzdálenostní formule. Pro 2D: √[(x₂-x₁)² + (y₂-y₁)²] a pro 3D: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]",
+        "Režim výpočtu",
+        "2D (X, Y)",
+        "3D (X, Y, Z)",
+        "Jednotka",
+        "Jednotky",
+        "Milimetry (mm)",
+        "Centimetry (cm)",
+        "Metry (m)",
+        "Kilometry (km)",
+        "Palce (in)",
+        "Stopy (ft)",
+        "Yardy (yd)",
+        "Míle (mi)",
+        "Bod 1",
+        "Bod 2",
+        "Souřadnice X",
+        "Souřadnice Y",
+        "Souřadnice Z",
+        "X",
+        "Y",
+        "Z",
+        "Výsledek",
+        "Vzorec:",
+        "Kopírovat",
+        "Zkopírováno!",
+        "Resetovat všechny vstupy"
+    ]
+}
