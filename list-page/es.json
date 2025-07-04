@@ -881,5 +881,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Calculadora de Emisiones de Carbono",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Emisiones Carbono - Huella CO₂ Gratis",
+        "meta_description": "¡Calcula tu huella de carbono al instante! Calculadora gratuita de emisiones para transporte, energía y residuos. Obtén resultados CO₂ y consejos de reducción.",
+        "meta_keyword": "calculadora emisiones carbono, calculadora huella carbono, calculadora CO2, calculadora carbono gratis, herramienta huella carbono, calculadora gases invernadero, rastreador emisiones carbono, calculadora impacto ambiental, evaluación huella carbono, calculadora carbono online, huella carbono personal, herramienta emisiones carbono, calculadora huella CO2, calculadora impacto carbono, calculadora carbono online, calculadora emisiones gratis, estimador huella carbono, calculadora dióxido carbono, calculadora impacto climático, calculadora compensación carbono, medición huella carbono, calculadora ambiental, calculadora sostenibilidad, calculadora carbono neutral, calculadora huella eco, herramienta seguimiento carbono, analizador huella carbono, estimador emisiones carbono, calculadora verde, app calculadora carbono, verificador huella carbono, rastreador emisiones carbono online, calculadora carbono transporte, calculadora carbono energía, calculadora carbono residuos, calculadora carbono hogar, calculadora emisiones personales, calculadora carbono con resultados, calculadora huella carbono gratis online, calcular emisiones carbono, calculadora huella carbono transporte energía residuos, calculadora emisiones carbono individuos, calculadora emisiones CO2 online, calculadora huella carbono recomendaciones, calculadora carbono impacto ambiental, calculadora emisiones carbono precisa, herramienta huella carbono gratis, calculadora carbono resultados instantáneos",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

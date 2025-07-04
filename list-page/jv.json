@@ -881,5 +881,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Kalkulator Emisi Karbon",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Emisi Karbon - Alat Jejak CO₂ Gratis",
+        "meta_description": "Etung jejak karbon sampeyan kanthi cepet! Kalkulator emisi karbon gratis kanggo transportasi, energi & sampah. Entuk asil CO₂ & tips nyuda dampak.",
+        "meta_keyword": "kalkulator emisi karbon, kalkulator jejak karbon, kalkulator CO2, kalkulator karbon gratis, alat jejak karbon, kalkulator gas omah kaca, pelacak emisi karbon, kalkulator dampak lingkungan, penilaian jejak karbon, kalkulator karbon online, jejak karbon pribadi, alat emisi karbon, kalkulator jejak CO2, kalkulator dampak karbon, kalkulator karbon online, kalkulator emisi gratis, estimator jejak karbon, kalkulator karbon dioksida, kalkulator dampak iklim, kalkulator offset karbon, pangukuran jejak karbon, kalkulator lingkungan, kalkulator keberlanjutan, kalkulator karbon netral, kalkulator jejak eko, alat pelacakan karbon, analisis jejak karbon, estimator emisi karbon, kalkulator ijo, aplikasi kalkulator karbon, pemeriksa jejak karbon, pelacak emisi karbon online, kalkulator karbon transportasi, kalkulator karbon energi, kalkulator karbon sampah, kalkulator karbon omah tangga, kalkulator emisi pribadi, kalkulator karbon karo asil, kalkulator jejak karbon gratis online, etung emisi karbon, kalkulator jejak karbon transportasi energi sampah, kalkulator emisi karbon kanggo individu, kalkulator emisi CO2 online, kalkulator jejak karbon karo rekomendasi, kalkulator karbon dampak lingkungan, kalkulator emisi karbon akurat, alat jejak karbon gratis, kalkulator karbon asil cepet",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

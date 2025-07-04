@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Carbon Emission Calculator",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Carbon Emission Calculator - Free CO₂ Footprint Tool",
+        "meta_description": "Calculate your carbon footprint instantly! Free carbon emission calculator for transportation, energy & waste. Get CO₂ results & personalized tips to reduce impact.",
+        "meta_keyword": "carbon emission calculator, carbon footprint calculator, CO2 calculator, free carbon calculator, carbon footprint tool, greenhouse gas calculator, carbon emissions tracker, environmental impact calculator, carbon footprint assessment, online carbon calculator, personal carbon footprint, carbon emission tool, CO2 footprint calculator, carbon impact calculator, carbon calculator online, emissions calculator free, carbon footprint estimator, carbon dioxide calculator, climate impact calculator, carbon offset calculator, carbon footprint measurement, environmental calculator, sustainability calculator, carbon neutral calculator, eco footprint calculator, carbon tracking tool, carbon footprint analyzer, carbon emission estimator, green calculator, carbon calculator app, carbon footprint checker, carbon emission tracker online, transportation carbon calculator, energy carbon calculator, waste carbon calculator, household carbon calculator, personal emissions calculator, carbon calculator with results, carbon footprint calculator free online, calculate carbon emissions, carbon footprint calculator transportation energy waste, carbon emission calculator for individuals, CO2 emission calculator online, carbon footprint calculator with recommendations, carbon calculator environmental impact, carbon emission calculator accurate, carbon footprint tool free, carbon calculator instant results",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

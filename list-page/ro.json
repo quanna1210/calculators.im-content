@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Calculator Emisii Carbon",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Emisii Carbon - Amprentă CO₂ Gratuită",
+        "meta_description": "Calculează amprenta de carbon instant! Calculator gratuit emisii pentru transport, energie și deșeuri. Obține rezultate CO₂ și sfaturi pentru reducerea impactului.",
+        "meta_keyword": "calculator emisii carbon, calculator amprentă carbon, calculator CO2, calculator carbon gratuit, instrument amprentă carbon, calculator gaze serra, urmăritor emisii carbon, calculator impact ambiental, evaluare amprentă carbon, calculator carbon online, amprentă carbon personală, instrument emisii carbon, calculator amprentă CO2, calculator impact carbon, calculator carbon online, calculator emisii gratuit, estimator amprentă carbon, calculator dioxid carbon, calculator impact climatic, calculator compensare carbon, măsurare amprentă carbon, calculator ambiental, calculator sustenabilitate, calculator carbon neutru, calculator amprentă eco, instrument urmărire carbon, analizor amprentă carbon, estimator emisii carbon, calculator verde, aplicație calculator carbon, verificator amprentă carbon, urmăritor emisii carbon online, calculator carbon transport, calculator carbon energie, calculator carbon deșeuri, calculator carbon casnic, calculator emisii personale, calculator carbon cu rezultate, calculator amprentă carbon gratuit online, calculează emisii carbon, calculator amprentă carbon transport energie deșeuri, calculator emisii carbon pentru indivizi, calculator emisii CO2 online, calculator amprentă carbon cu recomandări, calculator carbon impact ambiental, calculator emisii carbon precis, instrument amprentă carbon gratuit, calculator carbon rezultate instant",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

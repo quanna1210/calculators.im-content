@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Karbon Emisyonu Hesaplayıcısı",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Karbon Emisyonu Hesaplayıcısı - Ücretsiz CO₂ İzi",
+        "meta_description": "Karbon ayak izinizi anında hesaplayın! Ulaşım, enerji ve atık için ücretsiz emisyon hesaplayıcısı. CO₂ sonuçları ve etki azaltma ipuçları alın.",
+        "meta_keyword": "karbon emisyonu hesaplayıcısı, karbon ayak izi hesaplayıcısı, CO2 hesaplayıcısı, ücretsiz karbon hesaplayıcısı, karbon ayak izi aracı, sera gazı hesaplayıcısı, karbon emisyonu takipçisi, çevresel etki hesaplayıcısı, karbon ayak izi değerlendirmesi, karbon hesaplayıcısı çevrimiçi, kişisel karbon ayak izi, karbon emisyonu aracı, CO2 ayak izi hesaplayıcısı, karbon etki hesaplayıcısı, karbon hesaplayıcısı online, emisyon hesaplayıcısı ücretsiz, karbon ayak izi tahmincisi, karbon dioksit hesaplayıcısı, iklim etkisi hesaplayıcısı, karbon telafi hesaplayıcısı, karbon ayak izi ölçümü, çevre hesaplayıcısı, sürdürülebilirlik hesaplayıcısı, karbon nötr hesaplayıcısı, eko ayak izi hesaplayıcısı, karbon takip aracı, karbon ayak izi analizörü, karbon emisyonu tahmincisi, yeşil hesaplayıcısı, karbon hesaplayıcısı uygulaması, karbon ayak izi kontrolcüsü, karbon emisyonu takipçisi online, ulaşım karbon hesaplayıcısı, enerji karbon hesaplayıcısı, atık karbon hesaplayıcısı, ev karbon hesaplayıcısı, kişisel emisyon hesaplayıcısı, sonuçlu karbon hesaplayıcısı, ücretsiz karbon ayak izi hesaplayıcısı online, karbon emisyonlarını hesapla, karbon ayak izi hesaplayıcısı ulaşım enerji atık, bireyler için karbon emisyonu hesaplayıcısı, CO2 emisyonu hesaplayıcısı online, önerili karbon ayak izi hesaplayıcısı, karbon hesaplayıcısı çevresel etki, doğru karbon emisyonu hesaplayıcısı, ücretsiz karbon ayak izi aracı, karbon hesaplayıcısı anında sonuçlar",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

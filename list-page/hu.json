@@ -881,5 +881,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Szénkibocsátás Kalkulátor",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Szénkibocsátás Kalkulátor - Ingyenes CO₂ Lábnyom",
+        "meta_description": "Számítsa ki szénlábnyomát azonnal! Ingyenes kibocsátás kalkulátor közlekedés, energia és hulladék számára. Kapjon CO₂ eredményeket és csökkentési tippeket.",
+        "meta_keyword": "szénkibocsátás kalkulátor, szénlábnyom kalkulátor, CO2 kalkulátor, ingyenes szén kalkulátor, szénlábnyom eszköz, üvegházgáz kalkulátor, szénkibocsátás követő, környezeti hatás kalkulátor, szénlábnyom értékelés, szén kalkulátor online, személyes szénlábnyom, szénkibocsátás eszköz, CO2 lábnyom kalkulátor, szén hatás kalkulátor, szén kalkulátor online, kibocsátás kalkulátor ingyenes, szénlábnyom becslő, szén-dioxid kalkulátor, klímahatás kalkulátor, szén kompenzáció kalkulátor, szénlábnyom mérés, környezeti kalkulátor, fenntarthatósági kalkulátor, szén semleges kalkulátor, öko lábnyom kalkulátor, szén követő eszköz, szénlábnyom elemző, szénkibocsátás becslő, zöld kalkulátor, szén kalkulátor app, szénlábnyom ellenőrző, szénkibocsátás követő online, közlekedési szén kalkulátor, energia szén kalkulátor, hulladék szén kalkulátor, háztartási szén kalkulátor, személyes kibocsátás kalkulátor, szén kalkulátor eredményekkel, szénlábnyom kalkulátor ingyenes online, szénkibocsátás számítás, szénlábnyom kalkulátor közlekedés energia hulladék, szénkibocsátás kalkulátor egyéneknek, CO2 kibocsátás kalkulátor online, szénlábnyom kalkulátor ajánlásokkal, szén kalkulátor környezeti hatás, pontos szénkibocsátás kalkulátor, ingyenes szénlábnyom eszköz, szén kalkulátor azonnali eredmények",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -881,5 +881,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Calculatrice d'Émissions Carbone",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculatrice Émissions Carbone - Empreinte CO₂ Gratuite",
+        "meta_description": "Calculez votre empreinte carbone instantanément ! Calculatrice gratuite d'émissions pour transport, énergie et déchets. Obtenez résultats CO₂ et conseils réduction.",
+        "meta_keyword": "calculatrice émissions carbone, calculatrice empreinte carbone, calculatrice CO2, calculatrice carbone gratuite, outil empreinte carbone, calculatrice gaz effet serre, suivi émissions carbone, calculatrice impact environnemental, évaluation empreinte carbone, calculatrice carbone en ligne, empreinte carbone personnelle, outil émissions carbone, calculatrice empreinte CO2, calculatrice impact carbone, calculatrice carbone en ligne, calculatrice émissions gratuite, estimateur empreinte carbone, calculatrice dioxyde carbone, calculatrice impact climatique, calculatrice compensation carbone, mesure empreinte carbone, calculatrice environnementale, calculatrice durabilité, calculatrice carbone neutre, calculatrice empreinte écologique, outil suivi carbone, analyseur empreinte carbone, estimateur émissions carbone, calculatrice verte, app calculatrice carbone, vérificateur empreinte carbone, suivi émissions carbone en ligne, calculatrice carbone transport, calculatrice carbone énergie, calculatrice carbone déchets, calculatrice carbone ménage, calculatrice émissions personnelles, calculatrice carbone avec résultats, calculatrice empreinte carbone gratuite en ligne, calculer émissions carbone, calculatrice empreinte carbone transport énergie déchets, calculatrice émissions carbone individus, calculatrice émissions CO2 en ligne, calculatrice empreinte carbone recommandations, calculatrice carbone impact environnemental, calculatrice émissions carbone précise, outil empreinte carbone gratuit, calculatrice carbone résultats instantanés",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

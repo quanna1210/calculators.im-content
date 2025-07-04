@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Koolstofuitstoot Calculator",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Koolstofuitstoot Calculator - Gratis CO₂ Voetafdruk",
+        "meta_description": "Bereken uw koolstofvoetafdruk direct! Gratis uitstoot calculator voor transport, energie & afval. Krijg CO₂ resultaten en reductie tips voor minder impact.",
+        "meta_keyword": "koolstofuitstoot calculator, koolstofvoetafdruk calculator, CO2 calculator, gratis koolstof calculator, koolstofvoetafdruk tool, broeikasgassen calculator, koolstofuitstoot tracker, milieuimpact calculator, koolstofvoetafdruk beoordeling, koolstof calculator online, persoonlijke koolstofvoetafdruk, koolstofuitstoot tool, CO2 voetafdruk calculator, koolstof impact calculator, koolstof calculator online, uitstoot calculator gratis, koolstofvoetafdruk schatting, koolstofdioxide calculator, klimaat impact calculator, koolstof compensatie calculator, koolstofvoetafdruk meting, milieu calculator, duurzaamheid calculator, koolstof neutraal calculator, eco voetafdruk calculator, koolstof tracking tool, koolstofvoetafdruk analyse, koolstofuitstoot schatting, groene calculator, koolstof calculator app, koolstofvoetafdruk checker, koolstofuitstoot tracker online, transport koolstof calculator, energie koolstof calculator, afval koolstof calculator, huishoudelijke koolstof calculator, persoonlijke uitstoot calculator, koolstof calculator met resultaten, koolstofvoetafdruk calculator gratis online, koolstofuitstoot berekenen, koolstofvoetafdruk calculator transport energie afval, koolstofuitstoot calculator voor individuen, CO2 uitstoot calculator online, koolstofvoetafdruk calculator met aanbevelingen, koolstof calculator milieu impact, nauwkeurige koolstofuitstoot calculator, gratis koolstofvoetafdruk tool, koolstof calculator directe resultaten",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

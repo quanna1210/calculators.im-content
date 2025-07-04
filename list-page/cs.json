@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Kalkulačka Emisí Uhlíku",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Emisí Uhlíku - Nástroj CO₂ Stopy Zdarma",
+        "meta_description": "Vypočítejte svou uhlíkovou stopu okamžitě! Bezplatná kalkulačka emisí uhlíku pro dopravu, energii a odpad. Získejte výsledky CO₂ a tipy na snížení dopadu.",
+        "meta_keyword": "kalkulačka emisí uhlíku, kalkulačka uhlíkové stopy, kalkulačka CO2, kalkulačka uhlíku zdarma, nástroj uhlíkové stopy, kalkulačka skleníkových plynů, sledování emisí uhlíku, kalkulačka environmentálního dopadu, hodnocení uhlíkové stopy, kalkulačka uhlíku online, osobní uhlíková stopa, nástroj emisí uhlíku, kalkulačka stopy CO2, kalkulačka dopadu uhlíku, kalkulačka uhlíku online, kalkulačka emisí zdarma, odhad uhlíkové stopy, kalkulačka oxidu uhličitého, kalkulačka klimatického dopadu, kalkulačka kompenzace uhlíku, měření uhlíkové stopy, environmentální kalkulačka, kalkulačka udržitelnosti, kalkulačka uhlíkové neutrality, kalkulačka ekologické stopy, nástroj sledování uhlíku, analýza uhlíkové stopy, odhad emisí uhlíku, zelená kalkulačka, aplikace kalkulačky uhlíku, kontrola uhlíkové stopy, sledování emisí uhlíku online, kalkulačka uhlíku doprava, kalkulačka uhlíku energie, kalkulačka uhlíku odpad, kalkulačka uhlíku domácnost, kalkulačka osobních emisí, kalkulačka uhlíku s výsledky, kalkulačka uhlíkové stopy zdarma online, výpočet emisí uhlíku, kalkulačka uhlíkové stopy doprava energie odpad, kalkulačka emisí uhlíku pro jednotlivce, kalkulačka emisí CO2 online, kalkulačka uhlíkové stopy s doporučeními, kalkulačka uhlíku environmentální dopad, kalkulačka emisí uhlíku přesná, nástroj uhlíkové stopy zdarma, kalkulačka uhlíku okamžité výsledky",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -881,5 +881,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Calcolatore Emissioni Carbonio",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Emissioni Carbonio - Impronta CO₂ Gratis",
+        "meta_description": "Calcola la tua impronta carbonica istantaneamente! Calcolatore gratuito emissioni per trasporti, energia e rifiuti. Ottieni risultati CO₂ e consigli riduzione.",
+        "meta_keyword": "calcolatore emissioni carbonio, calcolatore impronta carbonica, calcolatore CO2, calcolatore carbonio gratuito, strumento impronta carbonica, calcolatore gas serra, tracker emissioni carbonio, calcolatore impatto ambientale, valutazione impronta carbonica, calcolatore carbonio online, impronta carbonica personale, strumento emissioni carbonio, calcolatore impronta CO2, calcolatore impatto carbonio, calcolatore carbonio online, calcolatore emissioni gratuito, stimatore impronta carbonica, calcolatore anidride carbonica, calcolatore impatto climatico, calcolatore compensazione carbonio, misurazione impronta carbonica, calcolatore ambientale, calcolatore sostenibilità, calcolatore carbonio neutro, calcolatore impronta eco, strumento tracking carbonio, analizzatore impronta carbonica, stimatore emissioni carbonio, calcolatore verde, app calcolatore carbonio, verificatore impronta carbonica, tracker emissioni carbonio online, calcolatore carbonio trasporti, calcolatore carbonio energia, calcolatore carbonio rifiuti, calcolatore carbonio domestico, calcolatore emissioni personali, calcolatore carbonio con risultati, calcolatore impronta carbonica gratuito online, calcolare emissioni carbonio, calcolatore impronta carbonica trasporti energia rifiuti, calcolatore emissioni carbonio individui, calcolatore emissioni CO2 online, calcolatore impronta carbonica raccomandazioni, calcolatore carbonio impatto ambientale, calcolatore emissioni carbonio preciso, strumento impronta carbonica gratuito, calcolatore carbonio risultati istantanei",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

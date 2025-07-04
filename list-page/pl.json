@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Kalkulator Emisji Węgla",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Emisji Węgla - Darmowy Ślad CO₂",
+        "meta_description": "Oblicz swój ślad węglowy natychmiast! Darmowy kalkulator emisji dla transportu, energii i odpadów. Otrzymaj wyniki CO₂ i porady redukcji wpływu na środowisko.",
+        "meta_keyword": "kalkulator emisji węgla, kalkulator śladu węglowego, kalkulator CO2, darmowy kalkulator węgla, narzędzie śladu węglowego, kalkulator gazów cieplarnianych, śledzenie emisji węgla, kalkulator wpływu środowiskowego, ocena śladu węglowego, kalkulator węgla online, osobisty ślad węglowy, narzędzie emisji węgla, kalkulator śladu CO2, kalkulator wpływu węgla, kalkulator węgla online, kalkulator emisji darmowy, estymator śladu węglowego, kalkulator dwutlenku węgla, kalkulator wpływu klimatycznego, kalkulator kompensacji węgla, pomiar śladu węglowego, kalkulator środowiskowy, kalkulator zrównoważoności, kalkulator neutralny węglowo, kalkulator śladu eko, narzędzie śledzenia węgla, analizator śladu węglowego, estymator emisji węgla, zielony kalkulator, aplikacja kalkulator węgla, sprawdzacz śladu węglowego, śledzenie emisji węgla online, kalkulator węgla transport, kalkulator węgla energia, kalkulator węgla odpady, kalkulator węgla gospodarstwo domowe, kalkulator emisji osobistych, kalkulator węgla z wynikami, kalkulator śladu węglowego darmowy online, oblicz emisje węgla, kalkulator śladu węglowego transport energia odpady, kalkulator emisji węgla dla osób, kalkulator emisji CO2 online, kalkulator śladu węglowego z zaleceniami, kalkulator węgla wpływ środowiskowy, dokładny kalkulator emisji węgla, darmowe narzędzie śladu węglowego, kalkulator węgla natychmiastowe wyniki",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

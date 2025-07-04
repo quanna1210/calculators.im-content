@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Calculadora de Emissões de Carbono",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Emissões Carbono - Pegada CO₂ Grátis",
+        "meta_description": "Calcule sua pegada de carbono instantaneamente! Calculadora gratuita de emissões para transporte, energia e resíduos. Obtenha resultados CO₂ e dicas de redução.",
+        "meta_keyword": "calculadora emissões carbono, calculadora pegada carbono, calculadora CO2, calculadora carbono grátis, ferramenta pegada carbono, calculadora gases estufa, rastreador emissões carbono, calculadora impacto ambiental, avaliação pegada carbono, calculadora carbono online, pegada carbono pessoal, ferramenta emissões carbono, calculadora pegada CO2, calculadora impacto carbono, calculadora carbono online, calculadora emissões grátis, estimador pegada carbono, calculadora dióxido carbono, calculadora impacto climático, calculadora compensação carbono, medição pegada carbono, calculadora ambiental, calculadora sustentabilidade, calculadora carbono neutro, calculadora pegada eco, ferramenta rastreamento carbono, analisador pegada carbono, estimador emissões carbono, calculadora verde, app calculadora carbono, verificador pegada carbono, rastreador emissões carbono online, calculadora carbono transporte, calculadora carbono energia, calculadora carbono resíduos, calculadora carbono doméstica, calculadora emissões pessoais, calculadora carbono com resultados, calculadora pegada carbono grátis online, calcular emissões carbono, calculadora pegada carbono transporte energia resíduos, calculadora emissões carbono indivíduos, calculadora emissões CO2 online, calculadora pegada carbono recomendações, calculadora carbono impacto ambiental, calculadora emissões carbono precisa, ferramenta pegada carbono grátis, calculadora carbono resultados instantâneos",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

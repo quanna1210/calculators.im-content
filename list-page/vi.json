@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Máy Tính Khí Thải Carbon",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Khí Thải Carbon - Công Cụ Dấu Chân CO₂",
+        "meta_description": "Tính dấu chân carbon ngay! Máy tính khí thải carbon miễn phí cho giao thông, năng lượng & chất thải. Nhận kết quả CO₂ & mẹo giảm tác động môi trường.",
+        "meta_keyword": "máy tính khí thải carbon, máy tính dấu chân carbon, máy tính CO2, máy tính carbon miễn phí, công cụ dấu chân carbon, máy tính khí nhà kính, theo dõi khí thải carbon, máy tính tác động môi trường, đánh giá dấu chân carbon, máy tính carbon online, dấu chân carbon cá nhân, công cụ khí thải carbon, máy tính dấu chân CO2, máy tính tác động carbon, máy tính carbon trực tuyến, máy tính khí thải miễn phí, ước tính dấu chân carbon, máy tính carbon dioxide, máy tính tác động khí hậu, máy tính bù carbon, đo lường dấu chân carbon, máy tính môi trường, máy tính bền vững, máy tính carbon trung tính, máy tính dấu chân sinh thái, công cụ theo dõi carbon, phân tích dấu chân carbon, ước tính khí thải carbon, máy tính xanh, ứng dụng máy tính carbon, kiểm tra dấu chân carbon, theo dõi khí thải carbon online, máy tính carbon giao thông, máy tính carbon năng lượng, máy tính carbon chất thải, máy tính carbon gia đình, máy tính khí thải cá nhân, máy tính carbon có kết quả, máy tính dấu chân carbon miễn phí online, tính khí thải carbon, máy tính dấu chân carbon giao thông năng lượng chất thải, máy tính khí thải carbon cho cá nhân, máy tính khí thải CO2 online, máy tính dấu chân carbon với khuyến nghị, máy tính carbon tác động môi trường, máy tính khí thải carbon chính xác, công cụ dấu chân carbon miễn phí, máy tính carbon kết quả ngay",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

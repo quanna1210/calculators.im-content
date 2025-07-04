@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "CO₂-Emissionsrechner",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "CO₂-Emissionsrechner - Kostenloser Fußabdruck Tool",
+        "meta_description": "Berechnen Sie Ihren CO₂-Fußabdruck sofort! Kostenloser Emissionsrechner für Transport, Energie & Abfall. Erhalten Sie CO₂-Ergebnisse und Reduktionstipps.",
+        "meta_keyword": "CO₂-Emissionsrechner, CO₂-Fußabdruckrechner, CO2-Rechner, kostenloser Kohlenstoffrechner, CO₂-Fußabdruck-Tool, Treibhausgasrechner, CO₂-Emissionstracker, Umweltauswirkungsrechner, CO₂-Fußabdruckbewertung, CO₂-Rechner online, persönlicher CO₂-Fußabdruck, CO₂-Emissionstool, CO₂-Fußabdruckrechner, CO₂-Auswirkungsrechner, Kohlenstoffrechner online, Emissionsrechner kostenlos, CO₂-Fußabdruckschätzer, Kohlendioxidrechner, Klimaauswirkungsrechner, CO₂-Kompensationsrechner, CO₂-Fußabdruckmessung, Umweltrechner, Nachhaltigkeitsrechner, CO₂-neutraler Rechner, Öko-Fußabdruckrechner, CO₂-Tracking-Tool, CO₂-Fußabdruckanalysator, CO₂-Emissionsschätzer, Umweltrechner, CO₂-Rechner-App, CO₂-Fußabdruckprüfer, CO₂-Emissionstracker online, Transport-CO₂-Rechner, Energie-CO₂-Rechner, Abfall-CO₂-Rechner, Haushalts-CO₂-Rechner, persönlicher Emissionsrechner, CO₂-Rechner mit Ergebnissen, kostenloser CO₂-Fußabdruckrechner online, CO₂-Emissionen berechnen, CO₂-Fußabdruckrechner Transport Energie Abfall, CO₂-Emissionsrechner für Einzelpersonen, CO₂-Emissionsrechner online, CO₂-Fußabdruckrechner mit Empfehlungen, CO₂-Rechner Umweltauswirkung, genauer CO₂-Emissionsrechner, kostenloses CO₂-Fußabdruck-Tool, CO₂-Rechner sofortige Ergebnisse",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

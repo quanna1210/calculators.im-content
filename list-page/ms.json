@@ -880,5 +880,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "70",
+        "thumb": "https://static.calculators.im/upload/thumb/carbon-emission-calculator.jpg",
+        "title": "Kalkulator Pelepasan Karbon",
+        "slug": "carbon-emission-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Pelepasan Karbon - Alat Jejak CO₂ Percuma",
+        "meta_description": "Kira jejak karbon anda serta-merta! Kalkulator pelepasan karbon percuma untuk pengangkutan, tenaga & sisa. Dapatkan keputusan CO₂ & petua kurang kesan.",
+        "meta_keyword": "kalkulator pelepasan karbon, kalkulator jejak karbon, kalkulator CO2, kalkulator karbon percuma, alat jejak karbon, kalkulator gas rumah hijau, penjejak pelepasan karbon, kalkulator kesan alam sekitar, penilaian jejak karbon, kalkulator karbon online, jejak karbon peribadi, alat pelepasan karbon, kalkulator jejak CO2, kalkulator kesan karbon, kalkulator karbon online, kalkulator pelepasan percuma, penganggar jejak karbon, kalkulator karbon dioksida, kalkulator kesan iklim, kalkulator offset karbon, pengukuran jejak karbon, kalkulator alam sekitar, kalkulator kemampanan, kalkulator karbon neutral, kalkulator jejak eko, alat penjejakan karbon, penganalisis jejak karbon, penganggar pelepasan karbon, kalkulator hijau, aplikasi kalkulator karbon, pemeriksa jejak karbon, penjejak pelepasan karbon online, kalkulator karbon pengangkutan, kalkulator karbon tenaga, kalkulator karbon sisa, kalkulator karbon rumah tangga, kalkulator pelepasan peribadi, kalkulator karbon dengan keputusan, kalkulator jejak karbon percuma online, kira pelepasan karbon, kalkulator jejak karbon pengangkutan tenaga sisa, kalkulator pelepasan karbon untuk individu, kalkulator pelepasan CO2 online, kalkulator jejak karbon dengan cadangan, kalkulator karbon kesan alam sekitar, kalkulator pelepasan karbon tepat, alat jejak karbon percuma, kalkulator karbon keputusan segera",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
