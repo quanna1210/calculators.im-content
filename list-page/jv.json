@@ -868,5 +868,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Kalkulator Wektu Perjalanan",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Wektu Perjalanan Gratis - Alat Jarak & Kacepetan",
+        "meta_description": "Etung wektu perjalanan langsung! Alat online gratis karo input jarak/kacepetan. Ndhukung macem-macem unit (km, mil) & mode transportasi.",
+        "meta_keyword": "kalkulator wektu perjalanan, estimator wektu perjalanan, kalkulator jarak kacepetan, kalkulator wektu perjalanan, kalkulator durasi perjalanan, kalkulator perjalanan gratis, alat wektu perjalanan online, etung wektu perjalanan, kalkulator wektu nyopir, kalkulator wektu mabur, kalkulator perencanaan perjalanan, kalkulator wektu jarak, kalkulator kacepetan jarak wektu, estimator durasi perjalanan, kalkulator wektu rute, kalkulator wektu transportasi, perencana wektu perjalanan, estimator wektu perjalanan, kalkulator durasi perjalanan, etung wektu nyopir, etung wektu mabur, kalkulator formula wektu perjalanan, kalkulator wektu jarak kacepetan, kalkulator perjalanan online gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

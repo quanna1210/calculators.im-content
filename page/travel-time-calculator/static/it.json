@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Parametri di Input",
+        "Reimposta Calcolatrice",
+        "Modalità Trasporto Veloce",
+        "Distanza",
+        "Inserisci distanza",
+        "Velocità",
+        "Inserisci velocità",
+        "Auto",
+        "Aereo",
+        "Treno",
+        "Nave",
+        "Chilometri",
+        "Miglia",
+        "Metri",
+        "Piedi",
+        "Risultati",
+        "Tempo di Viaggio",
+        "Ore Totali",
+        "Minuti Totali",
+        "Secondi Totali",
+        "Riepilogo Viaggio",
+        "Distanza:",
+        "Velocità:",
+        "Trasporto:",
+        "Inserisci distanza e velocità per calcolare il tempo di viaggio"
+    ]
+}

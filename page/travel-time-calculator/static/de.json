@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Eingabeparameter",
+        "Rechner Zurücksetzen",
+        "Schneller Transportmodus",
+        "Entfernung",
+        "Entfernung eingeben",
+        "Geschwindigkeit",
+        "Geschwindigkeit eingeben",
+        "Auto",
+        "Flugzeug",
+        "Zug",
+        "Schiff",
+        "Kilometer",
+        "Meilen",
+        "Meter",
+        "Fuß",
+        "Ergebnisse",
+        "Reisezeit",
+        "Gesamte Stunden",
+        "Gesamte Minuten",
+        "Gesamte Sekunden",
+        "Reisezusammenfassung",
+        "Entfernung:",
+        "Geschwindigkeit:",
+        "Transport:",
+        "Geben Sie Entfernung und Geschwindigkeit ein, um die Reisezeit zu berechnen"
+    ]
+}

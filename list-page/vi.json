@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Máy Tính Thời Gian Di Chuyển",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Thời Gian Di Chuyển Miễn Phí - Công Cụ Tính Toán",
+        "meta_description": "Tính thời gian di chuyển ngay lập tức! Công cụ trực tuyến miễn phí với đầu vào khoảng cách/tốc độ. Hỗ trợ nhiều đơn vị và phương tiện.",
+        "meta_keyword": "máy tính thời gian di chuyển, ước tính thời gian di chuyển, máy tính khoảng cách tốc độ, máy tính thời gian hành trình, máy tính thời lượng chuyến đi, máy tính du lịch miễn phí, công cụ thời gian di chuyển trực tuyến, tính thời gian di chuyển, máy tính thời gian lái xe, máy tính thời gian bay, máy tính lập kế hoạch du lịch, máy tính thời gian khoảng cách, máy tính tốc độ khoảng cách thời gian, ước tính thời lượng di chuyển, máy tính thời gian tuyến đường, máy tính thời gian vận chuyển, lập kế hoạch thời gian di chuyển, ước tính thời gian chuyến đi, máy tính thời lượng hành trình, tính thời gian lái xe, tính thời gian bay, máy tính công thức thời gian di chuyển, máy tính thời gian khoảng cách tốc độ, máy tính du lịch trực tuyến miễn phí, máy tính thời gian di chuyển chính xác, tính toán thời gian di chuyển tức thì, công cụ tính toán thời gian di chuyển",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

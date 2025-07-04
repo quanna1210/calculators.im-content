@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Reisezeit Rechner",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Reisezeit Rechner Kostenlos - Entfernung Geschwindigkeit",
+        "meta_description": "Berechnen Sie Reisezeit sofort! Kostenloses Online-Tool mit Entfernung/Geschwindigkeit-Eingaben. Unterstützt mehrere Einheiten und Transportmodi.",
+        "meta_keyword": "reisezeit rechner, reisezeit schätzer, entfernung geschwindigkeit rechner, reisezeit rechner, reisedauer rechner, reise rechner kostenlos, online reisezeit tool, reisezeit berechnen, fahrzeit rechner, flugzeit rechner, reiseplanung rechner, zeit entfernung rechner, geschwindigkeit entfernung zeit rechner, reisedauer schätzer, routenzeit rechner, transportzeit rechner, reisezeit planer, reisezeit schätzer, reisedauer rechner, fahrzeit berechnen, flugzeit berechnen, reisezeit formel rechner, zeit entfernung geschwindigkeit rechner, reise rechner online kostenlos, genaue reisezeit rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

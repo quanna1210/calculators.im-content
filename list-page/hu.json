@@ -868,5 +868,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Utazási Idő Kalkulátor",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Utazási Idő Kalkulátor Ingyen - Távolság Sebesség Eszköz",
+        "meta_description": "Számítsa ki az utazási időt azonnal! Ingyenes online eszköz távolság/sebesség bemenetekkel. Támogatja a többféle egységet és szállítási módokat.",
+        "meta_keyword": "utazási idő kalkulátor, utazási idő becslő, távolság sebesség kalkulátor, utazási idő kalkulátor, utazás időtartam kalkulátor, utazás kalkulátor ingyen, online utazási idő eszköz, utazási idő számítás, vezetési idő kalkulátor, repülési idő kalkulátor, utazástervezés kalkulátor, idő távolság kalkulátor, sebesség távolság idő kalkulátor, utazás időtartam becslő, útvonal idő kalkulátor, szállítási idő kalkulátor, utazási idő tervező, utazási idő becslő, utazás időtartam kalkulátor, vezetési idő számítás, repülési idő számítás, utazási idő képlet kalkulátor, idő távolság sebesség kalkulátor, utazás kalkulátor online ingyen",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

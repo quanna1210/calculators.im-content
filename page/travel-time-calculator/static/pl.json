@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Parametry Wejściowe",
+        "Resetuj Kalkulator",
+        "Szybki Tryb Transportu",
+        "Odległość",
+        "Wprowadź odległość",
+        "Prędkość",
+        "Wprowadź prędkość",
+        "Samochód",
+        "Samolot",
+        "Pociąg",
+        "Statek",
+        "Kilometry",
+        "Mile",
+        "Metry",
+        "Stopy",
+        "Wyniki",
+        "Czas Podróży",
+        "Łączne Godziny",
+        "Łączne Minuty",
+        "Łączne Sekundy",
+        "Podsumowanie Podróży",
+        "Odległość:",
+        "Prędkość:",
+        "Transport:",
+        "Wprowadź odległość i prędkość, aby obliczyć czas podróży"
+    ]
+}

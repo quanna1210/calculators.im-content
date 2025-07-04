@@ -1,0 +1,30 @@
+
+{
+    "trans": [
+        "Input Parameters",
+        "Reset Calculator",
+        "Quick Transport Mode",
+        "Distance",
+        "Enter distance",
+        "Speed",
+        "Enter speed",
+        "Car",
+        "Plane",
+        "Train",
+        "Ship",
+        "Kilometers",
+        "Miles",
+        "Meters",
+        "Feet",
+        "Results",
+        "Travel Time",
+        "Total Hours",
+        "Total Minutes",
+        "Total Seconds",
+        "Trip Summary",
+        "Distance:",
+        "Speed:",
+        "Transport:",
+        "Enter distance and speed to calculate travel time"
+    ]
+}

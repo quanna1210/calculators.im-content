@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Reistijd Calculator",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Reistijd Calculator Gratis - Afstand Snelheid Tool",
+        "meta_description": "Bereken reistijd direct! Gratis online tool met afstand/snelheid invoer. Ondersteunt meerdere eenheden (km, mijlen) en vervoersmodi.",
+        "meta_keyword": "reistijd calculator, reistijd schatting, afstand snelheid calculator, reistijd calculator, reisduur calculator, reis calculator gratis, online reistijd tool, reistijd berekenen, rijtijd calculator, vliegtijd calculator, reisplanning calculator, tijd afstand calculator, snelheid afstand tijd calculator, reisduur schatting, route tijd calculator, transport tijd calculator, reistijd planner, reistijd schatting, reisduur calculator, rijtijd berekenen, vliegtijd berekenen, reistijd formule calculator, tijd afstand snelheid calculator, reis calculator online gratis, nauwkeurige reistijd calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

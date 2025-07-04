@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Kalkulačka Doby Cestování",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Doby Cestování Zdarma - Nástroj Vzdálenost",
+        "meta_description": "Vypočítejte dobu cestování okamžitě! Bezplatný online nástroj se vstupy vzdálenost/rychlost. Podporuje různé jednotky a dopravní módy.",
+        "meta_keyword": "kalkulačka doby cestování, odhad doby cestování, kalkulačka vzdálenost rychlost, kalkulačka času cesty, kalkulačka délky cesty, kalkulačka cestování zdarma, online nástroj doba cestování, vypočítat dobu cestování, kalkulačka času jízdy, kalkulačka času letu, kalkulačka plánování cesty, kalkulačka času vzdálenosti, kalkulačka rychlost vzdálenost čas, odhad délky cestování, kalkulačka času trasy, kalkulačka času dopravy, plánovač doby cestování, odhad času cesty, kalkulačka délky cesty, vypočítat čas jízdy, vypočítat čas letu, kalkulačka vzorce doby cestování, kalkulačka čas vzdálenost rychlost, kalkulačka cestování online zdarma, přesná kalkulačka doby cestování",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

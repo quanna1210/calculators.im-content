@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Parâmetros de Entrada",
+        "Redefinir Calculadora",
+        "Modo de Transporte Rápido",
+        "Distância",
+        "Digite a distância",
+        "Velocidade",
+        "Digite a velocidade",
+        "Carro",
+        "Avião",
+        "Trem",
+        "Navio",
+        "Quilômetros",
+        "Milhas",
+        "Metros",
+        "Pés",
+        "Resultados",
+        "Tempo de Viagem",
+        "Total de Horas",
+        "Total de Minutos",
+        "Total de Segundos",
+        "Resumo da Viagem",
+        "Distância:",
+        "Velocidade:",
+        "Transporte:",
+        "Digite distância e velocidade para calcular o tempo de viagem"
+    ]
+}

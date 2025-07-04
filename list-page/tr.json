@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Seyahat Süresi Hesaplayıcısı",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Seyahat Süresi Hesaplayıcı Ücretsiz - Mesafe Hız Aracı",
+        "meta_description": "Seyahat süresini anında hesaplayın! Mesafe/hız girişli ücretsiz çevrimiçi araç. Birden fazla birim ve ulaşım modunu destekler.",
+        "meta_keyword": "seyahat süresi hesaplayıcı, seyahat süresi tahmincisi, mesafe hız hesaplayıcı, seyahat süresi hesaplayıcı, seyahat süresi hesaplayıcı, seyahat hesaplayıcı ücretsiz, çevrimiçi seyahat süresi aracı, seyahat süresi hesapla, sürüş süresi hesaplayıcı, uçuş süresi hesaplayıcı, seyahat planlama hesaplayıcı, süre mesafe hesaplayıcı, hız mesafe süre hesaplayıcı, seyahat süresi tahmincisi, rota süresi hesaplayıcı, ulaşım süresi hesaplayıcı, seyahat süresi planlayıcısı, seyahat süresi tahmincisi, seyahat süresi hesaplayıcı, sürüş süresi hesapla, uçuş süresi hesapla, seyahat süresi formül hesaplayıcı, süre mesafe hız hesaplayıcı, seyahat hesaplayıcı çevrimiçi ücretsiz",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -868,5 +868,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Kalkulator Waktu Perjalanan",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Waktu Perjalanan Gratis - Alat Jarak & Kecepatan",
+        "meta_description": "Hitung waktu perjalanan secara instan! Alat online gratis dengan input jarak/kecepatan. Mendukung berbagai unit (km, mil) & mode transportasi.",
+        "meta_keyword": "kalkulator waktu perjalanan, estimator waktu perjalanan, kalkulator jarak kecepatan, kalkulator waktu perjalanan, kalkulator durasi perjalanan, kalkulator perjalanan gratis, alat waktu perjalanan online, hitung waktu perjalanan, kalkulator waktu mengemudi, kalkulator waktu penerbangan, kalkulator perencanaan perjalanan, kalkulator waktu jarak, kalkulator kecepatan jarak waktu, estimator durasi perjalanan, kalkulator waktu rute, kalkulator waktu transportasi, perencana waktu perjalanan, estimator waktu perjalanan, kalkulator durasi perjalanan, hitung waktu mengemudi, hitung waktu penerbangan, kalkulator formula waktu perjalanan, kalkulator waktu jarak kecepatan, kalkulator perjalanan online gratis, kalkulator waktu perjalanan akurat, perhitungan waktu perjalanan instan, alat komputasi waktu perjalanan, kalkulator perjalanan multi-unit, kalkulator mode transportasi, kalkulator waktu perjalanan mobil, kalkulator waktu perjalanan pesawat, kalkulator waktu perjalanan kereta, kalkulator waktu perjalanan kapal, kalkulator kilometer mil, konverter waktu perjalanan, alat perencanaan perjalanan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

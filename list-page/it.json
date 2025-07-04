@@ -868,5 +868,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Calcolatore Tempo di Viaggio",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Tempo Viaggio Gratis - Strumento Distanza",
+        "meta_description": "Calcola il tempo di viaggio istantaneamente! Strumento online gratuito con input distanza/velocità. Supporta unità multiple e modalità trasporto.",
+        "meta_keyword": "calcolatore tempo viaggio, stimatore tempo viaggio, calcolatore distanza velocità, calcolatore tempo tragitto, calcolatore durata viaggio, calcolatore viaggio gratis, strumento tempo viaggio online, calcolare tempo viaggio, calcolatore tempo guida, calcolatore tempo volo, calcolatore pianificazione viaggio, calcolatore tempo distanza, calcolatore velocità distanza tempo, stimatore durata viaggio, calcolatore tempo percorso, calcolatore tempo trasporto, pianificatore tempo viaggio, stimatore tempo tragitto, calcolatore durata tragitto, calcolare tempo guida, calcolare tempo volo, calcolatore formula tempo viaggio, calcolatore tempo distanza velocità, calcolatore viaggio online gratis",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

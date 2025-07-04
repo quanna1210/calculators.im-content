@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Parameter Input",
+        "Reset Kalkulator",
+        "Mode Transportasi Cepat",
+        "Jarak",
+        "Masukkan jarak",
+        "Kecepatan",
+        "Masukkan kecepatan",
+        "Mobil",
+        "Pesawat",
+        "Kereta",
+        "Kapal",
+        "Kilometer",
+        "Mil",
+        "Meter",
+        "Kaki",
+        "Hasil",
+        "Waktu Perjalanan",
+        "Total Jam",
+        "Total Menit",
+        "Total Detik",
+        "Ringkasan Perjalanan",
+        "Jarak:",
+        "Kecepatan:",
+        "Transportasi:",
+        "Masukkan jarak dan kecepatan untuk menghitung waktu perjalanan"
+    ]
+}

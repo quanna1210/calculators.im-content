@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Tham Số Đầu Vào",
+        "Đặt Lại Máy Tính",
+        "Chế Độ Vận Chuyển Nhanh",
+        "Khoảng Cách",
+        "Nhập khoảng cách",
+        "Tốc Độ",
+        "Nhập tốc độ",
+        "Ô tô",
+        "Máy bay",
+        "Tàu hỏa",
+        "Tàu thủy",
+        "Kilomet",
+        "Dặm",
+        "Mét",
+        "Feet",
+        "Kết Quả",
+        "Thời Gian Di Chuyển",
+        "Tổng Giờ",
+        "Tổng Phút",
+        "Tổng Giây",
+        "Tóm Tắt Hành Trình",
+        "Khoảng cách:",
+        "Tốc độ:",
+        "Phương tiện:",
+        "Nhập khoảng cách và tốc độ để tính thời gian di chuyển"
+    ]
+}

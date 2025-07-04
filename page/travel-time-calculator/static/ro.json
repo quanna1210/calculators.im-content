@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Parametri de Intrare",
+        "Resetează Calculatorul",
+        "Mod Transport Rapid",
+        "Distanța",
+        "Introduceți distanța",
+        "Viteza",
+        "Introduceți viteza",
+        "Mașină",
+        "Avion",
+        "Tren",
+        "Navă",
+        "Kilometri",
+        "Mile",
+        "Metri",
+        "Picioare",
+        "Rezultate",
+        "Timp de Călătorie",
+        "Total Ore",
+        "Total Minute",
+        "Total Secunde",
+        "Rezumatul Călătoriei",
+        "Distanța:",
+        "Viteza:",
+        "Transport:",
+        "Introduceți distanța și viteza pentru a calcula timpul de călătorie"
+    ]
+}

@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Travel Time Calculator",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Free Travel Time Calculator - Distance & Speed Tool",
+        "meta_description": "Calculate travel time instantly! Free online tool with distance/speed inputs. Supports multiple units (km, miles) & transport modes. Get accurate results now!",
+        "meta_keyword": "travel time calculator, travel time estimator, distance speed calculator, journey time calculator, trip duration calculator, free travel calculator, online travel time tool, calculate travel time, driving time calculator, flight time calculator, travel planning calculator, distance time calculator, speed distance time calculator, travel duration estimator, route time calculator, transportation time calculator, travel time planner, trip time estimator, journey duration calculator, calculate driving time, calculate flight time, travel time formula calculator, time distance speed calculator, travel calculator online free, accurate travel time calculator, instant travel time calculation, travel time computation tool, multi-unit travel calculator, transport mode calculator, car travel time calculator, plane travel time calculator, train travel time calculator, ship travel time calculator, kilometers miles calculator, travel time converter, travel planning tool, trip planning calculator, journey planner calculator, travel time tracker, real-time travel calculator, travel duration tool, travel time estimation tool, travel calculator with units, travel time calculation formula, distance speed time tool, travel time analysis calculator, travel efficiency calculator, optimal travel time calculator, travel time comparison tool, best travel time calculator, professional travel calculator, travel time management tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

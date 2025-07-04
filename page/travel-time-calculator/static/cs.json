@@ -1,0 +1,29 @@
+{
+    "trans": [
+        "Vstupní Parametry",
+        "Resetovat Kalkulačku",
+        "Rychlý Dopravní Režim",
+        "Vzdálenost",
+        "Zadejte vzdálenost",
+        "Rychlost",
+        "Zadejte rychlost",
+        "Auto",
+        "Letadlo",
+        "Vlak",
+        "Loď",
+        "Kilometry",
+        "Míle",
+        "Metry",
+        "Stopy",
+        "Výsledky",
+        "Doba Cestování",
+        "Celkem Hodin",
+        "Celkem Minut",
+        "Celkem Sekund",
+        "Shrnutí Cesty",
+        "Vzdálenost:",
+        "Rychlost:",
+        "Doprava:",
+        "Zadejte vzdálenost a rychlost pro výpočet doby cestování"
+    ]
+}

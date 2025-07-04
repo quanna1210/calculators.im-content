@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Calculator Timp Călătorie",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Timp Călătorie Gratuit - Instrument Distanță",
+        "meta_description": "Calculați timpul de călătorie instant! Instrument online gratuit cu intrări distanță/viteză. Suportă unități multiple și moduri de transport.",
+        "meta_keyword": "calculator timp călătorie, estimator timp călătorie, calculator distanță viteză, calculator timp călătorie, calculator durată călătorie, calculator călătorie gratuit, instrument timp călătorie online, calculează timp călătorie, calculator timp condus, calculator timp zbor, calculator planificare călătorie, calculator timp distanță, calculator viteză distanță timp, estimator durată călătorie, calculator timp rută, calculator timp transport, planificator timp călătorie, estimator timp călătorie, calculator durată călătorie, calculează timp condus, calculează timp zbor, calculator formulă timp călătorie, calculator timp distanță viteză, calculator călătorie online gratuit",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

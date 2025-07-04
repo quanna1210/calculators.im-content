@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Kalkulator Czasu Podróży",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Czasu Podróży Za Darmo - Narzędzie Odległość",
+        "meta_description": "Oblicz czas podróży natychmiast! Darmowe narzędzie online z wejściami odległość/prędkość. Obsługuje wiele jednostek i trybów transportu.",
+        "meta_keyword": "kalkulator czasu podróży, szacowanie czasu podróży, kalkulator odległość prędkość, kalkulator czasu podróży, kalkulator czasu trwania podróży, kalkulator podróży za darmo, narzędzie czasu podróży online, oblicz czas podróży, kalkulator czasu jazdy, kalkulator czasu lotu, kalkulator planowania podróży, kalkulator czasu odległości, kalkulator prędkość odległość czas, szacowanie czasu trwania podróży, kalkulator czasu trasy, kalkulator czasu transportu, planer czasu podróży, szacowanie czasu podróży, kalkulator czasu trwania podróży, oblicz czas jazdy, oblicz czas lotu, kalkulator wzoru czasu podróży, kalkulator czas odległość prędkość, kalkulator podróży online za darmo",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

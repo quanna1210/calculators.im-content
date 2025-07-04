@@ -867,5 +867,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "69",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-time-calculator.jpg",
+        "title": "Kalkulator Masa Perjalanan",
+        "slug": "travel-time-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Masa Perjalanan Percuma - Alat Jarak & Kelajuan",
+        "meta_description": "Kira masa perjalanan serta-merta! Alat dalam talian percuma dengan input jarak/kelajuan. Menyokong pelbagai unit (km, batu) & mod pengangkutan.",
+        "meta_keyword": "kalkulator masa perjalanan, penganggar masa perjalanan, kalkulator jarak kelajuan, kalkulator masa perjalanan, kalkulator tempoh perjalanan, kalkulator perjalanan percuma, alat masa perjalanan dalam talian, kira masa perjalanan, kalkulator masa memandu, kalkulator masa penerbangan, kalkulator perancangan perjalanan, kalkulator masa jarak, kalkulator kelajuan jarak masa, penganggar tempoh perjalanan, kalkulator masa laluan, kalkulator masa pengangkutan, perancang masa perjalanan, penganggar masa perjalanan, kalkulator tempoh perjalanan, kira masa memandu, kira masa penerbangan, kalkulator formula masa perjalanan, kalkulator masa jarak kelajuan, kalkulator perjalanan dalam talian percuma, kalkulator masa perjalanan tepat, pengiraan masa perjalanan segera, alat pengiraan masa perjalanan, kalkulator perjalanan berbilang unit, kalkulator mod pengangkutan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
