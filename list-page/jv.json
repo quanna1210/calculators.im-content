@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Kalkulator VAT",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator VAT - Gratis Online & Ekspor PDF",
+        "meta_description": "Kalkulator VAT gratis karo support mata uang akeh. Ngitung pajak, enggo bareng hasil, ekspor PDF faktur. Tambah barang akeh karo tarif sesuai karep.",
+        "meta_keyword": "kalkulator VAT, kalkulator pajak, alat VAT, kalkulator VAT gratis, kalkulator VAT online, kalkulator pajak nilai tambah, kalkulator faktur VAT, kalkulator VAT bisnis, kalkulator VAT multi mata uang, kalkulator VAT ekspor PDF, ngitung VAT online gratis, alat ngitung pajak Jawa",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

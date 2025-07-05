@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Calculadora IVA",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Calculadora IVA - Grátis Online & Exportar PDF",
+        "meta_description": "Calculadora IVA gratuita com suporte multi-moeda. Calcule impostos, partilhe resultados, exporte PDF faturas. Adicione vários itens com taxas personalizadas.",
+        "meta_keyword": "calculadora IVA, calculadora impostos, ferramenta IVA, calculadora IVA grátis, calculadora IVA online, calculadora imposto valor acrescentado, calculadora faturas IVA, calculadora IVA empresas, calculadora IVA multi moeda, calculadora IVA exportar PDF, calcular IVA online grátis, ferramenta cálculo impostos Portugal",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

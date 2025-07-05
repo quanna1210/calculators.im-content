@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "VAT計算機",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "VAT計算機 - 無料オンライン & PDFエクスポート",
+        "meta_description": "マルチ通貨対応の無料VAT計算機。税金計算、結果共有、PDF請求書エクスポート。カスタム税率で複数アイテム追加。今すぐお試しください！",
+        "meta_keyword": "VAT計算機, 税金計算機, VATツール, VAT計算機無料, VAT計算機オンライン, 付加価値税計算機, VAT請求書計算機, ビジネスVAT計算機, VAT計算機マルチ通貨, VAT計算機PDFエクスポート, VATオンライン無料計算, 税金計算ツール日本",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

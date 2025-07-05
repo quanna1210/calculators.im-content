@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "MwSt-Rechner",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "MwSt-Rechner - Kostenlos Online & PDF Export",
+        "meta_description": "Kostenloser MwSt-Rechner mit Multi-Währung Support. Berechnen Sie Steuern, teilen Sie Ergebnisse, exportieren Sie PDF Rechnungen. Mehrere Artikel mit benutzerdefinierten Sätzen.",
+        "meta_keyword": "MwSt-Rechner, Steuerrechner, MwSt-Tool, MwSt-Rechner kostenlos, MwSt-Rechner online, Mehrwertsteuerrechner, MwSt-Rechnungsrechner, Unternehmens-MwSt-Rechner, MwSt-Rechner Multi-Währung, MwSt-Rechner PDF Export, MwSt online kostenlos berechnen, Steuerberechnungstool Deutschland",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

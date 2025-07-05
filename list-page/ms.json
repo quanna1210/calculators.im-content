@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Kalkulator VAT",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator VAT - Percuma Online & Eksport PDF",
+        "meta_description": "Kalkulator VAT percuma dengan sokongan berbilang mata wang. Kira cukai, kongsi hasil, eksport PDF invois. Tambah pelbagai item dengan kadar tersuai.",
+        "meta_keyword": "kalkulator VAT, kalkulator cukai, alat VAT, kalkulator VAT percuma, kalkulator VAT online, kalkulator cukai nilai tambahan, kalkulator invois VAT, kalkulator VAT perniagaan, kalkulator VAT berbilang mata wang, kalkulator VAT eksport PDF, kira VAT online percuma, alat kira cukai Malaysia",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

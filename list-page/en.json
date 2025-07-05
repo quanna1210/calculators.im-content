@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "VAT Calculator",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "VAT Calculator - Free Online Tax Calculator & Invoice Tool",
+        "meta_description": "CFree VAT calculator with multi-currency support. Calculate tax, share calculations, export PDF invoices. Add multiple items with custom rates. Try now!",
+        "meta_keyword": "VAT calculator, tax calculator, VAT tool, free VAT calculator, online VAT calculator, VAT calculator free, multi currency VAT calculator, VAT invoice calculator, business VAT calculator, VAT calculator with PDF export, VAT calculator multiple items, VAT calculator sharing feature, calculate VAT online free, value added tax calculator, VAT calculation tool online, professional VAT calculator tool, VAT calculator for business invoices",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

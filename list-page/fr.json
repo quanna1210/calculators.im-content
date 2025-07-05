@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Calculatrice TVA",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Calculatrice TVA - Gratuit Online & Export PDF",
+        "meta_description": "Calculatrice TVA gratuite avec support multi-devises. Calculez taxes, partagez résultats, exportez PDF factures. Ajoutez plusieurs articles avec taux personnalisés.",
+        "meta_keyword": "calculatrice TVA, calculatrice taxes, outil TVA, calculatrice TVA gratuite, calculatrice TVA online, calculatrice taxe valeur ajoutée, calculatrice factures TVA, calculatrice TVA entreprises, calculatrice TVA multi devises, calculatrice TVA export PDF, calculer TVA online gratuit, outil calcul taxes France",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

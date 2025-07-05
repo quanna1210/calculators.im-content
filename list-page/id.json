@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Kalkulator PPN",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator PPN - Gratis Online & Ekspor PDF",
+        "meta_description": "Kalkulator PPN gratis dengan multi mata uang. Hitung pajak, bagikan hasil, ekspor PDF faktur. Tambah banyak item dengan tarif custom. Coba sekarang!",
+        "meta_keyword": "kalkulator PPN, kalkulator pajak, alat PPN, kalkulator PPN gratis, kalkulator PPN online, kalkulator pajak pertambahan nilai, kalkulator faktur PPN, kalkulator PPN bisnis, kalkulator PPN multi mata uang, kalkulator PPN ekspor PDF, hitung PPN online gratis, alat hitung pajak nilai tambah, kalkulator pajak online Indonesia",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

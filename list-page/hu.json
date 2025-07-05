@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "ÁFA Számológép",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "ÁFA Számológép - Ingyenes Online & PDF Export",
+        "meta_description": "Ingyenes ÁFA számológép több valuta támogatással. Számítsa ki az adókat, ossza meg az eredményeket, exportáljon PDF számlákat. Több tétel egyedi kulcsokkal.",
+        "meta_keyword": "ÁFA számológép, adó számológép, ÁFA eszköz, ÁFA számológép ingyenes, ÁFA számológép online, általános forgalmi adó számológép, ÁFA számla számológép, vállalati ÁFA számológép, ÁFA számológép több valuta, ÁFA számológép PDF export, ÁFA számítás online ingyen, adó számítás eszköz Magyarország",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

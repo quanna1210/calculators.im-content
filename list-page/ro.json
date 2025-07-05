@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Calculator TVA",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Calculator TVA - Gratuit Online & Export PDF",
+        "meta_description": "Calculator TVA gratuit cu suport pentru multiple monede. Calculați taxe, partajați rezultate, exportați PDF facturi. Adăugați mai multe articole cu rate personalizate.",
+        "meta_keyword": "calculator TVA, calculator taxe, instrument TVA, calculator TVA gratuit, calculator TVA online, calculator taxa valoare adăugată, calculator facturi TVA, calculator TVA afaceri, calculator TVA multiple monede, calculator TVA export PDF, calculează TVA online gratuit, instrument calcul taxe România",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

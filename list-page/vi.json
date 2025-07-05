@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Máy Tính VAT",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Máy Tính VAT - Miễn Phí Online & Xuất PDF",
+        "meta_description": "Máy tính VAT miễn phí hỗ trợ đa tiền tệ. Tính thuế GTGT, chia sẻ kết quả, xuất PDF hóa đơn. Thêm nhiều mặt hàng với thuế suất tùy chỉnh. Thử ngay!",
+        "meta_keyword": "máy tính VAT, máy tính thuế GTGT, công cụ VAT, máy tính VAT miễn phí, máy tính VAT online, máy tính thuế giá trị gia tăng, máy tính hóa đơn VAT, máy tính VAT doanh nghiệp, máy tính VAT đa tiền tệ, máy tính VAT xuất PDF, tính VAT online miễn phí, công cụ tính thuế GTGT Vietnam",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

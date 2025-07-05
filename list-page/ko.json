@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "VAT 계산기",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "VAT 계산기 - 무료 온라인 & PDF 내보내기",
+        "meta_description": "다중 통화 지원 무료 VAT 계산기. 세금 계산, 결과 공유, PDF 송장 내보내기. 사용자 정의 세율로 여러 항목 추가. 지금 사용해보세요!",
+        "meta_keyword": "VAT 계산기, 세금 계산기, VAT 도구, VAT 계산기 무료, VAT 계산기 온라인, 부가가치세 계산기, VAT 송장 계산기, 비즈니스 VAT 계산기, VAT 계산기 다중 통화, VAT 계산기 PDF 내보내기, VAT 온라인 무료 계산, 세금 계산 도구 한국",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

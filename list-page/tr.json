@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "KDV Hesaplayıcı",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "KDV Hesaplayıcı - Ücretsiz Online & PDF Dışa Aktar",
+        "meta_description": "Çoklu para birimi destekli ücretsiz KDV hesaplayıcı. Vergi hesaplayın, sonuçları paylaşın, PDF fatura dışa aktarın. Özel oranlarla birden fazla ürün ekleyin.",
+        "meta_keyword": "KDV hesaplayıcı, vergi hesaplayıcı, KDV aracı, KDV hesaplayıcı ücretsiz, KDV hesaplayıcı online, katma değer vergisi hesaplayıcı, KDV fatura hesaplayıcı, işletme KDV hesaplayıcı, KDV hesaplayıcı çoklu para birimi, KDV hesaplayıcı PDF dışa aktarma, KDV hesapla online ücretsiz, vergi hesaplama aracı Türkiye",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

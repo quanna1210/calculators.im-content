@@ -907,5 +907,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Calcolatrice IVA",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Calcolatrice IVA - Gratis Online & Export PDF",
+        "meta_description": "Calcolatrice IVA gratuita con supporto multi-valuta. Calcola tasse, condividi risultati, esporta PDF fatture. Aggiungi più articoli con aliquote personalizzate.",
+        "meta_keyword": "calcolatrice IVA, calcolatrice tasse, strumento IVA, calcolatrice IVA gratis, calcolatrice IVA online, calcolatrice imposta valore aggiunto, calcolatrice fatture IVA, calcolatrice IVA aziende, calcolatrice IVA multi valuta, calcolatrice IVA export PDF, calcolare IVA online gratis, strumento calcolo tasse Italia",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

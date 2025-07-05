@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "DPH Kalkulačka",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "DPH Kalkulačka - Zdarma Online & Export PDF",
+        "meta_description": "Bezplatná DPH kalkulačka s podporou více měn. Vypočítejte daň, sdílejte výsledky, exportujte PDF faktury. Přidejte více položek s vlastními sazbami.",
+        "meta_keyword": "DPH kalkulačka, kalkulačka daně, nástroj DPH, DPH kalkulačka zdarma, DPH kalkulačka online, kalkulačka daně z přidané hodnoty, kalkulačka faktur DPH, podniková DPH kalkulačka, DPH kalkulačka více měn, DPH kalkulačka export PDF, vypočítat DPH online zdarma, nástroj výpočtu daně Česko",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "BTW Calculator",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "BTW Calculator - Gratis Online & PDF Export",
+        "meta_description": "Gratis BTW calculator met multi-valuta ondersteuning. Bereken belastingen, deel resultaten, exporteer PDF facturen. Voeg meerdere artikelen toe met aangepaste tarieven.",
+        "meta_keyword": "BTW calculator, belasting calculator, BTW tool, BTW calculator gratis, BTW calculator online, belasting toegevoegde waarde calculator, BTW factuur calculator, zakelijke BTW calculator, BTW calculator multi valuta, BTW calculator PDF export, BTW berekenen online gratis, belasting berekenings tool Nederland",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -906,5 +906,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "72",
+        "thumb": "https://static.calculators.im/upload/thumb/online-vat-calculator.jpg",
+        "title": "Kalkulator VAT",
+        "slug": "online-vat-calculator",
+        "parent_id": "9",
+        "meta_title": "Kalkulator VAT - Darmowy Online & Eksport PDF",
+        "meta_description": "Darmowy kalkulator VAT z obsługą wielu walut. Oblicz podatki, udostępnij wyniki, eksportuj PDF faktury. Dodaj wiele pozycji z niestandardowymi stawkami.",
+        "meta_keyword": "kalkulator VAT, kalkulator podatku, narzędzie VAT, kalkulator VAT darmowy, kalkulator VAT online, kalkulator podatku wartości dodanej, kalkulator faktur VAT, firmowy kalkulator VAT, kalkulator VAT wielu walut, kalkulator VAT eksport PDF, oblicz VAT online za darmo, narzędzie obliczania podatku Polska",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
