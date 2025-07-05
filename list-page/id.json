@@ -894,5 +894,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Kalkulator Tarif Penerbangan",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Tarif Penerbangan Gratis - Estimasi Online",
+        "meta_description": "Hitung biaya penerbangan instan! Kalkulator tarif gratis dengan harga BBM, kelas perjalanan, tarif musiman & dukungan multi mata uang. Rencanakan budget!",
+        "meta_keyword": "kalkulator tarif penerbangan, kalkulator biaya penerbangan, kalkulator tiket pesawat, kalkulator harga tiket, estimator biaya penerbangan, kalkulator budget perjalanan, kalkulator penerbangan gratis, alat estimasi tarif pesawat, kalkulator tiket maskapai, perencana budget travel, kalkulator penerbangan murah, estimator harga tiket online, kalkulator tarif dengan harga BBM, kalkulator penerbangan multi mata uang, kalkulator harga musiman penerbangan, kalkulator tarif kelas bisnis, kalkulator biaya ekonomi penerbangan, kalkulator penerbangan pulang pergi, kalkulator penerbangan sekali jalan, kalkulator penerbangan internasional, kalkulator penerbangan domestik, alat perbandingan tarif maskapai, kalkulator biaya booking penerbangan, kalkulator expense perjalanan online, kalkulator rincian biaya penerbangan, kalkulator tarif ekonomi premium, kalkulator penerbangan kelas utama, kalkulator maskapai budget, kalkulator maskapai mewah, kalkulator biaya transit penerbangan, kalkulator diskon booking awal, kalkulator penerbangan menit terakhir, kalkulator surcharge BBM, kalkulator penerbangan berbasis jarak, kalkulator biaya penumpang, kalkulator perjalanan grup, kalkulator upgrade kelas maskapai, kalkulator perjalanan musiman, kalkulator penerbangan musim puncak, kalkulator tarif musim sepi, kalkulator penerbangan musim ramai, kalkulator parameter penerbangan, kalkulator biaya aviasi, alat budget perjalanan udara, tool harga penerbangan online, kalkulator penerbangan komprehensif, estimator tarif akurat, tool biaya penerbangan instan, kalkulator perjalanan pintar, perencana expense penerbangan, kalkulator biaya perjalanan udara",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

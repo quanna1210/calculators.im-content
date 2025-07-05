@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Flugpreis Rechner",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Flugpreis Rechner Kostenlos - Online Schätzer",
+        "meta_description": "Flugkosten sofort berechnen! Kostenloser Rechner mit Kraftstoffpreisen, Reiseklassen, saisonalen Tarifen & Mehrwährungsunterstützung. Jetzt planen!",
+        "meta_keyword": "flugpreis rechner, flugkosten rechner, flugticket rechner kostenlos, online flugpreis rechner, flugticket kalkulator, flugschein rechner, reisekosten rechner, flugpreis schätzer, airline ticket rechner, flugpreis schätzungstool, flugbudget rechner, reisebudget planer, billigflug rechner, flugkosten schätzer online, flugpreis rechner mit kraftstoffpreisen, multi-währung flug rechner, saisonale flugpreis rechner, business class tarif rechner, economy flugkosten rechner, hin- und rückflug rechner, hinflug rechner, internationale flug rechner, inlandsflug rechner, airline tarif vergleichstool, flugbuchung kosten rechner, reiseausgaben rechner online, flugkosten aufschlüsselung rechner, premium economy tarif rechner, erste klasse flug rechner, budget airline rechner, luxus airline rechner, flug zwischenstopp kosten rechner, frühbuchung rabatt rechner, last minute flug rechner, kraftstoff zuschlag rechner, entfernungsbasierter flug rechner, passagier flugkosten rechner, gruppenreise rechner, airline klassen upgrade rechner, saisonale reise rechner, hauptsaison flug rechner, nebensaison flugpreis rechner, hochsaison flug rechner, flugparameter rechner, luftfahrt kosten rechner, flugreise budget tool, flugpreis tool online, umfassender flug rechner, genauer flugpreis schätzer, sofortiges flugkosten tool, intelligenter reise rechner, flugausgaben planer, flugreise kosten rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

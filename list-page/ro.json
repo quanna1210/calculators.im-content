@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Calculator Tarife Aeriene",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Bilete Avion Gratuit - Estimare Online",
+        "meta_description": "Calculează costurile zborului instant! Calculator gratuit cu prețuri combustibil, clase călătorie, tarife sezoniere și suport multivalută. Planifică!",
+        "meta_keyword": "calculator tarife aeriene, calculator costuri zbor, calculator bilete avion gratuit, calculator preț bilet online, calculator bilete aeriene, calculator bilet companie aeriană, calculator costuri călătorie, estimator tarife zbor, calculator bilete companie aeriană, instrument estimare tarif aerian, calculator buget zbor, planificator buget călătorie, calculator zboruri ieftine, estimator costuri zbor online, calculator tarife cu prețuri combustibil, calculator zboruri multivalută, calculator prețuri sezoniere zboruri, calculator tarife clasă business, calculator costuri economice zboruri, calculator zboruri dus-întors, calculator zboruri doar dus, calculator zboruri internaționale, calculator zboruri domestice, instrument comparație tarife companii aeriene, calculator costuri rezervare zbor, calculator cheltuieli călătorie online, calculator detaliere costuri zbor, calculator tarife economică premium, calculator zboruri prima clasă, calculator companii buget, calculator companii lux, calculator costuri escale zbor, calculator reduceri rezervare anticipată, calculator zboruri ultimul moment, calculator supliment combustibil, calculator zboruri bazat distanță, calculator costuri pasager, calculator călătorii grup, calculator upgrade clasă companie aeriană, calculator călătorii sezoniere, calculator zboruri sezon înalt, calculator tarife sezon scăzut, calculator zboruri sezon înalt, calculator parametri zbor, calculator costuri aviație, instrument buget călătorie aeriană, instrument prețuri zboruri online, calculator zboruri cuprinzător, estimator tarife precis, instrument costuri zbor instant, calculator călătorii inteligent, planificator cheltuieli zboruri, calculator costuri călătorie aeriană",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

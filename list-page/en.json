@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Airfare Calculator",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Free Airfare Calculator - Flight Cost Estimator Online",
+        "meta_description": "Calculate flight costs instantly! Free airfare calculator with fuel prices, travel classes, seasonal rates & multi-currency support. Plan your trip budget now!",
+        "meta_keyword": "airfare calculator, flight cost calculator, free airfare calculator, online airfare calculator, flight price calculator, air ticket calculator, travel cost calculator, flight fare estimator, airline ticket calculator, airfare estimation tool, flight budget calculator, travel budget planner, cheap flight calculator, flight cost estimator online, airfare calculator with fuel prices, multi-currency flight calculator, seasonal flight pricing calculator, business class fare calculator, economy flight cost calculator, round trip flight calculator, one way flight calculator, international flight calculator, domestic flight calculator, airline fare comparison tool, flight booking cost calculator, travel expense calculator online, flight cost breakdown calculator, premium economy fare calculator, first class flight calculator, budget airline calculator, luxury airline calculator, flight layover cost calculator, advance booking discount calculator, last minute flight calculator, fuel surcharge calculator, distance based flight calculator, passenger flight cost calculator, group travel calculator, airline class upgrade calculator, seasonal travel calculator, peak season flight calculator, low season airfare calculator, high season flight calculator, flight parameter calculator, aviation cost calculator, air travel budget tool, flight pricing tool online, comprehensive flight calculator, accurate airfare estimator, instant flight cost tool, smart travel calculator, flight expense planner, air journey cost calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

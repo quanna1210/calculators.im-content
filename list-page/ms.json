@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Kalkulator Tambang Penerbangan",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Tiket Kapal Terbang Percuma - Online",
+        "meta_description": "Kira kos penerbangan serta-merta! Kalkulator tambang percuma dengan harga minyak, kelas perjalanan, kadar bermusim & sokongan pelbagai mata wang. Rancang!",
+        "meta_keyword": "kalkulator tambang penerbangan, kalkulator kos penerbangan, kalkulator tiket kapal terbang, kalkulator harga tiket, anggaran kos penerbangan, kalkulator bajet perjalanan, kalkulator penerbangan percuma, alat anggaran tambang, kalkulator tiket syarikat penerbangan, perancang bajet perjalanan, kalkulator penerbangan murah, anggaran harga tiket online, kalkulator tambang dengan harga minyak, kalkulator penerbangan pelbagai mata wang, kalkulator harga bermusim penerbangan, kalkulator tambang kelas perniagaan, kalkulator kos ekonomi penerbangan, kalkulator penerbangan pergi balik, kalkulator penerbangan satu hala, kalkulator penerbangan antarabangsa, kalkulator penerbangan domestik, alat perbandingan tambang syarikat penerbangan, kalkulator kos tempahan penerbangan, kalkulator perbelanjaan perjalanan online, kalkulator pecahan kos penerbangan, kalkulator tambang ekonomi premium, kalkulator penerbangan kelas pertama, kalkulator syarikat penerbangan bajet, kalkulator syarikat penerbangan mewah, kalkulator kos persinggahan penerbangan, kalkulator diskaun tempahan awal, kalkulator penerbangan minit terakhir, kalkulator caj tambahan minyak, kalkulator penerbangan berasaskan jarak, kalkulator kos penumpang, kalkulator perjalanan kumpulan, kalkulator naik taraf kelas syarikat penerbangan, kalkulator perjalanan bermusim, kalkulator penerbangan musim puncak, kalkulator tambang musim rendah, kalkulator penerbangan musim tinggi, kalkulator parameter penerbangan, kalkulator kos penerbangan, alat bajet perjalanan udara, alat harga penerbangan online, kalkulator penerbangan komprehensif, anggaran tambang tepat, alat kos penerbangan segera, kalkulator perjalanan pintar, perancang perbelanjaan penerbangan, kalkulator kos perjalanan udara",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

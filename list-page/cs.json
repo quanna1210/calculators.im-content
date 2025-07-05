@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Kalkulačka Ceny Letenky",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Letenky Zdarma - Online Odhad Ceny",
+        "meta_description": "Vypočítejte cenu letu okamžitě! Bezplatná kalkulačka s cenami paliva, třídami cestování, sezónními sazbami a podporou měn. Naplánujte rozpočet!",
+        "meta_keyword": "kalkulačka ceny letenky, kalkulačka nákladů letu, kalkulačka letenky zdarma, online kalkulačka letenky, kalkulačka ceny letenky, kalkulačka leteckého lístku, kalkulačka cestovních nákladů, odhad ceny letu, kalkulačka leteckého tiketů, nástroj odhadu letenky, kalkulačka rozpočtu letu, plánovač cestovního rozpočtu, kalkulačka levných letů, online odhad nákladů letu, kalkulačka letenky s cenami paliva, víceměnová kalkulačka letů, kalkulačka sezónních cen letů, kalkulačka tarifu business třídy, kalkulačka nákladů economy letů, kalkulačka zpátečních letů, kalkulačka jednosměrných letů, kalkulačka mezinárodních letů, kalkulačka domácích letů, nástroj porovnání leteckých tarifů, kalkulačka nákladů rezervace letu, online kalkulačka cestovních výdajů, kalkulačka rozpisu nákladů letu, kalkulačka tarifu premium economy, kalkulačka letů první třídy, kalkulačka rozpočtových aerolinek, kalkulačka luxusních aerolinek, kalkulačka nákladů přestupů, kalkulačka slev při předběžné rezervaci, kalkulačka last minute letů, kalkulačka palivového příplatku, kalkulačka letů podle vzdálenosti, kalkulačka nákladů na cestující, kalkulačka skupinového cestování, kalkulačka upgradu třídy aerolinek, kalkulačka sezónního cestování, kalkulačka letů ve špičkové sezóně, kalkulačka tarifů mimo sezónu, kalkulačka letů ve vysoké sezóně, kalkulačka letových parametrů, kalkulačka leteckých nákladů, nástroj rozpočtu letecké dopravy, online nástroj cen letů, komplexní kalkulačka letů, přesný odhad letenky, okamžitý nástroj nákladů letu, chytrá kalkulačka cestování, plánovač výdajů na lety, kalkulačka nákladů letecké cesty",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

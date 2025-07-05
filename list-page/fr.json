@@ -894,5 +894,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Calculatrice Tarifs Aériens",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculatrice Vol Gratuite - Estimateur Online",
+        "meta_description": "Calculez coûts vol instantanément! Calculatrice gratuite avec prix carburant, classes voyage, tarifs saisonniers et support multidevises. Planifiez!",
+        "meta_keyword": "calculatrice tarifs aériens, calculatrice coût vol, calculatrice billets avion gratuite, calculatrice prix vol online, calculatrice billets aériens, calculatrice tickets compagnie aérienne, calculatrice coûts voyage, estimateur tarifs vol, calculatrice billets compagnie aérienne, outil estimation tarif aérien, calculatrice budget vol, planificateur budget voyage, calculatrice vols pas chers, estimateur coûts vol online, calculatrice tarifs avec prix carburant, calculatrice vols multi-devises, calculatrice prix saisonniers vols, calculatrice tarifs classe affaires, calculatrice coûts économique vols, calculatrice vols aller-retour, calculatrice vols aller simple, calculatrice vols internationaux, calculatrice vols domestiques, outil comparaison tarifs compagnies aériennes, calculatrice coûts réservation vol, calculatrice dépenses voyage online, calculatrice détail coûts vol, calculatrice tarifs économique premium, calculatrice vols première classe, calculatrice compagnies low-cost, calculatrice compagnies luxe, calculatrice coûts escales vol, calculatrice remises réservation anticipée, calculatrice vols dernière minute, calculatrice surcharge carburant, calculatrice vols basée distance, calculatrice coûts passager, calculatrice voyages groupe, calculatrice upgrade classe compagnie aérienne, calculatrice voyages saisonniers, calculatrice vols haute saison, calculatrice tarifs basse saison, calculatrice vols haute saison, calculatrice paramètres vol, calculatrice coûts aviation, outil budget voyage aérien, outil prix vols online, calculatrice vols complète, estimateur tarifs précis, outil coûts vol instantané, calculatrice voyages intelligente, planificateur dépenses vols, calculatrice coûts voyage aérien",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

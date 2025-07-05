@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Calculadora Tarifas Aéreas",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Passagens Aéreas Grátis - Online",
+        "meta_description": "Calcule custos de voo instantaneamente! Calculadora gratuita com preços combustível, classes viagem, tarifas sazonais e suporte multimoedas. Planeje!",
+        "meta_keyword": "calculadora tarifas aéreas, calculadora custos voo, calculadora passagens aéreas grátis, calculadora preço passagem online, calculadora bilhetes aéreos, calculadora ticket companhia aérea, calculadora custos viagem, estimador tarifas voo, calculadora bilhetes companhia aérea, ferramenta estimativa tarifa aérea, calculadora orçamento voo, planejador orçamento viagem, calculadora voos baratos, estimador custos voo online, calculadora tarifas com preços combustível, calculadora voos multimádia, calculadora preços sazonais voos, calculadora tarifas classe executiva, calculadora custos econômica voos, calculadora voos ida e volta, calculadora voos só ida, calculadora voos internacionais, calculadora voos domésticos, ferramenta comparação tarifas companhias aéreas, calculadora custos reserva voo, calculadora gastos viagem online, calculadora detalhamento custos voo, calculadora tarifas econômica premium, calculadora voos primeira classe, calculadora companhias orçamento, calculadora companhias luxo, calculadora custos escalas voo, calculadora descontos reserva antecipada, calculadora voos última hora, calculadora sobretaxa combustível, calculadora voos baseada distância, calculadora custos passageiro, calculadora viagens grupo, calculadora upgrade classe companhia aérea, calculadora viagens sazonais, calculadora voos alta temporada, calculadora tarifas baixa temporada, calculadora voos alta temporada, calculadora parâmetros voo, calculadora custos aviação, ferramenta orçamento viagem aérea, ferramenta preços voos online, calculadora voos abrangente, estimador tarifas preciso, ferramenta custos voo instantâneo, calculadora viagens inteligente, planejador gastos voos, calculadora custos viagem aérea",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

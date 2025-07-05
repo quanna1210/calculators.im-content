@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Vliegticket Prijscalculator",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Vliegticket Calculator Gratis - Online Schatting",
+        "meta_description": "Bereken vliegkosten direct! Gratis calculator met brandstofprijzen, reisklassen, seizoenstarrieven & meervaluta ondersteuning. Plan nu je budget!",
+        "meta_keyword": "vliegticket prijscalculator, vliegkosten calculator, vliegticket calculator gratis, online vliegticket calculator, vliegticket prijs calculator, luchtvaartmaatschappij ticket calculator, reiskosten calculator, vluchtprijs schatting, luchtvaartmaatschappij ticket calculator, vliegticket schattingstool, vliegbudget calculator, reisbudget planner, goedkope vlucht calculator, vliegkosten schatting online, vliegticket calculator met brandstofprijzen, meervaluta vlucht calculator, seizoensprijs vlucht calculator, business class tarief calculator, economy vliegkosten calculator, retour vlucht calculator, enkele reis vlucht calculator, internationale vlucht calculator, binnenlandse vlucht calculator, luchtvaartmaatschappij tarief vergelijkingstool, vliegboeking kosten calculator, reisuitgaven calculator online, vliegkosten uitsplitsing calculator, premium economy tarief calculator, eerste klas vlucht calculator, budget luchtvaartmaatschappij calculator, luxe luchtvaartmaatschappij calculator, vlucht tussenstop kosten calculator, vroegboek korting calculator, last minute vlucht calculator, brandstof toeslag calculator, afstand gebaseerde vlucht calculator, passagier vliegkosten calculator, groepsreis calculator, luchtvaartmaatschappij klasse upgrade calculator, seizoensreis calculator, hoogseizoen vlucht calculator, laagseizoen vliegticket calculator, hoogseizoen vlucht calculator, vluchtparameter calculator, luchtvaart kosten calculator, luchtreis budget tool, vliegprijs tool online, uitgebreide vlucht calculator, nauwkeurige vliegticket schatting, directe vliegkosten tool, intelligente reis calculator, vlieguitgaven planner, luchtreis kosten calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

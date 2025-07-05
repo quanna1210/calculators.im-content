@@ -894,5 +894,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Repülőjegy Ár Kalkulátor",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Repülőjegy Kalkulátor Ingyen - Online Becslő",
+        "meta_description": "Repülési költségek azonnali számítása! Ingyenes kalkulátor üzemanyag árakkal, utazási osztályokkal, szezonális tarifákkal és többvaluta támogatással!",
+        "meta_keyword": "repülőjegy ár kalkulátor, repülési költség kalkulátor, repülőjegy kalkulátor ingyen, online repülőjegy kalkulátor, repülőjegy ár kalkulátor, légitársaság jegy kalkulátor, utazási költség kalkulátor, repülési tarifa becslő, légitársaság jegy kalkulátor, repülőjegy becslő eszköz, repülési költségvetés kalkulátor, utazási költségvetés tervező, olcsó repülőjegy kalkulátor, repülési költség becslő online, repülőjegy kalkulátor üzemanyag árakkal, többvalutás repülő kalkulátor, szezonális repülőjegy ár kalkulátor, business osztály tarifa kalkulátor, economy repülési költség kalkulátor, oda-vissza repülőjegy kalkulátor, egyirányú repülőjegy kalkulátor, nemzetközi repülő kalkulátor, belföldi repülő kalkulátor, légitársaság tarifa összehasonlító eszköz, repülőjegy foglalási költség kalkulátor, utazási kiadás kalkulátor online, repülési költség lebontás kalkulátor, premium economy tarifa kalkulátor, első osztály repülő kalkulátor, fapados légitársaság kalkulátor, luxus légitársaság kalkulátor, repülő átszállási költség kalkulátor, előzetes foglalási kedvezmény kalkulátor, utolsó pillanat repülő kalkulátor, üzemanyag pótdíj kalkulátor, távolság alapú repülő kalkulátor, utas repülési költség kalkulátor, csoportos utazás kalkulátor, légitársaság osztály fejlesztés kalkulátor, szezonális utazás kalkulátor, csúcsszezon repülő kalkulátor, alacsony szezon repülőjegy kalkulátor, magas szezon repülő kalkulátor, repülési paraméter kalkulátor, légi közlekedési költség kalkulátor, légi utazási költségvetés eszköz, repülőjegy ár eszköz online, átfogó repülő kalkulátor, pontos repülőjegy becslő, azonnali repülési költség eszköz, intelligens utazás kalkulátor, repülési kiadás tervező, légi utazási költség kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Máy Tính Giá Vé Máy Bay",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Vé Máy Bay Miễn Phí - Ước Tính Online",
+        "meta_description": "Tính chi phí bay ngay lập tức! Máy tính vé máy bay miễn phí với giá nhiên liệu, hạng ghế, giá theo mùa & hỗ trợ đa tiền tệ. Lập kế hoạch ngân sách!",
+        "meta_keyword": "máy tính giá vé máy bay, máy tính chi phí bay, máy tính vé máy bay miễn phí, máy tính giá vé online, máy tính vé hàng không, công cụ ước tính giá vé, máy tính ngân sách du lịch, máy tính vé máy bay giá rẻ, ước tính chi phí bay online, máy tính vé với giá nhiên liệu, máy tính bay đa tiền tệ, máy tính giá theo mùa bay, máy tính vé hạng thương gia, máy tính chi phí hạng phổ thông, máy tính vé khứ hồi, máy tính vé một chiều, máy tính bay quốc tế, máy tính bay nội địa, công cụ so sánh giá vé, máy tính chi phí đặt vé, máy tính chi phí du lịch online, máy tính phân tích giá vé, máy tính vé hạng phổ thông cao cấp, máy tính vé hạng nhất, máy tính hãng giá rẻ, máy tính hãng sang trọng, máy tính chi phí transit, máy tính giảm giá đặt sớm, máy tính vé phút cuối, máy tính phụ phí nhiên liệu, máy tính bay theo khoảng cách, máy tính chi phí hành khách, máy tính du lịch nhóm, máy tính nâng cấp hạng, máy tính du lịch theo mùa, máy tính bay mùa cao điểm, máy tính vé mùa thấp, máy tính bay mùa cao, máy tính thông số bay, máy tính chi phí hàng không, công cụ ngân sách bay, tool giá bay online, máy tính bay toàn diện, ước tính vé chính xác, công cụ chi phí bay tức thì, máy tính du lịch thông minh, lập kế hoạch chi phí bay, máy tính chi phí hành trình bay",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

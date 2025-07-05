@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Kalkulator Cen Biletów Lotniczych",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Biletów Lotniczych Za Darmo - Online",
+        "meta_description": "Oblicz koszty lotu natychmiast! Darmowy kalkulator z cenami paliwa, klasami podróży, stawkami sezonowymi i obsługą wielu walut. Zaplanuj budżet!",
+        "meta_keyword": "kalkulator cen biletów lotniczych, kalkulator kosztów lotu, kalkulator biletów lotniczych za darmo, online kalkulator biletów lotniczych, kalkulator ceny biletu lotniczego, kalkulator biletu linii lotniczej, kalkulator kosztów podróży, estymator taryf lotniczych, kalkulator biletów linii lotniczej, narzędzie szacowania taryf lotniczych, kalkulator budżetu lotu, planista budżetu podróży, kalkulator tanich lotów, estymator kosztów lotu online, kalkulator taryf z cenami paliwa, wielowalutowy kalkulator lotów, kalkulator cen sezonowych lotów, kalkulator taryf klasy biznes, kalkulator kosztów ekonomicznych lotów, kalkulator lotów powrotnych, kalkulator lotów w jedną stronę, kalkulator lotów międzynarodowych, kalkulator lotów krajowych, narzędzie porównania taryf linii lotniczych, kalkulator kosztów rezerwacji lotu, kalkulator wydatków podróży online, kalkulator rozkładu kosztów lotu, kalkulator taryf ekonomii premium, kalkulator lotów pierwszej klasy, kalkulator tanich linii lotniczych, kalkulator luksusowych linii lotniczych, kalkulator kosztów przesiadek lotniczych, kalkulator zniżek wcześniejszej rezerwacji, kalkulator lotów last minute, kalkulator dopłaty paliwowej, kalkulator lotów oparty na odległości, kalkulator kosztów pasażera, kalkulator podróży grupowych, kalkulator upgrade klasy linii lotniczej, kalkulator podróży sezonowych, kalkulator lotów szczytu sezonu, kalkulator taryf poza sezonem, kalkulator lotów wysokiego sezonu, kalkulator parametrów lotu, kalkulator kosztów lotnictwa, narzędzie budżetu podróży lotniczej, narzędzie cen lotów online, kompleksowy kalkulator lotów, dokładny estymator biletów lotniczych, natychmiastowe narzędzie kosztów lotu, inteligentny kalkulator podróży, planista wydatków lotniczych, kalkulator kosztów podróży lotniczej",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

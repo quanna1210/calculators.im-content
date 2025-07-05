@@ -894,5 +894,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Kalkulator Tarif Pesawat",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Tiket Pesawat Gratis - Estimasi Online",
+        "meta_description": "Itung biaya pesawat langsung! Kalkulator tarif gratis karo rega BBM, kelas perjalanan, tarif musiman & dhukungan mata uang akeh. Rencanakno budget!",
+        "meta_keyword": "kalkulator tarif pesawat, kalkulator biaya pesawat, kalkulator tiket pesawat gratis, kalkulator rega tiket online, kalkulator tiket maskapai, alat estimasi tarif pesawat, kalkulator budget perjalanan, kalkulator pesawat murah, estimator biaya pesawat online, kalkulator tarif karo rega BBM, kalkulator pesawat multi mata uang, kalkulator rega musiman pesawat, kalkulator tarif kelas bisnis, kalkulator biaya ekonomi pesawat, kalkulator pesawat mulih balik, kalkulator pesawat siji arah, kalkulator pesawat internasional, kalkulator pesawat domestik, alat perbandingan tarif maskapai, kalkulator biaya booking pesawat, kalkulator biaya perjalanan online, kalkulator rincian biaya pesawat, kalkulator tarif ekonomi premium, kalkulator pesawat kelas utama, kalkulator maskapai budget, kalkulator maskapai mewah, kalkulator biaya transit pesawat, kalkulator diskon booking awal, kalkulator pesawat menit pungkasan, kalkulator surcharge BBM, kalkulator pesawat adhedhasar jarak, kalkulator biaya penumpang, kalkulator perjalanan grup, kalkulator upgrade kelas maskapai, kalkulator perjalanan musiman, kalkulator pesawat musim puncak, kalkulator tarif musim sepi, kalkulator pesawat musim rame, kalkulator parameter pesawat, kalkulator biaya aviasi, alat budget perjalanan udara, tool rega pesawat online, kalkulator pesawat komprehensif, estimator tarif akurat, tool biaya pesawat cepet, kalkulator perjalanan pinter, perencana biaya pesawat, kalkulator biaya perjalanan udara",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

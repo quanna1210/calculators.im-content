@@ -893,5 +893,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "71",
+        "thumb": "https://static.calculators.im/upload/thumb/airfare-calculator.jpg",
+        "title": "Uçak Bileti Fiyat Hesaplayıcısı",
+        "slug": "airfare-calculator",
+        "parent_id": "65",
+        "meta_title": "Uçak Bileti Hesaplayıcısı Ücretsiz - Online",
+        "meta_description": "Uçuş maliyetlerini anında hesaplayın! Yakıt fiyatları, seyahat sınıfları, mevsimsel oranlar ve çoklu para birimi desteği ile ücretsiz hesaplayıcı!",
+        "meta_keyword": "uçak bileti fiyat hesaplayıcısı, uçuş maliyet hesaplayıcısı, uçak bileti hesaplayıcısı ücretsiz, online uçak bileti hesaplayıcısı, uçak bileti fiyat hesaplayıcısı, havayolu bileti hesaplayıcısı, seyahat maliyet hesaplayıcısı, uçuş tarife tahmin edici, havayolu bileti hesaplayıcısı, uçak bileti tahmin aracı, uçuş bütçe hesaplayıcısı, seyahat bütçe planlayıcısı, ucuz uçuş hesaplayıcısı, uçuş maliyet tahmin edici online, yakıt fiyatları ile uçak bileti hesaplayıcısı, çok para birimli uçuş hesaplayıcısı, mevsimsel uçuş fiyat hesaplayıcısı, business sınıf tarife hesaplayıcısı, ekonomi uçuş maliyet hesaplayıcısı, gidiş-dönüş uçuş hesaplayıcısı, tek yön uçuş hesaplayıcısı, uluslararası uçuş hesaplayıcısı, iç hat uçuş hesaplayıcısı, havayolu tarife karşılaştırma aracı, uçuş rezervasyon maliyet hesaplayıcısı, seyahat gider hesaplayıcısı online, uçuş maliyet dökümü hesaplayıcısı, premium ekonomi tarife hesaplayıcısı, birinci sınıf uçuş hesaplayıcısı, bütçe havayolu hesaplayıcısı, lüks havayolu hesaplayıcısı, uçuş aktarma maliyet hesaplayıcısı, erken rezervasyon indirim hesaplayıcısı, son dakika uçuş hesaplayıcısı, yakıt ek ücreti hesaplayıcısı, mesafe tabanlı uçuş hesaplayıcısı, yolcu uçuş maliyet hesaplayıcısı, grup seyahat hesaplayıcısı, havayolu sınıf yükseltme hesaplayıcısı, mevsimsel seyahat hesaplayıcısı, yoğun sezon uçuş hesaplayıcısı, düşük sezon uçak bileti hesaplayıcısı, yüksek sezon uçuş hesaplayıcısı, uçuş parametre hesaplayıcısı, havacılık maliyet hesaplayıcısı, hava seyahati bütçe aracı, uçuş fiyat aracı online, kapsamlı uçuş hesaplayıcısı, doğru uçak bileti tahmin edici, anlık uçuş maliyet aracı, akıllı seyahat hesaplayıcısı, uçuş gider planlayıcısı, hava seyahati maliyet hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
