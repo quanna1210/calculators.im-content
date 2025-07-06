@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Máy Tính Thuế Xe",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Thuế Xe Online - Tính Thuế Miễn Phí",
+        "meta_description": "Tính thuế xe online cho ô tô, xe tải & xe máy tại 23 quốc gia. Công cụ miễn phí với chuyển đổi tiền tệ và kết quả chia sẻ. Thử ngay!",
+        "meta_keyword": "máy tính thuế xe miễn phí, máy tính thuế ô tô online, tính thuế xe miễn phí, máy tính thuế xe máy online, máy tính phí đăng ký xe miễn phí, công cụ ước tính thuế xe online, máy tính thuế hàng năm miễn phí, tính thuế xe tức thì, máy tính thuế xe với chia sẻ kết quả, máy tính đăng ký ô tô online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

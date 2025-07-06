@@ -920,5 +920,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Kalkulator Pajak Kendaraan",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Pajak Kendaraan Online - Hitung Gratis",
+        "meta_description": "Hitung pajak kendaraan online untuk mobil, truk & motor di 23 negara. Tool gratis dengan konversi mata uang dan hasil yang bisa dibagi. Coba sekarang!",
+        "meta_keyword": "kalkulator pajak kendaraan gratis, kalkulator pajak mobil online, perhitungan pajak kendaraan gratis, kalkulator pajak motor online, kalkulator biaya registrasi kendaraan gratis, tool estimasi pajak kendaraan online, kalkulator pajak tahunan gratis, perhitungan pajak kendaraan instan, kalkulator pajak kendaraan dengan sharing hasil, kalkulator registrasi mobil online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

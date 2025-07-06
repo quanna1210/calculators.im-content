@@ -920,5 +920,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Gépjárműadó Kalkulátor",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Gépjárműadó Kalkulátor Online - Számolj Ingyen",
+        "meta_description": "Számold ki gépjárműadót online autókra, teherautókra és motorokra 23 országban. Ingyenes eszköz valutaváltással és megosztható eredményekkel!",
+        "meta_keyword": "gépjárműadó kalkulátor ingyen, online járműadó kalkulátor, gépjárműadó számítás ingyen, autó adó kalkulátor online, jármű regisztrációs díj kalkulátor ingyen, online gépjárműadó becslő eszköz, éves adó kalkulátor ingyen, azonnali járműadó számítás, gépjárműadó kalkulátor eredmény megosztással, online autó regisztráció kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

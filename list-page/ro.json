@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Calculator Taxa Rutieră",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Taxa Rutieră Online - Calculează Gratuit",
+        "meta_description": "Calculează taxa rutieră online pentru mașini, camioane și motociclete în 23 țări. Instrument gratuit cu conversie valutară și rezultate partajabile!",
+        "meta_keyword": "calculator taxa rutieră gratuit, calculator taxa vehicul online, calculul taxei rutiere gratuit, calculator taxa mașină online, calculator taxa înregistrare vehicul gratuit, instrument estimare taxa rutieră online, calculator taxa anuală gratuit, calculul taxei vehicul instantaneu, calculator taxa rutieră cu partajare rezultate, calculator înregistrare mașină online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

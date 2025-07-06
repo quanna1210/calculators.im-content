@@ -920,5 +920,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Calcolatore Tassa Auto",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Tassa Auto Online - Calcola Gratis",
+        "meta_description": "Calcola tassa auto online per auto, camion e moto in 23 paesi. Strumento gratuito con conversione valuta e risultati condivisibili. Prova oggi!",
+        "meta_keyword": "calcolatore tassa auto gratis, calcolatore tassa veicolo online, calcolo tassa auto gratis, calcolatore tassa moto online, calcolatore tassa registrazione veicolo gratis, strumento stima tassa auto online, calcolatore tassa annuale gratis, calcolo tassa veicolo istantaneo, calcolatore tassa auto con condivisione risultati, calcolatore registrazione auto online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

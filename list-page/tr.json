@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Karayolu Vergisi Hesaplayıcısı",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Karayolu Vergisi Hesaplayıcı Online - Ücretsiz Hesapla",
+        "meta_description": "23 ülkede arabalar, kamyonlar ve motosikletler için karayolu vergisini online hesaplayın. Döviz dönüşümü ve paylaşılabilir sonuçları olan ücretsiz araç!",
+        "meta_keyword": "ücretsiz karayolu vergisi hesaplayıcısı, online araç vergisi hesaplayıcısı, karayolu vergisi hesaplama ücretsiz, araba vergisi hesaplayıcısı online, araç kayıt ücreti hesaplayıcısı ücretsiz, online karayolu vergisi tahmin aracı, yıllık vergi hesaplayıcısı ücretsiz, anlık araç vergisi hesaplama, sonuç paylaşımlı karayolu vergisi hesaplayıcısı, online araba kayıt hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

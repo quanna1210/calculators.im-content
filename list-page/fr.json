@@ -920,5 +920,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Calculateur Taxe Routière",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculateur Taxe Routière Online - Calculez Gratuit",
+        "meta_description": "Calculez taxe routière online pour voitures, camions et motos dans 23 pays. Outil gratuit avec conversion devise et résultats partageables. Essayez!",
+        "meta_keyword": "calculateur taxe routière gratuit, calculateur taxe voiture online, calcul taxe routière gratuit, calculateur taxe moto online, calculateur frais immatriculation véhicule gratuit, outil estimation taxe routière online, calculateur taxe annuelle gratuit, calcul taxe véhicule instantané, calculateur taxe routière avec partage résultats, calculateur immatriculation voiture online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

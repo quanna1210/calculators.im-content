@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Kalkulator Cukai Jalan",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Cukai Jalan Online - Kira Cukai Percuma",
+        "meta_description": "Kira cukai jalan online untuk kereta, lori & motosikal di 23 negara. Alat percuma dengan penukaran mata wang dan hasil boleh dikongsi. Cuba hari ini!",
+        "meta_keyword": "kalkulator cukai jalan percuma, kalkulator cukai kereta online, pengiraan cukai jalan percuma, kalkulator cukai motosikal online, kalkulator cukai pendaftaran kenderaan percuma, alat anggaran cukai jalan online, kalkulator cukai tahunan percuma, pengiraan cukai kenderaan segera, kalkulator cukai jalan dengan perkongsian hasil, kalkulator pendaftaran kereta online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

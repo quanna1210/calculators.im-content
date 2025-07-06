@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Kfz-Steuer Rechner",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Kfz-Steuer Rechner Online - Kostenlos Berechnen",
+        "meta_description": "Berechne Kfz-Steuer online für Autos, LKWs & Motorräder in 23 Ländern. Kostenloses Tool mit Währungsumrechnung und teilbaren Ergebnissen. Jetzt testen!",
+        "meta_keyword": "kfz steuer rechner kostenlos, online fahrzeugsteuer rechner, kfz steuer berechnung kostenlos, auto steuer rechner online, fahrzeug zulassungsgebühr rechner kostenlos, online kfz steuer schätzung tool, jährlicher steuer rechner kostenlos, sofortige fahrzeugsteuer berechnung, kfz steuer rechner mit ergebnis teilen, online auto anmeldung rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

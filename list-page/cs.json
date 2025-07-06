@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Kalkulačka Silniční Daně",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Silniční Daně Online - Spočítej Zdarma",
+        "meta_description": "Spočítej silniční daň online pro auta, nákladní vozy a motocykly ve 23 zemích. Zdarma s konverzí měn a sdílením výsledků. Vyzkoušej dnes!",
+        "meta_keyword": "kalkulačka silniční daně zdarma, online kalkulačka daně z vozidla, výpočet silniční daně zdarma, kalkulačka daně z auta online, kalkulačka registračního poplatku vozidla zdarma, online nástroj odhadu silniční daně, kalkulačka roční daně zdarma, okamžitý výpočet daně z vozidla, kalkulačka silniční daně se sdílením výsledků, online kalkulačka registrace auta",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Kalkulator Podatku Drogowego",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Podatku Drogowego Online - Licz Za Darmo",
+        "meta_description": "Oblicz podatek drogowy online dla aut, ciężarówek i motocykli w 23 krajach. Darmowe narzędzie z konwersją walut i wynikami do udostępnienia!",
+        "meta_keyword": "kalkulator podatku drogowego za darmo, online kalkulator podatku od pojazdu, obliczenie podatku drogowego za darmo, kalkulator podatku od samochodu online, kalkulator opłaty rejestracyjnej pojazdu za darmo, online narzędzie szacowania podatku drogowego, kalkulator podatku rocznego za darmo, natychmiastowe obliczenie podatku od pojazdu, kalkulator podatku drogowego z udostępnianiem wyników, online kalkulator rejestracji samochodu",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -920,5 +920,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "자동차세 계산기",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "자동차세 계산기 온라인 - 무료 계산",
+        "meta_description": "23개국의 자동차, 트럭 및 오토바이에 대한 자동차세를 온라인으로 계산하세요. 통화 변환 및 공유 가능한 결과가 있는 무료 도구입니다!",
+        "meta_keyword": "무료 자동차세 계산기, 온라인 차량세 계산기, 자동차세 계산 무료, 자동차 세금 계산기 온라인, 차량 등록비 계산기 무료, 온라인 자동차세 추정 도구, 연간 세금 계산기 무료, 즉시 차량세 계산, 결과 공유 자동차세 계산기, 온라인 자동차 등록 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

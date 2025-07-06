@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "Calculadora Imposto Rodoviário",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Imposto Rodoviário Online - Calcule Grátis",
+        "meta_description": "Calcule imposto rodoviário online para carros, camiões e motos em 23 países. Ferramenta gratuita com conversão de moeda e resultados partilháveis!",
+        "meta_keyword": "calculadora imposto rodoviário grátis, calculadora imposto veículo online, cálculo imposto rodoviário grátis, calculadora imposto carro online, calculadora taxa registo veículo grátis, ferramenta estimativa imposto rodoviário online, calculadora imposto anual grátis, cálculo imposto veículo instantâneo, calculadora imposto rodoviário com partilha resultados, calculadora registo carro online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

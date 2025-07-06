@@ -919,5 +919,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "73",
+        "thumb": "https://static.calculators.im/upload/thumb/road-tax-calculator.jpg",
+        "title": "自動車税計算機",
+        "slug": "road-tax-calculator",
+        "parent_id": "65",
+        "meta_title": "自動車税計算機オンライン - 無料計算",
+        "meta_description": "23か国の自動車、トラック、オートバイの自動車税をオンラインで計算します。通貨換算と共有可能な結果を備えた無料ツールです！",
+        "meta_keyword": "無料自動車税計算機, オンライン車両税計算機, 自動車税計算無料, 自動車税金計算機オンライン, 車両登録料計算機無料, オンライン自動車税見積もりツール, 年間税金計算機無料, 即座車両税計算, 結果共有自動車税計算機, オンライン自動車登録計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
