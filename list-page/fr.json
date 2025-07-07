@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Calculatrice Assurance Auto",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculatrice Assurance Auto - Outil Devis Gratuit",
+        "meta_description": "Calculez les primes d'assurance auto instantanément avec notre outil en ligne gratuit. Obtenez des devis personnalisés pour 23 pays avec support monétaire.",
+        "meta_keyword": "assurance auto, calculatrice assurance, assurance automobile, assurance véhicule, devis assurance, calculatrice prime, calculatrice assurance auto, calculatrice assurance automobile, calculatrice assurance en ligne, calculatrice assurance gratuite, calculatrice assurance auto gratuite en ligne, calculer prime assurance auto en ligne, calculatrice devis assurance auto en ligne, calculatrice assurance multi devises, calculatrice assurance auto internationale, calculatrice assurance auto complète, outil estimateur assurance auto, calcul assurance instantané, devis assurance personnalisés",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

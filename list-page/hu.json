@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Autóbiztosítás Kalkulátor",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Autóbiztosítás Kalkulátor - Ingyenes Online Eszköz",
+        "meta_description": "Számítsa ki az autóbiztosítási díjakat azonnal ingyenes online eszközünkkel. Szerezzen személyre szabott ajánlatokat 23 országra valutatámogatással.",
+        "meta_keyword": "autóbiztosítás, biztosítás kalkulátor, gépjárműbiztosítás, járműbiztosítás, biztosítási ajánlat, díj kalkulátor, autóbiztosítás kalkulátor, gépjárműbiztosítás kalkulátor, online biztosítás kalkulátor, ingyenes biztosítás kalkulátor, ingyenes autóbiztosítás kalkulátor online, autóbiztosítási díj számítás online, online autóbiztosítási ajánlat kalkulátor, több valutás biztosítás kalkulátor, nemzetközi autóbiztosítás kalkulátor, átfogó autóbiztosítás kalkulátor, autóbiztosítás becslő eszköz, azonnali biztosítás számítás, személyre szabott biztosítási ajánlatok",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

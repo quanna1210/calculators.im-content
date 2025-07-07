@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Calculadora Seguro Auto",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Seguro Auto - Ferramenta Grátis Online",
+        "meta_description": "Calcule prêmios de seguro auto instantaneamente com nossa ferramenta online gratuita. Obtenha cotações personalizadas para 23 países com suporte a moedas.",
+        "meta_keyword": "seguro auto, calculadora seguro, seguro automóvel, seguro veículo, cotação seguro, calculadora prêmio, calculadora seguro auto, calculadora seguro automóvel, calculadora seguro online, calculadora seguro grátis, calculadora seguro auto grátis online, calcular prêmio seguro auto online, calculadora cotação seguro auto online, calculadora seguro multi moeda, calculadora seguro auto internacional, calculadora seguro auto abrangente, ferramenta estimador seguro auto, cálculo seguro instantâneo, cotações seguro personalizadas",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

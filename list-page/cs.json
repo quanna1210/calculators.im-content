@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Kalkulačka pojištění auta",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka pojištění auta - Zdarma nástroj nabídek",
+        "meta_description": "Vypočítejte pojistné auta okamžitě s naším bezplatným online nástrojem. Získejte personalizované nabídky pro 23 zemí s podporou měn. Vyzkoušejte nyní!",
+        "meta_keyword": "pojištění auta, kalkulačka pojištění, autopojištění, pojištění vozidla, nabídka pojištění, kalkulačka pojistného, kalkulačka pojištění auta, kalkulačka autopojištění, online kalkulačka pojištění, bezplatná kalkulačka pojištění, bezplatná kalkulačka pojištění auta online, vypočítat pojistné auta online, online kalkulačka nabídky pojištění auta, kalkulačka pojištění více měn, mezinárodní kalkulačka pojištění auta, komplexní kalkulačka pojištění auta, nástroj odhadu pojištění auta, okamžitý výpočet pojištění, personalizované nabídky pojištění",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

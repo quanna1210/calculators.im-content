@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Kalkulator Ubezpieczenia Samochodu",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Ubezpieczenia Auto - Darmowe Narzędzie",
+        "meta_description": "Oblicz składki ubezpieczenia samochodu natychmiast za pomocą naszego darmowego narzędzia online. Uzyskaj spersonalizowane oferty dla 23 krajów z obsługą walut.",
+        "meta_keyword": "ubezpieczenie samochodu, kalkulator ubezpieczenia, ubezpieczenie auto, ubezpieczenie pojazdu, oferta ubezpieczenia, kalkulator składki, kalkulator ubezpieczenia samochodu, kalkulator ubezpieczenia auto, kalkulator ubezpieczenia online, darmowy kalkulator ubezpieczenia, darmowy kalkulator ubezpieczenia samochodu online, oblicz składkę ubezpieczenia samochodu online, kalkulator oferty ubezpieczenia samochodu online, kalkulator ubezpieczenia wielu walut, międzynarodowy kalkulator ubezpieczenia samochodu, kompleksowy kalkulator ubezpieczenia samochodu, narzędzie estymatora ubezpieczenia samochodu, natychmiastowe obliczenie ubezpieczenia, spersonalizowane oferty ubezpieczenia",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

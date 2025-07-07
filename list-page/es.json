@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Auto",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculadora Seguro Auto - Herramienta Gratis Online",
+        "meta_description": "Calcula primas de seguro de auto al instante con nuestra herramienta online gratuita. Obtén cotizaciones personalizadas para 23 países con soporte de monedas.",
+        "meta_keyword": "seguro de auto, calculadora de seguro, seguro automotriz, seguro vehicular, cotización de seguro, calculadora de prima, calculadora de seguro de auto, calculadora de seguro automotriz, calculadora de seguro online, calculadora de seguro gratis, calculadora de seguro de auto gratis online, calcular prima de seguro de auto online, calculadora de cotización de seguro de auto online, calculadora de seguro multi moneda, calculadora de seguro de auto internacional, calculadora de seguro de auto integral, herramienta estimador de seguro de auto, cálculo de seguro instantáneo, cotizaciones de seguro personalizadas",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

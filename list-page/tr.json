@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Araba Sigortası Hesaplayıcısı",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Araba Sigortası Hesaplayıcısı - Ücretsiz Online Araç",
+        "meta_description": "Ücretsiz online aracımızla araba sigortası primlerini anında hesaplayın. 23 ülke için para birimi desteğiyle kişiselleştirilmiş teklifler alın. Şimdi deneyin!",
+        "meta_keyword": "araba sigortası, sigorta hesaplayıcısı, otomobil sigortası, araç sigortası, sigorta teklifi, prim hesaplayıcısı, araba sigortası hesaplayıcısı, otomobil sigortası hesaplayıcısı, online sigorta hesaplayıcısı, ücretsiz sigorta hesaplayıcısı, ücretsiz araba sigortası hesaplayıcısı online, araba sigortası primi online hesapla, online araba sigortası teklif hesaplayıcısı, çoklu para birimi sigorta hesaplayıcısı, uluslararası araba sigortası hesaplayıcısı, kapsamlı araba sigortası hesaplayıcısı, araba sigortası tahmin aracı, anında sigorta hesaplama, kişiselleştirilmiş sigorta teklifleri",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

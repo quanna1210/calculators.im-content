@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Kalkulator Insurans Kereta",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Insurans Kereta - Alat Sebut Harga Percuma",
+        "meta_description": "Kira premium insurans kereta dengan serta-merta menggunakan alat dalam talian percuma kami. Dapatkan sebut harga peribadi untuk 23 negara dengan sokongan mata wang.",
+        "meta_keyword": "insurans kereta, kalkulator insurans, insurans auto, insurans kenderaan, sebut harga insurans, kalkulator premium, kalkulator insurans kereta, kalkulator insurans auto, kalkulator insurans dalam talian, kalkulator insurans percuma, kalkulator insurans kereta percuma dalam talian, kira premium insurans kereta dalam talian, kalkulator sebut harga insurans kereta dalam talian, kalkulator insurans pelbagai mata wang, kalkulator insurans kereta antarabangsa, kalkulator insurans kereta komprehensif, alat penganggar insurans kereta, pengiraan insurans segera, sebut harga insurans peribadi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

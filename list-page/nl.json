@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Autoverzekering Calculator",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Autoverzekering Calculator - Gratis Online Tool",
+        "meta_description": "Bereken autoverzekeringspremies direct met onze gratis online tool. Krijg gepersonaliseerde offertes voor 23 landen met valutaondersteuning. Probeer nu!",
+        "meta_keyword": "autoverzekering, verzekering calculator, auto verzekering, voertuigverzekering, verzekering offerte, premie calculator, autoverzekering calculator, auto verzekering calculator, online verzekering calculator, gratis verzekering calculator, gratis autoverzekering calculator online, autoverzekeringspremie online berekenen, online autoverzekering offerte calculator, multi valuta verzekering calculator, internationale autoverzekering calculator, uitgebreide autoverzekering calculator, autoverzekering schatter tool, directe verzekering berekening, gepersonaliseerde verzekering offertes",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

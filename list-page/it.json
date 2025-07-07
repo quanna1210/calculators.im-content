@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Calcolatore Assicurazione Auto",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Assicurazione Auto - Strumento Gratuito",
+        "meta_description": "Calcola i premi assicurativi auto istantaneamente con il nostro strumento online gratuito. Ottieni preventivi personalizzati per 23 paesi con supporto valute.",
+        "meta_keyword": "assicurazione auto, calcolatore assicurazione, assicurazione automobilistica, assicurazione veicolo, preventivo assicurazione, calcolatore premio, calcolatore assicurazione auto, calcolatore assicurazione automobilistica, calcolatore assicurazione online, calcolatore assicurazione gratuito, calcolatore assicurazione auto gratuito online, calcolare premio assicurazione auto online, calcolatore preventivo assicurazione auto online, calcolatore assicurazione multi valuta, calcolatore assicurazione auto internazionale, calcolatore assicurazione auto completa, strumento stimatore assicurazione auto, calcolo assicurazione istantaneo, preventivi assicurazione personalizzati",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

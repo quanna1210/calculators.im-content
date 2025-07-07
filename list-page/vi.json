@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Máy tính bảo hiểm ô tô",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy tính bảo hiểm ô tô - Công cụ báo giá miễn phí",
+        "meta_description": "Tính phí bảo hiểm ô tô ngay lập tức với công cụ trực tuyến miễn phí của chúng tôi. Nhận báo giá cá nhân hóa cho 23 quốc gia với hỗ trợ tiền tệ. Thử ngay!",
+        "meta_keyword": "bảo hiểm ô tô, máy tính bảo hiểm, bảo hiểm xe hơi, bảo hiểm phương tiện, báo giá bảo hiểm, máy tính phí bảo hiểm, máy tính bảo hiểm ô tô, máy tính bảo hiểm xe hơi, máy tính bảo hiểm trực tuyến, máy tính bảo hiểm miễn phí, máy tính bảo hiểm ô tô miễn phí trực tuyến, tính phí bảo hiểm ô tô trực tuyến, máy tính báo giá bảo hiểm ô tô trực tuyến, máy tính bảo hiểm đa tiền tệ, máy tính bảo hiểm ô tô quốc tế, máy tính bảo hiểm ô tô toàn diện, công cụ ước tính bảo hiểm ô tô, tính toán bảo hiểm tức thì, báo giá bảo hiểm cá nhân",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

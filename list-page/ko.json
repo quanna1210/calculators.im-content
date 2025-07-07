@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "자동차 보험 계산기",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "자동차 보험 계산기 - 무료 온라인 도구",
+        "meta_description": "무료 온라인 도구로 자동차 보험료를 즉시 계산하세요. 통화 지원과 함께 23개국의 맞춤형 견적을 받아보세요. 지금 시도해보세요!",
+        "meta_keyword": "자동차 보험, 보험 계산기, 자동차보험, 차량 보험, 보험 견적, 보험료 계산기, 자동차 보험 계산기, 자동차보험 계산기, 온라인 보험 계산기, 무료 보험 계산기, 무료 자동차 보험 계산기 온라인, 자동차 보험료 온라인 계산, 온라인 자동차 보험 견적 계산기, 다중 통화 보험 계산기, 국제 자동차 보험 계산기, 종합 자동차 보험 계산기, 자동차 보험 추정 도구, 즉시 보험 계산, 맞춤형 보험 견적",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

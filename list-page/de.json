@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Autoversicherung Rechner",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Autoversicherung Rechner - Kostenloses Online Tool",
+        "meta_description": "Berechnen Sie Autoversicherungsprämien sofort mit unserem kostenlosen Online-Tool. Erhalten Sie personalisierte Angebote für 23 Länder mit Währungsunterstützung.",
+        "meta_keyword": "autoversicherung, versicherungsrechner, kfz versicherung, fahrzeugversicherung, versicherungsangebot, prämienrechner, autoversicherungsrechner, kfz versicherungsrechner, online versicherungsrechner, kostenloser versicherungsrechner, kostenloser autoversicherungsrechner online, autoversicherungsprämie online berechnen, online autoversicherungsangebot rechner, multi währung versicherungsrechner, internationaler autoversicherungsrechner, umfassender autoversicherungsrechner, autoversicherung schätztool, sofortige versicherungsberechnung, personalisierte versicherungsangebote",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Car Insurance Calculator",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Car Insurance Calculator - Free Quote Tool Online",
+        "meta_description": "Calculate car insurance premiums instantly with our free online tool. Get personalized quotes for 23 countries with currency support. Try now!",
+        "meta_keyword": "car insurance, insurance calculator, auto insurance, vehicle insurance, insurance quote, premium calculator, car insurance calculator, auto insurance calculator, online insurance calculator, free insurance calculator, free car insurance calculator online, calculate car insurance premium online, online car insurance quote calculator, multi currency insurance calculator, international car insurance calculator, comprehensive car insurance calculator, car insurance estimator tool, instant insurance calculation, personalized insurance quotes",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

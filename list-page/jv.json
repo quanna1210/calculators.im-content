@@ -933,5 +933,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Mobil",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Asuransi Mobil - Alat Kutipan Gratis",
+        "meta_description": "Etung premi asuransi mobil kanthi cepet nganggo alat online gratis kita. Entuk kutipan pribadi kanggo 23 negara karo dhukungan mata uang. Coba saiki!",
+        "meta_keyword": "asuransi mobil, kalkulator asuransi, asuransi otomotif, asuransi kendaraan, kutipan asuransi, kalkulator premi, kalkulator asuransi mobil, kalkulator asuransi otomotif, kalkulator asuransi online, kalkulator asuransi gratis, kalkulator asuransi mobil gratis online, etung premi asuransi mobil online, kalkulator kutipan asuransi mobil online, kalkulator asuransi multi mata uang, kalkulator asuransi mobil internasional, kalkulator asuransi mobil komprehensif, alat estimator asuransi mobil, itungan asuransi cepet, kutipan asuransi pribadi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

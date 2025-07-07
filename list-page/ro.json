@@ -932,5 +932,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "74",
+        "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
+        "title": "Calculator Asigurare Auto",
+        "slug": "car-insurance-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Asigurare Auto - Instrument Gratuit Online",
+        "meta_description": "Calculați primele de asigurare auto instant cu instrumentul nostru online gratuit. Obțineți cotații personalizate pentru 23 țări cu suport valutar.",
+        "meta_keyword": "asigurare auto, calculator asigurare, asigurare autovehicul, asigurare vehicul, cotație asigurare, calculator primă, calculator asigurare auto, calculator asigurare autovehicul, calculator asigurare online, calculator asigurare gratuit, calculator asigurare auto gratuit online, calcula primă asigurare auto online, calculator cotație asigurare auto online, calculator asigurare multi valută, calculator asigurare auto internațional, calculator asigurare auto cuprinzător, instrument estimator asigurare auto, calcul asigurare instant, cotații asigurare personalizate",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
