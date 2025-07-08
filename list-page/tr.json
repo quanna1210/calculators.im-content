@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Olasılık Hesaplayıcısı",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Ücretsiz Olasılık Hesaplayıcısı | Şans & İstatistik Hesapla",
+        "meta_description": "Temel olasılık, binom dağılımı, koşullu olasılık, kombinatorik ve zar için ücretsiz online olasılık hesaplayıcısı. Anında sonuçlar!",
+        "meta_keyword": "olasılık hesaplayıcısı, şans hesaplayıcısı, istatistik hesaplayıcısı, binom hesaplayıcısı, zar hesaplayıcısı, kombinatorik hesaplayıcısı, koşullu olasılık hesaplayıcısı, olasılık aracı, ihtimal hesaplayıcısı, matematik hesaplayıcısı, ücretsiz olasılık hesaplayıcısı, online olasılık hesaplayıcısı, adımlı olasılık hesaplayıcısı, temel olasılık hesaplayıcısı, binom dağılımı hesaplayıcısı, zar olasılığı hesaplayıcısı, olasılık ve istatistik hesaplayıcısı, matematiksel olasılık hesaplayıcısı, olasılık hesaplama aracı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Calculator Probabilitate",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculator Probabilitate Gratuit | Calculează Probabilități",
+        "meta_description": "Calculator de probabilitate online gratuit pentru probabilitate de bază, distribuție binomială, probabilitate condiționată, combinatorică și zaruri. Rezultate instantanee!",
+        "meta_keyword": "calculator probabilitate, calculator probabilități, calculator statistici, calculator binomial, calculator zaruri, calculator combinatorică, calculator probabilitate condiționată, instrument probabilitate, calculator șanse, calculator matematic, calculator probabilitate gratuit, calculator probabilitate online, calculator probabilitate cu pași, calculator probabilitate de bază, calculator distribuție binomială, calculator probabilitate zaruri, calculator probabilitate și statistici, calculator probabilitate matematică, instrument calcul probabilitate",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

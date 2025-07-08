@@ -959,5 +959,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "확률 계산기",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "무료 확률 계산기 | 확률과 통계 계산",
+        "meta_description": "기본 확률, 이항 분포, 조건부 확률, 조합론 및 주사위용 무료 온라인 확률 계산기입니다. 즉시 결과를 확인하세요!",
+        "meta_keyword": "확률 계산기, 확률계산기, 통계 계산기, 이항 계산기, 주사위 계산기, 조합론 계산기, 조건부 확률 계산기, 확률 도구, 가능성 계산기, 수학 계산기, 무료 확률 계산기, 온라인 확률 계산기, 단계별 확률 계산기, 기본 확률 계산기, 이항 분포 계산기, 주사위 확률 계산기, 확률 및 통계 계산기, 수학적 확률 계산기, 확률 계산 도구, 고급 확률 계산기, 무료 온라인 확률 계산기, 통계 계산기, 확률 해결기, 확률 공식 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

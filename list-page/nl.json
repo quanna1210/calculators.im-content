@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Kansrekenmachine",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Gratis Kansrekenmachine | Bereken Kansen & Statistieken",
+        "meta_description": "Gratis online kansrekenmachine voor basiskans, binomiale verdeling, voorwaardelijke kans, combinatoriek en dobbelstenen. Directe resultaten!",
+        "meta_keyword": "kansrekenmachine, kans calculator, statistiek calculator, binomiale calculator, dobbelsteen calculator, combinatoriek calculator, voorwaardelijke kans calculator, kans tool, mogelijkheid calculator, wiskunde calculator, gratis kansrekenmachine, online kansrekenmachine, kansrekenmachine met stappen, basis kansrekenmachine, binomiale verdeling calculator, dobbelsteen kans calculator, kans en statistiek calculator, wiskundige kansrekenmachine, kans berekening tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

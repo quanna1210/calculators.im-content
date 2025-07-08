@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Probability Calculator",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Free Probability Calculator | Calculate Odds & Statistics",
+        "meta_description": "Free online probability calculator for basic probability, binomial distribution, conditional probability, combinatorics & dice. Get instant results!",
+        "meta_keyword": "probability calculator, odds calculator, statistics calculator, binomial calculator, dice calculator, combinatorics calculator, conditional probability calculator, probability tool, chance calculator, math calculator, free probability calculator, online probability calculator, probability calculator with steps, basic probability calculator, binomial distribution calculator, dice probability calculator, probability and statistics calculator, mathematical probability calculator, probability calculation tool, advanced probability calculator, probability calculator online free, statistical calculator, probability solver, probability formula calculator, odds ratio calculator, probability theory calculator, scientific probability calculator, free online probability calculator with steps, calculate probability of events online, binomial distribution probability calculator online, conditional probability calculator with formula, dice rolling probability calculator free, combinatorics and probability calculator tool, probability calculator for students and teachers, online probability calculator for basic and advanced, calculate odds and probability online free, probability calculator with detailed explanations, statistical probability calculator for academic use, comprehensive probability calculator with multiple functions, probability and statistics calculator for education, probability calculation online tool, free math probability calculator, instant probability calculator results, probability calculator no registration required, easy probability calculator interface, accurate probability calculations online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

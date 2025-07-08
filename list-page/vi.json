@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Máy tính xác suất",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Máy tính xác suất miễn phí | Tính tỷ lệ & thống kê",
+        "meta_description": "Máy tính xác suất trực tuyến miễn phí cho xác suất cơ bản, phân phối nhị thức, xác suất có điều kiện, tổ hợp & xúc xắc. Kết quả ngay lập tức!",
+        "meta_keyword": "máy tính xác suất, máy tính tỷ lệ, máy tính thống kê, máy tính nhị thức, máy tính xúc xắc, máy tính tổ hợp, máy tính xác suất có điều kiện, công cụ xác suất, máy tính cơ hội, máy tính toán học, máy tính xác suất miễn phí, máy tính xác suất trực tuyến, máy tính xác suất có bước, máy tính xác suất cơ bản, máy tính phân phối nhị thức, máy tính xác suất xúc xắc, máy tính xác suất và thống kê, máy tính xác suất toán học, công cụ tính xác suất, máy tính xác suất nâng cao, máy tính xác suất trực tuyến miễn phí, máy tính thống kê, trình giải xác suất, máy tính công thức xác suất",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

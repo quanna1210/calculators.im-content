@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Kalkulator Kebarangkalian",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Kebarangkalian Percuma | Kira Peluang & Statistik",
+        "meta_description": "Kalkulator kebarangkalian dalam talian percuma untuk kebarangkalian asas, taburan binomial, kebarangkalian bersyarat, kombinatorik & dadu. Keputusan segera!",
+        "meta_keyword": "kalkulator kebarangkalian, kalkulator peluang, kalkulator statistik, kalkulator binomial, kalkulator dadu, kalkulator kombinatorik, kalkulator kebarangkalian bersyarat, alat kebarangkalian, kalkulator peluang, kalkulator matematik, kalkulator kebarangkalian percuma, kalkulator kebarangkalian dalam talian, kalkulator kebarangkalian dengan langkah, kalkulator kebarangkalian asas, kalkulator taburan binomial, kalkulator kebarangkalian dadu, kalkulator kebarangkalian dan statistik, kalkulator kebarangkalian matematik, alat pengiraan kebarangkalian, kalkulator kebarangkalian lanjutan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

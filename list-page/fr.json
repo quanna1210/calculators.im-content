@@ -959,5 +959,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Calculatrice de Probabilité",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculatrice de Probabilité Gratuite | Calcul Probabilités",
+        "meta_description": "Calculatrice de probabilité en ligne gratuite pour probabilité de base, distribution binomiale, probabilité conditionnelle, combinatoire et dés. Résultats instantanés!",
+        "meta_keyword": "calculatrice de probabilité, calculatrice de probabilités, calculatrice de statistiques, calculatrice binomiale, calculatrice de dés, calculatrice de combinatoire, calculatrice de probabilité conditionnelle, outil de probabilité, calculatrice de chances, calculatrice mathématique, calculatrice de probabilité gratuite, calculatrice de probabilité en ligne, calculatrice de probabilité avec étapes, calculatrice de probabilité de base, calculatrice de distribution binomiale, calculatrice de probabilité de dés, calculatrice de probabilité et statistiques, calculatrice de probabilité mathématique, outil de calcul de probabilité",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

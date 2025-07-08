@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Calculadora de Probabilidade",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Probabilidade Grátis | Calcular Probabilidades",
+        "meta_description": "Calculadora de probabilidade online grátis para probabilidade básica, distribuição binomial, probabilidade condicional, combinatória e dados. Resultados instantâneos!",
+        "meta_keyword": "calculadora de probabilidade, calculadora de probabilidades, calculadora de estatísticas, calculadora binomial, calculadora de dados, calculadora de combinatória, calculadora de probabilidade condicional, ferramenta de probabilidade, calculadora de chances, calculadora matemática, calculadora de probabilidade grátis, calculadora de probabilidade online, calculadora de probabilidade com passos, calculadora de probabilidade básica, calculadora de distribuição binomial, calculadora de probabilidade de dados, calculadora de probabilidade e estatísticas, calculadora de probabilidade matemática, ferramenta de cálculo de probabilidade",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Kalkulačka pravděpodobnosti",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulačka pravděpodobnosti zdarma | Výpočet šancí & statistik",
+        "meta_description": "Bezplatná online kalkulačka pravděpodobnosti pro základní pravděpodobnost, binomické rozdělení, podmíněnou pravděpodobnost, kombinatoriku a kostky. Okamžité výsledky!",
+        "meta_keyword": "kalkulačka pravděpodobnosti, kalkulačka šancí, kalkulačka statistik, binomická kalkulačka, kalkulačka kostek, kalkulačka kombinatoriky, kalkulačka podmíněné pravděpodobnosti, nástroj pravděpodobnosti, kalkulačka možností, matematická kalkulačka, bezplatná kalkulačka pravděpodobnosti, online kalkulačka pravděpodobnosti, kalkulačka pravděpodobnosti s kroky, základní kalkulačka pravděpodobnosti, kalkulačka binomického rozdělení, kalkulačka pravděpodobnosti kostek, kalkulačka pravděpodobnosti a statistik, matematická kalkulačka pravděpodobnosti, nástroj výpočtu pravděpodobnosti",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

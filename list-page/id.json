@@ -959,5 +959,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Kalkulator Probabilitas",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Probabilitas Gratis | Hitung Peluang & Statistik",
+        "meta_description": "Kalkulator probabilitas online gratis untuk probabilitas dasar, distribusi binomial, probabilitas kondisional, kombinatorik & dadu. Hasil instan!",
+        "meta_keyword": "kalkulator probabilitas, kalkulator peluang, kalkulator statistik, kalkulator binomial, kalkulator dadu, kalkulator kombinatorik, kalkulator probabilitas kondisional, alat probabilitas, kalkulator kesempatan, kalkulator matematika, kalkulator probabilitas gratis, kalkulator probabilitas online, kalkulator probabilitas dengan langkah, kalkulator probabilitas dasar, kalkulator distribusi binomial, kalkulator probabilitas dadu, kalkulator probabilitas dan statistik, kalkulator probabilitas matematika, alat perhitungan probabilitas, kalkulator probabilitas lanjutan, kalkulator probabilitas online gratis, kalkulator statistik, pemecah probabilitas, kalkulator rumus probabilitas, kalkulator rasio peluang, kalkulator teori probabilitas, kalkulator probabilitas ilmiah",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

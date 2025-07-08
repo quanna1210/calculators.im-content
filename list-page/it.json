@@ -959,5 +959,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Calcolatrice di Probabilità",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Calcolatrice Probabilità Gratis | Calcola Probabilità",
+        "meta_description": "Calcolatrice di probabilità online gratuita per probabilità di base, distribuzione binomiale, probabilità condizionale, combinatoria e dadi. Risultati istantanei!",
+        "meta_keyword": "calcolatrice di probabilità, calcolatrice probabilità, calcolatrice statistiche, calcolatrice binomiale, calcolatrice dadi, calcolatrice combinatoria, calcolatrice probabilità condizionale, strumento probabilità, calcolatrice possibilità, calcolatrice matematica, calcolatrice probabilità gratuita, calcolatrice probabilità online, calcolatrice probabilità con passaggi, calcolatrice probabilità base, calcolatrice distribuzione binomiale, calcolatrice probabilità dadi, calcolatrice probabilità e statistiche, calcolatrice probabilità matematica, strumento calcolo probabilità",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

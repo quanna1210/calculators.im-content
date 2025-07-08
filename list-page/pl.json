@@ -958,5 +958,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "76",
+        "thumb": "https://static.calculators.im/upload/thumb/probability-calculator.jpg",
+        "title": "Kalkulator Prawdopodobieństwa",
+        "slug": "probability-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Prawdopodobieństwa Za Darmo | Oblicz Szanse",
+        "meta_description": "Darmowy kalkulator prawdopodobieństwa online dla podstawowego prawdopodobieństwa, rozkładu dwumianowego, prawdopodobieństwa warunkowego, kombinatoryki i kostek. Natychmiastowe wyniki!",
+        "meta_keyword": "kalkulator prawdopodobieństwa, kalkulator szans, kalkulator statystyk, kalkulator dwumianowy, kalkulator kostek, kalkulator kombinatoryki, kalkulator prawdopodobieństwa warunkowego, narzędzie prawdopodobieństwa, kalkulator możliwości, kalkulator matematyczny, darmowy kalkulator prawdopodobieństwa, kalkulator prawdopodobieństwa online, kalkulator prawdopodobieństwa z krokami, podstawowy kalkulator prawdopodobieństwa, kalkulator rozkładu dwumianowego, kalkulator prawdopodobieństwa kostek, kalkulator prawdopodobieństwa i statystyk, matematyczny kalkulator prawdopodobieństwa, narzędzie obliczania prawdopodobieństwa",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
