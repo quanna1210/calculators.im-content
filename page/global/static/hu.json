@@ -1,22 +1,24 @@
-[
-    "Új számítás",
-    "Amortizációs kölcsön",
-    "Halasztott fizetésű kölcsön",
-    "Előre meghatározott összegű kölcsön",
-    "Futóteljesítmény-kalkulátor: Gyors versenytempó-követő",
-    "Maximalizálja versenyzési stratégiáját a klassz futóteljesítmény-számító eszközzel. Azonnal kövesse nyomon az időt és növelje teljesítményét",
-    "Futóteljesítmény-kalkulátor: Pontos távolságkövető",
-    "Tegye hatékonyabbá edzését a klassz futóteljesítmény-számító eszközzel. Könnyen mérje a távolságot a futási siker eléréséhez",
-    "Tartalomjegyzék",
-    "Legfrissebb hírek",
-    "Olvass tovább",
-    "Ugrás ide",
-    "Következő",
-    "Előző",
-    "Oldal",
-    "-ból",
-    "Kapcsolódó cikkek",
-    "Népszerű kalkulátorok",
-    "Próbáld ki most",
-    "Nézd meg az összes hasznos cikket - naponta frissítve"
-]
+{
+    "trans": [
+        "Új számítás",
+        "Amortizációs kölcsön",
+        "Halasztott fizetésű kölcsön",
+        "Előre meghatározott összegű kölcsön",
+        "Futóteljesítmény-kalkulátor: Gyors versenytempó-követő",
+        "Maximalizálja versenyzési stratégiáját a klassz futóteljesítmény-számító eszközzel. Azonnal kövesse nyomon az időt és növelje teljesítményét",
+        "Futóteljesítmény-kalkulátor: Pontos távolságkövető",
+        "Tegye hatékonyabbá edzését a klassz futóteljesítmény-számító eszközzel. Könnyen mérje a távolságot a futási siker eléréséhez",
+        "Tartalomjegyzék",
+        "Legfrissebb hírek",
+        "Olvass tovább",
+        "Ugrás ide",
+        "Következő",
+        "Előző",
+        "Oldal",
+        "-ból",
+        "Kapcsolódó cikkek",
+        "Népszerű kalkulátorok",
+        "Próbáld ki most",
+        "Nézd meg az összes hasznos cikket - naponta frissítve"
+    ]
+}

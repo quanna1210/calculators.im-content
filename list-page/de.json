@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Fahrzeug-Abschreibungsrechner",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Fahrzeug-Abschreibungsrechner Kostenlos - Wertschätzer",
+        "meta_description": "Berechnen Sie den Marktwert Ihres Fahrzeugs sofort! Kostenloser Abschreibungsrechner für Autos, LKWs, SUVs und Motorräder. Echtzeit-Ergebnisse mit Teilen.",
+        "meta_keyword": "fahrzeug abschreibungsrechner, auto abschreibungsrechner, automobil abschreibungsrechner, fahrzeug rechner kostenlos, fahrzeug wertrechner, auto wertrechner, abschreibungsrechner online, fahrzeug marktwert, auto marktwert, automobil wertschätzer, fahrzeug abschreibungsrate, auto abschreibungsrate, abschreibungstool, fahrzeug rechner online, auto rechner online, fahrzeug abschreibungsrechner kostenlos online, auto abschreibungsrechner mit laufleistung, fahrzeug abschreibungsrechner nach alter, fahrzeug abschreibung sofort berechnen, automobil abschreibungsrechner kostenloses tool, fahrzeug wertschätzer mit teilen funktion, auto marktwert rechner echtzeit, automobil abschreibungsraten rechner mehrere währungen, auto wert online kostenlos berechnen, fahrzeug bewertungsrechner tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

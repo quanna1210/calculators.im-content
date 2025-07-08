@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Calculator Deprecierea Vehiculelor",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculator Deprecierea Vehiculelor Gratuit - Evaluator",
+        "meta_description": "Calculați valoarea de piață a vehiculului dvs. instant! Calculator de depreciere gratuit pentru mașini, camioane, SUV-uri și motociclete. Rezultate în timp real.",
+        "meta_keyword": "calculator deprecierea vehiculelor, calculator deprecierea mașinilor, calculator deprecierea automobilelor, calculator vehicule gratuit, calculator valoare vehicule, calculator valoare mașini, calculator depreciere online, valoare piață vehicule, valoare piață mașini, estimator valoare automobile, rata deprecierii vehiculelor, rata deprecierii mașinilor, instrument depreciere, calculator vehicule online, calculator mașini online, calculator deprecierea vehiculelor gratuit online, calculator deprecierea mașinilor cu kilometraj, calculator deprecierea vehiculelor după vârstă, calculați deprecierea vehiculelor instant, instrument calculator depreciere automobile gratuit, estimator valoare vehicule cu funcție partajare, calculator valoare piață mașini timp real, calculator rata deprecierii automobile multiple valute, calculați valoarea mașinii online gratuit, instrument calculator evaluare vehicule",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

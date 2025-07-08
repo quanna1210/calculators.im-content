@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Voertuig Afschrijving Calculator",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Voertuig Afschrijving Calculator Gratis - Waardeschatting",
+        "meta_description": "Bereken de marktwaarde van uw voertuig direct! Gratis afschrijvingscalculator voor auto's, vrachtwagens, SUV's en motoren. Real-time resultaten met delen.",
+        "meta_keyword": "voertuig afschrijving calculator, auto afschrijving calculator, automobiel afschrijving calculator, voertuig calculator gratis, voertuig waarde calculator, auto waarde calculator, afschrijving calculator online, voertuig marktwaarde, auto marktwaarde, automobiel waarde schatter, voertuig afschrijvingspercentage, auto afschrijvingspercentage, afschrijving tool, voertuig calculator online, auto calculator online, voertuig afschrijving calculator gratis online, auto afschrijving calculator met kilometerstand, voertuig afschrijving calculator op leeftijd, voertuig afschrijving direct berekenen, automobiel afschrijving calculator gratis tool, voertuig waarde schatter met deel functie, auto marktwaarde calculator real-time, automobiel afschrijvingspercentage calculator meerdere valuta's, auto waarde online gratis berekenen, voertuig waardering calculator tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

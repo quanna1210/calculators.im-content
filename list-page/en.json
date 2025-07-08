@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Vehicle Depreciation Calculator",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Free Vehicle Depreciation Calculator - Car Value Estimator",
+        "meta_description": "Calculate your vehicle's current market value instantly! Free depreciation calculator for cars, trucks, SUVs & motorcycles. Real-time results with share feature.",
+        "meta_keyword": "vehicle depreciation calculator, car depreciation calculator, auto depreciation calculator, free vehicle calculator, vehicle value calculator, car value calculator, depreciation calculator online, vehicle market value, car market value, auto value estimator, vehicle depreciation rate, car depreciation rate, depreciation tool, vehicle calculator online, car calculator online, free vehicle depreciation calculator online, car depreciation calculator with mileage, vehicle depreciation calculator by age, calculate vehicle depreciation instantly, auto depreciation calculator free tool, vehicle value estimator with share feature, car market value calculator real time, auto depreciation rate calculator multiple currencies, calculate car worth online free, vehicle appraisal calculator tool",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

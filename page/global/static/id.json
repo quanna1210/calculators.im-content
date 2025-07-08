@@ -1,22 +1,24 @@
-[
-    "Kalkulasi Baru",
-    "Pinjaman Amortisasi",
-    "Pinjaman Pembayaran Tertunda",
-    "Pinjaman Jumlah Tetap",
-    "Kalkulator Kecepatan Lari: Pelacak Waktu Balapan Cepat",
-    "Maksimalkan strategi balapan Anda dengan alat kalkulasi kecepatan lari kami yang keren. Lacak waktu secara instan dan tingkatkan performa Anda",
-    "Kalkulator Kecepatan Lari: Pelacak Jarak Presisi",
-    "Tingkatkan latihan Anda dengan alat kalkulasi kecepatan lari kami yang keren. Ukur jarak dengan mudah untuk mencapai keberhasilan lari",
-    "Daftar Isi",
-    "Berita Terbaru",
-    "Baca lebih lanjut",
-    "Kunjungi",
-    "Berikutnya",
-    "Sebelumnya",
-    "Halaman",
-    "dari",
-    "Artikel Terkait",
-    "Kalkulator Populer",
-    "Coba Sekarang",
-    "Lihat semua artikel bermanfaat - diperbarui setiap hari"
-]
+{
+    "trans": [
+        "Kalkulasi Baru",
+        "Pinjaman Amortisasi",
+        "Pinjaman Pembayaran Tertunda",
+        "Pinjaman Jumlah Tetap",
+        "Kalkulator Kecepatan Lari: Pelacak Waktu Balapan Cepat",
+        "Maksimalkan strategi balapan Anda dengan alat kalkulasi kecepatan lari kami yang keren. Lacak waktu secara instan dan tingkatkan performa Anda",
+        "Kalkulator Kecepatan Lari: Pelacak Jarak Presisi",
+        "Tingkatkan latihan Anda dengan alat kalkulasi kecepatan lari kami yang keren. Ukur jarak dengan mudah untuk mencapai keberhasilan lari",
+        "Daftar Isi",
+        "Berita Terbaru",
+        "Baca lebih lanjut",
+        "Kunjungi",
+        "Berikutnya",
+        "Sebelumnya",
+        "Halaman",
+        "dari",
+        "Artikel Terkait",
+        "Kalkulator Populer",
+        "Coba Sekarang",
+        "Lihat semua artikel bermanfaat - diperbarui setiap hari"
+    ]
+}

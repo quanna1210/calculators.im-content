@@ -1,22 +1,24 @@
-[
-    "Nowe obliczenia",
-    "Kredyt amortyzacyjny",
-    "Kredyt z odroczoną spłatą",
-    "Kredyt na z góry określoną kwotę",
-    "Kalkulator tempa biegu: Szybki tracker czasu wyścigu",
-    "Maksymalizuj swoją strategię wyścigu dzięki naszemu świetnemu narzędziu do obliczania tempa biegu. Śledź czas natychmiast i popraw swoje wyniki",
-    "Kalkulator tempa biegu: Precyzyjny tracker odległości",
-    "Ulepsz swój trening dzięki naszemu świetnemu narzędziu do obliczania tempa biegu. Łatwo zmierz odległość, aby osiągnąć sukces w bieganiu",
-    "Spis treści",
-    "Najnowsze wiadomości",
-    "Czytaj więcej",
-    "Przejdź do",
-    "Następny",
-    "Poprzedni",
-    "Strona",
-    "z",
-    "Powiązane artykuły",
-    "Popularne kalkulatory",
-    "Wypróbuj teraz",
-    "Zobacz wszystkie przydatne artykuły - aktualizowane codziennie"
-]
+{
+    "trans": [
+        "Nowe obliczenia",
+        "Kredyt amortyzacyjny",
+        "Kredyt z odroczoną spłatą",
+        "Kredyt na z góry określoną kwotę",
+        "Kalkulator tempa biegu: Szybki tracker czasu wyścigu",
+        "Maksymalizuj swoją strategię wyścigu dzięki naszemu świetnemu narzędziu do obliczania tempa biegu. Śledź czas natychmiast i popraw swoje wyniki",
+        "Kalkulator tempa biegu: Precyzyjny tracker odległości",
+        "Ulepsz swój trening dzięki naszemu świetnemu narzędziu do obliczania tempa biegu. Łatwo zmierz odległość, aby osiągnąć sukces w bieganiu",
+        "Spis treści",
+        "Najnowsze wiadomości",
+        "Czytaj więcej",
+        "Przejdź do",
+        "Następny",
+        "Poprzedni",
+        "Strona",
+        "z",
+        "Powiązane artykuły",
+        "Popularne kalkulatory",
+        "Wypróbuj teraz",
+        "Zobacz wszystkie przydatne artykuły - aktualizowane codziennie"
+    ]
+}

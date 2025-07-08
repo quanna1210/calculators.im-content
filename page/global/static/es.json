@@ -1,22 +1,24 @@
-[
-    "Cálculo nuevo",
-    "Préstamo de amortización",
-    "Préstamo con pago diferido",
-    "Préstamo de monto predeterminado",
-    "Calculadora de ritmo de carrera: Rastreador rápido de tiempo de carrera",
-    "Maximiza tu estrategia de carrera con nuestra genial herramienta de cálculo de ritmo de carrera. Rastrea el tiempo al instante y mejora tu rendimiento",
-    "Calculadora de ritmo de carrera: Rastreador preciso de distancia",
-    "Mejora tu entrenamiento con nuestra genial herramienta de cálculo de ritmo de carrera. Mide la distancia fácilmente para lograr el éxito en la carrera",
-    "Tabla de contenidos",
-    "Últimas noticias",
-    "Leer más",
-    "Ir a",
-    "Siguiente",
-    "Anterior",
-    "Página",
-    "de",
-    "Artículos relacionados",
-    "Calculadoras populares",
-    "Prueba ahora",
-    "Ver todos los artículos útiles - actualizados diariamente"
-]
+{
+    "trans": [
+        "Cálculo nuevo",
+        "Préstamo de amortización",
+        "Préstamo con pago diferido",
+        "Préstamo de monto predeterminado",
+        "Calculadora de ritmo de carrera: Rastreador rápido de tiempo de carrera",
+        "Maximiza tu estrategia de carrera con nuestra genial herramienta de cálculo de ritmo de carrera. Rastrea el tiempo al instante y mejora tu rendimiento",
+        "Calculadora de ritmo de carrera: Rastreador preciso de distancia",
+        "Mejora tu entrenamiento con nuestra genial herramienta de cálculo de ritmo de carrera. Mide la distancia fácilmente para lograr el éxito en la carrera",
+        "Tabla de contenidos",
+        "Últimas noticias",
+        "Leer más",
+        "Ir a",
+        "Siguiente",
+        "Anterior",
+        "Página",
+        "de",
+        "Artículos relacionados",
+        "Calculadoras populares",
+        "Prueba ahora",
+        "Ver todos los artículos útiles - actualizados diariamente"
+    ]
+}

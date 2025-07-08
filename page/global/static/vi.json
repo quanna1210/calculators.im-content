@@ -1,22 +1,24 @@
-[
-    "Tính toán mới",
-    "Khoản vay khấu hao",
-    "Khoản vay thanh toán hoãn",
-    "Khoản vay số tiền cố định",
-    "Máy tính tốc độ chạy: Theo dõi thời gian cuộc đua nhanh",
-    "Tối ưu hóa chiến lược cuộc đua của bạn với công cụ tính toán tốc độ chạy tuyệt vời của chúng tôi. Theo dõi thời gian ngay lập tức và nâng cao hiệu suất",
-    "Máy tính tốc độ chạy: Theo dõi khoảng cách chính xác",
-    "Nâng cao quá trình luyện tập của bạn với công cụ tính toán tốc độ chạy tuyệt vời của chúng tôi. Đo lường khoảng cách dễ dàng để đạt được thành công trong chạy bộ",
-    "Mục lục",
-    "Tin tức mới nhất",
-    "Đọc thêm",
-    "Đi đến",
-    "Tiếp theo",
-    "Trước đó",
-    "Trang",
-    "của",
-    "Bài viết liên quan",
-    "Máy tính phổ biến",
-    "Thử ngay",
-    "Xem tất cả bài viết hữu ích - cập nhật hàng ngày"
-]
+{
+    "trans": [
+        "Tính toán mới",
+        "Khoản vay khấu hao",
+        "Khoản vay thanh toán hoãn",
+        "Khoản vay số tiền cố định",
+        "Máy tính tốc độ chạy: Theo dõi thời gian cuộc đua nhanh",
+        "Tối ưu hóa chiến lược cuộc đua của bạn với công cụ tính toán tốc độ chạy tuyệt vời của chúng tôi. Theo dõi thời gian ngay lập tức và nâng cao hiệu suất",
+        "Máy tính tốc độ chạy: Theo dõi khoảng cách chính xác",
+        "Nâng cao quá trình luyện tập của bạn với công cụ tính toán tốc độ chạy tuyệt vời của chúng tôi. Đo lường khoảng cách dễ dàng để đạt được thành công trong chạy bộ",
+        "Mục lục",
+        "Tin tức mới nhất",
+        "Đọc thêm",
+        "Đi đến",
+        "Tiếp theo",
+        "Trước đó",
+        "Trang",
+        "của",
+        "Bài viết liên quan",
+        "Máy tính phổ biến",
+        "Thử ngay",
+        "Xem tất cả bài viết hữu ích - cập nhật hàng ngày"
+    ]
+}

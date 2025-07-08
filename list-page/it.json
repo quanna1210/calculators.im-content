@@ -946,5 +946,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Calcolatore Deprezzamento Veicoli",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Calcolatore Deprezzamento Veicoli Gratis - Stimatore",
+        "meta_description": "Calcola il valore di mercato del tuo veicolo istantaneamente! Calcolatore di deprezzamento gratuito per auto, camion, SUV e moto. Risultati in tempo reale.",
+        "meta_keyword": "calcolatore deprezzamento veicoli, calcolatore deprezzamento auto, calcolatore deprezzamento automobili, calcolatore veicoli gratuito, calcolatore valore veicoli, calcolatore valore auto, calcolatore deprezzamento online, valore mercato veicoli, valore mercato auto, stimatore valore automobili, tasso deprezzamento veicoli, tasso deprezzamento auto, strumento deprezzamento, calcolatore veicoli online, calcolatore auto online, calcolatore deprezzamento veicoli gratuito online, calcolatore deprezzamento auto con chilometraggio, calcolatore deprezzamento veicoli per età, calcolare deprezzamento veicoli istantaneamente, strumento calcolatore deprezzamento automobili gratuito, stimatore valore veicoli con funzione condivisione, calcolatore valore mercato auto tempo reale, calcolatore tasso deprezzamento automobili valute multiple, calcolare valore auto online gratuito, strumento calcolatore valutazione veicoli",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

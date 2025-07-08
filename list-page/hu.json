@@ -946,5 +946,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Járműértékcsökkenés Kalkulátor",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Járműértékcsökkenés Kalkulátor Ingyenes - Értékbecslő",
+        "meta_description": "Számítsa ki járműve piaci értékét azonnal! Ingyenes értékcsökkenési kalkulátor autókhoz, teherautókhoz, SUV-okhoz és motorokhoz. Valós idejű eredmények.",
+        "meta_keyword": "jármű értékcsökkenés kalkulátor, autó értékcsökkenés kalkulátor, automobil értékcsökkenés kalkulátor, jármű kalkulátor ingyenes, jármű érték kalkulátor, autó érték kalkulátor, értékcsökkenés kalkulátor online, jármű piaci érték, autó piaci érték, automobil érték becslő, jármű értékcsökkenési ráta, autó értékcsökkenési ráta, értékcsökkenés eszköz, jármű kalkulátor online, autó kalkulátor online, jármű értékcsökkenés kalkulátor ingyenes online, autó értékcsökkenés kalkulátor futásteljesítménnyel, jármű értékcsökkenés kalkulátor kor szerint, jármű értékcsökkenés azonnali számítás, automobil értékcsökkenés kalkulátor ingyenes eszköz, jármű érték becslő megosztás funkcióval, autó piaci érték kalkulátor valós időben, automobil értékcsökkenési ráta kalkulátor több valutával, autó érték online ingyenes számítás, jármű értékelés kalkulátor eszköz",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

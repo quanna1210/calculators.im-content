@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Kalkulačka Depreciace Vozidel",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulačka Depreciace Vozidel Zdarma - Odhad Hodnoty",
+        "meta_description": "Vypočítejte tržní hodnotu vašeho vozidla okamžitě! Bezplatná kalkulačka depreciace pro auta, nákladní auta, SUV a motocykly. Výsledky v reálném čase.",
+        "meta_keyword": "kalkulačka depreciace vozidel, kalkulačka depreciace aut, kalkulačka depreciace automobilů, bezplatná kalkulačka vozidel, kalkulačka hodnoty vozidel, kalkulačka hodnoty aut, kalkulačka depreciace online, tržní hodnota vozidel, tržní hodnota aut, odhad hodnoty automobilů, míra depreciace vozidel, míra depreciace aut, nástroj depreciace, kalkulačka vozidel online, kalkulačka aut online, bezplatná kalkulačka depreciace vozidel online, kalkulačka depreciace aut s kilometry, kalkulačka depreciace vozidel podle věku, výpočet depreciace vozidel okamžitě, bezplatný nástroj kalkulačky depreciace automobilů, odhad hodnoty vozidel s funkcí sdílení, kalkulačka tržní hodnoty aut v reálném čase, kalkulačka míry depreciace automobilů ve více měnách, výpočet hodnoty aut online zdarma, nástroj kalkulačky ocenění vozidel",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

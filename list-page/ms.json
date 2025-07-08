@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Kalkulator Susut Nilai Kenderaan",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Susut Nilai Kenderaan Percuma - Penilai Nilai",
+        "meta_description": "Kira nilai pasaran kenderaan anda dengan serta-merta! Kalkulator susut nilai percuma untuk kereta, lori, SUV & motosikal. Hasil masa nyata dengan ciri kongsi.",
+        "meta_keyword": "kalkulator susut nilai kenderaan, kalkulator susut nilai kereta, kalkulator susut nilai automotif, kalkulator kenderaan percuma, kalkulator nilai kenderaan, kalkulator nilai kereta, kalkulator susut nilai online, nilai pasaran kenderaan, nilai pasaran kereta, penaksir nilai automotif, kadar susut nilai kenderaan, kadar susut nilai kereta, alat susut nilai, kalkulator kenderaan online, kalkulator kereta online, kalkulator susut nilai kenderaan percuma online, kalkulator susut nilai kereta dengan perbatuan, kalkulator susut nilai kenderaan mengikut umur, kira susut nilai kenderaan segera, alat kalkulator susut nilai automotif percuma, penaksir nilai kenderaan dengan ciri kongsi, kalkulator nilai pasaran kereta masa nyata, kalkulator kadar susut nilai automotif pelbagai mata wang, kira nilai kereta online percuma, alat kalkulator penilaian kenderaan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

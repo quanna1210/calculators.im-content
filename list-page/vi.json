@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Máy Tính Khấu Hao Xe",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Máy Tính Khấu Hao Xe Miễn Phí - Định Giá Xe Ô Tô",
+        "meta_description": "Tính toán giá trị thị trường xe của bạn ngay lập tức! Máy tính khấu hao miễn phí cho ô tô, xe tải, SUV & xe máy. Kết quả real-time có tính năng chia sẻ.",
+        "meta_keyword": "máy tính khấu hao xe, máy tính khấu hao ô tô, máy tính khấu hao xe hơi, máy tính xe miễn phí, máy tính giá trị xe, máy tính giá xe ô tô, máy tính khấu hao online, giá trị thị trường xe, giá thị trường ô tô, ước tính giá trị xe, tỷ lệ khấu hao xe, tỷ lệ khấu hao ô tô, công cụ khấu hao, máy tính xe online, máy tính ô tô online, máy tính khấu hao xe miễn phí online, máy tính khấu hao ô tô theo km, máy tính khấu hao xe theo tuổi, tính khấu hao xe ngay lập tức, công cụ máy tính khấu hao ô tô miễn phí, ước tính giá trị xe có tính năng chia sẻ, máy tính giá thị trường ô tô thời gian thực, máy tính tỷ lệ khấu hao ô tô đa tiền tệ, tính giá xe online miễn phí, công cụ máy tính định giá xe",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

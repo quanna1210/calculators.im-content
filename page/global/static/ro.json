@@ -1,22 +1,24 @@
-[
-    "Calcul nou",
-    "Împrumut cu amortizare",
-    "Împrumut cu plată amânată",
-    "Împrumut cu sumă prestabilită",
-    "Calculator de ritm de alergare: Urmăritor rapid al timpului de cursă",
-    "Maximizează-ți strategia de cursă cu instrumentul nostru excelent de calcul al ritmului de alergare. Urmărește timpul instantaneu și îmbunătățește-ți performanța",
-    "Calculator de ritm de alergare: Urmăritor precis al distanței",
-    "Îmbunătățește-ți antrenamentul cu instrumentul nostru excelent de calcul al ritmului de alergare. Măsoară distanța cu ușurință pentru a obține succes în alergare",
-    "Cuprins",
-    "Ultimele știri",
-    "Citește mai mult",
-    "Mergi la",
-    "Următor",
-    "Anterior",
-    "Pagină",
-    "din",
-    "Articole conexe",
-    "Calculatoare populare",
-    "Încearcă acum",
-    "Vezi toate articolele utile - actualizate zilnic"
-]
+{
+    "trans": [
+        "Calcul nou",
+        "Împrumut cu amortizare",
+        "Împrumut cu plată amânată",
+        "Împrumut cu sumă prestabilită",
+        "Calculator de ritm de alergare: Urmăritor rapid al timpului de cursă",
+        "Maximizează-ți strategia de cursă cu instrumentul nostru excelent de calcul al ritmului de alergare. Urmărește timpul instantaneu și îmbunătățește-ți performanța",
+        "Calculator de ritm de alergare: Urmăritor precis al distanței",
+        "Îmbunătățește-ți antrenamentul cu instrumentul nostru excelent de calcul al ritmului de alergare. Măsoară distanța cu ușurință pentru a obține succes în alergare",
+        "Cuprins",
+        "Ultimele știri",
+        "Citește mai mult",
+        "Mergi la",
+        "Următor",
+        "Anterior",
+        "Pagină",
+        "din",
+        "Articole conexe",
+        "Calculatoare populare",
+        "Încearcă acum",
+        "Vezi toate articolele utile - actualizate zilnic"
+    ]
+}

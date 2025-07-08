@@ -1,22 +1,24 @@
-[
-    "Neue Berechnung",
-    "Amortisationsdarlehen",
-    "Darlehen mit aufgeschobener Zahlung",
-    "Darlehen mit festgelegtem Betrag",
-    "Lauftempo-Rechner: Schneller Rennzeit-Tracker",
-    "Maximieren Sie Ihre Rennstrategie mit unserem coolen Lauftempo-Berechnungstool. Verfolgen Sie die Zeit sofort und steigern Sie Ihre Leistung",
-    "Lauftempo-Rechner: Präziser Distanz-Tracker",
-    "Verbessern Sie Ihr Training mit unserem coolen Lauftempo-Berechnungstool. Messen Sie die Distanz einfach, um Lauferfolg zu erzielen",
-    "Inhaltsverzeichnis",
-    "Neueste Nachrichten",
-    "Mehr lesen",
-    "Gehe zu",
-    "Nächste",
-    "Vorherige",
-    "Seite",
-    "von",
-    "Verwandte Artikel",
-    "Beliebte Rechner",
-    "Jetzt ausprobieren",
-    "Alle nützlichen Artikel anzeigen - täglich aktualisiert"
-]
+{
+    "trans": [
+        "Neue Berechnung",
+        "Amortisationsdarlehen",
+        "Darlehen mit aufgeschobener Zahlung",
+        "Darlehen mit festgelegtem Betrag",
+        "Lauftempo-Rechner: Schneller Rennzeit-Tracker",
+        "Maximieren Sie Ihre Rennstrategie mit unserem coolen Lauftempo-Berechnungstool. Verfolgen Sie die Zeit sofort und steigern Sie Ihre Leistung",
+        "Lauftempo-Rechner: Präziser Distanz-Tracker",
+        "Verbessern Sie Ihr Training mit unserem coolen Lauftempo-Berechnungstool. Messen Sie die Distanz einfach, um Lauferfolg zu erzielen",
+        "Inhaltsverzeichnis",
+        "Neueste Nachrichten",
+        "Mehr lesen",
+        "Gehe zu",
+        "Nächste",
+        "Vorherige",
+        "Seite",
+        "von",
+        "Verwandte Artikel",
+        "Beliebte Rechner",
+        "Jetzt ausprobieren",
+        "Alle nützlichen Artikel anzeigen - täglich aktualisiert"
+    ]
+}

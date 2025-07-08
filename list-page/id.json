@@ -946,5 +946,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Kalkulator Depresiasi Kendaraan",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Depresiasi Kendaraan Gratis - Estimator Nilai",
+        "meta_description": "Hitung nilai pasar kendaraan Anda secara instan! Kalkulator depresiasi gratis untuk mobil, truk, SUV & motor. Hasil real-time dengan fitur berbagi.",
+        "meta_keyword": "kalkulator depresiasi kendaraan, kalkulator depresiasi mobil, kalkulator depresiasi otomotif, kalkulator kendaraan gratis, kalkulator nilai kendaraan, kalkulator nilai mobil, kalkulator depresiasi online, nilai pasar kendaraan, nilai pasar mobil, estimator nilai otomotif, tingkat depresiasi kendaraan, tingkat depresiasi mobil, alat depresiasi, kalkulator kendaraan online, kalkulator mobil online, kalkulator depresiasi kendaraan gratis online, kalkulator depresiasi mobil dengan kilometer, kalkulator depresiasi kendaraan berdasarkan umur, hitung depresiasi kendaraan instan, alat kalkulator depresiasi otomotif gratis, estimator nilai kendaraan dengan fitur berbagi, kalkulator nilai pasar mobil real time, kalkulator tingkat depresiasi otomotif multi mata uang, hitung nilai mobil online gratis, alat kalkulator penilaian kendaraan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

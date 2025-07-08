@@ -1,22 +1,24 @@
-[
-    "Nouveau calcul",
-    "Prêt amortissable",
-    "Prêt à paiement différé",
-    "Prêt à montant prédéterminé",
-    "Calculateur de rythme de course : Suivi rapide du temps de course",
-    "Maximisez votre stratégie de course avec notre outil de calcul de rythme de course génial. Suivez le temps instantanément et améliorez vos performances",
-    "Calculateur de rythme de course : Suivi précis de la distance",
-    "Améliorez votre entraînement avec notre outil de calcul de rythme de course génial. Mesurez facilement la distance pour atteindre le succès en course",
-    "Tableau des matières",
-    "Dernières nouvelles",
-    "Lire plus",
-    "Aller à",
-    "Suivant",
-    "Précédent",
-    "Page",
-    "de",
-    "Articles connexes",
-    "Calculateurs populaires",
-    "Essayer maintenant",
-    "Voir tous les articles utiles - mis à jour quotidiennement"
-]
+{
+    "trans": [
+        "Nouveau calcul",
+        "Prêt amortissable",
+        "Prêt à paiement différé",
+        "Prêt à montant prédéterminé",
+        "Calculateur de rythme de course : Suivi rapide du temps de course",
+        "Maximisez votre stratégie de course avec notre outil de calcul de rythme de course génial. Suivez le temps instantanément et améliorez vos performances",
+        "Calculateur de rythme de course : Suivi précis de la distance",
+        "Améliorez votre entraînement avec notre outil de calcul de rythme de course génial. Mesurez facilement la distance pour atteindre le succès en course",
+        "Tableau des matières",
+        "Dernières nouvelles",
+        "Lire plus",
+        "Aller à",
+        "Suivant",
+        "Précédent",
+        "Page",
+        "de",
+        "Articles connexes",
+        "Calculateurs populaires",
+        "Essayer maintenant",
+        "Voir tous les articles utiles - mis à jour quotidiennement"
+    ]
+}

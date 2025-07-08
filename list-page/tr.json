@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Araç Amortisman Hesaplayıcısı",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Araç Amortisman Hesaplayıcısı Ücretsiz - Değer Takdiri",
+        "meta_description": "Aracınızın piyasa değerini anında hesaplayın! Arabalar, kamyonlar, SUV'lar ve motosikletler için ücretsiz amortisman hesaplayıcısı. Gerçek zamanlı sonuçlar.",
+        "meta_keyword": "araç amortisman hesaplayıcısı, araba amortisman hesaplayıcısı, otomobil amortisman hesaplayıcısı, araç hesaplayıcı ücretsiz, araç değer hesaplayıcısı, araba değer hesaplayıcısı, amortisman hesaplayıcı çevrimiçi, araç piyasa değeri, araba piyasa değeri, otomobil değer tahmincisi, araç amortisman oranı, araba amortisman oranı, amortisman aracı, araç hesaplayıcı çevrimiçi, araba hesaplayıcı çevrimiçi, araç amortisman hesaplayıcısı ücretsiz çevrimiçi, araba amortisman hesaplayıcısı kilometre ile, araç amortisman hesaplayıcısı yaşa göre, araç amortismanını anında hesapla, otomobil amortisman hesaplayıcısı ücretsiz araç, araç değer tahmincisi paylaşım özellikli, araba piyasa değeri hesaplayıcısı gerçek zamanlı, otomobil amortisman oranı hesaplayıcısı çoklu para birimi, araba değerini çevrimiçi ücretsiz hesapla, araç değerlendirme hesaplayıcısı aracı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -945,5 +945,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Kalkulator Amortyzacji Pojazdów",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Kalkulator Amortyzacji Pojazdów Darmowy - Wycena Aut",
+        "meta_description": "Oblicz wartość rynkową pojazdu natychmiast! Darmowy kalkulator amortyzacji dla aut, ciężarówek, SUV-ów i motocykli. Wyniki w czasie rzeczywistym z udostępnianiem.",
+        "meta_keyword": "kalkulator amortyzacji pojazdów, kalkulator amortyzacji samochodów, kalkulator amortyzacji aut, kalkulator pojazdów darmowy, kalkulator wartości pojazdów, kalkulator wartości samochodów, kalkulator amortyzacji online, wartość rynkowa pojazdów, wartość rynkowa samochodów, szacowanie wartości aut, stopa amortyzacji pojazdów, stopa amortyzacji samochodów, narzędzie amortyzacji, kalkulator pojazdów online, kalkulator samochodów online, kalkulator amortyzacji pojazdów darmowy online, kalkulator amortyzacji samochodów z przebiegiem, kalkulator amortyzacji pojazdów według wieku, oblicz amortyzację pojazdów natychmiast, narzędzie kalkulatora amortyzacji aut darmowe, szacowanie wartości pojazdów z funkcją udostępniania, kalkulator wartości rynkowej samochodów w czasie rzeczywistym, kalkulator stopy amortyzacji aut wielowalutowy, oblicz wartość samochodu online za darmo, narzędzie kalkulatora wyceny pojazdów",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -946,5 +946,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "75",
+        "thumb": "https://static.calculators.im/upload/thumb/vehicle-depreciation-calculator.jpg",
+        "title": "Calculateur de Dépréciation Véhicule",
+        "slug": "vehicle-depreciation-calculator",
+        "parent_id": "65",
+        "meta_title": "Calculateur Dépréciation Véhicule Gratuit - Estimateur",
+        "meta_description": "Calculez la valeur marchande de votre véhicule instantanément ! Calculateur de dépréciation gratuit pour voitures, camions, SUV et motos. Résultats temps réel.",
+        "meta_keyword": "calculateur dépréciation véhicule, calculateur dépréciation voiture, calculateur dépréciation automobile, calculateur véhicule gratuit, calculateur valeur véhicule, calculateur valeur voiture, calculateur dépréciation en ligne, valeur marchande véhicule, valeur marchande voiture, estimateur valeur automobile, taux dépréciation véhicule, taux dépréciation voiture, outil dépréciation, calculateur véhicule en ligne, calculateur voiture en ligne, calculateur dépréciation véhicule gratuit en ligne, calculateur dépréciation voiture avec kilométrage, calculateur dépréciation véhicule par âge, calculer dépréciation véhicule instantanément, outil calculateur dépréciation automobile gratuit, estimateur valeur véhicule avec fonction partage, calculateur valeur marchande voiture temps réel, calculateur taux dépréciation automobile multi devises, calculer valeur voiture en ligne gratuit, outil calculateur évaluation véhicule",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
