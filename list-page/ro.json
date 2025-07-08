@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Calculator Matrice",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculator Matrice Online Gratuit - Instrument Mat",
+        "meta_description": "Calculator de matrice online gratuit pentru adunare, scădere, înmulțire, transpusa și determinant. Rezultate instantanee cu soluții pas cu pas. Partajare ușoară!",
+        "meta_keyword": "calculator matrice, soluționator matrice, calculator matrice online gratuit, calculator adunare matrice, calculator înmulțire matrice, calculator determinant, calculator transpusa matrice, calculator algebră liniară, operații matrice online, instrument matematic matrice, calculator matrice cu pași, calculator scădere matrice, calculator matrice pentru studenți, rezultate matrice instantanee, instrument matrice profesional, calculator partajare matrice, soluționator matrice pas cu pas, calculator matematic online, soluționator algebră liniară, instrument calcul matrice, calculator matrice gratuit online, căutător determinant matrice, instrument transpusa matrice, calculator aritmetică matrice",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

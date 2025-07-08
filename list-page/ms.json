@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Kalkulator Matriks",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Matriks Online Percuma - Alat Matematik",
+        "meta_description": "Kalkulator matriks online percuma untuk tambah, tolak, darab, transpose & penentu. Hasil segera dengan penyelesaian langkah demi langkah. Kongsi mudah!",
+        "meta_keyword": "kalkulator matriks, penyelesai matriks, kalkulator matriks online percuma, kalkulator penambahan matriks, kalkulator pendaraban matriks, kalkulator penentu, kalkulator transpose matriks, kalkulator algebra linear, operasi matriks online, alat matematik matriks, kalkulator matriks dengan langkah, kalkulator penolakan matriks, kalkulator matriks untuk pelajar, keputusan matriks segera, alat matriks profesional, kalkulator perkongsian matriks, penyelesai matriks langkah demi langkah, kalkulator matematik online, penyelesai algebra linear, alat pengiraan matriks, kalkulator matriks percuma online, pencari penentu matriks, alat transpose matriks, kalkulator aritmetik matriks",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

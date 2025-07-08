@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Matrix Rechner",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Matrix Rechner Online Kostenlos - Mathematik Tool",
+        "meta_description": "Kostenloser Online-Matrix-Rechner für Addition, Subtraktion, Multiplikation, Transposition und Determinante. Sofortige Ergebnisse mit Schritt-für-Schritt-Lösungen. Einfach teilen!",
+        "meta_keyword": "matrix rechner, matrix löser, matrix rechner online kostenlos, matrix addition rechner, matrix multiplikation rechner, determinanten rechner, matrix transposition rechner, lineare algebra rechner, matrix operationen online, mathematik matrix tool, matrix rechner mit schritten, matrix subtraktion rechner, matrix rechner für studenten, sofortige matrix ergebnisse, professionelles matrix tool, matrix teilen rechner, matrix löser schritt für schritt, online mathematik rechner, lineare algebra löser, matrix berechnung tool, matrix rechner kostenlos online, matrix determinanten finder, matrix transpositions tool, matrix arithmetik rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

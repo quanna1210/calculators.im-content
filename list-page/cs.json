@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Kalkulačka Matic",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulačka Matic Online Zdarma - Matematický Nástroj",
+        "meta_description": "Bezplatná online kalkulačka matic pro sčítání, odčítání, násobení, transpozici a determinant. Okamžité výsledky s řešením krok za krokem. Snadné sdílení!",
+        "meta_keyword": "kalkulačka matic, řešič matic, kalkulačka matic online zdarma, kalkulačka sčítání matic, kalkulačka násobení matic, kalkulačka determinantu, kalkulačka transpozice matic, kalkulačka lineární algebry, operace s maticemi online, matematický nástroj matic, kalkulačka matic s kroky, kalkulačka odčítání matic, kalkulačka matic pro studenty, okamžité výsledky matic, profesionální nástroj matic, kalkulačka sdílení matic, řešič matic krok za krokem, online matematická kalkulačka, řešič lineární algebry, nástroj pro výpočet matic, kalkulačka matic zdarma online, hledač determinantu matic, nástroj transpozice matic, kalkulačka aritmetiky matic",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

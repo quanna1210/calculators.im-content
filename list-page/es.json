@@ -972,5 +972,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Calculadora de Matrices",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Matrices Online Gratis - Herramienta Math",
+        "meta_description": "Calculadora de matrices online gratis para suma, resta, multiplicación, transpuesta y determinante. Resultados instantáneos con soluciones paso a paso. ¡Comparte fácil!",
+        "meta_keyword": "calculadora de matrices, solucionador de matrices, calculadora de matrices online gratis, calculadora suma de matrices, calculadora multiplicación de matrices, calculadora determinante, calculadora transpuesta de matrices, calculadora álgebra lineal, operaciones matrices online, herramienta matemática matrices, calculadora matrices con pasos, calculadora resta de matrices, calculadora matrices para estudiantes, resultados matrices instantáneos, herramienta matrices profesional, calculadora compartir matrices, solucionador matrices paso a paso, calculadora matemática online, solucionador álgebra lineal, herramienta cálculo matrices, calculadora matrices gratis online, buscador determinante matrices, herramienta transpuesta matrices, calculadora aritmética matrices",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

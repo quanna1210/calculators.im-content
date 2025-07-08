@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Matris Hesap Makinesi",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Matris Hesap Makinesi Online Ücretsiz - Matematik Araç",
+        "meta_description": "Toplama, çıkarma, çarpma, transpoz ve determinant için ücretsiz online matris hesap makinesi. Adım adım çözümlerle anında sonuçlar. Kolay paylaşım!",
+        "meta_keyword": "matris hesap makinesi, matris çözücü, matris hesap makinesi online ücretsiz, matris toplama hesap makinesi, matris çarpma hesap makinesi, determinant hesap makinesi, matris transpoz hesap makinesi, lineer cebir hesap makinesi, matris işlemleri online, matematik matris aracı, adımlı matris hesap makinesi, matris çıkarma hesap makinesi, öğrenciler için matris hesap makinesi, anında matris sonuçları, profesyonel matris aracı, matris paylaşım hesap makinesi, adım adım matris çözücü, online matematik hesap makinesi, lineer cebir çözücü, matris hesaplama aracı, ücretsiz online matris hesap makinesi, matris determinant bulucu, matris transpoz aracı, matris aritmetik hesap makinesi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Máy Tính Ma Trận",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Máy Tính Ma Trận Online Miễn Phí - Công Cụ Toán",
+        "meta_description": "Máy tính ma trận online miễn phí cho cộng, trừ, nhân, chuyển vị & định thức. Kết quả tức thì với giải pháp từng bước. Chia sẻ dễ dàng!",
+        "meta_keyword": "máy tính ma trận, giải ma trận, máy tính ma trận online miễn phí, máy tính cộng ma trận, máy tính nhân ma trận, máy tính định thức, máy tính chuyển vị ma trận, máy tính đại số tuyến tính, phép toán ma trận online, công cụ toán ma trận, máy tính ma trận có bước, máy tính trừ ma trận, máy tính ma trận cho học sinh, kết quả ma trận tức thì, công cụ ma trận chuyên nghiệp, máy tính chia sẻ ma trận, giải ma trận từng bước, máy tính toán online, giải đại số tuyến tính, công cụ tính ma trận, máy tính ma trận miễn phí online, tìm định thức ma trận, công cụ chuyển vị ma trận, máy tính số học ma trận",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

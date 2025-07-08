@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Matrix Calculator",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Matrix Calculator - Free Online Math Tool & Solver",
+        "meta_description": "Free online matrix calculator for addition, subtraction, multiplication, transpose & determinant. Instant results with step-by-step solutions. Share calculations easily!",
+        "meta_keyword": "matrix calculator, matrix solver, free online matrix calculator, matrix addition calculator, matrix multiplication calculator, determinant calculator, transpose matrix calculator, linear algebra calculator, matrix operations online, matrix math tool, matrix calculator with steps, matrix subtraction calculator, matrix calculator for students, instant matrix results, professional matrix tool, matrix sharing calculator, step by step matrix solver, online math calculator, linear algebra solver, matrix calculation tool, free matrix calculator online, matrix determinant finder, matrix transpose tool, matrix arithmetic calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

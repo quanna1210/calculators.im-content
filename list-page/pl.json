@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Kalkulator Macierzy",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Macierzy Online Za Darmo - Narzędzie Mat",
+        "meta_description": "Darmowy kalkulator macierzy online do dodawania, odejmowania, mnożenia, transpozycji i wyznacznika. Natychmiastowe wyniki z rozwiązaniami krok po kroku. Łatwe udostępnianie!",
+        "meta_keyword": "kalkulator macierzy, solver macierzy, kalkulator macierzy online za darmo, kalkulator dodawania macierzy, kalkulator mnożenia macierzy, kalkulator wyznacznika, kalkulator transpozycji macierzy, kalkulator algebry liniowej, operacje macierzy online, narzędzie matematyczne macierzy, kalkulator macierzy z krokami, kalkulator odejmowania macierzy, kalkulator macierzy dla studentów, natychmiastowe wyniki macierzy, profesjonalne narzędzie macierzy, kalkulator udostępniania macierzy, solver macierzy krok po kroku, kalkulator matematyczny online, solver algebry liniowej, narzędzie obliczania macierzy, kalkulator macierzy za darmo online, wyszukiwacz wyznacznika macierzy, narzędzie transpozycji macierzy, kalkulator arytmetyki macierzy",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -971,5 +971,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Matrix Calculator",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Matrix Calculator Online Gratis - Wiskundig Gereedschap",
+        "meta_description": "Gratis online matrix calculator voor optelling, aftrekking, vermenigvuldiging, transpositie en determinant. Directe resultaten met stap-voor-stap oplossingen. Gemakkelijk delen!",
+        "meta_keyword": "matrix calculator, matrix oplosser, matrix calculator online gratis, matrix optelling calculator, matrix vermenigvuldiging calculator, determinant calculator, matrix transpositie calculator, lineaire algebra calculator, matrix bewerkingen online, wiskundig matrix gereedschap, matrix calculator met stappen, matrix aftrekking calculator, matrix calculator voor studenten, directe matrix resultaten, professioneel matrix gereedschap, matrix delen calculator, matrix oplosser stap-voor-stap, online wiskundige calculator, lineaire algebra oplosser, matrix berekening gereedschap, matrix calculator gratis online, matrix determinant zoeker, matrix transpositie gereedschap, matrix rekenkunde calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

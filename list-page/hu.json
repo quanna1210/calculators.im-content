@@ -972,5 +972,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "77",
+        "thumb": "https://static.calculators.im/upload/thumb/matrix-calculator.jpg",
+        "title": "Mátrix Számológép",
+        "slug": "matrix-calculator",
+        "parent_id": "10",
+        "meta_title": "Mátrix Számológép Online Ingyen - Matematikai Eszköz",
+        "meta_description": "Ingyenes online mátrix számológép összeadáshoz, kivonáshoz, szorzáshoz, transzponáláshoz és determinánshoz. Azonnali eredmények lépésről lépésre megoldásokkal. Könnyű megosztás!",
+        "meta_keyword": "mátrix számológép, mátrix megoldó, mátrix számológép online ingyen, mátrix összeadás számológép, mátrix szorzás számológép, determináns számológép, mátrix transzponálás számológép, lineáris algebra számológép, mátrix műveletek online, matematikai mátrix eszköz, mátrix számológép lépésekkel, mátrix kivonás számológép, mátrix számológép diákoknak, azonnali mátrix eredmények, professzionális mátrix eszköz, mátrix megosztás számológép, mátrix megoldó lépésről lépésre, online matematikai számológép, lineáris algebra megoldó, mátrix számítás eszköz, mátrix számológép ingyen online, mátrix determináns kereső, mátrix transzponálás eszköz, mátrix aritmetika számológép",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
