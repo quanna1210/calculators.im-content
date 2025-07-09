@@ -985,5 +985,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Komplex Számok Kalkulátor",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Komplex Számok Kalkulátor - Ingyenes Online Eszköz",
+        "meta_description": "Ingyenes komplex számok kalkulátor összeadáshoz, kivonáshoz, szorzáshoz, osztáshoz és többhöz. Támogatja a téglalap és poláris formákat.",
+        "meta_keyword": "komplex számok kalkulátor, komplex kalkulátor, képzetes számok kalkulátor, matematikai komplex kalkulátor, ingyenes komplex kalkulátor, online komplex számok eszköz, komplex számok műveletek, téglalap forma kalkulátor, poláris forma kalkulátor, komplex aritmetika kalkulátor, komplex számok konverter, tudományos komplex kalkulátor, komplex számok megoldó, komplex konjugált kalkulátor, komplex számok kiszámítása online, komplex számok összeadás kalkulátor, komplex számok szorzás, komplex számok osztás kalkulátor, poláris téglalap konverter, téglalap poláris konverter, komplex számok nagyság kalkulátor, komplex számok szög kalkulátor, villamosmérnöki kalkulátor, mérnöki komplex kalkulátor, egyetemi matematika kalkulátor, diák komplex kalkulátor, ingyenes online matematika eszközök, komplex számok képlet kalkulátor, komplex sík kalkulátor, AC áramkör kalkulátor, impedancia kalkulátor, komplex elemzés kalkulátor, fejlett matematika kalkulátor, tudományos matematika kalkulátor, online matematika kalkulátor, fejlett kalkulátor ingyenes, komplex számok számítás, mérnöki matematika kalkulátor, komplex számok grafika, ingyenes online kalkulátor, matematika kalkulátor eszközök, online tudományos kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

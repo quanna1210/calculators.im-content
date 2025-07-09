@@ -985,5 +985,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Calculatrice de Nombres Complexes",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculatrice Nombres Complexes - Outil Gratuit",
+        "meta_description": "Calculatrice gratuite de nombres complexes pour addition, soustraction, multiplication, division et plus. Supporte formes rectangulaires et polaires.",
+        "meta_keyword": "calculatrice nombres complexes, calculatrice complexe, calculatrice nombres imaginaires, calculatrice mathématique complexe, calculatrice complexe gratuite, outil nombres complexes en ligne, opérations nombres complexes, calculatrice forme rectangulaire, calculatrice forme polaire, calculatrice arithmétique complexe, convertisseur nombres complexes, calculatrice complexe scientifique, solveur nombres complexes, calculatrice conjugué complexe, calculer nombres complexes en ligne, calculatrice addition nombres complexes, multiplication nombres complexes, calculatrice division nombres complexes, convertisseur polaire vers rectangulaire, convertisseur rectangulaire vers polaire, calculatrice magnitude nombres complexes, calculatrice angle nombres complexes, calculatrice ingénierie électrique, calculatrice complexe ingénierie, calculatrice mathématique universitaire, calculatrice complexe étudiants, outils mathématiques gratuits en ligne, calculatrice formules nombres complexes, calculatrice plan complexe, calculatrice circuit AC, calculatrice impédance, calculatrice analyse complexe, calculatrice mathématique avancée, calculatrice mathématique scientifique, calculatrice mathématique en ligne, calculatrice avancée gratuite, calcul nombres complexes, calculatrice mathématique ingénierie, graphique nombres complexes, calculatrice gratuite en ligne, outils calculatrice mathématique, calculatrice scientifique en ligne",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Karmaşık Sayı Hesaplayıcısı",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Karmaşık Sayı Hesaplayıcısı - Ücretsiz Online Araç",
+        "meta_description": "Toplama, çıkarma, çarpma, bölme ve daha fazlası için ücretsiz karmaşık sayı hesaplayıcısı. Dikdörtgen ve kutupsal formları destekler.",
+        "meta_keyword": "karmaşık sayı hesaplayıcısı, karmaşık hesaplayıcı, sanal sayı hesaplayıcısı, matematiksel karmaşık hesaplayıcı, ücretsiz karmaşık hesaplayıcı, online karmaşık sayı aracı, karmaşık sayı işlemleri, dikdörtgen form hesaplayıcısı, kutupsal form hesaplayıcısı, karmaşık aritmetik hesaplayıcısı, karmaşık sayı dönüştürücüü, bilimsel karmaşık hesaplayıcı, karmaşık sayı çözücü, karmaşık eşlenik hesaplayıcısı, karmaşık sayıları online hesapla, karmaşık sayı toplama hesaplayıcısı, karmaşık sayı çarpımı, karmaşık sayı bölme hesaplayıcısı, kutupsal dikdörtgene dönüştürücü, dikdörtgen kutupsala dönüştürücü, karmaşık sayı büyüklük hesaplayıcısı, karmaşık sayı açı hesaplayıcısı, elektrik mühendisliği hesaplayıcısı, mühendislik karmaşık hesaplayıcı, üniversite matematik hesaplayıcısı, öğrenci karmaşık hesaplayıcı, ücretsiz online matematik araçları, karmaşık sayı formül hesaplayıcısı, karmaşık düzlem hesaplayıcısı, AC devre hesaplayıcısı, empedans hesaplayıcısı, karmaşık analiz hesaplayıcısı, gelişmiş matematik hesaplayıcısı, bilimsel matematik hesaplayıcısı, online matematik hesaplayıcısı, gelişmiş hesaplayıcı ücretsiz, karmaşık sayı hesaplama, mühendislik matematik hesaplayıcısı, karmaşık sayı grafiği, ücretsiz online hesaplayıcı, matematik hesaplayıcı araçları, online bilimsel hesaplayıcı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

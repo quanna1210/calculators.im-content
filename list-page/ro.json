@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Calculator Numere Complexe",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculator Numere Complexe - Instrument Gratuit",
+        "meta_description": "Calculator gratuit numere complexe pentru adunare, scădere, înmulțire, împărțire și mai mult. Suportă forme dreptunghiulare și polare.",
+        "meta_keyword": "calculator numere complexe, calculator complex, calculator numere imaginare, calculator matematic complex, calculator complex gratuit, instrument numere complexe online, operații numere complexe, calculator formă dreptunghiulară, calculator formă polară, calculator aritmetică complexă, convertor numere complexe, calculator complex științific, rezolvator numere complexe, calculator conjugat complex, calculare numere complexe online, calculator adunare numere complexe, înmulțire numere complexe, calculator împărțire numere complexe, convertor polar în dreptunghiular, convertor dreptunghiular în polar, calculator magnitudine numere complexe, calculator unghi numere complexe, calculator inginerie electrică, calculator complex inginerie, calculator matematică universitară, calculator complex studenți, instrumente matematică gratuite online, calculator formule numere complexe, calculator plan complex, calculator circuit AC, calculator impedanță, calculator analiză complexă, calculator matematică avansată, calculator matematică științifică, calculator matematică online, calculator avansat gratuit, calcul numere complexe, calculator matematică inginerie, grafic numere complexe, calculator gratuit online, instrumente calculator matematică, calculator științific online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

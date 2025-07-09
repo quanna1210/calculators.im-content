@@ -985,5 +985,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Kalkulator Bilangan Kompleks",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Bilangan Kompleks - Tool Online Gratis",
+        "meta_description": "Kalkulator bilangan kompleks gratis untuk penjumlahan, pengurangan, perkalian, pembagian & lainnya. Mendukung bentuk persegi panjang & polar.",
+        "meta_keyword": "kalkulator bilangan kompleks, kalkulator kompleks, kalkulator bilangan imajiner, kalkulator matematika kompleks, kalkulator kompleks gratis, tool bilangan kompleks online, operasi bilangan kompleks, kalkulator bentuk persegi panjang, kalkulator bentuk polar, kalkulator aritmatika kompleks, konverter bilangan kompleks, kalkulator kompleks ilmiah, pemecah bilangan kompleks, kalkulator konjugat kompleks, hitung bilangan kompleks online, kalkulator penjumlahan bilangan kompleks, perkalian bilangan kompleks, kalkulator pembagian bilangan kompleks, konverter polar ke persegi panjang, konverter persegi panjang ke polar, kalkulator magnitudo bilangan kompleks, kalkulator sudut bilangan kompleks, kalkulator teknik elektro, kalkulator kompleks teknik, kalkulator matematika universitas, kalkulator kompleks mahasiswa, tool matematika gratis online, kalkulator rumus bilangan kompleks, kalkulator bidang kompleks, kalkulator sirkuit AC, kalkulator impedansi, kalkulator analisis kompleks, kalkulator matematika lanjutan, kalkulator matematika ilmiah, kalkulator matematika online, kalkulator lanjutan gratis, komputasi bilangan kompleks, kalkulator matematika teknik, grafik bilangan kompleks, kalkulator gratis online, tool kalkulator matematika, kalkulator ilmiah online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

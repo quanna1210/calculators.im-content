@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Kalkulator Liczb Zespolonych",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Liczb Zespolonych - Darmowe Narzędzie",
+        "meta_description": "Darmowy kalkulator liczb zespolonych do dodawania, odejmowania, mnożenia, dzielenia i więcej. Obsługuje formy prostokątne i biegunowe.",
+        "meta_keyword": "kalkulator liczb zespolonych, kalkulator zespolony, kalkulator liczb urojonych, matematyczny kalkulator zespolony, darmowy kalkulator zespolony, narzędzie liczb zespolonych online, operacje liczb zespolonych, kalkulator formy prostokątnej, kalkulator formy biegunowej, kalkulator arytmetyki zespolonej, konwerter liczb zespolonych, naukowy kalkulator zespolony, rozwiązywacz liczb zespolonych, kalkulator sprzężenia zespolonego, obliczanie liczb zespolonych online, kalkulator dodawania liczb zespolonych, mnożenie liczb zespolonych, kalkulator dzielenia liczb zespolonych, konwerter biegunowy na prostokątny, konwerter prostokątny na biegunowy, kalkulator modułu liczb zespolonych, kalkulator argumentu liczb zespolonych, kalkulator elektrotechniki, inżynierski kalkulator zespolony, uniwersytecki kalkulator matematyczny, studencki kalkulator zespolony, darmowe narzędzia matematyczne online, kalkulator wzorów liczb zespolonych, kalkulator płaszczyzny zespolonej, kalkulator obwodu AC, kalkulator impedancji, kalkulator analizy zespolonej, zaawansowany kalkulator matematyczny, naukowy kalkulator matematyczny, kalkulator matematyczny online, zaawansowany kalkulator darmowy, obliczenia liczb zespolonych, inżynierski kalkulator matematyczny, wykres liczb zespolonych, darmowy kalkulator online, narzędzia kalkulatora matematycznego, naukowy kalkulator online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

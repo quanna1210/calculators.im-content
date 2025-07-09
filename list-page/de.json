@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Komplexe Zahlen Rechner",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Komplexe Zahlen Rechner - Kostenloses Online Tool",
+        "meta_description": "Kostenloser komplexer Zahlenrechner für Addition, Subtraktion, Multiplikation, Division & mehr. Unterstützt rechteckige & polare Formen.",
+        "meta_keyword": "komplexe zahlen rechner, komplexer rechner, imaginäre zahlen rechner, mathematischer komplexer rechner, kostenloser komplexer rechner, online komplexe zahlen tool, komplexe zahlen operationen, rechteckige form rechner, polare form rechner, komplexe arithmetik rechner, komplexe zahlen konverter, wissenschaftlicher komplexer rechner, komplexe zahlen löser, komplexe konjugation rechner, komplexe zahlen online berechnen, komplexe zahlen addition rechner, komplexe zahlen multiplikation, komplexe zahlen division rechner, polar zu rechteckig konverter, rechteckig zu polar konverter, komplexe zahlen betrag rechner, komplexe zahlen winkel rechner, elektrotechnik rechner, komplexer technik rechner, universitäts mathematik rechner, studenten komplexer rechner, kostenlose online mathematik tools, komplexe zahlen formel rechner, komplexe ebene rechner, AC schaltkreis rechner, impedanz rechner, komplexe analyse rechner, erweiterte mathematik rechner, wissenschaftliche mathematik rechner, online mathematik rechner, erweiterte rechner kostenlos, komplexe zahlen berechnung, technik mathematik rechner, komplexe zahlen grafik, kostenloser online rechner, mathematik rechner tools, online wissenschaftlicher rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

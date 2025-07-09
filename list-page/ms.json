@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Kalkulator Nombor Kompleks",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Nombor Kompleks - Alat Online Percuma",
+        "meta_description": "Kalkulator nombor kompleks percuma untuk penambahan, penolakan, pendaraban, pembahagian & lain. Menyokong bentuk segi empat & kutub.",
+        "meta_keyword": "kalkulator nombor kompleks, kalkulator kompleks, kalkulator nombor khayalan, kalkulator matematik kompleks, kalkulator kompleks percuma, alat nombor kompleks online, operasi nombor kompleks, kalkulator bentuk segi empat, kalkulator bentuk kutub, kalkulator aritmetik kompleks, penukar nombor kompleks, kalkulator kompleks saintifik, penyelesai nombor kompleks, kalkulator konjugat kompleks, kira nombor kompleks online, kalkulator penambahan nombor kompleks, pendaraban nombor kompleks, kalkulator pembahagian nombor kompleks, penukar kutub ke segi empat, penukar segi empat ke kutub, kalkulator magnitud nombor kompleks, kalkulator sudut nombor kompleks, kalkulator kejuruteraan elektrik, kalkulator kompleks kejuruteraan, kalkulator matematik universiti, kalkulator kompleks pelajar, alat matematik percuma online, kalkulator formula nombor kompleks, kalkulator satah kompleks, kalkulator litar AC, kalkulator impedans, kalkulator analisis kompleks, kalkulator matematik lanjutan, kalkulator matematik saintifik, kalkulator matematik online, kalkulator lanjutan percuma, pengkomputeran nombor kompleks, kalkulator matematik kejuruteraan, graf nombor kompleks, kalkulator percuma online, alat kalkulator matematik, kalkulator saintifik online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

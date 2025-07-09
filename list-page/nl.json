@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Complexe Getallen Calculator",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Complexe Getallen Calculator - Gratis Online Tool",
+        "meta_description": "Gratis complexe getallen calculator voor optelling, aftrekking, vermenigvuldiging, deling & meer. Ondersteunt rechthoekige & polaire vormen.",
+        "meta_keyword": "complexe getallen calculator, complexe calculator, imaginaire getallen calculator, wiskundige complexe calculator, gratis complexe calculator, online complexe getallen tool, complexe getallen bewerkingen, rechthoekige vorm calculator, polaire vorm calculator, complexe rekenkunde calculator, complexe getallen omzetter, wetenschappelijke complexe calculator, complexe getallen oplosser, complexe geconjugeerde calculator, complexe getallen online berekenen, complexe getallen optelling calculator, complexe getallen vermenigvuldiging, complexe getallen deling calculator, polair naar rechthoekig omzetter, rechthoekig naar polair omzetter, complexe getallen grootte calculator, complexe getallen hoek calculator, elektrotechniek calculator, technische complexe calculator, universitaire wiskunde calculator, studenten complexe calculator, gratis online wiskunde tools, complexe getallen formule calculator, complexe vlak calculator, AC circuit calculator, impedantie calculator, complexe analyse calculator, geavanceerde wiskunde calculator, wetenschappelijke wiskunde calculator, online wiskunde calculator, geavanceerde calculator gratis, complexe getallen berekening, technische wiskunde calculator, complexe getallen grafiek, gratis online calculator, wiskunde calculator tools, online wetenschappelijke calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

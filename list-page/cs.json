@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Kalkulačka Komplexních Čísel",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulačka Komplexních Čísel - Online Nástroj Zdarma",
+        "meta_description": "Kalkulačka komplexních čísel zdarma pro sčítání, odčítání, násobení, dělení a více. Podporuje pravoúhlé a polární tvary s funkcemi sdílení.",
+        "meta_keyword": "kalkulačka komplexních čísel, kalkulačka komplexních, kalkulačka imaginárních čísel, matematická kalkulačka komplexních, kalkulačka komplexních zdarma, online nástroj komplexních čísel, operace komplexních čísel, kalkulačka pravoúhlého tvaru, kalkulačka polárního tvaru, kalkulačka komplexní aritmetiky, převodník komplexních čísel, vědecká kalkulačka komplexních, řešič komplexních čísel, kalkulačka komplexní konjugace, vypočítat komplexní čísla online, kalkulačka sčítání komplexních čísel, násobení komplexních čísel, kalkulačka dělení komplexních čísel, převodník polární na pravoúhlý, převodník pravoúhlý na polární, kalkulačka velikosti komplexních čísel, kalkulačka úhlu komplexních čísel, kalkulačka elektrotechniky, technická kalkulačka komplexních, univerzitní matematická kalkulačka, studentská kalkulačka komplexních, bezplatné online matematické nástroje, kalkulačka vzorců komplexních čísel, kalkulačka komplexní roviny, kalkulačka AC obvodu, kalkulačka impedance, kalkulačka komplexní analýzy, pokročilá matematická kalkulačka, vědecká matematická kalkulačka, online matematická kalkulačka, pokročilá kalkulačka zdarma, výpočet komplexních čísel, technická matematická kalkulačka, graf komplexních čísel, kalkulačka zdarma online, nástroje matematické kalkulačky, online vědecká kalkulačka",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

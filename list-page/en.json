@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Complex Number Calculator",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Complex Number Calculator - Free Online Tool | Math",
+        "meta_description": "Free complex number calculator for addition, subtraction, multiplication, division & more. Supports rectangular & polar forms with sharing features.",
+        "meta_keyword": "complex number calculator, complex calculator, imaginary number calculator, math complex calculator, free complex calculator, online complex number tool, complex number operations, rectangular form calculator, polar form calculator, complex arithmetic calculator, complex number converter, scientific complex calculator, complex number solver, complex conjugate calculator, calculate complex numbers online, complex number addition calculator, complex number multiplication, complex number division calculator, polar to rectangular converter, rectangular to polar converter, complex number magnitude calculator, complex number angle calculator, electrical engineering calculator, engineering calculator complex, university math calculator, student complex calculator, free online math tools, complex number formula calculator, complex plane calculator, AC circuit calculator, impedance calculator, complex analysis calculator, advanced math calculator, scientific math calculator, mathematical calculator online, advanced calculator free, complex number computation, engineering math calculator, complex number graphing, free calculator online, math calculator tools, online scientific calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -985,5 +985,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Calcolatrice Numeri Complessi",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Calcolatrice Numeri Complessi - Strumento Gratuito",
+        "meta_description": "Calcolatrice gratuita numeri complessi per addizione, sottrazione, moltiplicazione, divisione e altro. Supporta forme rettangolari e polari.",
+        "meta_keyword": "calcolatrice numeri complessi, calcolatrice complessa, calcolatrice numeri immaginari, calcolatrice matematica complessa, calcolatrice complessa gratuita, strumento numeri complessi online, operazioni numeri complessi, calcolatrice forma rettangolare, calcolatrice forma polare, calcolatrice aritmetica complessa, convertitore numeri complessi, calcolatrice complessa scientifica, risolutore numeri complessi, calcolatrice coniugato complesso, calcolare numeri complessi online, calcolatrice addizione numeri complessi, moltiplicazione numeri complessi, calcolatrice divisione numeri complessi, convertitore polare a rettangolare, convertitore rettangolare a polare, calcolatrice magnitudine numeri complessi, calcolatrice angolo numeri complessi, calcolatrice ingegneria elettrica, calcolatrice complessa ingegneria, calcolatrice matematica universitaria, calcolatrice complessa studenti, strumenti matematica gratuiti online, calcolatrice formule numeri complessi, calcolatrice piano complesso, calcolatrice circuito AC, calcolatrice impedenza, calcolatrice analisi complessa, calcolatrice matematica avanzata, calcolatrice matematica scientifica, calcolatrice matematica online, calcolatrice avanzata gratuita, computazione numeri complessi, calcolatrice matematica ingegneria, grafico numeri complessi, calcolatrice gratuita online, strumenti calcolatrice matematica, calcolatrice scientifica online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

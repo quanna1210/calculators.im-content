@@ -985,5 +985,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Calculadora de Números Complejos",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Números Complejos - Herramienta Gratis",
+        "meta_description": "Calculadora gratuita de números complejos para suma, resta, multiplicación, división y más. Soporta formas rectangulares y polares con funciones.",
+        "meta_keyword": "calculadora números complejos, calculadora compleja, calculadora números imaginarios, calculadora matemática compleja, calculadora compleja gratis, herramienta números complejos online, operaciones números complejos, calculadora forma rectangular, calculadora forma polar, calculadora aritmética compleja, convertidor números complejos, calculadora compleja científica, solucionador números complejos, calculadora conjugado complejo, calcular números complejos online, calculadora suma números complejos, multiplicación números complejos, calculadora división números complejos, convertidor polar a rectangular, convertidor rectangular a polar, calculadora magnitud números complejos, calculadora ángulo números complejos, calculadora ingeniería eléctrica, calculadora compleja ingeniería, calculadora matemática universitaria, calculadora compleja estudiantes, herramientas matemáticas gratis online, calculadora fórmulas números complejos, calculadora plano complejo, calculadora circuito AC, calculadora impedancia, calculadora análisis complejo, calculadora matemática avanzada, calculadora matemática científica, calculadora matemática online, calculadora avanzada gratis, computación números complejos, calculadora matemática ingeniería, gráfico números complejos, calculadora gratis online, herramientas calculadora matemática, calculadora científica online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

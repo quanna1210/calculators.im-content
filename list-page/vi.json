@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Máy Tính Số Phức",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Máy Tính Số Phức - Công Cụ Online Miễn Phí",
+        "meta_description": "Máy tính số phức miễn phí cho phép cộng, trừ, nhân, chia & nhiều hơn. Hỗ trợ dạng hình chữ nhật & cực với tính năng chia sẻ.",
+        "meta_keyword": "máy tính số phức, máy tính phức, máy tính số ảo, máy tính toán học phức, máy tính phức miễn phí, công cụ số phức online, phép toán số phức, máy tính dạng hình chữ nhật, máy tính dạng cực, máy tính số học phức, chuyển đổi số phức, máy tính phức khoa học, giải số phức, máy tính liên hợp phức, tính số phức online, máy tính cộng số phức, nhân số phức, máy tính chia số phức, chuyển đổi cực sang hình chữ nhật, chuyển đổi hình chữ nhật sang cực, máy tính độ lớn số phức, máy tính góc số phức, máy tính kỹ thuật điện, máy tính phức kỹ thuật, máy tính toán đại học, máy tính phức sinh viên, công cụ toán miễn phí online, máy tính công thức số phức, máy tính mặt phẳng phức, máy tính mạch AC, máy tính trở kháng, máy tính phân tích phức, máy tính toán nâng cao, máy tính toán khoa học, máy tính toán online, máy tính nâng cao miễn phí, tính toán số phức, máy tính toán kỹ thuật, đồ thị số phức, máy tính miễn phí online, công cụ máy tính toán, máy tính khoa học online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

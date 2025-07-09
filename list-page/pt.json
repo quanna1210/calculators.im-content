@@ -984,5 +984,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "78",
+        "thumb": "https://static.calculators.im/upload/thumb/complex-number-calculator.jpg",
+        "title": "Calculadora de Números Complexos",
+        "slug": "complex-number-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Números Complexos - Ferramenta Grátis",
+        "meta_description": "Calculadora gratuita de números complexos para adição, subtração, multiplicação, divisão e mais. Suporta formas retangulares e polares.",
+        "meta_keyword": "calculadora números complexos, calculadora complexa, calculadora números imaginários, calculadora matemática complexa, calculadora complexa grátis, ferramenta números complexos online, operações números complexos, calculadora forma retangular, calculadora forma polar, calculadora aritmética complexa, conversor números complexos, calculadora complexa científica, solucionador números complexos, calculadora conjugado complexo, calcular números complexos online, calculadora adição números complexos, multiplicação números complexos, calculadora divisão números complexos, conversor polar para retangular, conversor retangular para polar, calculadora magnitude números complexos, calculadora ângulo números complexos, calculadora engenharia elétrica, calculadora complexa engenharia, calculadora matemática universitária, calculadora complexa estudantes, ferramentas matemática grátis online, calculadora fórmulas números complexos, calculadora plano complexo, calculadora circuito AC, calculadora impedância, calculadora análise complexa, calculadora matemática avançada, calculadora matemática científica, calculadora matemática online, calculadora avançada grátis, computação números complexos, calculadora matemática engenharia, gráfico números complexos, calculadora grátis online, ferramentas calculadora matemática, calculadora científica online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
