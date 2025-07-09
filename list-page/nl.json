@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Boolean Algebra Calculator",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Boolean Algebra Calculator - Waarheidstabel & Logica",
+        "meta_description": "Gratis boolean algebra calculator met waarheidstabel generator. Evalueer AND, OR, NOT, XOR uitdrukkingen direct. Deel berekeningen online.",
+        "meta_keyword": "boolean algebra calculator, waarheidstabel generator, logica calculator, boolean uitdrukking evaluator, AND OR NOT calculator, XOR calculator, boolean logica tool, digitale logica calculator, propositionele logica, boolean wiskunde, logische poort calculator, binaire logica, boolean vereenvoudiging, discrete wiskunde tool, informatica calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

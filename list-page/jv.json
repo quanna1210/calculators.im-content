@@ -998,5 +998,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Kalkulator Aljabar Boolean",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Aljabar Boolean - Tabel Bebener & Logika",
+        "meta_description": "Kalkulator aljabar boolean gratis karo generator tabel bebener. Evaluasi ekspresi AND, OR, NOT, XOR langsung. Enggo bareng itungan online.",
+        "meta_keyword": "kalkulator aljabar boolean, generator tabel bebener, kalkulator logika, evaluator ekspresi boolean, kalkulator AND OR NOT, kalkulator XOR, alat logika boolean, kalkulator logika digital, logika proposisional, matematika boolean, kalkulator gerbang logika, logika biner, penyederhanaan boolean, alat matematika diskrit, kalkulator ilmu komputer",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

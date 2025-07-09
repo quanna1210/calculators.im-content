@@ -998,5 +998,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Calculadora de Álgebra Booleana",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Álgebra Booleana - Tabla Verdad & Lógica",
+        "meta_description": "Calculadora de álgebra booleana gratis con generador de tablas de verdad. Evalúa expresiones AND, OR, NOT, XOR al instante. Comparte cálculos online.",
+        "meta_keyword": "calculadora álgebra booleana, generador tabla de verdad, calculadora lógica, evaluador expresiones booleanas, calculadora AND OR NOT, calculadora XOR, herramienta lógica booleana, calculadora lógica digital, lógica proposicional, matemáticas booleanas, calculadora puertas lógicas, lógica binaria, simplificación booleana, herramienta matemáticas discretas, calculadora ciencias computación",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

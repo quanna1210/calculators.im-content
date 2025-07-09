@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "ブール代数計算機",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "ブール代数計算機 - 真理値表と論理ツール",
+        "meta_description": "真理値表ジェネレータ付きの無料ブール代数計算機。AND、OR、NOT、XOR式を瞬時に評価します。オンラインで計算を共有しましょう。",
+        "meta_keyword": "ブール代数計算機, 真理値表ジェネレータ, 論理計算機, ブール式評価器, AND OR NOT計算機, XOR計算機, ブール論理ツール, デジタル論理計算機, 命題論理, ブール数学, 論理ゲート計算機, 二進論理, ブール簡略化, 離散数学ツール, コンピュータサイエンス計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Kalkulator Algebry Boole'a",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Algebry Boole'a - Tabela Prawdy & Logika",
+        "meta_description": "Darmowy kalkulator algebry Boole'a z generatorem tabel prawdy. Obliczaj wyrażenia AND, OR, NOT, XOR natychmiast. Udostępniaj obliczenia online.",
+        "meta_keyword": "kalkulator algebry boole, generator tabeli prawdy, kalkulator logiki, ewaluator wyrażeń boolowskich, kalkulator AND OR NOT, kalkulator XOR, narzędzie logiki boolowskiej, kalkulator logiki cyfrowej, logika zdaniowa, matematyka boolowska, kalkulator bramek logicznych, logika binarna, uproszczenie boolowskie, narzędzie matematyki dyskretnej, kalkulator informatyki",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

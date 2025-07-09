@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Máy Tính Đại Số Boolean",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Máy Tính Đại Số Boolean - Bảng Chân Trị & Logic",
+        "meta_description": "Máy tính đại số boolean miễn phí với bộ tạo bảng chân trị. Tính toán biểu thức AND, OR, NOT, XOR ngay lập tức. Chia sẻ phép tính trực tuyến.",
+        "meta_keyword": "máy tính đại số boolean, bộ tạo bảng chân trị, máy tính logic, đánh giá biểu thức boolean, máy tính AND OR NOT, máy tính XOR, công cụ logic boolean, máy tính logic số, logic mệnh đề, toán học boolean, máy tính cổng logic, logic nhị phân, đơn giản hóa boolean, công cụ toán rời rạc, máy tính khoa học máy tính",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

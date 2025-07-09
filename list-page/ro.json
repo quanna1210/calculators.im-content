@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Calculator Algebră Booleană",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculator Algebră Booleană - Tabel Adevăr & Logică",
+        "meta_description": "Calculator algebră booleană gratuit cu generator tabele de adevăr. Evaluează expresii AND, OR, NOT, XOR instant. Partajează calculele online.",
+        "meta_keyword": "calculator algebră booleană, generator tabel adevăr, calculator logică, evaluator expresii boolene, calculator AND OR NOT, calculator XOR, instrument logică booleană, calculator logică digitală, logică propoziționala, matematică booleană, calculator porți logice, logică binară, simplificare booleană, instrument matematică discretă, calculator informatică",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

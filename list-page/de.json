@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Boolesche Algebra Rechner",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Boolesche Algebra Rechner - Wahrheitstabelle & Logik",
+        "meta_description": "Kostenloser boolescher Algebra-Rechner mit Wahrheitstabellen-Generator. Bewerten Sie AND, OR, NOT, XOR Ausdrücke sofort. Berechnungen online teilen.",
+        "meta_keyword": "boolesche algebra rechner, wahrheitstabellen generator, logik rechner, boolesche ausdrücke bewerten, AND OR NOT rechner, XOR rechner, boolesche logik tool, digitale logik rechner, aussagenlogik, boolesche mathematik, logikgatter rechner, binäre logik, boolesche vereinfachung, diskrete mathematik tool, informatik rechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

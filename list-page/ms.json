@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Kalkulator Algebra Boolean",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Algebra Boolean - Jadual Kebenaran & Logik",
+        "meta_description": "Kalkulator algebra boolean percuma dengan penjana jadual kebenaran. Nilaikan ungkapan AND, OR, NOT, XOR serta-merta. Kongsi pengiraan online.",
+        "meta_keyword": "kalkulator algebra boolean, penjana jadual kebenaran, kalkulator logik, penilai ungkapan boolean, kalkulator AND OR NOT, kalkulator XOR, alat logik boolean, kalkulator logik digital, logik proposisi, matematik boolean, kalkulator get logik, logik binari, pemudahan boolean, alat matematik diskrit, kalkulator sains komputer",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

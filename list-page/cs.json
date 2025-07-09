@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Kalkulačka Booleovy Algebry",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulačka Booleovy Algebry - Pravdivostní Tabulka",
+        "meta_description": "Bezplatná kalkulačka booleovy algebry s generátorem pravdivostních tabulek. Vyhodnoťte výrazy AND, OR, NOT, XOR okamžitě. Sdílejte výpočty online.",
+        "meta_keyword": "kalkulačka booleovy algebry, generátor pravdivostní tabulky, kalkulačka logiky, vyhodnocovač booleovských výrazů, kalkulačka AND OR NOT, kalkulačka XOR, nástroj booleovy logiky, kalkulačka digitální logiky, výroková logika, booleovská matematika, kalkulačka logických hradel, binární logika, zjednodušení boolean, nástroj diskrétní matematiky, kalkulačka informatiky",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

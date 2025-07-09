@@ -998,5 +998,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Boolean Algebra Kalkulátor",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Boolean Algebra Kalkulátor - Igazságtáblázat & Logika",
+        "meta_description": "Ingyenes boolean algebra kalkulátor igazságtáblázat generátorral. Értékelje ki AND, OR, NOT, XOR kifejezéseket azonnal. Ossza meg számításait online.",
+        "meta_keyword": "boolean algebra kalkulátor, igazságtáblázat generátor, logika kalkulátor, boolean kifejezés értékelő, AND OR NOT kalkulátor, XOR kalkulátor, boolean logika eszköz, digitális logika kalkulátor, kijelentő logika, boolean matematika, logikai kapu kalkulátor, bináris logika, boolean egyszerűsítés, diszkrét matematika eszköz, informatika kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

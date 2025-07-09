@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Boolean Algebra Calculator",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Boolean Algebra Calculator - Truth Table & Logic Tool",
+        "meta_description": "Free Boolean algebra calculator with truth table generator. Evaluate AND, OR, NOT, XOR expressions instantly. Share calculations and view history online.",
+        "meta_keyword": "boolean algebra calculator, truth table generator, logic calculator, boolean expression evaluator, AND OR NOT calculator, XOR calculator, boolean logic tool, digital logic calculator, propositional logic, boolean mathematics, logic gate calculator, binary logic, boolean simplification, discrete mathematics tool, computer science calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

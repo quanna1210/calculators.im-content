@@ -998,5 +998,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "불린 대수 계산기",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "불린 대수 계산기 - 진리표 및 논리 도구",
+        "meta_description": "진리표 생성기가 있는 무료 불린 대수 계산기. AND, OR, NOT, XOR 표현식을 즉시 평가하세요. 온라인에서 계산을 공유하세요.",
+        "meta_keyword": "불린 대수 계산기, 진리표 생성기, 논리 계산기, 불린 표현식 평가기, AND OR NOT 계산기, XOR 계산기, 불린 논리 도구, 디지털 논리 계산기, 명제 논리, 불린 수학, 논리 게이트 계산기, 이진 논리, 불린 단순화, 이산 수학 도구, 컴퓨터 과학 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

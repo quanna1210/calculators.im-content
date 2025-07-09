@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Αριθμομηχανή Άλγεβρας Boolean",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Αριθμομηχανή Άλγεβρας Boolean - Πίνακας Αλήθειας",
+        "meta_description": "Δωρεάν αριθμομηχανή άλγεβρας Boolean με γεννήτρια πινάκων αλήθειας. Αξιολογήστε εκφράσεις AND, OR, NOT, XOR άμεσα. Μοιραστείτε υπολογισμούς online.",
+        "meta_keyword": "αριθμομηχανή άλγεβρας boolean, γεννήτρια πίνακα αλήθειας, αριθμομηχανή λογικής, αξιολογητής εκφράσεων boolean, αριθμομηχανή AND OR NOT, αριθμομηχανή XOR, εργαλείο λογικής boolean, αριθμομηχανή ψηφιακής λογικής, προτασιακή λογική, μαθηματικά boolean, αριθμομηχανή λογικών πυλών, δυαδική λογική, απλοποίηση boolean, εργαλείο διακριτών μαθηματικών, αριθμομηχανή επιστήμης υπολογιστών",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

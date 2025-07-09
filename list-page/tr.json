@@ -997,5 +997,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "79",
+        "thumb": "https://static.calculators.im/upload/thumb/boolean-algebra-calculator.jpg",
+        "title": "Boolean Cebir Hesaplayıcısı",
+        "slug": "boolean-algebra-calculator",
+        "parent_id": "10",
+        "meta_title": "Boolean Cebir Hesaplayıcısı - Doğruluk Tablosu & Mantık",
+        "meta_description": "Doğruluk tablosu üreticili ücretsiz boolean cebir hesaplayıcısı. AND, OR, NOT, XOR ifadelerini anında değerlendirin. Hesaplamaları online paylaşın.",
+        "meta_keyword": "boolean cebir hesaplayıcısı, doğruluk tablosu üretici, mantık hesaplayıcısı, boolean ifade değerlendirici, AND OR NOT hesaplayıcısı, XOR hesaplayıcısı, boolean mantık aracı, dijital mantık hesaplayıcısı, önerme mantığı, boolean matematik, mantık kapısı hesaplayıcısı, ikili mantık, boolean basitleştirme, ayrık matematik aracı, bilgisayar bilimi hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
