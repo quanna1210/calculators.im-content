@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Calculator de Integrale",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculator Integrale - Integrare Definită cu Pași",
+        "meta_description": "Calculator de integrale gratuit cu soluții pas cu pas. Calculează integrale definite folosind Regula Simpson, grafice interactive online.",
+        "meta_keyword": "calculator integrale, calculator integrare, calculator integrală definită, calculator regula simpson, calculator calcul, rezolvitor integrală, integrare numerică, calculator integrale pas cu pas, calculator integrale gratuit online, instrument integrare matematică, calculator integrale cu grafic, rezolvitor calcul, calculator integrare prin părți, calculator integrale arată munca, calculator matematic online, rezolvitor integrare definită, calculator integrale cu pași, calculator metoda simpson, calculator integrare calcul, rezolvitor matematic online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

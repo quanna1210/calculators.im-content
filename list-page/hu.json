@@ -1011,5 +1011,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Integrálszámító",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Integrálszámító - Határozott Integrálás Lépésekkel",
+        "meta_description": "Ingyenes integrálszámító lépésről lépésre megoldásokkal. Határozott integrálok számítása Simpson-szabállyal, interaktív grafikonok online.",
+        "meta_keyword": "integrálszámító, integrációs számító, határozott integrál számító, simpson szabály számító, analízis számító, integrál megoldó, numerikus integráció, integrálszámító lépésről lépésre, ingyenes integrálszámító online, matematikai integrációs eszköz, integrálszámító grafikonnal, analízis megoldó, részleges integrációs számító, integrálszámító munkát mutat, online matematikai számító, határozott integráció megoldó, integrálszámító lépésekkel, simpson módszer számító, analízis integráció számító, matematikai megoldó online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Kalkulator Kamiran",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Kamiran - Kamiran Tertentu dengan Langkah",
+        "meta_description": "Kalkulator kamiran percuma dengan penyelesaian langkah demi langkah. Kira kamiran tertentu menggunakan Peraturan Simpson, lihat graf interaktif.",
+        "meta_keyword": "kalkulator kamiran, kalkulator integrasi, kalkulator kamiran tertentu, kalkulator peraturan simpson, kalkulator kalkulus, penyelesai kamiran, integrasi berangka, kalkulator kamiran langkah demi langkah, kalkulator kamiran percuma online, alat integrasi matematik, kalkulator kamiran dengan graf, penyelesai kalkulus, kalkulator integrasi bahagian, kalkulator kamiran menunjukkan kerja, kalkulator matematik online, penyelesai integrasi tertentu, kalkulator kamiran dengan langkah, kalkulator kaedah simpson, kalkulator integrasi kalkulus, penyelesai matematik online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Máy Tính Tích Phân",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Máy Tính Tích Phân - Tích Phân Xác Định với Các Bước",
+        "meta_description": "Máy tính tích phân miễn phí với giải pháp từng bước. Tính tích phân xác định bằng Quy tắc Simpson, xem đồ thị tương tác và chia sẻ kết quả.",
+        "meta_keyword": "máy tính tích phân, máy tính tích phân xác định, máy tính quy tắc simpson, máy tính giải tích, giải tích phân, tích phân số, máy tính tích phân từng bước, máy tính tích phân miễn phí online, công cụ tích phân toán học, máy tính tích phân có đồ thị, giải giải tích, máy tính tích phân từng phần, máy tính tích phân hiển thị cách làm, máy tính toán học online, giải tích phân xác định, máy tính tích phân với các bước, máy tính phương pháp simpson, máy tính tích phân giải tích, giải toán học online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Kalkulačka Integrálů",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulačka Integrálů - Určité Integrály s Kroky",
+        "meta_description": "Bezplatná kalkulačka integrálů s řešením krok za krokem. Vypočítejte určité integrály pomocí Simpsonova pravidla, zobrazte interaktivní grafy.",
+        "meta_keyword": "kalkulačka integrálů, kalkulačka integrace, kalkulačka určitých integrálů, kalkulačka simpsonova pravidla, kalkulačka kalkulu, řešitel integrálů, numerická integrace, kalkulačka integrálů krok za krokem, bezplatná kalkulačka integrálů online, nástroj matematické integrace, kalkulačka integrálů s grafem, řešitel kalkulu, kalkulačka integrace po částech, kalkulačka integrálů ukazující práci, online matematická kalkulačka, řešitel určité integrace, kalkulačka integrálů s kroky, kalkulačka simpsonovy metody, kalkulačka integrace kalkulu, online matematický řešitel",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

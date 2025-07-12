@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Calculadora de Integrais",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculadora Integrais - Integração Definida com Passos",
+        "meta_description": "Calculadora de integrais grátis com soluções passo a passo. Calcule integrais definidas usando Regra de Simpson, gráficos interativos online.",
+        "meta_keyword": "calculadora integrais, calculadora integração, calculadora integral definida, calculadora regra simpson, calculadora cálculo, solucionador integral, integração numérica, calculadora integral passo a passo, calculadora integral grátis online, ferramenta integração matemática, calculadora integral com gráfico, solucionador cálculo, calculadora integração por partes, calculadora integral mostra trabalho, calculadora matemática online, solucionador integração definida, calculadora integral com passos, calculadora método simpson, calculadora integração cálculo, solucionador matemático online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

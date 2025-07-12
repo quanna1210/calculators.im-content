@@ -1011,5 +1011,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Calcolatore di Integrali",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Calcolatore Integrali - Integrazione Definita con Passi",
+        "meta_description": "Calcolatore di integrali gratuito con soluzioni passo dopo passo. Calcola integrali definiti usando Regola di Simpson, grafici interattivi online.",
+        "meta_keyword": "calcolatore integrali, calcolatore integrazione, calcolatore integrale definito, calcolatore regola simpson, calcolatore calcolo, risolutore integrale, integrazione numerica, calcolatore integrale passo dopo passo, calcolatore integrale gratuito online, strumento integrazione matematica, calcolatore integrale con grafico, risolutore calcolo, calcolatore integrazione per parti, calcolatore integrale mostra lavoro, calcolatore matematica online, risolutore integrazione definita, calcolatore integrale con passi, calcolatore metodo simpson, calcolatore integrazione calcolo, risolutore matematico online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

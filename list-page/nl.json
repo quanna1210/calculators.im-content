@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Integraalrekenmachine",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Integraalrekenmachine - Bepaalde Integratie met Stappen",
+        "meta_description": "Gratis integraalrekenmachine met stap-voor-stap oplossingen. Bereken bepaalde integralen met Simpson-regel, interactieve grafieken online.",
+        "meta_keyword": "integraalrekenmachine, integratierekenmachine, bepaalde integraal rekenmachine, simpson regel rekenmachine, calculus rekenmachine, integraal oplosser, numerieke integratie, integraalrekenmachine stap voor stap, gratis integraalrekenmachine online, wiskundige integratietool, integraalrekenmachine met grafiek, calculus oplosser, integratie door delen rekenmachine, integraalrekenmachine toont werk, online wiskunde rekenmachine, bepaalde integratie oplosser, integraalrekenmachine met stappen, simpson methode rekenmachine, calculus integratie rekenmachine, wiskundige oplosser online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Integral Calculator",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Integral Calculator - Definite Integration with Steps | Free",
+        "meta_description": "Free integral calculator with step-by-step solutions. Calculate definite integrals using Simpson's Rule, view interactive graphs, and share results online.",
+        "meta_keyword": "integral calculator, integration calculator, definite integral calculator, Simpson's rule calculator, calculus calculator, integral solver, numerical integration, step by step integral calculator, free integral calculator online, mathematical integration tool, integral calculator with graph, calculus solver, integration by parts calculator, integral calculator showing work, online math calculator, definite integration solver, integral calculator with steps, Simpson's method calculator, calculus integration calculator, mathematical solver online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

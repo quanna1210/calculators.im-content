@@ -1011,5 +1011,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "적분 계산기",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "적분 계산기 - 단계별 정적분 계산",
+        "meta_description": "단계별 해결책이 있는 무료 적분 계산기. 심슨 법칙을 사용하여 정적분을 계산하고, 대화형 그래프를 온라인에서 확인하세요.",
+        "meta_keyword": "적분 계산기, 적분 계산기, 정적분 계산기, 심슨 법칙 계산기, 미적분 계산기, 적분 해결기, 수치 적분, 단계별 적분 계산기, 무료 온라인 적분 계산기, 수학적 적분 도구, 그래프가 있는 적분 계산기, 미적분 해결기, 부분 적분 계산기, 작업을 보여주는 적분 계산기, 온라인 수학 계산기, 정적분 해결기, 단계가 있는 적분 계산기, 심슨 방법 계산기, 미적분 적분 계산기, 온라인 수학 해결기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

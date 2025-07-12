@@ -1011,5 +1011,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Kalkulator Integral",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Integral - Integrasi Tartamtu karo Langkah",
+        "meta_description": "Kalkulator integral gratis karo solusi langkah-langkah. Ngitung integral tartamtu nganggo Aturan Simpson, ndeleng grafik interaktif online.",
+        "meta_keyword": "kalkulator integral, kalkulator integrasi, kalkulator integral tartamtu, kalkulator aturan simpson, kalkulator kalkulus, penyelesai integral, integrasi numerik, kalkulator integral langkah-langkah, kalkulator integral gratis online, alat integrasi matematika, kalkulator integral karo grafik, penyelesai kalkulus, kalkulator integrasi bagian, kalkulator integral nuduhake karya, kalkulator matematika online, penyelesai integrasi tartamtu, kalkulator integral karo langkah, kalkulator metode simpson, kalkulator integrasi kalkulus, penyelesai matematika online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

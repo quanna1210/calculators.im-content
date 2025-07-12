@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Integralrechner",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Integralrechner - Bestimmte Integration mit Schritten",
+        "meta_description": "Kostenloser Integralrechner mit Schritt-für-Schritt-Lösungen. Berechnen Sie bestimmte Integrale mit Simpson-Regel, interaktive Graphiken.",
+        "meta_keyword": "integralrechner, integrationsrechner, bestimmter integralrechner, simpson regel rechner, analysis rechner, integral löser, numerische integration, integralrechner schritt für schritt, kostenloser integralrechner online, mathematisches integrationstool, integralrechner mit graph, analysis löser, integration durch teile rechner, integralrechner zeigt arbeit, online mathematik rechner, bestimmte integration löser, integralrechner mit schritten, simpson methode rechner, analysis integration rechner, mathematischer löser online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

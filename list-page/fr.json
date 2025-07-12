@@ -1011,5 +1011,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Calculatrice d'Intégrales",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Calculatrice Intégrale - Intégration Définie avec Étapes",
+        "meta_description": "Calculatrice d'intégrales gratuite avec solutions étape par étape. Calculez intégrales définies avec Règle de Simpson, graphiques interactifs.",
+        "meta_keyword": "calculatrice intégrale, calculatrice intégration, calculatrice intégrale définie, calculatrice règle simpson, calculatrice calcul, solveur intégrale, intégration numérique, calculatrice intégrale étape par étape, calculatrice intégrale gratuite en ligne, outil intégration mathématique, calculatrice intégrale avec graphique, solveur calcul, calculatrice intégration par parties, calculatrice intégrale montrant travail, calculatrice mathématique en ligne, solveur intégration définie, calculatrice intégrale avec étapes, calculatrice méthode simpson, calculatrice intégration calcul, solveur mathématique en ligne",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

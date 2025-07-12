@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "İntegral Hesaplayıcısı",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "İntegral Hesaplayıcısı - Belirli İntegrasyon Adımlarla",
+        "meta_description": "Adım adım çözümlerle ücretsiz integral hesaplayıcısı. Simpson Kuralı kullanarak belirli integralleri hesaplayın, etkileşimli grafikler görün.",
+        "meta_keyword": "integral hesaplayıcısı, integrasyon hesaplayıcısı, belirli integral hesaplayıcısı, simpson kuralı hesaplayıcısı, kalkülüs hesaplayıcısı, integral çözücü, sayısal integrasyon, adım adım integral hesaplayıcısı, ücretsiz integral hesaplayıcısı online, matematiksel integrasyon aracı, grafikli integral hesaplayıcısı, kalkülüs çözücü, parçalı integrasyon hesaplayıcısı, çalışma gösteren integral hesaplayıcısı, online matematik hesaplayıcısı, belirli integrasyon çözücü, adımlı integral hesaplayıcısı, simpson yöntemi hesaplayıcısı, kalkülüs integrasyon hesaplayıcısı, online matematiksel çözücü",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

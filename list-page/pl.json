@@ -1010,5 +1010,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "80",
+        "thumb": "https://static.calculators.im/upload/thumb/integral-calculator.jpg",
+        "title": "Kalkulator Całek",
+        "slug": "integral-calculator",
+        "parent_id": "10",
+        "meta_title": "Kalkulator Całek - Całkowanie Oznaczone z Krokami",
+        "meta_description": "Darmowy kalkulator całek z rozwiązaniami krok po kroku. Oblicz całki oznaczone używając reguły Simpsona, interaktywne wykresy online.",
+        "meta_keyword": "kalkulator całek, kalkulator całkowania, kalkulator całki oznaczonej, kalkulator reguły simpsona, kalkulator analizy, rozwiązywacz całek, całkowanie numeryczne, kalkulator całek krok po kroku, darmowy kalkulator całek online, narzędzie całkowania matematycznego, kalkulator całek z wykresem, rozwiązywacz analizy, kalkulator całkowania przez części, kalkulator całek pokazuje pracę, kalkulator matematyczny online, rozwiązywacz całkowania oznaczonego, kalkulator całek z krokami, kalkulator metody simpsona, kalkulator całkowania analizy, rozwiązywacz matematyczny online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
