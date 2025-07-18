@@ -1024,5 +1024,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Calculatrices d'Assurance",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatrices d'Assurance - Outils en ligne Gratuits",
+        "meta_description": "Collection complète de calculatrices d'assurance gratuites : vie, santé, auto, maison, voyage. Calculez primes, franchises et couverture instantanément !",
+        "meta_keyword": "calculatrice d'assurance, calculatrices d'assurance, calculatrice d'assurance gratuite, calculatrice de primes d'assurance, calculatrice de franchises d'assurance, calculatrice d'assurance vie, calculatrice d'assurance santé, calculatrice d'assurance auto, calculatrice d'assurance habitation, calculatrice d'assurance voyage, calculatrice de protection des revenus, calculatrice d'assurance invalidité, calculatrice d'assurance chômage, calculatrice d'assurance en ligne, calculatrice d'assurance online, calculatrice d'assurance en ligne gratuite, calculatrice de primes d'assurance en ligne, calculatrice de couverture d'assurance, calculatrice de devis d'assurance, calculatrice de coût d'assurance, outil estimateur d'assurance, outil de calcul d'assurance, calculatrice de planification d'assurance, calculatrice d'assurance complète, outil calculatrice multi-assurance, calculatrice de comparaison d'assurance, calculatrice d'assurance instantanée, calculatrice d'assurance personnelle, calculatrice des besoins d'assurance, calculer prime d'assurance en ligne gratuit, outils calculatrice d'assurance en ligne gratuits, calculatrice d'estimation de primes d'assurance, outil de calcul de franchises d'assurance, calculatrice d'assurance multiples types de couverture, plateforme calculatrice d'assurance professionnelle, calculatrice d'assurance pour planification personnelle",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Calculatrice d'Assurance Vie",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculatrice Assurance Vie - Outil Gratuit",
+        "meta_description": "Calculez vos besoins d'assurance vie instantanément! Outil en ligne gratuit estime couverture, primes et protection financière familiale. Résultats personnalisés.",
+        "meta_keyword": "assurance vie, calculatrice d'assurance, calculatrice de couverture, calculatrice de primes, besoins d'assurance, protection familiale, planification financière, évaluation des risques, calculatrice d'assurance vie, calculatrice des besoins d'assurance, outil des besoins de couverture, outil d'estimation des primes, calculatrice de protection financière, outil de planification d'assurance, calculatrice d'assurance familiale, calculatrice d'assurance en ligne, calculatrice d'assurance vie gratuite en ligne, calculer les besoins de couverture d'assurance vie, calculatrice de primes d'assurance vie gratuite, combien d'assurance vie ai-je besoin, outil d'analyse des besoins d'assurance vie, estimer le montant de couverture d'assurance vie, calculer les besoins de protection d'assurance familiale, calculatrice d'assurance vie avec personnes à charge, calculatrice des besoins d'assurance vie en ligne gratuite, calculatrice d'écart de couverture d'assurance vie, outil personnel de calcul d'assurance vie, évaluation instantanée des besoins d'assurance vie, calculatrice de planification d'assurance vie gratuite, calculer la couverture d'assurance recommandée, estimateur de primes d'assurance vie en ligne",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

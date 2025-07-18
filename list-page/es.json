@@ -1024,5 +1024,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Calculadoras de Seguros",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculadoras de Seguros - Herramientas Online Gratis",
+        "meta_description": "Colección completa de calculadoras de seguros gratuitas: vida, salud, auto, hogar, viajes. ¡Calcula primas, deducibles y cobertura al instante!",
+        "meta_keyword": "calculadora de seguros, calculadoras de seguros, calculadora de seguros gratis, calculadora de primas de seguros, calculadora de deducibles de seguros, calculadora de seguro de vida, calculadora de seguro de salud, calculadora de seguro de auto, calculadora de seguro de hogar, calculadora de seguro de viajes, calculadora de protección de ingresos, calculadora de seguro de discapacidad, calculadora de seguro de desempleo, calculadora de seguros online, calculadora de seguros en línea, calculadora de seguros online gratis, calculadora de primas de seguros online, calculadora de cobertura de seguros, calculadora de cotización de seguros, calculadora de costo de seguros, herramienta estimador de seguros, herramienta de cálculo de seguros, calculadora de planificación de seguros, calculadora de seguros integral, herramienta calculadora multi seguros, calculadora de comparación de seguros, calculadora de seguros instantánea, calculadora de seguros personal, calculadora de necesidades de seguros, calcular prima de seguros online gratis, herramientas calculadora de seguros online gratis, calculadora de estimación de primas de seguros, herramienta de cálculo de deducibles de seguros, calculadora de seguros múltiples tipos de cobertura, plataforma calculadora de seguros profesional, calculadora de seguros para planificación personal",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Vida",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Seguro de Vida - Herramienta Gratuita",
+        "meta_description": "¡Calcule sus necesidades de seguro de vida al instante! Herramienta online gratuita estima cobertura, primas y protección financiera familiar. Resultados personalizados.",
+        "meta_keyword": "seguro de vida, calculadora de seguros, calculadora de cobertura, calculadora de primas, necesidades de seguro, protección familiar, planificación financiera, evaluación de riesgos, calculadora de seguro de vida, calculadora de necesidades de seguro, herramienta de necesidades de cobertura, herramienta de estimación de primas, calculadora de protección financiera, herramienta de planificación de seguros, calculadora de seguro familiar, calculadora de seguros online, calculadora de seguro de vida gratis online, calcular necesidades de cobertura de seguro de vida, calculadora de primas de seguro de vida gratis, cuánto seguro de vida necesito, herramienta de análisis de necesidades de seguro de vida, estimar cantidad de cobertura de seguro de vida, calcular necesidades de protección de seguro familiar, calculadora de seguro de vida con dependientes, calculadora de necesidades de seguro de vida online gratis, calculadora de brecha de cobertura de seguro de vida, herramienta personal de cálculo de seguro de vida, evaluación instantánea de necesidades de seguro de vida, calculadora de planificación de seguro de vida gratis, calcular cobertura de seguro recomendada, estimador de primas de seguro de vida online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

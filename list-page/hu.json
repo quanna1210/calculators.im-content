@@ -1024,5 +1024,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Biztosítási kalkulátorok",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Biztosítási kalkulátorok - Ingyenes online eszközök",
+        "meta_description": "Teljes gyűjtemény ingyenes biztosítási kalkulátorok: élet, egészség, autó, otthon, utazás. Számítsa ki díjakat, önrészt és fedezetet azonnal!",
+        "meta_keyword": "biztosítási kalkulátor, biztosítási kalkulátorok, ingyenes biztosítási kalkulátor, biztosítási díj kalkulátor, önrész kalkulátor, életbiztosítás kalkulátor, egészségbiztosítás kalkulátor, autóbiztosítás kalkulátor, otthonbiztosítás kalkulátor, utazásbiztosítás kalkulátor, jövedelemvédelem kalkulátor, rokkantsági biztosítás kalkulátor, munkanélküli biztosítás kalkulátor, online biztosítási kalkulátor, biztosítási kalkulátor online, ingyenes biztosítási kalkulátor online, biztosítási díj kalkulátor online, biztosítási fedezet kalkulátor, biztosítási ajánlat kalkulátor, biztosítási költség kalkulátor, biztosítási becslő eszköz, biztosítási számítás eszköz, biztosítási tervezés kalkulátor, átfogó biztosítási kalkulátor, multi biztosítási kalkulátor eszköz, biztosítás összehasonlítás kalkulátor, azonnali biztosítási kalkulátor, személyes biztosítási kalkulátor, biztosítási igény kalkulátor, biztosítási díj számítás online ingyen, ingyenes online biztosítási kalkulátor eszközök, biztosítási díj becslés kalkulátor, önrész számítás eszköz, biztosítási kalkulátor több fedezet típus, professzionális biztosítási kalkulátor platform, biztosítási kalkulátor személyes tervezéshez",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Életbiztosítás Kalkulátor",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Életbiztosítás Kalkulátor - Ingyenes Eszköz",
+        "meta_description": "Számítsa ki életbiztosítási szükségleteit azonnal! Ingyenes online eszköz becsüli fedezetet, díjakat és család pénzügyi védelmét. Személyre szabott eredmények.",
+        "meta_keyword": "életbiztosítás, biztosítás kalkulátor, fedezet kalkulátor, díj kalkulátor, biztosítási szükségletek, család védelme, pénzügyi tervezés, kockázat értékelés, életbiztosítás kalkulátor, biztosítási szükséglet kalkulátor, fedezeti szükséglet eszköz, díj becslő eszköz, pénzügyi védelem kalkulátor, biztosítás tervezés eszköz, család biztosítás kalkulátor, online biztosítás kalkulátor, ingyenes online életbiztosítás kalkulátor, életbiztosítás fedezet szükséglet számítás, ingyenes életbiztosítás díj kalkulátor, mennyi életbiztosításra van szükségem, életbiztosítás szükséglet elemző eszköz, életbiztosítás fedezet összeg becslés, család biztosítási védelem szükséglet számítás, életbiztosítás kalkulátor eltartottakkal, ingyenes online életbiztosítás szükséglet kalkulátor, életbiztosítás fedezeti hiány kalkulátor, személyes életbiztosítás számítás eszköz, azonnali életbiztosítás szükséglet értékelés, ingyenes életbiztosítás tervezés kalkulátor, ajánlott biztosítási fedezet számítás, online életbiztosítás díj becslő",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

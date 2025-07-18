@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Calculatoare de asigurări",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculatoare de asigurări - Instrumente online gratuite",
+        "meta_description": "Colecție completă de calculatoare de asigurări gratuite: viață, sănătate, auto, casă, călătorie. Calculează prime, deductibile și acoperire instantaneu!",
+        "meta_keyword": "calculator de asigurări, calculatoare de asigurări, calculator de asigurări gratuit, calculator prime asigurări, calculator deductibile asigurări, calculator asigurări de viață, calculator asigurări de sănătate, calculator asigurări auto, calculator asigurări casă, calculator asigurări călătorie, calculator protecție venituri, calculator asigurări de invaliditate, calculator asigurări șomaj, calculator asigurări online, calculator de asigurări online, calculator asigurări online gratuit, calculator prime asigurări online, calculator acoperire asigurări, calculator cotație asigurări, calculator cost asigurări, instrument estimator asigurări, instrument calcul asigurări, calculator planificare asigurări, calculator asigurări cuprinzător, instrument calculator multi asigurări, calculator comparație asigurări, calculator asigurări instantaneu, calculator asigurări personal, calculator nevoi asigurări, calculează primă asigurări online gratuit, instrumente calculator asigurări online gratuit, calculator estimare prime asigurări, instrument calcul deductibile asigurări, calculator asigurări multiple tipuri acoperire, platformă calculator asigurări profesional, calculator asigurări pentru planificare personală",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Calculator Asigurare de Viață",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculator Asigurare Viață - Instrument Gratuit",
+        "meta_description": "Calculați necesitățile de asigurare de viață instant! Instrument online gratuit estimează acoperirea, primele și protecția financiară familială. Rezultate personalizate.",
+        "meta_keyword": "asigurare de viață, calculator asigurare, calculator acoperire, calculator prime, necesități asigurare, protecție familie, planificare financiară, evaluare risc, calculator asigurare de viață, calculator necesități asigurare, instrument necesități acoperire, instrument estimare prime, calculator protecție financiară, instrument planificare asigurare, calculator asigurare familie, calculator asigurare online, calculator asigurare de viață gratuit online, calcula necesități acoperire asigurare de viață, calculator prime asigurare de viață gratuit, câtă asigurare de viață îmi trebuie, instrument analiză necesități asigurare de viață, estima suma acoperire asigurare de viață, calcula necesități protecție asigurare familie, calculator asigurare de viață cu persoane în întreținere, calculator necesități asigurare de viață online gratuit, calculator deficit acoperire asigurare de viață, instrument calcul asigurare de viață personal, evaluare necesități asigurare de viață instantanee, calculator planificare asigurare de viață gratuit, calcula acoperire asigurare recomandată, estimator prime asigurare de viață online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

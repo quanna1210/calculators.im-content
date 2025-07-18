@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Pojišťovací kalkulátory",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Pojišťovací kalkulátory - Zdarma online nástroje",
+        "meta_description": "Kompletní sbírka zdarma pojišťovacích kalkulátorů: život, zdraví, auto, dům, cestování. Vypočítejte pojistné, spoluúčast a krytí okamžitě!",
+        "meta_keyword": "pojišťovací kalkulátor, pojišťovací kalkulátory, zdarma pojišťovací kalkulátor, kalkulátor pojistného, kalkulátor spoluúčasti, kalkulátor životního pojištění, kalkulátor zdravotního pojištění, kalkulátor autopojištění, kalkulátor pojištění domácnosti, kalkulátor cestovního pojištění, kalkulátor ochrany příjmu, kalkulátor invalidního pojištění, kalkulátor pojištění v nezaměstnanosti, online pojišťovací kalkulátor, pojišťovací kalkulátor online, zdarma pojišťovací kalkulátor online, kalkulátor pojistného online, kalkulátor pojistného krytí, kalkulátor pojistné nabídky, kalkulátor nákladů pojištění, nástroj odhadu pojištění, nástroj výpočtu pojištění, kalkulátor plánování pojištění, komplexní pojišťovací kalkulátor, nástroj multi pojišťovací kalkulátor, kalkulátor porovnání pojištění, okamžitý pojišťovací kalkulátor, osobní pojišťovací kalkulátor, kalkulátor potřeb pojištění, vypočítat pojistné online zdarma, zdarma online pojišťovací kalkulátor nástroje, kalkulátor odhadu pojistného, nástroj výpočtu spoluúčasti, pojišťovací kalkulátor více typů krytí, profesionální pojišťovací kalkulátor platforma, pojišťovací kalkulátor pro osobní plánování",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Kalkulačka Životního Pojištění",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulačka Životního Pojištění - Zdarma Nástroj",
+        "meta_description": "Vypočítejte své potřeby životního pojištění okamžitě! Bezplatný online nástroj odhaduje krytí, pojistné a finanční ochranu pro rodinu. Personalizované výsledky.",
+        "meta_keyword": "životní pojištění, kalkulačka pojištění, kalkulačka pokrytí, kalkulačka pojistného, potřeby pojištění, ochrana rodiny, finanční plánování, hodnocení rizik, kalkulačka životního pojištění, kalkulačka potřeb pojištění, nástroj potřeb pokrytí, nástroj odhadu pojistného, kalkulačka finanční ochrany, nástroj plánování pojištění, kalkulačka rodinného pojištění, online kalkulačka pojištění, bezplatná online kalkulačka životního pojištění, vypočítat potřeby pokrytí životního pojištění, bezplatná kalkulačka pojistného životního pojištění, kolik životního pojištění potřebuji, nástroj analýzy potřeb životního pojištění, odhadnout částku pokrytí životního pojištění, vypočítat potřeby ochrany rodinného pojištění, kalkulačka životního pojištění s vyživovanými osobami, bezplatná online kalkulačka potřeb životního pojištění, kalkulačka mezery pokrytí životního pojištění, osobní nástroj výpočtu životního pojištění, okamžité hodnocení potřeb životního pojištění, bezplatná kalkulačka plánování životního pojištění, vypočítat doporučené pojistné krytí, online odhad pojistného životního pojištění",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

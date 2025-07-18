@@ -1024,5 +1024,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Calcolatrici Assicurazione",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Calcolatrici Assicurazione - Strumenti Online Gratuiti",
+        "meta_description": "Collezione completa di calcolatrici assicurazione gratuite: vita, salute, auto, casa, viaggio. Calcola premi, franchigie e copertura istantaneamente!",
+        "meta_keyword": "calcolatrice assicurazione, calcolatrici assicurazione, calcolatrice assicurazione gratis, calcolatrice premi assicurazione, calcolatrice franchigie assicurazione, calcolatrice assicurazione vita, calcolatrice assicurazione salute, calcolatrice assicurazione auto, calcolatrice assicurazione casa, calcolatrice assicurazione viaggio, calcolatrice protezione reddito, calcolatrice assicurazione invalidità, calcolatrice assicurazione disoccupazione, calcolatrice assicurazione online, calcolatrice assicurazione in linea, calcolatrice assicurazione online gratis, calcolatrice premi assicurazione online, calcolatrice copertura assicurazione, calcolatrice preventivo assicurazione, calcolatrice costo assicurazione, strumento stimatore assicurazione, strumento calcolo assicurazione, calcolatrice pianificazione assicurazione, calcolatrice assicurazione completa, strumento calcolatrice multi assicurazione, calcolatrice confronto assicurazione, calcolatrice assicurazione istantanea, calcolatrice assicurazione personale, calcolatrice esigenze assicurazione, calcolare premio assicurazione online gratis, strumenti calcolatrice assicurazione online gratis, calcolatrice stima premi assicurazione, strumento calcolo franchigie assicurazione, calcolatrice assicurazione multipli tipi copertura, piattaforma calcolatrice assicurazione professionale, calcolatrice assicurazione per pianificazione personale",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Calcolatore Assicurazione Vita",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calcolatore Assicurazione Vita - Strumento Gratuito",
+        "meta_description": "Calcola le tue esigenze assicurative vita istantaneamente! Strumento online gratuito stima copertura, premi e protezione finanziaria famiglia. Risultati personalizzati.",
+        "meta_keyword": "assicurazione vita, calcolatore assicurazione, calcolatore copertura, calcolatore premi, esigenze assicurative, protezione famiglia, pianificazione finanziaria, valutazione rischi, calcolatore assicurazione vita, calcolatore esigenze assicurative, strumento esigenze copertura, strumento stima premi, calcolatore protezione finanziaria, strumento pianificazione assicurazione, calcolatore assicurazione famiglia, calcolatore assicurazione online, calcolatore assicurazione vita gratuito online, calcolare esigenze copertura assicurazione vita, calcolatore premi assicurazione vita gratuito, quanta assicurazione vita mi serve, strumento analisi esigenze assicurazione vita, stimare importo copertura assicurazione vita, calcolare esigenze protezione assicurazione famiglia, calcolatore assicurazione vita con dipendenti, calcolatore esigenze assicurazione vita online gratuito, calcolatore gap copertura assicurazione vita, strumento calcolo assicurazione vita personale, valutazione esigenze assicurazione vita istantanea, calcolatore pianificazione assicurazione vita gratuito, calcolare copertura assicurativa raccomandata, stimatore premi assicurazione vita online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

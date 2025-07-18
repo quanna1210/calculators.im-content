@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Kalkulatory ubezpieczeniowe",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulatory ubezpieczeniowe - Darmowe narzędzia online",
+        "meta_description": "Kompletna kolekcja darmowych kalkulatorów ubezpieczeniowych: życie, zdrowie, auto, dom, podróż. Oblicz składki, udział własny i ochronę natychmiast!",
+        "meta_keyword": "kalkulator ubezpieczeniowy, kalkulatory ubezpieczeniowe, darmowy kalkulator ubezpieczeniowy, kalkulator składek ubezpieczeniowych, kalkulator udziału własnego, kalkulator ubezpieczenia na życie, kalkulator ubezpieczenia zdrowotnego, kalkulator ubezpieczenia samochodu, kalkulator ubezpieczenia domu, kalkulator ubezpieczenia podróży, kalkulator ochrony dochodów, kalkulator ubezpieczenia od niezdolności do pracy, kalkulator ubezpieczenia od bezrobocia, online kalkulator ubezpieczeniowy, kalkulator ubezpieczeniowy online, darmowy kalkulator ubezpieczeniowy online, kalkulator składek ubezpieczeniowych online, kalkulator ochrony ubezpieczeniowej, kalkulator wyceny ubezpieczeniowej, kalkulator kosztów ubezpieczenia, narzędzie oszacowania ubezpieczenia, narzędzie kalkulacji ubezpieczenia, kalkulator planowania ubezpieczenia, kompleksowy kalkulator ubezpieczeniowy, narzędzie kalkulatora multi ubezpieczenia, kalkulator porównania ubezpieczeń, natychmiastowy kalkulator ubezpieczeniowy, osobisty kalkulator ubezpieczeniowy, kalkulator potrzeb ubezpieczeniowych, oblicz składkę ubezpieczeniową online za darmo, darmowe narzędzia kalkulatora ubezpieczeniowego online, kalkulator oszacowania składek ubezpieczeniowych, narzędzie kalkulacji udziału własnego ubezpieczenia, kalkulator ubezpieczeniowy wielokrotnych typów ochrony, profesjonalna platforma kalkulatora ubezpieczeniowego, kalkulator ubezpieczeniowy do planowania osobistego",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Kalkulator Ubezpieczenia na Życie",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Ubezpieczenia na Życie - Darmowe Narzędzie",
+        "meta_description": "Oblicz swoje potrzeby ubezpieczeniowe na życie natychmiast! Darmowe narzędzie online szacuje ochronę, składki i zabezpieczenie finansowe rodziny. Wyniki spersonalizowane.",
+        "meta_keyword": "ubezpieczenie na życie, kalkulator ubezpieczenia, kalkulator ochrony, kalkulator składek, potrzeby ubezpieczeniowe, ochrona rodziny, planowanie finansowe, ocena ryzyka, kalkulator ubezpieczenia na życie, kalkulator potrzeb ubezpieczeniowych, narzędzie potrzeb ochrony, narzędzie szacowania składek, kalkulator ochrony finansowej, narzędzie planowania ubezpieczenia, kalkulator ubezpieczenia rodzinnego, kalkulator ubezpieczenia online, darmowy kalkulator ubezpieczenia na życie online, oblicz potrzeby ochrony ubezpieczenia na życie, darmowy kalkulator składek ubezpieczenia na życie, ile ubezpieczenia na życie potrzebuję, narzędzie analizy potrzeb ubezpieczenia na życie, oszacuj kwotę ochrony ubezpieczenia na życie, oblicz potrzeby ochrony ubezpieczenia rodzinnego, kalkulator ubezpieczenia na życie z osobami na utrzymaniu, darmowy kalkulator potrzeb ubezpieczenia na życie online, kalkulator luki ochrony ubezpieczenia na życie, osobiste narzędzie obliczania ubezpieczenia na życie, natychmiastowa ocena potrzeb ubezpieczenia na życie, darmowy kalkulator planowania ubezpieczenia na życie, oblicz zalecaną ochronę ubezpieczeniową, online szacownik składek ubezpieczenia na życie",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

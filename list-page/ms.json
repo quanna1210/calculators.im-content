@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Kalkulator Insurans",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Insurans - Alat Kalkulator Online Percuma",
+        "meta_description": "Koleksi lengkap kalkulator insurans percuma: nyawa, kesihatan, kereta, rumah, perjalanan. Kira premium, deduktibel & liputan serta-merta!",
+        "meta_keyword": "kalkulator insurans, kalkulator insurans percuma, kalkulator premium insurans, kalkulator deduktibel insurans, kalkulator insurans nyawa, kalkulator insurans kesihatan, kalkulator insurans kereta, kalkulator insurans rumah, kalkulator insurans perjalanan, kalkulator perlindungan pendapatan, kalkulator insurans hilang upaya, kalkulator insurans pengangguran, kalkulator insurans online, kalkulator insurans dalam talian, kalkulator insurans online percuma, kalkulator premium insurans online, kalkulator liputan insurans, kalkulator sebut harga insurans, kalkulator kos insurans, alat anggaran insurans, alat pengiraan insurans, kalkulator perancangan insurans, kalkulator insurans komprehensif, alat kalkulator multi insurans, kalkulator perbandingan insurans, kalkulator insurans segera, kalkulator insurans peribadi, kalkulator keperluan insurans, kira premium insurans online percuma, alat kalkulator insurans online percuma, kalkulator anggaran premium insurans, alat pengiraan deduktibel insurans, kalkulator insurans pelbagai jenis liputan, platform kalkulator insurans profesional, kalkulator insurans untuk perancangan peribadi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Kalkulator Insurans Hayat",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Insurans Hayat - Alat Keperluan Percuma",
+        "meta_description": "Kira keperluan insurans hayat anda dengan serta-merta! Alat dalam talian percuma menganggar perlindungan, premium & keselamatan kewangan untuk keluarga. Keputusan peribadi.",
+        "meta_keyword": "insurans hayat, kalkulator insurans, kalkulator perlindungan, kalkulator premium, keperluan insurans, perlindungan keluarga, perancangan kewangan, penilaian risiko, kalkulator insurans hayat, kalkulator keperluan insurans, alat keperluan perlindungan, alat anggaran premium, kalkulator perlindungan kewangan, alat perancangan insurans, kalkulator insurans keluarga, kalkulator insurans dalam talian, kalkulator insurans hayat percuma dalam talian, kira keperluan perlindungan insurans hayat, kalkulator premium insurans hayat percuma, berapa banyak insurans hayat yang saya perlukan, alat analisis keperluan insurans hayat, anggarkan jumlah perlindungan insurans hayat, kira keperluan perlindungan insurans keluarga, kalkulator insurans hayat dengan tanggungan, kalkulator keperluan insurans hayat dalam talian percuma, kalkulator jurang perlindungan insurans hayat, alat pengiraan insurans hayat peribadi, penilaian keperluan insurans hayat segera, kalkulator perancangan insurans hayat percuma, kira perlindungan insurans yang disyorkan, penganggar premium insurans hayat dalam talian",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

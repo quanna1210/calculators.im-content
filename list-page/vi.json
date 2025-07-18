@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Máy tính Bảo hiểm",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Máy tính Bảo hiểm - Công cụ Tính toán Miễn phí",
+        "meta_description": "Bộ sưu tập đầy đủ máy tính bảo hiểm miễn phí: nhân thọ, y tế, ô tô, nhà, du lịch. Tính phí bảo hiểm, khấu trừ & bảo hiểm ngay!",
+        "meta_keyword": "máy tính bảo hiểm, máy tính bảo hiểm miễn phí, máy tính phí bảo hiểm, máy tính khấu trừ bảo hiểm, máy tính bảo hiểm nhân thọ, máy tính bảo hiểm y tế, máy tính bảo hiểm ô tô, máy tính bảo hiểm nhà, máy tính bảo hiểm du lịch, máy tính bảo vệ thu nhập, máy tính bảo hiểm khuyết tật, máy tính bảo hiểm thất nghiệp, máy tính bảo hiểm online, máy tính bảo hiểm trực tuyến, máy tính bảo hiểm online miễn phí, máy tính phí bảo hiểm trực tuyến, máy tính bảo hiểm bảo hiểm, máy tính báo giá bảo hiểm, máy tính chi phí bảo hiểm, công cụ ước tính bảo hiểm, công cụ tính toán bảo hiểm, máy tính kế hoạch bảo hiểm, máy tính bảo hiểm toàn diện, công cụ máy tính đa bảo hiểm, máy tính so sánh bảo hiểm, máy tính bảo hiểm tức thì, máy tính bảo hiểm cá nhân, máy tính nhu cầu bảo hiểm, tính phí bảo hiểm online miễn phí, công cụ máy tính bảo hiểm online miễn phí, máy tính ước tính phí bảo hiểm, công cụ tính khấu trừ bảo hiểm, máy tính bảo hiểm nhiều loại bảo hiểm, nền tảng máy tính bảo hiểm chuyên nghiệp, máy tính bảo hiểm cho kế hoạch cá nhân",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Máy Tính Bảo Hiểm Nhân Thọ",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Máy Tính Bảo Hiểm Nhân Thọ - Công Cụ Miễn Phí",
+        "meta_description": "Tính toán nhu cầu bảo hiểm nhân thọ ngay lập tức! Công cụ trực tuyến miễn phí ước tính mức bảo hiểm, phí bảo hiểm & bảo vệ tài chính cho gia đình. Kết quả cá nhân hóa.",
+        "meta_keyword": "bảo hiểm nhân thọ, máy tính bảo hiểm, máy tính mức bảo hiểm, máy tính phí bảo hiểm, nhu cầu bảo hiểm, bảo vệ gia đình, kế hoạch tài chính, đánh giá rủi ro, máy tính bảo hiểm nhân thọ, máy tính nhu cầu bảo hiểm, công cụ nhu cầu bảo hiểm, công cụ ước tính phí bảo hiểm, máy tính bảo vệ tài chính, công cụ lập kế hoạch bảo hiểm, máy tính bảo hiểm gia đình, máy tính bảo hiểm trực tuyến, máy tính bảo hiểm nhân thọ miễn phí trực tuyến, tính nhu cầu mức bảo hiểm nhân thọ, máy tính phí bảo hiểm nhân thọ miễn phí, tôi cần bao nhiêu bảo hiểm nhân thọ, công cụ phân tích nhu cầu bảo hiểm nhân thọ, ước tính số tiền bảo hiểm nhân thọ, tính nhu cầu bảo vệ bảo hiểm gia đình, máy tính bảo hiểm nhân thọ với người phụ thuộc, máy tính nhu cầu bảo hiểm nhân thọ trực tuyến miễn phí, máy tính khoảng cách mức bảo hiểm nhân thọ, công cụ tính toán bảo hiểm nhân thọ cá nhân, đánh giá nhu cầu bảo hiểm nhân thọ tức thì, máy tính lập kế hoạch bảo hiểm nhân thọ miễn phí, tính mức bảo hiểm được khuyến nghị, ước tính phí bảo hiểm nhân thọ trực tuyến",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

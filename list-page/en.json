@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Insurance Calculators",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Insurance Calculators - Free Online Calculator Tools",
+        "meta_description": "Complete collection of free insurance calculators: life, health, auto, home, travel insurance. Calculate premiums, deductibles & coverage instantly!",
+        "meta_keyword": "insurance calculator, insurance calculators, free insurance calculator, insurance premium calculator, insurance deductible calculator, life insurance calculator, health insurance calculator, auto insurance calculator, home insurance calculator, travel insurance calculator, income protection calculator, disability insurance calculator, unemployment insurance calculator, online insurance calculator, insurance calculator online, free insurance calculator online, insurance premium calculator online, insurance coverage calculator, insurance quote calculator, insurance cost calculator, insurance estimator tool, insurance calculation tool, insurance planning calculator, comprehensive insurance calculator, multi insurance calculator tool, insurance comparison calculator, instant insurance calculator, personal insurance calculator, insurance needs calculator, insurance calculator with results sharing, calculate insurance premium online free, free online insurance calculator tools, insurance premium estimation calculator, insurance deductible calculation tool, insurance calculator multiple coverage types, professional insurance calculator platform, insurance calculator for personal planning",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Life Insurance Calculator",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Life Insurance Calculator - Free Coverage Needs Tool",
+        "meta_description": "Calculate your life insurance needs instantly! Free online tool estimates coverage, premiums & financial protection for family. Get personalized results now.",
+        "meta_keyword": "life insurance, insurance calculator, coverage calculator, premium calculator, insurance needs, family protection, financial planning, risk assessment, life insurance calculator, insurance needs calculator, coverage needs tool, premium estimation tool, financial protection calculator, insurance planning tool, family insurance calculator, online insurance calculator, free life insurance calculator online, calculate life insurance coverage needs, life insurance premium calculator free, how much life insurance do I need, life insurance needs analysis tool, estimate life insurance coverage amount, calculate family insurance protection needs, life insurance calculator with dependents, free online life insurance needs calculator, life insurance coverage gap calculator, personal life insurance calculation tool, instant life insurance needs assessment, life insurance planning calculator free, calculate recommended insurance coverage, life insurance premium estimator online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

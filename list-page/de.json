@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Versicherungsrechner",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Versicherungsrechner - Kostenlose Online-Tools",
+        "meta_description": "Komplette Sammlung kostenloser Versicherungsrechner: Leben, Gesundheit, Auto, Haus, Reisen. Berechnen Sie Prämien, Selbstbeteiligung & Deckung sofort!",
+        "meta_keyword": "versicherungsrechner, versicherungsrechner kostenlos, versicherungsprämien rechner, selbstbeteiligung rechner, lebensversicherung rechner, krankenversicherung rechner, autoversicherung rechner, hausversicherung rechner, reiseversicherung rechner, einkommensschutz rechner, berufsunfähigkeitsversicherung rechner, arbeitslosenversicherung rechner, online versicherungsrechner, versicherungsrechner online, kostenloser versicherungsrechner online, versicherungsprämien rechner online, versicherungsdeckung rechner, versicherungsangebot rechner, versicherungskosten rechner, versicherungsschätzer tool, versicherungsberechnung tool, versicherungsplanung rechner, umfassender versicherungsrechner, multi versicherungsrechner tool, versicherungsvergleich rechner, sofortiger versicherungsrechner, persönlicher versicherungsrechner, versicherungsbedarf rechner, versicherungsprämie online kostenlos berechnen, kostenlose online versicherungsrechner tools, versicherungsprämien schätzung rechner, selbstbeteiligung berechnungs tool, versicherungsrechner mehrere deckungsarten, professionelle versicherungsrechner plattform, versicherungsrechner für persönliche planung",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Lebensversicherungsrechner",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Lebensversicherungsrechner - Kostenloses Tool",
+        "meta_description": "Berechnen Sie Ihren Lebensversicherungsbedarf sofort! Kostenloses Online-Tool schätzt Deckung, Prämien & Finanzschutz für Familie. Personalisierte Ergebnisse.",
+        "meta_keyword": "lebensversicherung, versicherungsrechner, deckungsrechner, prämienrechner, versicherungsbedarf, familienschutz, finanzplanung, risikobewertung, lebensversicherungsrechner, bedarfsrechner versicherung, deckungsbedarfs-tool, prämien-schätztool, finanzschutzrechner, versicherungsplanungs-tool, familien-versicherungsrechner, online versicherungsrechner, kostenloser online lebensversicherungsrechner, lebensversicherungsdeckungsbedarf berechnen, kostenloser lebensversicherungsprämienrechner, wie viel lebensversicherung brauche ich, lebensversicherungsbedarfs-analysetool, lebensversicherungsdeckungsbetrag schätzen, familien-versicherungsschutzbedarf berechnen, lebensversicherungsrechner mit angehörigen, kostenloser online lebensversicherungsbedarfsrechner, lebensversicherungsdeckungslückenrechner, persönliches lebensversicherungsberechnungs-tool, sofortige lebensversicherungsbedarfsbewertung, kostenloser lebensversicherungsplanungsrechner, empfohlene versicherungsdeckung berechnen, online lebensversicherungsprämien-schätzer",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

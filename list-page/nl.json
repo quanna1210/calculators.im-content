@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Verzekeringscalculators",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Verzekeringscalculators - Gratis online hulpmiddelen",
+        "meta_description": "Volledige verzameling gratis verzekeringscalculators: leven, gezondheid, auto, huis, reis. Bereken premies, eigen risico en dekking direct!",
+        "meta_keyword": "verzekeringscalculator, verzekeringscalculators, gratis verzekeringscalculator, verzekeringspremie calculator, eigen risico calculator, levensverzekering calculator, zorgverzekering calculator, autoverzekering calculator, huisverzekering calculator, reisverzekering calculator, inkomstenbescherming calculator, arbeidsongeschiktheidsverzekering calculator, werkloosheidsverzekering calculator, online verzekeringscalculator, verzekeringscalculator online, gratis verzekeringscalculator online, verzekeringspremie calculator online, verzekeringsdekking calculator, verzekeringsofferte calculator, verzekeringskosten calculator, verzekeringsinschatter tool, verzekeringsberekening tool, verzekeringsplanning calculator, uitgebreide verzekeringscalculator, multi verzekeringscalculator tool, verzekeringsvergelijking calculator, directe verzekeringscalculator, persoonlijke verzekeringscalculator, verzekeringsbehoefte calculator, verzekeringspremie online gratis berekenen, gratis online verzekeringscalculator tools, verzekeringspremie schatting calculator, eigen risico berekening tool, verzekeringscalculator meerdere dekkingstypen, professionele verzekeringscalculator platform, verzekeringscalculator voor persoonlijke planning",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Levensverzekering Calculator",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Levensverzekering Calculator - Gratis Tool",
+        "meta_description": "Bereken uw levensverzekeringsbehoefte direct! Gratis online tool schat dekking, premies & financiële bescherming voor gezin. Gepersonaliseerde resultaten.",
+        "meta_keyword": "levensverzekering, verzekering calculator, dekking calculator, premie calculator, verzekeringsbehoefte, gezinsbescherming, financiële planning, risicobeoordeling, levensverzekering calculator, verzekeringsbehoefte calculator, dekkingsbehoefte tool, premie schatting tool, financiële bescherming calculator, verzekering planning tool, gezin verzekering calculator, online verzekering calculator, gratis online levensverzekering calculator, levensverzekering dekkingsbehoefte berekenen, gratis levensverzekering premie calculator, hoeveel levensverzekering heb ik nodig, levensverzekering behoefte analyse tool, levensverzekering dekking bedrag schatten, gezin verzekering bescherming behoefte berekenen, levensverzekering calculator met afhankelijken, gratis online levensverzekering behoefte calculator, levensverzekering dekking kloof calculator, persoonlijke levensverzekering berekening tool, directe levensverzekering behoefte beoordeling, gratis levensverzekering planning calculator, aanbevolen verzekering dekking berekenen, online levensverzekering premie schatter",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

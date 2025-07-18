@@ -1024,5 +1024,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Kalkulator Asuransi",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Kalkulator Asuransi - Piranti Kalkulator Online Gratis",
+        "meta_description": "Koleksi lengkap kalkulator asuransi gratis: jiwa, kesehatan, mobil, omah, perjalanan. Itung premi, deductible & jangkauan langsung!",
+        "meta_keyword": "kalkulator asuransi, kalkulator asuransi gratis, kalkulator premi asuransi, kalkulator deductible asuransi, kalkulator asuransi jiwa, kalkulator asuransi kesehatan, kalkulator asuransi mobil, kalkulator asuransi omah, kalkulator asuransi perjalanan, kalkulator perlindungan penghasilan, kalkulator asuransi cacat, kalkulator asuransi pengangguran, kalkulator asuransi online, kalkulator asuransi online gratis, kalkulator premi asuransi online, kalkulator jangkauan asuransi, kalkulator kutipan asuransi, kalkulator biaya asuransi, piranti estimator asuransi, piranti kalkulasi asuransi, kalkulator perencanaan asuransi, kalkulator asuransi komprehensif, piranti kalkulator multi asuransi, kalkulator perbandingan asuransi, kalkulator asuransi instan, kalkulator asuransi pribadi, kalkulator kebutuhan asuransi, itung premi asuransi online gratis, piranti kalkulator asuransi online gratis, kalkulator estimasi premi asuransi, piranti kalkulasi deductible asuransi, kalkulator asuransi multiple jenis jangkauan, platform kalkulator asuransi profesional, kalkulator asuransi kanggo perencanaan pribadi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Jiwa",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Asuransi Jiwa - Alat Kabutuhan Gratis",
+        "meta_description": "Etung kabutuhan asuransi jiwa kanthi cepet! Alat online gratis ngira perlindungan, premi & keamanan finansial kanggo kulawarga. Asil pribadi saiki.",
+        "meta_keyword": "asuransi jiwa, kalkulator asuransi, kalkulator perlindungan, kalkulator premi, kabutuhan asuransi, perlindungan kulawarga, perencanaan keuangan, penilaian risiko, kalkulator asuransi jiwa, kalkulator kabutuhan asuransi, alat kabutuhan perlindungan, alat estimasi premi, kalkulator perlindungan finansial, alat perencanaan asuransi, kalkulator asuransi kulawarga, kalkulator asuransi online, kalkulator asuransi jiwa gratis online, etung kabutuhan perlindungan asuransi jiwa, kalkulator premi asuransi jiwa gratis, piro akeh asuransi jiwa sing dakabutuhke, alat analisis kabutuhan asuransi jiwa, kira jumlah perlindungan asuransi jiwa, etung kabutuhan perlindungan asuransi kulawarga, kalkulator asuransi jiwa karo tanggungan, kalkulator kabutuhan asuransi jiwa online gratis, kalkulator kesenjangan perlindungan asuransi jiwa, alat perhitungan asuransi jiwa pribadi, penilaian kabutuhan asuransi jiwa langsung, kalkulator perencanaan asuransi jiwa gratis, etung perlindungan asuransi sing direkomendasikake, estimator premi asuransi jiwa online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

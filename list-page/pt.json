@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Calculadoras de Seguro",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Calculadoras de Seguro - Ferramentas Online Gratuitas",
+        "meta_description": "Coleção completa de calculadoras de seguro gratuitas: vida, saúde, auto, casa, viagem. Calcule prêmios, franquias e cobertura instantaneamente!",
+        "meta_keyword": "calculadora de seguro, calculadoras de seguro, calculadora de seguro grátis, calculadora de prêmios de seguro, calculadora de franquias de seguro, calculadora de seguro de vida, calculadora de seguro de saúde, calculadora de seguro de auto, calculadora de seguro residencial, calculadora de seguro viagem, calculadora de proteção de renda, calculadora de seguro de invalidez, calculadora de seguro desemprego, calculadora de seguro online, calculadora de seguro em linha, calculadora de seguro online grátis, calculadora de prêmios de seguro online, calculadora de cobertura de seguro, calculadora de cotação de seguro, calculadora de custo de seguro, ferramenta estimadora de seguro, ferramenta de cálculo de seguro, calculadora de planejamento de seguro, calculadora de seguro abrangente, ferramenta calculadora multi seguro, calculadora de comparação de seguro, calculadora de seguro instantânea, calculadora de seguro pessoal, calculadora de necessidades de seguro, calcular prêmio de seguro online grátis, ferramentas calculadora de seguro online grátis, calculadora de estimativa de prêmios de seguro, ferramenta de cálculo de franquias de seguro, calculadora de seguro múltiplos tipos de cobertura, plataforma calculadora de seguro profissional, calculadora de seguro para planejamento pessoal",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Vida",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Seguro de Vida - Ferramenta Grátis",
+        "meta_description": "Calcule suas necessidades de seguro de vida instantaneamente! Ferramenta online gratuita estima cobertura, prêmios e proteção financeira familiar. Resultados personalizados.",
+        "meta_keyword": "seguro de vida, calculadora de seguro, calculadora de cobertura, calculadora de prêmios, necessidades de seguro, proteção familiar, planejamento financeiro, avaliação de riscos, calculadora de seguro de vida, calculadora de necessidades de seguro, ferramenta de necessidades de cobertura, ferramenta de estimativa de prêmios, calculadora de proteção financeira, ferramenta de planejamento de seguro, calculadora de seguro familiar, calculadora de seguro online, calculadora de seguro de vida grátis online, calcular necessidades de cobertura de seguro de vida, calculadora de prêmios de seguro de vida grátis, quanto seguro de vida eu preciso, ferramenta de análise de necessidades de seguro de vida, estimar valor de cobertura de seguro de vida, calcular necessidades de proteção de seguro familiar, calculadora de seguro de vida com dependentes, calculadora de necessidades de seguro de vida online grátis, calculadora de lacuna de cobertura de seguro de vida, ferramenta pessoal de cálculo de seguro de vida, avaliação instantânea de necessidades de seguro de vida, calculadora de planejamento de seguro de vida grátis, calcular cobertura de seguro recomendada, estimador de prêmios de seguro de vida online",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

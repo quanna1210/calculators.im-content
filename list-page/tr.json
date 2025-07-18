@@ -1023,5 +1023,31 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "81",
+        "thumb": "https://static.calculators.im/upload/thumb/insurance-calculators.jpg",
+        "title": "Sigorta Hesaplayıcıları",
+        "slug": "insurance-calculators",
+        "parent_id": "0",
+        "meta_title": "Sigorta Hesaplayıcıları - Ücretsiz Online Araçlar",
+        "meta_description": "Ücretsiz sigorta hesaplayıcıları tam koleksiyonu: yaşam, sağlık, otomobil, ev, seyahat. Primleri, muafiyetleri ve kapsamı anında hesaplayın!",
+        "meta_keyword": "sigorta hesaplayıcısı, sigorta hesaplayıcıları, ücretsiz sigorta hesaplayıcısı, sigorta primi hesaplayıcısı, sigorta muafiyeti hesaplayıcısı, hayat sigortası hesaplayıcısı, sağlık sigortası hesaplayıcısı, otomobil sigortası hesaplayıcısı, ev sigortası hesaplayıcısı, seyahat sigortası hesaplayıcısı, gelir koruma hesaplayıcısı, engellilik sigortası hesaplayıcısı, işsizlik sigortası hesaplayıcısı, online sigorta hesaplayıcısı, sigorta hesaplayıcısı online, ücretsiz sigorta hesaplayıcısı online, sigorta primi hesaplayıcısı online, sigorta kapsamı hesaplayıcısı, sigorta teklifi hesaplayıcısı, sigorta maliyeti hesaplayıcısı, sigorta tahminci aracı, sigorta hesaplama aracı, sigorta planlama hesaplayıcısı, kapsamlı sigorta hesaplayıcısı, multi sigorta hesaplayıcı aracı, sigorta karşılaştırma hesaplayıcısı, anında sigorta hesaplayıcısı, kişisel sigorta hesaplayıcısı, sigorta ihtiyacı hesaplayıcısı, sigorta primi online ücretsiz hesapla, ücretsiz online sigorta hesaplayıcı araçları, sigorta primi tahmin hesaplayıcısı, sigorta muafiyeti hesaplama aracı, sigorta hesaplayıcısı çoklu kapsam türleri, profesyonel sigorta hesaplayıcı platformu, kişisel planlama için sigorta hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "6"
+    },
+    {
+        "id": "82",
+        "thumb": "https://static.calculators.im/upload/thumb/life-insurance-calculator.jpg",
+        "title": "Hayat Sigortası Hesaplayıcısı",
+        "slug": "life-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Hayat Sigortası Hesaplayıcısı - Ücretsiz Araç",
+        "meta_description": "Hayat sigortası ihtiyaçlarınızı anında hesaplayın! Ücretsiz online araç teminat, prim ve aile mali korumasını tahmin eder. Kişiselleştirilmiş sonuçlar.",
+        "meta_keyword": "hayat sigortası, sigorta hesaplayıcısı, teminat hesaplayıcısı, prim hesaplayıcısı, sigorta ihtiyaçları, aile koruması, finansal planlama, risk değerlendirmesi, hayat sigortası hesaplayıcısı, sigorta ihtiyaç hesaplayıcısı, teminat ihtiyaç aracı, prim tahmin aracı, finansal koruma hesaplayıcısı, sigorta planlama aracı, aile sigorta hesaplayıcısı, online sigorta hesaplayıcısı, ücretsiz online hayat sigortası hesaplayıcısı, hayat sigortası teminat ihtiyaçlarını hesapla, ücretsiz hayat sigortası prim hesaplayıcısı, ne kadar hayat sigortasına ihtiyacım var, hayat sigortası ihtiyaç analiz aracı, hayat sigortası teminat miktarını tahmin et, aile sigorta koruma ihtiyaçlarını hesapla, bakmakla yükümlü kişilerle hayat sigortası hesaplayıcısı, ücretsiz online hayat sigortası ihtiyaç hesaplayıcısı, hayat sigortası teminat açığı hesaplayıcısı, kişisel hayat sigortası hesaplama aracı, anında hayat sigortası ihtiyaç değerlendirmesi, ücretsiz hayat sigortası planlama hesaplayıcısı, önerilen sigorta teminatını hesapla, online hayat sigortası prim tahmincisi",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
