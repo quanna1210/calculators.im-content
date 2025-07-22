@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Health Insurance Calculator",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Free Health Insurance Calculator | Calculate Premiums",
+        "meta_description": "Calculate health insurance premiums instantly. Free calculator for individual, family & employee coverage. Compare costs, deductibles & subsidies worldwide.",
+        "meta_keyword": "health insurance calculator, insurance calculator, premium calculator, health coverage calculator, insurance cost calculator, medical insurance calculator, health insurance cost, insurance premium, health coverage cost, insurance quotes, health insurance quotes, medical insurance cost, insurance estimate, health insurance estimate, calculate health insurance, calculate insurance premium, health insurance comparison, insurance cost comparison, free health insurance calculator, online insurance calculator, health insurance premium calculator, medical insurance premium calculator, family health insurance calculator, individual health insurance calculator, employee health insurance calculator, health insurance cost estimator, insurance premium estimator, health coverage cost calculator, international health insurance calculator, worldwide health insurance calculator, health insurance planning tool, insurance cost planning, health insurance budget calculator, medical insurance budget tool, health insurance subsidy calculator, insurance deductible calculator, out of pocket cost calculator, health insurance affordability calculator, compare health insurance plans, health insurance cost comparison tool, calculate monthly health insurance, calculate annual health insurance, health insurance price calculator, medical insurance price estimator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

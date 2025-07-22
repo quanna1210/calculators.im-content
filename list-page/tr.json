@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Sağlık Sigortası Hesaplayıcısı",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Sağlık Sigortası Hesaplayıcısı Ücretsiz | Prim Hesapla",
+        "meta_description": "Sağlık sigortası primlerini anında hesaplayın. Bireysel, aile ve çalışan kapsamı için ücretsiz hesaplayıcı. Maliyetleri, muafiyetleri ve sübvansiyonları karşılaştırın.",
+        "meta_keyword": "sağlık sigortası hesaplayıcısı, sigorta hesaplayıcısı, prim hesaplayıcısı, sağlık kapsamı hesaplayıcısı, sigorta maliyeti hesaplayıcısı, sağlık sigortası hesaplayıcısı, sağlık sigortası maliyeti, sigorta primi, sağlık kapsamı maliyeti, sigorta teklifleri, sağlık sigortası teklifleri, sağlık sigortası maliyeti, sigorta tahmini, sağlık sigortası tahmini, sağlık sigortası hesapla, sigorta primi hesapla, sağlık sigortası karşılaştırması, sigorta maliyeti karşılaştırması, sağlık sigortası hesaplayıcısı ücretsiz, online sigorta hesaplayıcısı, sağlık sigortası primi hesaplayıcısı, sağlık sigortası primi hesaplayıcısı, aile sağlık sigortası hesaplayıcısı, bireysel sağlık sigortası hesaplayıcısı, çalışan sağlık sigortası hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

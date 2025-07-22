@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Calcolatore Assicurazione Sanitaria",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calcolatore Assicurazione Sanitaria Gratis | Calcola",
+        "meta_description": "Calcola i premi assicurazione sanitaria istantaneamente. Calcolatore gratuito per copertura individuale, familiare e dipendenti. Confronta costi e franchigie.",
+        "meta_keyword": "calcolatore assicurazione sanitaria, calcolatore assicurazione, calcolatore premio, calcolatore copertura sanitaria, calcolatore costo assicurazione, calcolatore assicurazione medica, costo assicurazione sanitaria, premio assicurazione, costo copertura sanitaria, preventivi assicurazione, preventivi assicurazione sanitaria, costo assicurazione medica, stima assicurazione, stima assicurazione sanitaria, calcolare assicurazione sanitaria, calcolare premio assicurazione, confronto assicurazione sanitaria, confronto costo assicurazione, calcolatore assicurazione sanitaria gratis, calcolatore assicurazione online, calcolatore premio assicurazione sanitaria, calcolatore premio assicurazione medica, calcolatore assicurazione sanitaria familiare, calcolatore assicurazione sanitaria individuale, calcolatore assicurazione sanitaria dipendente",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

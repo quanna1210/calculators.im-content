@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Calculator Asigurare de Sănătate",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculator Asigurare Sănătate Gratis | Calculați Prime",
+        "meta_description": "Calculați primele de asigurare de sănătate instant. Calculator gratuit pentru acoperire individuală, familială și angajați. Comparați costuri și franciză.",
+        "meta_keyword": "calculator asigurare sănătate, calculator asigurare, calculator primă, calculator acoperire sănătate, calculator cost asigurare, calculator asigurare medicală, cost asigurare sănătate, primă asigurare, cost acoperire sănătate, oferte asigurare, oferte asigurare sănătate, cost asigurare medicală, estimare asigurare, estimare asigurare sănătate, calculați asigurare sănătate, calculați primă asigurare, comparație asigurare sănătate, comparație cost asigurare, calculator asigurare sănătate gratis, calculator asigurare online, calculator primă asigurare sănătate, calculator primă asigurare medicală, calculator asigurare sănătate familială, calculator asigurare sănătate individuală, calculator asigurare sănătate angajat",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

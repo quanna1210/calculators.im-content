@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Zorgverzekering Calculator",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Zorgverzekering Calculator Gratis | Premies Berekenen",
+        "meta_description": "Bereken zorgverzekeringspremies direct. Gratis calculator voor individuele, gezins- en werknemersverzekering. Vergelijk kosten, eigen risico en subsidies.",
+        "meta_keyword": "zorgverzekering calculator, verzekering calculator, premie calculator, zorgdekking calculator, verzekeringskost calculator, zorgverzekering calculator, zorgverzekeringskosten, verzekeringspremie, zorgdekkingskosten, verzekeringoffertes, zorgverzekeringsoffertes, zorgverzekeringskosten, verzekeringschatting, zorgverzekeringschatting, zorgverzekering berekenen, verzekeringspremie berekenen, zorgverzekeringsvergelijking, verzekeringskostenvergelijking, zorgverzekering calculator gratis, online verzekering calculator, zorgverzekeringspremie calculator, zorgverzekeringspremie calculator, gezinszorgverzekering calculator, individuele zorgverzekering calculator, werknemers zorgverzekering calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

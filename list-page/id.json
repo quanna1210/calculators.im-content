@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Kesehatan",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Asuransi Kesehatan Gratis | Hitung Premi",
+        "meta_description": "Hitung premi asuransi kesehatan secara instan. Kalkulator gratis untuk cakupan individu, keluarga & karyawan. Bandingkan biaya, deductible & subsidi.",
+        "meta_keyword": "kalkulator asuransi kesehatan, kalkulator asuransi, kalkulator premi, kalkulator cakupan kesehatan, kalkulator biaya asuransi, kalkulator asuransi medis, biaya asuransi kesehatan, premi asuransi, biaya cakupan kesehatan, kutipan asuransi, kutipan asuransi kesehatan, biaya asuransi medis, estimasi asuransi, estimasi asuransi kesehatan, hitung asuransi kesehatan, hitung premi asuransi, perbandingan asuransi kesehatan, perbandingan biaya asuransi, kalkulator asuransi kesehatan gratis, kalkulator asuransi online, kalkulator premi asuransi kesehatan, kalkulator premi asuransi medis, kalkulator asuransi kesehatan keluarga, kalkulator asuransi kesehatan individu, kalkulator asuransi kesehatan karyawan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

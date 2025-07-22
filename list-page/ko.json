@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "건강보험 계산기",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "건강보험 계산기 무료 | 보험료 계산",
+        "meta_description": "건강보험료를 즉시 계산하세요. 개인, 가족 및 직원 보장을 위한 무료 계산기. 비용, 공제액 및 보조금을 비교하세요.",
+        "meta_keyword": "건강보험 계산기, 보험 계산기, 보험료 계산기, 건강보장 계산기, 보험비용 계산기, 의료보험 계산기, 건강보험 비용, 보험료, 건강보장 비용, 보험 견적, 건강보험 견적, 의료보험 비용, 보험 추정, 건강보험 추정, 건강보험 계산, 보험료 계산, 건강보험 비교, 보험비용 비교, 건강보험 계산기 무료, 온라인 보험 계산기, 건강보험료 계산기, 의료보험료 계산기, 가족 건강보험 계산기, 개인 건강보험 계산기, 직원 건강보험 계산기",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

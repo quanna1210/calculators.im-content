@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Kalkulačka Zdravotního Pojištění",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulačka Zdravotního Pojištění Zdarma | Výpočet",
+        "meta_description": "Vypočítejte pojistné zdravotního pojištění okamžitě. Bezplatná kalkulačka pro individuální, rodinné a zaměstnanecké pojištění. Porovnejte náklady.",
+        "meta_keyword": "kalkulačka zdravotního pojištění, kalkulačka pojištění, kalkulačka pojistného, kalkulačka zdravotního pokrytí, kalkulačka nákladů pojištění, kalkulačka zdravotního pojištění, náklady zdravotního pojištění, pojistné, náklady zdravotního pokrytí, nabídky pojištění, nabídky zdravotního pojištění, náklady zdravotního pojištění, odhad pojištění, odhad zdravotního pojištění, výpočet zdravotního pojištění, výpočet pojistného, porovnání zdravotního pojištění, porovnání nákladů pojištění, kalkulačka zdravotního pojištění zdarma, online kalkulačka pojištění, kalkulačka pojistného zdravotního pojištění, kalkulačka pojistného zdravotního pojištění, kalkulačka rodinného zdravotního pojištění, kalkulačka individuálního zdravotního pojištění, kalkulačka zaměstnaneckého zdravotního pojištění",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

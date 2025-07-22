@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Kesehatan",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Asuransi Kesehatan Gratis | Etung Premi",
+        "meta_description": "Etung premi asuransi kesehatan kanthi cepet. Kalkulator gratis kanggo jangkoan individu, kulawarga & karyawan. Bandhingake biaya lan subsidi.",
+        "meta_keyword": "kalkulator asuransi kesehatan, kalkulator asuransi, kalkulator premi, kalkulator jangkoan kesehatan, kalkulator biaya asuransi, kalkulator asuransi medis, biaya asuransi kesehatan, premi asuransi, biaya jangkoan kesehatan, kutipan asuransi, kutipan asuransi kesehatan, biaya asuransi medis, estimasi asuransi, estimasi asuransi kesehatan, etung asuransi kesehatan, etung premi asuransi, perbandingan asuransi kesehatan, perbandingan biaya asuransi, kalkulator asuransi kesehatan gratis, kalkulator asuransi online, kalkulator premi asuransi kesehatan, kalkulator premi asuransi medis, kalkulator asuransi kesehatan kulawarga, kalkulator asuransi kesehatan individu, kalkulator asuransi kesehatan karyawan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

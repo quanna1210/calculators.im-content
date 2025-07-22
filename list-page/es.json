@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Salud",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Seguro Salud Gratis | Calcular Primas",
+        "meta_description": "Calcule primas de seguro de salud al instante. Calculadora gratuita para cobertura individual, familiar y empleados. Compare costos, deducibles y subsidios.",
+        "meta_keyword": "calculadora seguro salud, calculadora seguro, calculadora prima, calculadora cobertura salud, calculadora costo seguro, calculadora seguro médico, costo seguro salud, prima seguro, costo cobertura salud, cotizaciones seguro, cotizaciones seguro salud, costo seguro médico, estimación seguro, estimación seguro salud, calcular seguro salud, calcular prima seguro, comparación seguro salud, comparación costo seguro, calculadora seguro salud gratis, calculadora seguro online, calculadora prima seguro salud, calculadora prima seguro médico, calculadora seguro salud familiar, calculadora seguro salud individual, calculadora seguro salud empleado",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

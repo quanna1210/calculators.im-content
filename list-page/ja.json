@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "健康保険計算機",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "健康保険計算機無料 | 保険料計算",
+        "meta_description": "健康保険料を即座に計算。個人、家族、従業員向けの無料計算機。費用、免責額、補助金を比較。世界中で利用可能。",
+        "meta_keyword": "健康保険計算機, 保険計算機, 保険料計算機, 健康保障計算機, 保険費用計算機, 医療保険計算機, 健康保険費用, 保険料, 健康保障費用, 保険見積もり, 健康保険見積もり, 医療保険費用, 保険推定, 健康保険推定, 健康保険計算, 保険料計算, 健康保険比較, 保険費用比較, 健康保険計算機無料, オンライン保険計算機, 健康保険料計算機, 医療保険料計算機, 家族健康保険計算機, 個人健康保険計算機, 従業員健康保険計算機",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

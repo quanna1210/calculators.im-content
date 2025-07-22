@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Egészségbiztosítás Kalkulátor",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Egészségbiztosítás Kalkulátor Ingyen | Díjak Számítása",
+        "meta_description": "Számítsa ki az egészségbiztosítási díjakat azonnal. Ingyenes kalkulátor egyéni, családi és munkavállalói fedezetre. Hasonlítsa össze a költségeket.",
+        "meta_keyword": "egészségbiztosítás kalkulátor, biztosítás kalkulátor, díj kalkulátor, egészségügyi fedezet kalkulátor, biztosítási költség kalkulátor, egészségbiztosítás kalkulátor, egészségbiztosítási költség, biztosítási díj, egészségügyi fedezet költsége, biztosítási ajánlatok, egészségbiztosítási ajánlatok, egészségbiztosítási költség, biztosítási becslés, egészségbiztosítási becslés, egészségbiztosítás számítása, biztosítási díj számítása, egészségbiztosítás összehasonlítás, biztosítási költség összehasonlítás, egészségbiztosítás kalkulátor ingyen, online biztosítás kalkulátor, egészségbiztosítási díj kalkulátor, egészségbiztosítási díj kalkulátor, családi egészségbiztosítás kalkulátor, egyéni egészségbiztosítás kalkulátor, munkavállalói egészségbiztosítás kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

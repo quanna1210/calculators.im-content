@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Kalkulator Insurans Kesihatan",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Insurans Kesihatan Percuma | Kira Premium",
+        "meta_description": "Kira premium insurans kesihatan dengan segera. Kalkulator percuma untuk perlindungan individu, keluarga & pekerja. Bandingkan kos, potongan & subsidi.",
+        "meta_keyword": "kalkulator insurans kesihatan, kalkulator insurans, kalkulator premium, kalkulator perlindungan kesihatan, kalkulator kos insurans, kalkulator insurans perubatan, kos insurans kesihatan, premium insurans, kos perlindungan kesihatan, sebut harga insurans, sebut harga insurans kesihatan, kos insurans perubatan, anggaran insurans, anggaran insurans kesihatan, kira insurans kesihatan, kira premium insurans, perbandingan insurans kesihatan, perbandingan kos insurans, kalkulator insurans kesihatan percuma, kalkulator insurans dalam talian, kalkulator premium insurans kesihatan, kalkulator premium insurans perubatan, kalkulator insurans kesihatan keluarga, kalkulator insurans kesihatan individu, kalkulator insurans kesihatan pekerja",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

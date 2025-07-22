@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Saúde",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Seguro Saúde Grátis | Calcular Prêmios",
+        "meta_description": "Calcule prêmios de seguro de saúde instantaneamente. Calculadora gratuita para cobertura individual, familiar e funcionários. Compare custos e franquias.",
+        "meta_keyword": "calculadora seguro saúde, calculadora seguro, calculadora prêmio, calculadora cobertura saúde, calculadora custo seguro, calculadora seguro médico, custo seguro saúde, prêmio seguro, custo cobertura saúde, cotações seguro, cotações seguro saúde, custo seguro médico, estimativa seguro, estimativa seguro saúde, calcular seguro saúde, calcular prêmio seguro, comparação seguro saúde, comparação custo seguro, calculadora seguro saúde grátis, calculadora seguro online, calculadora prêmio seguro saúde, calculadora prêmio seguro médico, calculadora seguro saúde familiar, calculadora seguro saúde individual, calculadora seguro saúde funcionário",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

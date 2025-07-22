@@ -1049,5 +1049,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Máy Tính Bảo Hiểm Y Tế",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Máy Tính Bảo Hiểm Y Tế Miễn Phí | Tính Phí",
+        "meta_description": "Tính phí bảo hiểm y tế ngay lập tức. Máy tính miễn phí cho bảo hiểm cá nhân, gia đình & nhân viên. So sánh chi phí, khấu trừ & trợ cấp toàn cầu.",
+        "meta_keyword": "máy tính bảo hiểm y tế, máy tính bảo hiểm, máy tính phí bảo hiểm, máy tính bảo hiểm sức khỏe, máy tính chi phí bảo hiểm, máy tính bảo hiểm y tế, chi phí bảo hiểm y tế, phí bảo hiểm, chi phí bảo hiểm sức khỏe, báo giá bảo hiểm, báo giá bảo hiểm y tế, chi phí bảo hiểm y tế, ước tính bảo hiểm, ước tính bảo hiểm y tế, tính bảo hiểm y tế, tính phí bảo hiểm, so sánh bảo hiểm y tế, so sánh chi phí bảo hiểm, máy tính bảo hiểm y tế miễn phí, máy tính bảo hiểm trực tuyến, máy tính phí bảo hiểm y tế, máy tính phí bảo hiểm y tế, máy tính bảo hiểm y tế gia đình, máy tính bảo hiểm y tế cá nhân, máy tính bảo hiểm y tế nhân viên",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

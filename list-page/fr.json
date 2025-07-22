@@ -1050,5 +1050,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "83",
+        "thumb": "https://static.calculators.im/upload/thumb/health-insurance-calculator.jpg",
+        "title": "Calculateur d'Assurance Santé",
+        "slug": "health-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculateur Assurance Santé Gratuit | Calculer Primes",
+        "meta_description": "Calculez les primes d'assurance santé instantanément. Calculateur gratuit pour couverture individuelle, familiale et employés. Comparez coûts et franchises.",
+        "meta_keyword": "calculateur assurance santé, calculateur assurance, calculateur prime, calculateur couverture santé, calculateur coût assurance, calculateur assurance médicale, coût assurance santé, prime assurance, coût couverture santé, devis assurance, devis assurance santé, coût assurance médicale, estimation assurance, estimation assurance santé, calculer assurance santé, calculer prime assurance, comparaison assurance santé, comparaison coût assurance, calculateur assurance santé gratuit, calculateur assurance en ligne, calculateur prime assurance santé, calculateur prime assurance médicale, calculateur assurance santé familiale, calculateur assurance santé individuelle, calculateur assurance santé employé",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
