@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Autoverzekering Calculator",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Autoverzekering Calculator - Gratis Online Tool",
         "meta_description": "Bereken autoverzekeringspremies direct met onze gratis online tool. Krijg gepersonaliseerde offertes voor 23 landen met valutaondersteuning. Probeer nu!",
         "meta_keyword": "autoverzekering, verzekering calculator, auto verzekering, voertuigverzekering, verzekering offerte, premie calculator, autoverzekering calculator, auto verzekering calculator, online verzekering calculator, gratis verzekering calculator, gratis autoverzekering calculator online, autoverzekeringspremie online berekenen, online autoverzekering offerte calculator, multi valuta verzekering calculator, internationale autoverzekering calculator, uitgebreide autoverzekering calculator, autoverzekering schatter tool, directe verzekering berekening, gepersonaliseerde verzekering offertes",
@@ -1059,6 +1059,19 @@
         "meta_title": "Zorgverzekering Calculator Gratis | Premies Berekenen",
         "meta_description": "Bereken zorgverzekeringspremies direct. Gratis calculator voor individuele, gezins- en werknemersverzekering. Vergelijk kosten, eigen risico en subsidies.",
         "meta_keyword": "zorgverzekering calculator, verzekering calculator, premie calculator, zorgdekking calculator, verzekeringskost calculator, zorgverzekering calculator, zorgverzekeringskosten, verzekeringspremie, zorgdekkingskosten, verzekeringoffertes, zorgverzekeringsoffertes, zorgverzekeringskosten, verzekeringschatting, zorgverzekeringschatting, zorgverzekering berekenen, verzekeringspremie berekenen, zorgverzekeringsvergelijking, verzekeringskostenvergelijking, zorgverzekering calculator gratis, online verzekering calculator, zorgverzekeringspremie calculator, zorgverzekeringspremie calculator, gezinszorgverzekering calculator, individuele zorgverzekering calculator, werknemers zorgverzekering calculator",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Huisverzekering Calculator",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Gratis Huisverzekering Calculator - Snelle Offertes",
+        "meta_description": "Bereken huisverzekeringskosten direct. Gratis tool voor huizen, appartementen, rijtjeshuizen. Vergelijk tarieven, eigen risico en dekking opties nu!",
+        "meta_keyword": "verzekering, calculator, premie, offerte, huis, onroerend goed, tarieven, dekking, eigen risico, aansprakelijkheid, schatting, tool, gratis, direct, vergelijken, bescherming, huiseigenaren, woning, residentieel, persoonlijk, veiligheid, jaarlijks, maandelijks, kosten, prijs, betaalbaar, goedkoop, beste, online, digitaal, web, mobiel, desktop, berekenen, berekening, schatting, evaluatie, beoordeling, huisverzekering, onroerend goed verzekering, verzekering calculator, premie calculator, verzekeringsstarieven, dekking calculator, eigen risico calculator, aansprakelijkheidsdekking, persoonlijke eigendommen, verzekeringofferte, verzekeringschatting, huiseigenaar verzekering, woningverzekering, residentiële verzekering, onroerend goed bescherming, verzekeringsvergelijking, verzekeringtool, gratis calculator, online calculator, verzekeringspremie calculator, huisverzekering calculator, onroerend goed verzekering calculator, huiseigenaar verzekering calculator, woningverzekering calculator, residentiële verzekering calculator, gratis huisverzekering calculator, online huisverzekering calculator, directe verzekeringofferte calculator, huisverzekeringsremie calculator, onroerend goed verzekeringofferte calculator, huiseigenaar verzekeringschatting calculator, woningverzekeringsremie calculator, gratis online huisverzekering calculator, directe huisverzekeringofferte calculator, online huisverzekeringstarieven calculator, onroerend goed verzekeringspremie schatting calculator",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Calculadora Seguro Auto",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Calculadora Seguro Auto - Ferramenta Grátis Online",
         "meta_description": "Calcule prêmios de seguro auto instantaneamente com nossa ferramenta online gratuita. Obtenha cotações personalizadas para 23 países com suporte a moedas.",
         "meta_keyword": "seguro auto, calculadora seguro, seguro automóvel, seguro veículo, cotação seguro, calculadora prêmio, calculadora seguro auto, calculadora seguro automóvel, calculadora seguro online, calculadora seguro grátis, calculadora seguro auto grátis online, calcular prêmio seguro auto online, calculadora cotação seguro auto online, calculadora seguro multi moeda, calculadora seguro auto internacional, calculadora seguro auto abrangente, ferramenta estimador seguro auto, cálculo seguro instantâneo, cotações seguro personalizadas",
@@ -1059,6 +1059,19 @@
         "meta_title": "Calculadora Seguro Saúde Grátis | Calcular Prêmios",
         "meta_description": "Calcule prêmios de seguro de saúde instantaneamente. Calculadora gratuita para cobertura individual, familiar e funcionários. Compare custos e franquias.",
         "meta_keyword": "calculadora seguro saúde, calculadora seguro, calculadora prêmio, calculadora cobertura saúde, calculadora custo seguro, calculadora seguro médico, custo seguro saúde, prêmio seguro, custo cobertura saúde, cotações seguro, cotações seguro saúde, custo seguro médico, estimativa seguro, estimativa seguro saúde, calcular seguro saúde, calcular prêmio seguro, comparação seguro saúde, comparação custo seguro, calculadora seguro saúde grátis, calculadora seguro online, calculadora prêmio seguro saúde, calculadora prêmio seguro médico, calculadora seguro saúde familiar, calculadora seguro saúde individual, calculadora seguro saúde funcionário",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro Residencial",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Grátis Seguro Casa - Cotações Rápidas",
+        "meta_description": "Calcule prêmios de seguro residencial instantaneamente. Ferramenta gratuita para casas, apartamentos, sobrados. Compare taxas, franquias e coberturas!",
+        "meta_keyword": "seguro, calculadora, prêmio, cotação, casa, propriedade, taxas, cobertura, franquia, responsabilidade, estimativa, ferramenta, grátis, instantâneo, comparar, proteção, proprietários, habitação, residencial, pessoal, segurança, anual, mensal, custo, preço, acessível, barato, melhor, online, digital, web, móvel, desktop, calcular, cálculo, estimativa, avaliação, avaliação, seguro residencial, seguro de propriedade, calculadora de seguro, calculadora de prêmio, taxas de seguro, calculadora de cobertura, calculadora de franquia, cobertura de responsabilidade, propriedade pessoal, cotação de seguro, estimativa de seguro, seguro de proprietários, seguro habitacional, seguro residencial, proteção de propriedade, comparação de seguros, ferramenta de seguro, calculadora gratuita, calculadora online, calculadora de prêmio de seguro, calculadora de seguro residencial, calculadora de seguro de propriedade, calculadora de seguro de proprietários, calculadora de seguro habitacional, calculadora de seguro residencial, calculadora gratuita de seguro residencial, calculadora online de seguro residencial, calculadora de cotação instantânea de seguro, calculadora de prêmio de seguro residencial, calculadora de cotação de seguro de propriedade, calculadora de estimativa de seguro de proprietários, calculadora de prêmio de seguro habitacional, calculadora gratuita online de seguro residencial, calculadora de cotação instantânea de seguro residencial, calculadora online de taxas de seguro residencial, calculadora de estimativa de prêmio de seguro de propriedade",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

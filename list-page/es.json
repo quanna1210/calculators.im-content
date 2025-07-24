@@ -939,7 +939,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Calculadora de Seguro de Auto",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Calculadora Seguro Auto - Herramienta Gratis Online",
         "meta_description": "Calcula primas de seguro de auto al instante con nuestra herramienta online gratuita. Obtén cotizaciones personalizadas para 23 países con soporte de monedas.",
         "meta_keyword": "seguro de auto, calculadora de seguro, seguro automotriz, seguro vehicular, cotización de seguro, calculadora de prima, calculadora de seguro de auto, calculadora de seguro automotriz, calculadora de seguro online, calculadora de seguro gratis, calculadora de seguro de auto gratis online, calcular prima de seguro de auto online, calculadora de cotización de seguro de auto online, calculadora de seguro multi moneda, calculadora de seguro de auto internacional, calculadora de seguro de auto integral, herramienta estimador de seguro de auto, cálculo de seguro instantáneo, cotizaciones de seguro personalizadas",
@@ -1060,6 +1060,19 @@
         "meta_title": "Calculadora Seguro Salud Gratis | Calcular Primas",
         "meta_description": "Calcule primas de seguro de salud al instante. Calculadora gratuita para cobertura individual, familiar y empleados. Compare costos, deducibles y subsidios.",
         "meta_keyword": "calculadora seguro salud, calculadora seguro, calculadora prima, calculadora cobertura salud, calculadora costo seguro, calculadora seguro médico, costo seguro salud, prima seguro, costo cobertura salud, cotizaciones seguro, cotizaciones seguro salud, costo seguro médico, estimación seguro, estimación seguro salud, calcular seguro salud, calcular prima seguro, comparación seguro salud, comparación costo seguro, calculadora seguro salud gratis, calculadora seguro online, calculadora prima seguro salud, calculadora prima seguro médico, calculadora seguro salud familiar, calculadora seguro salud individual, calculadora seguro salud empleado",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro de Casa",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Gratis Seguro Casa - Cotizaciones Rápidas",
+        "meta_description": "Calcula primas de seguro de casa al instante. Herramienta gratuita para casas, condos, townhouses. Compara tarifas, deducibles y opciones de cobertura!",
+        "meta_keyword": "seguro, calculadora, prima, cotización, casa, propiedad, tarifas, cobertura, deducible, responsabilidad, estimación, herramienta, gratis, instantáneo, comparar, protección, propietarios, vivienda, residencial, personal, seguridad, anual, mensual, costo, precio, asequible, barato, mejor, online, digital, web, móvil, escritorio, calcular, cálculo, estimación, evaluación, valoración, seguro de casa, seguro de propiedad, calculadora de seguro, calculadora de prima, tarifas de seguro, calculadora de cobertura, calculadora de deducible, cobertura de responsabilidad, propiedad personal, cotización de seguro, estimación de seguro, seguro de propietarios, seguro de vivienda, seguro residencial, protección de propiedad, comparación de seguros, herramienta de seguro, calculadora gratuita, calculadora online, calculadora de prima de seguro, calculadora de seguro de casa, calculadora de seguro de propiedad, calculadora de seguro de propietarios, calculadora de seguro de vivienda, calculadora de seguro residencial, calculadora gratuita de seguro de casa, calculadora online de seguro de casa, calculadora de cotización instantánea de seguro, calculadora de prima de seguro de casa, calculadora de cotización de seguro de propiedad, calculadora de estimación de seguro de propietarios, calculadora de prima de seguro de vivienda, calculadora gratuita online de seguro de casa, calculadora de cotización instantánea de seguro de casa, calculadora online de tarifas de seguro de casa, calculadora de estimación de prima de seguro de propiedad",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

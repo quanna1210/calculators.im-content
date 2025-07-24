@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Kalkulator Ubezpieczenia Samochodu",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Kalkulator Ubezpieczenia Auto - Darmowe Narzędzie",
         "meta_description": "Oblicz składki ubezpieczenia samochodu natychmiast za pomocą naszego darmowego narzędzia online. Uzyskaj spersonalizowane oferty dla 23 krajów z obsługą walut.",
         "meta_keyword": "ubezpieczenie samochodu, kalkulator ubezpieczenia, ubezpieczenie auto, ubezpieczenie pojazdu, oferta ubezpieczenia, kalkulator składki, kalkulator ubezpieczenia samochodu, kalkulator ubezpieczenia auto, kalkulator ubezpieczenia online, darmowy kalkulator ubezpieczenia, darmowy kalkulator ubezpieczenia samochodu online, oblicz składkę ubezpieczenia samochodu online, kalkulator oferty ubezpieczenia samochodu online, kalkulator ubezpieczenia wielu walut, międzynarodowy kalkulator ubezpieczenia samochodu, kompleksowy kalkulator ubezpieczenia samochodu, narzędzie estymatora ubezpieczenia samochodu, natychmiastowe obliczenie ubezpieczenia, spersonalizowane oferty ubezpieczenia",
@@ -1059,6 +1059,19 @@
         "meta_title": "Kalkulator Ubezpieczenia Zdrowotnego Za Darmo | Składki",
         "meta_description": "Oblicz składki ubezpieczenia zdrowotnego natychmiast. Darmowy kalkulator dla ochrony indywidualnej, rodzinnej i pracowniczej. Porównaj koszty i dopłaty.",
         "meta_keyword": "kalkulator ubezpieczenia zdrowotnego, kalkulator ubezpieczenia, kalkulator składki, kalkulator ochrony zdrowia, kalkulator kosztu ubezpieczenia, kalkulator ubezpieczenia medycznego, koszt ubezpieczenia zdrowotnego, składka ubezpieczeniowa, koszt ochrony zdrowia, oferty ubezpieczenia, oferty ubezpieczenia zdrowotnego, koszt ubezpieczenia medycznego, oszacowanie ubezpieczenia, oszacowanie ubezpieczenia zdrowotnego, oblicz ubezpieczenie zdrowotne, oblicz składkę ubezpieczeniową, porównanie ubezpieczenia zdrowotnego, porównanie kosztu ubezpieczenia, kalkulator ubezpieczenia zdrowotnego za darmo, kalkulator ubezpieczenia online, kalkulator składki ubezpieczenia zdrowotnego, kalkulator składki ubezpieczenia medycznego, kalkulator rodzinnego ubezpieczenia zdrowotnego, kalkulator indywidualnego ubezpieczenia zdrowotnego, kalkulator pracowniczego ubezpieczenia zdrowotnego",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Kalkulator Ubezpieczenia Domu",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Darmowy Kalkulator Ubezpieczenia Domu - Szybkie Oferty",
+        "meta_description": "Oblicz składki ubezpieczenia domu natychmiast. Darmowe narzędzie dla domów, mieszkań, szeregówek. Porównaj stawki, udział własny i opcje pokrycia!",
+        "meta_keyword": "ubezpieczenie, kalkulator, składka, oferta, dom, nieruchomość, stawki, pokrycie, udział własny, odpowiedzialność, oszacowanie, narzędzie, darmowe, natychmiast, porównać, ochrona, właściciele domów, mieszkanie, mieszkaniowy, osobisty, bezpieczeństwo, roczny, miesięczny, koszt, cena, przystępny, tani, najlepszy, online, cyfrowy, web, mobilny, desktop, obliczać, obliczenie, oszacowanie, ocena, wycena, ubezpieczenie domu, ubezpieczenie nieruchomości, kalkulator ubezpieczenia, kalkulator składki, stawki ubezpieczenia, kalkulator pokrycia, kalkulator udziału własnego, pokrycie odpowiedzialności, mienie osobiste, oferta ubezpieczenia, oszacowanie ubezpieczenia, ubezpieczenie właścicieli domów, ubezpieczenie mieszkaniowe, ubezpieczenie mieszkaniowe, ochrona nieruchomości, porównanie ubezpieczeń, narzędzie ubezpieczeniowe, darmowy kalkulator, kalkulator online, kalkulator składki ubezpieczenia, kalkulator ubezpieczenia domu, kalkulator ubezpieczenia nieruchomości, kalkulator ubezpieczenia właścicieli domów, kalkulator ubezpieczenia mieszkaniowego, kalkulator ubezpieczenia mieszkaniowego, darmowy kalkulator ubezpieczenia domu, kalkulator online ubezpieczenia domu, kalkulator natychmiastowej oferty ubezpieczenia, kalkulator składki ubezpieczenia domu, kalkulator oferty ubezpieczenia nieruchomości, kalkulator oszacowania ubezpieczenia właścicieli domów, kalkulator składki ubezpieczenia mieszkaniowego, darmowy kalkulator online ubezpieczenia domu, kalkulator natychmiastowej oferty ubezpieczenia domu, kalkulator online stawek ubezpieczenia domu, kalkulator oszacowania składki ubezpieczenia nieruchomości",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

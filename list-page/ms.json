@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Kalkulator Insurans Kereta",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Kalkulator Insurans Kereta - Alat Sebut Harga Percuma",
         "meta_description": "Kira premium insurans kereta dengan serta-merta menggunakan alat dalam talian percuma kami. Dapatkan sebut harga peribadi untuk 23 negara dengan sokongan mata wang.",
         "meta_keyword": "insurans kereta, kalkulator insurans, insurans auto, insurans kenderaan, sebut harga insurans, kalkulator premium, kalkulator insurans kereta, kalkulator insurans auto, kalkulator insurans dalam talian, kalkulator insurans percuma, kalkulator insurans kereta percuma dalam talian, kira premium insurans kereta dalam talian, kalkulator sebut harga insurans kereta dalam talian, kalkulator insurans pelbagai mata wang, kalkulator insurans kereta antarabangsa, kalkulator insurans kereta komprehensif, alat penganggar insurans kereta, pengiraan insurans segera, sebut harga insurans peribadi",
@@ -1059,6 +1059,19 @@
         "meta_title": "Kalkulator Insurans Kesihatan Percuma | Kira Premium",
         "meta_description": "Kira premium insurans kesihatan dengan segera. Kalkulator percuma untuk perlindungan individu, keluarga & pekerja. Bandingkan kos, potongan & subsidi.",
         "meta_keyword": "kalkulator insurans kesihatan, kalkulator insurans, kalkulator premium, kalkulator perlindungan kesihatan, kalkulator kos insurans, kalkulator insurans perubatan, kos insurans kesihatan, premium insurans, kos perlindungan kesihatan, sebut harga insurans, sebut harga insurans kesihatan, kos insurans perubatan, anggaran insurans, anggaran insurans kesihatan, kira insurans kesihatan, kira premium insurans, perbandingan insurans kesihatan, perbandingan kos insurans, kalkulator insurans kesihatan percuma, kalkulator insurans dalam talian, kalkulator premium insurans kesihatan, kalkulator premium insurans perubatan, kalkulator insurans kesihatan keluarga, kalkulator insurans kesihatan individu, kalkulator insurans kesihatan pekerja",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Kalkulator Insurans Rumah",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Insurans Rumah Percuma - Sebut Harga Pantas",
+        "meta_description": "Kira premium insurans rumah dengan serta-merta. Alat percuma untuk rumah, kondo, rumah teres. Bandingkan kadar, deduktibel & pilihan perlindungan pantas!",
+        "meta_keyword": "insurans, kalkulator, premium, sebut harga, rumah, hartanah, kadar, perlindungan, deduktibel, liabiliti, anggaran, alat, percuma, segera, bandingkan, perlindungan, pemilik rumah, kediaman, residential, peribadi, keselamatan, keamanan, tahunan, bulanan, kos, harga, mampu milik, murah, terbaik, dalam talian, digital, web, mudah alih, desktop, kira, pengiraan, anggaran, penilaian, taksiran, insurans rumah, insurans hartanah, kalkulator insurans, kalkulator premium, kadar insurans, kalkulator perlindungan, kalkulator deduktibel, perlindungan liabiliti, harta peribadi, sebut harga insurans, anggaran insurans, insurans pemilik rumah, insurans kediaman, insurans residential, perlindungan hartanah, perbandingan insurans, alat insurans, kalkulator percuma, kalkulator dalam talian, kalkulator premium insurans, kalkulator insurans rumah, kalkulator insurans hartanah, kalkulator insurans pemilik rumah, kalkulator insurans kediaman, kalkulator insurans residential, kalkulator insurans rumah percuma, kalkulator insurans rumah dalam talian, kalkulator sebut harga insurans segera, kalkulator premium insurans rumah, kalkulator sebut harga insurans hartanah, kalkulator anggaran insurans pemilik rumah, kalkulator premium insurans kediaman, kalkulator insurans rumah dalam talian percuma, kalkulator sebut harga insurans rumah segera, kalkulator kadar insurans rumah dalam talian, kalkulator anggaran premium insurans hartanah",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

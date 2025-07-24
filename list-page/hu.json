@@ -939,7 +939,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Autóbiztosítás Kalkulátor",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Autóbiztosítás Kalkulátor - Ingyenes Online Eszköz",
         "meta_description": "Számítsa ki az autóbiztosítási díjakat azonnal ingyenes online eszközünkkel. Szerezzen személyre szabott ajánlatokat 23 országra valutatámogatással.",
         "meta_keyword": "autóbiztosítás, biztosítás kalkulátor, gépjárműbiztosítás, járműbiztosítás, biztosítási ajánlat, díj kalkulátor, autóbiztosítás kalkulátor, gépjárműbiztosítás kalkulátor, online biztosítás kalkulátor, ingyenes biztosítás kalkulátor, ingyenes autóbiztosítás kalkulátor online, autóbiztosítási díj számítás online, online autóbiztosítási ajánlat kalkulátor, több valutás biztosítás kalkulátor, nemzetközi autóbiztosítás kalkulátor, átfogó autóbiztosítás kalkulátor, autóbiztosítás becslő eszköz, azonnali biztosítás számítás, személyre szabott biztosítási ajánlatok",
@@ -1060,6 +1060,19 @@
         "meta_title": "Egészségbiztosítás Kalkulátor Ingyen | Díjak Számítása",
         "meta_description": "Számítsa ki az egészségbiztosítási díjakat azonnal. Ingyenes kalkulátor egyéni, családi és munkavállalói fedezetre. Hasonlítsa össze a költségeket.",
         "meta_keyword": "egészségbiztosítás kalkulátor, biztosítás kalkulátor, díj kalkulátor, egészségügyi fedezet kalkulátor, biztosítási költség kalkulátor, egészségbiztosítás kalkulátor, egészségbiztosítási költség, biztosítási díj, egészségügyi fedezet költsége, biztosítási ajánlatok, egészségbiztosítási ajánlatok, egészségbiztosítási költség, biztosítási becslés, egészségbiztosítási becslés, egészségbiztosítás számítása, biztosítási díj számítása, egészségbiztosítás összehasonlítás, biztosítási költség összehasonlítás, egészségbiztosítás kalkulátor ingyen, online biztosítás kalkulátor, egészségbiztosítási díj kalkulátor, egészségbiztosítási díj kalkulátor, családi egészségbiztosítás kalkulátor, egyéni egészségbiztosítás kalkulátor, munkavállalói egészségbiztosítás kalkulátor",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Lakásbiztosítás Kalkulátor",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Ingyenes Lakásbiztosítás Kalkulátor - Gyors Ajánlatok",
+        "meta_description": "Számítsa ki a lakásbiztosítási díjakat azonnal. Ingyenes eszköz házakhoz, lakásokhoz, sorházakhoz. Hasonlítsa össze a díjakat, önrészt és fedezetet!",
+        "meta_keyword": "biztosítás, kalkulátor, díj, ajánlat, ház, ingatlan, díjak, fedezet, önrész, felelősség, becslés, eszköz, ingyenes, azonnali, összehasonlít, védelem, háztulajdonosok, lakás, lakóingatlan, személyes, biztonság, éves, havi, költség, ár, megfizethető, olcsó, legjobb, online, digitális, web, mobil, asztali, számít, számítás, becslés, értékelés, értékelés, lakásbiztosítás, ingatlanbiztosítás, biztosítás kalkulátor, díj kalkulátor, biztosítási díjak, fedezet kalkulátor, önrész kalkulátor, felelősségbiztosítás, személyes tulajdon, biztosítási ajánlat, biztosítási becslés, háztulajdonosi biztosítás, lakásbiztosítás, lakóingatlan biztosítás, ingatlanos védelem, biztosítás összehasonlítás, biztosítási eszköz, ingyenes kalkulátor, online kalkulátor, biztosítási díj kalkulátor, lakásbiztosítás kalkulátor, ingatlanbiztosítás kalkulátor, háztulajdonosi biztosítás kalkulátor, lakásbiztosítás kalkulátor, lakóingatlan biztosítás kalkulátor, ingyenes lakásbiztosítás kalkulátor, online lakásbiztosítás kalkulátor, azonnali biztosítási ajánlat kalkulátor, lakásbiztosítási díj kalkulátor, ingatlanbiztosítási ajánlat kalkulátor, háztulajdonosi biztosítás becslés kalkulátor, lakásbiztosítási díj kalkulátor, ingyenes online lakásbiztosítás kalkulátor, azonnali lakásbiztosítási ajánlat kalkulátor, online lakásbiztosítási díj kalkulátor, ingatlanbiztosítási díj becslés kalkulátor",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

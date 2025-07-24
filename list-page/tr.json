@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Araba Sigortası Hesaplayıcısı",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Araba Sigortası Hesaplayıcısı - Ücretsiz Online Araç",
         "meta_description": "Ücretsiz online aracımızla araba sigortası primlerini anında hesaplayın. 23 ülke için para birimi desteğiyle kişiselleştirilmiş teklifler alın. Şimdi deneyin!",
         "meta_keyword": "araba sigortası, sigorta hesaplayıcısı, otomobil sigortası, araç sigortası, sigorta teklifi, prim hesaplayıcısı, araba sigortası hesaplayıcısı, otomobil sigortası hesaplayıcısı, online sigorta hesaplayıcısı, ücretsiz sigorta hesaplayıcısı, ücretsiz araba sigortası hesaplayıcısı online, araba sigortası primi online hesapla, online araba sigortası teklif hesaplayıcısı, çoklu para birimi sigorta hesaplayıcısı, uluslararası araba sigortası hesaplayıcısı, kapsamlı araba sigortası hesaplayıcısı, araba sigortası tahmin aracı, anında sigorta hesaplama, kişiselleştirilmiş sigorta teklifleri",
@@ -1059,6 +1059,19 @@
         "meta_title": "Sağlık Sigortası Hesaplayıcısı Ücretsiz | Prim Hesapla",
         "meta_description": "Sağlık sigortası primlerini anında hesaplayın. Bireysel, aile ve çalışan kapsamı için ücretsiz hesaplayıcı. Maliyetleri, muafiyetleri ve sübvansiyonları karşılaştırın.",
         "meta_keyword": "sağlık sigortası hesaplayıcısı, sigorta hesaplayıcısı, prim hesaplayıcısı, sağlık kapsamı hesaplayıcısı, sigorta maliyeti hesaplayıcısı, sağlık sigortası hesaplayıcısı, sağlık sigortası maliyeti, sigorta primi, sağlık kapsamı maliyeti, sigorta teklifleri, sağlık sigortası teklifleri, sağlık sigortası maliyeti, sigorta tahmini, sağlık sigortası tahmini, sağlık sigortası hesapla, sigorta primi hesapla, sağlık sigortası karşılaştırması, sigorta maliyeti karşılaştırması, sağlık sigortası hesaplayıcısı ücretsiz, online sigorta hesaplayıcısı, sağlık sigortası primi hesaplayıcısı, sağlık sigortası primi hesaplayıcısı, aile sağlık sigortası hesaplayıcısı, bireysel sağlık sigortası hesaplayıcısı, çalışan sağlık sigortası hesaplayıcısı",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Ev Sigortası Hesaplayıcısı",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Ücretsiz Ev Sigortası Hesaplayıcı - Hızlı Teklifler",
+        "meta_description": "Ev sigortası primlerini anında hesaplayın. Evler, daireler, sıra evler için ücretsiz araç. Oranları, muafiyetleri ve kapsam seçeneklerini karşılaştırın!",
+        "meta_keyword": "sigorta, hesaplayıcı, prim, teklif, ev, mülk, oranlar, kapsam, muafiyet, sorumluluk, tahmin, araç, ücretsiz, anında, karşılaştır, koruma, ev sahipleri, konut, konutsal, kişisel, güvenlik, yıllık, aylık, maliyet, fiyat, uygun fiyatlı, ucuz, en iyi, çevrimiçi, dijital, web, mobil, masaüstü, hesapla, hesaplama, tahmin, değerlendirme, değerlendirme, ev sigortası, mülk sigortası, sigorta hesaplayıcısı, prim hesaplayıcısı, sigorta oranları, kapsam hesaplayıcısı, muafiyet hesaplayıcısı, sorumluluk kapsamı, kişisel mülk, sigorta teklifi, sigorta tahmini, ev sahipleri sigortası, konut sigortası, konutsal sigorta, mülk koruması, sigorta karşılaştırması, sigorta aracı, ücretsiz hesaplayıcı, çevrimiçi hesaplayıcı, sigorta primi hesaplayıcısı, ev sigortası hesaplayıcısı, mülk sigortası hesaplayıcısı, ev sahipleri sigortası hesaplayıcısı, konut sigortası hesaplayıcısı, konutsal sigorta hesaplayıcısı, ücretsiz ev sigortası hesaplayıcısı, çevrimiçi ev sigortası hesaplayıcısı, anında sigorta teklifi hesaplayıcısı, ev sigortası primi hesaplayıcısı, mülk sigortası teklifi hesaplayıcısı, ev sahipleri sigortası tahmin hesaplayıcısı, konut sigortası primi hesaplayıcısı, ücretsiz çevrimiçi ev sigortası hesaplayıcısı, anında ev sigortası teklifi hesaplayıcısı, çevrimiçi ev sigortası oranları hesaplayıcısı, mülk sigortası primi tahmin hesaplayıcısı",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

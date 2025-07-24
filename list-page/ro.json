@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Calculator Asigurare Auto",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Calculator Asigurare Auto - Instrument Gratuit Online",
         "meta_description": "Calculați primele de asigurare auto instant cu instrumentul nostru online gratuit. Obțineți cotații personalizate pentru 23 țări cu suport valutar.",
         "meta_keyword": "asigurare auto, calculator asigurare, asigurare autovehicul, asigurare vehicul, cotație asigurare, calculator primă, calculator asigurare auto, calculator asigurare autovehicul, calculator asigurare online, calculator asigurare gratuit, calculator asigurare auto gratuit online, calcula primă asigurare auto online, calculator cotație asigurare auto online, calculator asigurare multi valută, calculator asigurare auto internațional, calculator asigurare auto cuprinzător, instrument estimator asigurare auto, calcul asigurare instant, cotații asigurare personalizate",
@@ -1059,6 +1059,19 @@
         "meta_title": "Calculator Asigurare Sănătate Gratis | Calculați Prime",
         "meta_description": "Calculați primele de asigurare de sănătate instant. Calculator gratuit pentru acoperire individuală, familială și angajați. Comparați costuri și franciză.",
         "meta_keyword": "calculator asigurare sănătate, calculator asigurare, calculator primă, calculator acoperire sănătate, calculator cost asigurare, calculator asigurare medicală, cost asigurare sănătate, primă asigurare, cost acoperire sănătate, oferte asigurare, oferte asigurare sănătate, cost asigurare medicală, estimare asigurare, estimare asigurare sănătate, calculați asigurare sănătate, calculați primă asigurare, comparație asigurare sănătate, comparație cost asigurare, calculator asigurare sănătate gratis, calculator asigurare online, calculator primă asigurare sănătate, calculator primă asigurare medicală, calculator asigurare sănătate familială, calculator asigurare sănătate individuală, calculator asigurare sănătate angajat",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Calculator Asigurare Locuință",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculator Gratuit Asigurare Casă - Oferte Rapide",
+        "meta_description": "Calculează primele de asigurare locuință instant. Instrument gratuit pentru case, apartamente, case în șir. Compară tarife, franciză și opțiuni acoperire!",
+        "meta_keyword": "asigurare, calculator, primă, ofertă, casă, proprietate, tarife, acoperire, franciză, răspundere, estimare, instrument, gratuit, instant, compara, protecție, proprietari case, locuință, rezidențial, personal, siguranță, anual, lunar, cost, preț, accesibil, ieftin, cel mai bun, online, digital, web, mobil, desktop, calcula, calcul, estimare, evaluare, evaluare, asigurare locuință, asigurare proprietate, calculator asigurare, calculator primă, tarife asigurare, calculator acoperire, calculator franciză, acoperire răspundere, proprietate personală, ofertă asigurare, estimare asigurare, asigurare proprietari case, asigurare locuință, asigurare rezidențială, protecție proprietate, comparație asigurări, instrument asigurare, calculator gratuit, calculator online, calculator primă asigurare, calculator asigurare locuință, calculator asigurare proprietate, calculator asigurare proprietari case, calculator asigurare locuință, calculator asigurare rezidențială, calculator gratuit asigurare locuință, calculator online asigurare locuință, calculator ofertă instant asigurare, calculator primă asigurare locuință, calculator ofertă asigurare proprietate, calculator estimare asigurare proprietari case, calculator primă asigurare locuință, calculator gratuit online asigurare locuință, calculator ofertă instant asigurare locuință, calculator online tarife asigurare locuință, calculator estimare primă asigurare proprietate",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

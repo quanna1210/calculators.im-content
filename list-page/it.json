@@ -939,7 +939,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Calcolatore Assicurazione Auto",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Calcolatore Assicurazione Auto - Strumento Gratuito",
         "meta_description": "Calcola i premi assicurativi auto istantaneamente con il nostro strumento online gratuito. Ottieni preventivi personalizzati per 23 paesi con supporto valute.",
         "meta_keyword": "assicurazione auto, calcolatore assicurazione, assicurazione automobilistica, assicurazione veicolo, preventivo assicurazione, calcolatore premio, calcolatore assicurazione auto, calcolatore assicurazione automobilistica, calcolatore assicurazione online, calcolatore assicurazione gratuito, calcolatore assicurazione auto gratuito online, calcolare premio assicurazione auto online, calcolatore preventivo assicurazione auto online, calcolatore assicurazione multi valuta, calcolatore assicurazione auto internazionale, calcolatore assicurazione auto completa, strumento stimatore assicurazione auto, calcolo assicurazione istantaneo, preventivi assicurazione personalizzati",
@@ -1060,6 +1060,19 @@
         "meta_title": "Calcolatore Assicurazione Sanitaria Gratis | Calcola",
         "meta_description": "Calcola i premi assicurazione sanitaria istantaneamente. Calcolatore gratuito per copertura individuale, familiare e dipendenti. Confronta costi e franchigie.",
         "meta_keyword": "calcolatore assicurazione sanitaria, calcolatore assicurazione, calcolatore premio, calcolatore copertura sanitaria, calcolatore costo assicurazione, calcolatore assicurazione medica, costo assicurazione sanitaria, premio assicurazione, costo copertura sanitaria, preventivi assicurazione, preventivi assicurazione sanitaria, costo assicurazione medica, stima assicurazione, stima assicurazione sanitaria, calcolare assicurazione sanitaria, calcolare premio assicurazione, confronto assicurazione sanitaria, confronto costo assicurazione, calcolatore assicurazione sanitaria gratis, calcolatore assicurazione online, calcolatore premio assicurazione sanitaria, calcolatore premio assicurazione medica, calcolatore assicurazione sanitaria familiare, calcolatore assicurazione sanitaria individuale, calcolatore assicurazione sanitaria dipendente",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Calcolatore Assicurazione Casa",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calcolatore Gratis Assicurazione Casa - Preventivi",
+        "meta_description": "Calcola i premi assicurazione casa istantaneamente. Strumento gratuito per case, appartamenti, villette. Confronta tariffe, franchigie e coperture!",
+        "meta_keyword": "assicurazione, calcolatore, premio, preventivo, casa, proprietà, tariffe, copertura, franchigia, responsabilità, stima, strumento, gratuito, istantaneo, confrontare, protezione, proprietari casa, abitazione, residenziale, personale, sicurezza, annuale, mensile, costo, prezzo, accessibile, economico, migliore, online, digitale, web, mobile, desktop, calcolare, calcolo, stima, valutazione, valutazione, assicurazione casa, assicurazione proprietà, calcolatore assicurazione, calcolatore premio, tariffe assicurazione, calcolatore copertura, calcolatore franchigia, copertura responsabilità, proprietà personale, preventivo assicurazione, stima assicurazione, assicurazione proprietari casa, assicurazione abitazione, assicurazione residenziale, protezione proprietà, confronto assicurazione, strumento assicurazione, calcolatore gratuito, calcolatore online, calcolatore premio assicurazione, calcolatore assicurazione casa, calcolatore assicurazione proprietà, calcolatore assicurazione proprietari casa, calcolatore assicurazione abitazione, calcolatore assicurazione residenziale, calcolatore gratuito assicurazione casa, calcolatore online assicurazione casa, calcolatore preventivo istantaneo assicurazione, calcolatore premio assicurazione casa, calcolatore preventivo assicurazione proprietà, calcolatore stima assicurazione proprietari casa, calcolatore premio assicurazione abitazione, calcolatore gratuito online assicurazione casa, calcolatore preventivo istantaneo assicurazione casa, calcolatore online tariffe assicurazione casa, calcolatore stima premio assicurazione proprietà",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

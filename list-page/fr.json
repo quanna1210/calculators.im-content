@@ -939,7 +939,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Calculatrice Assurance Auto",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Calculatrice Assurance Auto - Outil Devis Gratuit",
         "meta_description": "Calculez les primes d'assurance auto instantanément avec notre outil en ligne gratuit. Obtenez des devis personnalisés pour 23 pays avec support monétaire.",
         "meta_keyword": "assurance auto, calculatrice assurance, assurance automobile, assurance véhicule, devis assurance, calculatrice prime, calculatrice assurance auto, calculatrice assurance automobile, calculatrice assurance en ligne, calculatrice assurance gratuite, calculatrice assurance auto gratuite en ligne, calculer prime assurance auto en ligne, calculatrice devis assurance auto en ligne, calculatrice assurance multi devises, calculatrice assurance auto internationale, calculatrice assurance auto complète, outil estimateur assurance auto, calcul assurance instantané, devis assurance personnalisés",
@@ -1060,6 +1060,19 @@
         "meta_title": "Calculateur Assurance Santé Gratuit | Calculer Primes",
         "meta_description": "Calculez les primes d'assurance santé instantanément. Calculateur gratuit pour couverture individuelle, familiale et employés. Comparez coûts et franchises.",
         "meta_keyword": "calculateur assurance santé, calculateur assurance, calculateur prime, calculateur couverture santé, calculateur coût assurance, calculateur assurance médicale, coût assurance santé, prime assurance, coût couverture santé, devis assurance, devis assurance santé, coût assurance médicale, estimation assurance, estimation assurance santé, calculer assurance santé, calculer prime assurance, comparaison assurance santé, comparaison coût assurance, calculateur assurance santé gratuit, calculateur assurance en ligne, calculateur prime assurance santé, calculateur prime assurance médicale, calculateur assurance santé familiale, calculateur assurance santé individuelle, calculateur assurance santé employé",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Calculateur d'Assurance Habitation",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculateur Assurance Maison Gratuit - Devis Rapides",
+        "meta_description": "Calculez les primes d'assurance habitation instantanément. Outil gratuit pour maisons, condos, townhouses. Comparez tarifs, franchises et couvertures!",
+        "meta_keyword": "assurance, calculateur, prime, devis, maison, propriété, tarifs, couverture, franchise, responsabilité, estimation, outil, gratuit, instantané, comparer, protection, propriétaires, logement, résidentiel, personnel, sécurité, annuel, mensuel, coût, prix, abordable, pas cher, meilleur, en ligne, numérique, web, mobile, bureau, calculer, calcul, estimation, évaluation, évaluation, assurance habitation, assurance propriété, calculateur d'assurance, calculateur de prime, tarifs d'assurance, calculateur de couverture, calculateur de franchise, couverture responsabilité, biens personnels, devis d'assurance, estimation d'assurance, assurance propriétaires, assurance logement, assurance résidentielle, protection propriété, comparaison d'assurance, outil d'assurance, calculateur gratuit, calculateur en ligne, calculateur de prime d'assurance, calculateur d'assurance habitation, calculateur d'assurance propriété, calculateur d'assurance propriétaires, calculateur d'assurance logement, calculateur d'assurance résidentielle, calculateur gratuit d'assurance habitation, calculateur en ligne d'assurance habitation, calculateur de devis instantané d'assurance, calculateur de prime d'assurance habitation, calculateur de devis d'assurance propriété, calculateur d'estimation d'assurance propriétaires, calculateur de prime d'assurance logement, calculateur gratuit en ligne d'assurance habitation, calculateur de devis instantané d'assurance habitation, calculateur en ligne de tarifs d'assurance habitation, calculateur d'estimation de prime d'assurance propriété",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

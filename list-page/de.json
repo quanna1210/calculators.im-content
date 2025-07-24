@@ -938,7 +938,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Autoversicherung Rechner",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Autoversicherung Rechner - Kostenloses Online Tool",
         "meta_description": "Berechnen Sie Autoversicherungsprämien sofort mit unserem kostenlosen Online-Tool. Erhalten Sie personalisierte Angebote für 23 Länder mit Währungsunterstützung.",
         "meta_keyword": "autoversicherung, versicherungsrechner, kfz versicherung, fahrzeugversicherung, versicherungsangebot, prämienrechner, autoversicherungsrechner, kfz versicherungsrechner, online versicherungsrechner, kostenloser versicherungsrechner, kostenloser autoversicherungsrechner online, autoversicherungsprämie online berechnen, online autoversicherungsangebot rechner, multi währung versicherungsrechner, internationaler autoversicherungsrechner, umfassender autoversicherungsrechner, autoversicherung schätztool, sofortige versicherungsberechnung, personalisierte versicherungsangebote",
@@ -1059,6 +1059,19 @@
         "meta_title": "Krankenversicherungsrechner Kostenlos | Prämien Rechnen",
         "meta_description": "Berechnen Sie Krankenversicherungsprämien sofort. Kostenloser Rechner für Einzel-, Familien- und Mitarbeiterversicherung. Vergleichen Sie Kosten.",
         "meta_keyword": "krankenversicherungsrechner, versicherungsrechner, prämienrechner, krankenversicherungsrechner, versicherungskostenrechner, krankenversicherungsrechner, krankenversicherungskosten, versicherungsprämie, krankenversicherungskosten, versicherungsangebote, krankenversicherungsangebote, krankenversicherungskosten, versicherungsschätzung, krankenversicherungsschätzung, krankenversicherung berechnen, versicherungsprämie berechnen, krankenversicherungsvergleich, versicherungskostenvergleich, krankenversicherungsrechner kostenlos, online versicherungsrechner, krankenversicherungsprämienrechner, krankenversicherungsprämienrechner, familienkrankenversicherungsrechner, einzelkrankenversicherungsrechner, mitarbeiterkrankenversicherungsrechner",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Hausversicherung Rechner",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kostenloser Hausversicherung Rechner - Sofort Angebote",
+        "meta_description": "Berechnen Sie Hausversicherungsprämien sofort. Kostenloses Tool für Häuser, Wohnungen, Reihenhäuser. Vergleichen Sie Tarife, Selbstbeteiligung & Deckung!",
+        "meta_keyword": "versicherung, rechner, prämie, angebot, haus, immobilie, tarife, deckung, selbstbehalt, haftung, schätzung, tool, kostenlos, sofort, vergleichen, schutz, hausbesitzer, wohnung, wohngebäude, persönlich, sicherheit, jährlich, monatlich, kosten, preis, erschwinglich, günstig, beste, online, digital, web, mobil, desktop, berechnen, berechnung, schätzung, bewertung, einschätzung, hausversicherung, immobilienversicherung, versicherungsrechner, prämienrechner, versicherungstarife, deckungsrechner, selbstbehaltrechner, haftpflichtdeckung, persönliches eigentum, versicherungsangebot, versicherungsschätzung, hausbesitzerversicherung, wohnungsversicherung, wohngebäudeversicherung, immobilienschutz, versicherungsvergleich, versicherungstool, kostenloser rechner, online rechner, versicherungsprämienrechner, hausversicherungsrechner, immobilienversicherungsrechner, hausbesitzerversicherungsrechner, wohnungsversicherungsrechner, wohngebäudeversicherungsrechner, kostenloser hausversicherungsrechner, online hausversicherungsrechner, sofortiger versicherungsangebotsrechner, hausversicherungsprämienrechner, immobilienversicherungsangebotsrechner, hausbesitzerversicherungsschätzungsrechner, wohnungsversicherungsprämienrechner, kostenloser online hausversicherungsrechner, sofortiger hausversicherungsangebotsrechner, online hausversicherungstarifrechner, immobilienversicherungsprämien-schätzungsrechner",
         "status": "1",
         "is_show": "1",
         "orders": "10000"

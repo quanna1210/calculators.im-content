@@ -939,7 +939,7 @@
         "thumb": "https://static.calculators.im/upload/thumb/car-insurance-calculator.jpg",
         "title": "Kalkulator Asuransi Mobil",
         "slug": "car-insurance-calculator",
-        "parent_id": "65",
+        "parent_id": "81",
         "meta_title": "Kalkulator Asuransi Mobil - Alat Kutipan Gratis",
         "meta_description": "Hitung premi asuransi mobil secara instan dengan alat online gratis kami. Dapatkan kutipan personal untuk 23 negara dengan dukungan mata uang. Coba sekarang!",
         "meta_keyword": "asuransi mobil, kalkulator asuransi, asuransi otomotif, asuransi kendaraan, kutipan asuransi, kalkulator premi, kalkulator asuransi mobil, kalkulator asuransi otomotif, kalkulator asuransi online, kalkulator asuransi gratis, kalkulator asuransi mobil gratis online, hitung premi asuransi mobil online, kalkulator kutipan asuransi mobil online, kalkulator asuransi multi mata uang, kalkulator asuransi mobil internasional, kalkulator asuransi mobil komprehensif, alat estimator asuransi mobil, perhitungan asuransi instan, kutipan asuransi personal",
@@ -1060,6 +1060,19 @@
         "meta_title": "Kalkulator Asuransi Kesehatan Gratis | Hitung Premi",
         "meta_description": "Hitung premi asuransi kesehatan secara instan. Kalkulator gratis untuk cakupan individu, keluarga & karyawan. Bandingkan biaya, deductible & subsidi.",
         "meta_keyword": "kalkulator asuransi kesehatan, kalkulator asuransi, kalkulator premi, kalkulator cakupan kesehatan, kalkulator biaya asuransi, kalkulator asuransi medis, biaya asuransi kesehatan, premi asuransi, biaya cakupan kesehatan, kutipan asuransi, kutipan asuransi kesehatan, biaya asuransi medis, estimasi asuransi, estimasi asuransi kesehatan, hitung asuransi kesehatan, hitung premi asuransi, perbandingan asuransi kesehatan, perbandingan biaya asuransi, kalkulator asuransi kesehatan gratis, kalkulator asuransi online, kalkulator premi asuransi kesehatan, kalkulator premi asuransi medis, kalkulator asuransi kesehatan keluarga, kalkulator asuransi kesehatan individu, kalkulator asuransi kesehatan karyawan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
+    },
+    {
+        "id": "84",
+        "thumb": "https://static.calculators.im/upload/thumb/home-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Rumah",
+        "slug": "home-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Asuransi Rumah Gratis - Dapatkan Penawaran",
+        "meta_description": "Hitung premi asuransi rumah secara instan. Alat gratis untuk rumah, apartemen, townhouse. Bandingkan tarif, deductible & opsi cakupan. Dapatkan kutipan akurat!",
+        "meta_keyword": "asuransi, kalkulator, premi, penawaran, rumah, properti, tarif, cakupan, deductible, tanggung jawab, estimasi, alat, gratis, instan, bandingkan, perlindungan, pemilik rumah, tempat tinggal, residential, pribadi, keselamatan, keamanan, tahunan, bulanan, biaya, harga, terjangkau, murah, terbaik, online, digital, web, mobile, desktop, hitung, komputasi, estimasi, evaluasi, penilaian, asuransi rumah, asuransi properti, kalkulator asuransi, kalkulator premi, tarif asuransi, kalkulator cakupan, kalkulator deductible, cakupan tanggung jawab, properti pribadi, kutipan asuransi, estimasi asuransi, asuransi pemilik rumah, asuransi tempat tinggal, asuransi residential, perlindungan properti, perbandingan asuransi, alat asuransi, kalkulator gratis, kalkulator online, kalkulator premi asuransi, kalkulator asuransi rumah, kalkulator asuransi properti, kalkulator asuransi pemilik rumah, kalkulator asuransi tempat tinggal, kalkulator asuransi residential, kalkulator asuransi rumah gratis, kalkulator asuransi rumah online, kalkulator kutipan asuransi instan, kalkulator premi asuransi rumah, kalkulator kutipan asuransi properti, kalkulator estimasi asuransi pemilik rumah, kalkulator premi asuransi tempat tinggal, kalkulator asuransi rumah online gratis, kalkulator kutipan asuransi rumah instan, kalkulator tarif asuransi rumah online, kalkulator estimasi premi asuransi properti",
         "status": "1",
         "is_show": "1",
         "orders": "10000"
