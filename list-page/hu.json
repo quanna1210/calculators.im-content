@@ -1076,5 +1076,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Utasbiztosítás Kalkulátor",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Utasbiztosítás Kalkulátor - Ingyenes Árajánlat",
+        "meta_description": "Számítsa ki az utasbiztosítás költségeit azonnal. Hasonlítsa össze a fedezeti lehetőségeket, kapjon személyre szabott árajánlatokat. Ingyenes előzményekkel.",
+        "meta_keyword": "utasbiztosítás kalkulátor, utasbiztosítás árajánlat, utazási fedezet költség, biztosítási díj kalkulátor, utazási védelem árajánlat, utasbiztosítás díjak, utasbiztosítás összehasonlítás, nyaralási biztosítás kalkulátor, nemzetközi utasbiztosítás, utazási egészségbiztosítás, utazás lemondási biztosítás, utasbiztosítás becslő, olcsó utasbiztosítás, utasbiztosítás költség kalkulátor, online utasbiztosítás árajánlat, azonnali utasbiztosítás árajánlat, utasbiztosítás díj, utazási védelem kalkulátor, utazási fedezet kalkulátor, nyaralási védelem biztosítás",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

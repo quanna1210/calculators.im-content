@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Kalkulačka Cestovního Pojištění",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulačka Cestovního Pojištění - Zdarma Rychle",
+        "meta_description": "Vypočítejte náklady na cestovní pojištění okamžitě. Porovnejte možnosti krytí, získejte personalizované nabídky pro jakoukoli destinaci. Zdarma s historií.",
+        "meta_keyword": "kalkulačka cestovního pojištění, nabídka pojištění cesty, náklady na cestovní krytí, kalkulačka pojistného, nabídka ochrany cesty, sazby pojištění výletu, srovnání cestovního pojištění, kalkulačka pojištění dovolené, mezinárodní cestovní pojištění, cestovní zdravotní pojištění, pojištění zrušení cesty, odhad cestovního pojištění, levné cestovní pojištění, kalkulačka nákladů cestovního pojištění, online nabídka cestovního pojištění, okamžitá nabídka cestovního pojištění, pojistné cestovního pojištění, kalkulačka ochrany výletu, kalkulačka cestovního krytí, pojištění ochrany dovolené",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

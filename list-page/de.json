@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Reiseversicherung Rechner",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Reiseversicherung Rechner - Kostenloses Angebot",
+        "meta_description": "Berechnen Sie Reiseversicherungskosten sofort. Vergleichen Sie Deckungsoptionen, erhalten Sie personalisierte Angebote für jedes Ziel. Kostenlos mit Verlauf.",
+        "meta_keyword": "reiseversicherung rechner, reiseversicherung angebot, reisedeckung kosten, versicherungsprämie rechner, reiseschutz angebot, reiseversicherung tarife, reiseversicherung vergleich, urlaubsversicherung rechner, internationale reiseversicherung, reisekrankenversicherung, reiserücktrittsversicherung, reiseversicherung schätzer, günstige reiseversicherung, reiseversicherung kostenrechner, online reiseversicherung angebot, sofort reiseversicherung angebot, reiseversicherung prämie, reiseschutz rechner, reisedeckung rechner, urlaubsschutz versicherung",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

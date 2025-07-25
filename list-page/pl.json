@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Kalkulator Ubezpieczenia Podróżnego",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Ubezpieczenia Podróży - Darmowa Wycena",
+        "meta_description": "Oblicz koszty ubezpieczenia podróżnego natychmiast. Porównaj opcje pokrycia, otrzymaj spersonalizowane oferty dla każdego celu. Darmowe z historią.",
+        "meta_keyword": "kalkulator ubezpieczenia podróżnego, oferta ubezpieczenia podróży, koszt pokrycia podróży, kalkulator składki ubezpieczeniowej, oferta ochrony podróży, stawki ubezpieczenia podróży, porównanie ubezpieczenia podróżnego, kalkulator ubezpieczenia wakacyjnego, międzynarodowe ubezpieczenie podróżne, ubezpieczenie medyczne podróży, ubezpieczenie anulacji podróży, szacowanie ubezpieczenia podróżnego, tanie ubezpieczenie podróżne, kalkulator kosztów ubezpieczenia podróżnego, online oferta ubezpieczenia podróżnego, natychmiastowa oferta ubezpieczenia podróżnego, składka ubezpieczenia podróżnego, kalkulator ochrony podróży, kalkulator pokrycia podróży, ubezpieczenie ochrony wakacyjnej",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

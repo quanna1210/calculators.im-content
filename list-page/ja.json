@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "旅行保険計算機",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "旅行保険計算機 - 無料見積もり即座に",
+        "meta_description": "旅行保険費用を即座に計算。補償オプションを比較し、あらゆる目的地に対する個人向け見積もりを取得。履歴機能付きで無料です。",
+        "meta_keyword": "旅行保険計算機, 旅行保険見積もり, 旅行補償費用, 保険料計算機, 旅行保護見積もり, 旅行保険料金, 旅行保険比較, 休暇保険計算機, 海外旅行保険, 旅行医療保険, 旅行キャンセル保険, 旅行保険推定器, 安い旅行保険, 旅行保険費用計算機, オンライン旅行保険見積もり, 即座旅行保険見積もり, 旅行保険保険料, 旅行保護計算機, 旅行補償計算機, 休暇保護保険",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

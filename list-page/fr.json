@@ -1076,5 +1076,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Calculateur d'Assurance Voyage",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculateur Assurance Voyage - Devis Gratuit Rapide",
+        "meta_description": "Calculez les coûts d'assurance voyage instantanément. Comparez les options de couverture, obtenez des devis personnalisés pour toute destination. Gratuit.",
+        "meta_keyword": "calculateur assurance voyage, devis assurance trip, coût couverture voyage, calculateur prime assurance, devis protection voyage, tarifs assurance trip, comparaison assurance voyage, calculateur assurance vacances, assurance voyage internationale, assurance médicale voyage, assurance annulation trip, estimateur assurance voyage, assurance voyage pas cher, calculateur coût assurance voyage, devis assurance voyage en ligne, devis assurance voyage instantané, prime assurance voyage, calculateur protection trip, calculateur couverture voyage, assurance protection vacances",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

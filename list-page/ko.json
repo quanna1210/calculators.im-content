@@ -1076,5 +1076,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "여행보험 계산기",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "여행보험 계산기 - 무료 견적 즉시",
+        "meta_description": "여행보험 비용을 즉시 계산하세요. 보장 옵션을 비교하고, 모든 목적지에 대한 개인 맞춤 견적을 받아보세요. 기록 기능과 함께 무료로 제공됩니다.",
+        "meta_keyword": "여행보험 계산기, 여행보험 견적, 여행 보장 비용, 보험료 계산기, 여행 보호 견적, 여행보험 요금, 여행보험 비교, 휴가보험 계산기, 해외여행보험, 여행 의료보험, 여행 취소보험, 여행보험 추정기, 저렴한 여행보험, 여행보험 비용 계산기, 온라인 여행보험 견적, 즉시 여행보험 견적, 여행보험 보험료, 여행 보호 계산기, 여행 보장 계산기, 휴가 보호 보험",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

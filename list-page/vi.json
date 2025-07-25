@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Máy Tính Bảo Hiểm Du Lịch",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Máy Tính Bảo Hiểm Du Lịch - Báo Giá Miễn Phí",
+        "meta_description": "Tính phí bảo hiểm du lịch tức thì. So sánh các gói bảo hiểm, nhận báo giá cá nhân cho mọi điểm đến. Công cụ miễn phí có lưu lịch sử tính toán.",
+        "meta_keyword": "máy tính bảo hiểm du lịch, báo giá bảo hiểm chuyến đi, chi phí bảo hiểm du lịch, máy tính phí bảo hiểm, báo giá bảo vệ du lịch, mức phí bảo hiểm chuyến đi, so sánh bảo hiểm du lịch, máy tính bảo hiểm nghỉ mát, bảo hiểm du lịch quốc tế, bảo hiểm y tế du lịch, bảo hiểm hủy chuyến đi, ước tính bảo hiểm du lịch, bảo hiểm du lịch giá rẻ, máy tính chi phí bảo hiểm du lịch, báo giá bảo hiểm du lịch trực tuyến, báo giá bảo hiểm du lịch tức thì, phí bảo hiểm du lịch, máy tính bảo vệ chuyến đi, máy tính bảo hiểm du lịch, bảo hiểm bảo vệ nghỉ mát",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

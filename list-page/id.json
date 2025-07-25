@@ -1076,5 +1076,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Kalkulator Asuransi Perjalanan",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Asuransi Perjalanan - Gratis Cepat",
+        "meta_description": "Hitung biaya asuransi perjalanan instant. Bandingkan opsi perlindungan, dapatkan penawaran personal untuk destinasi apapun. Gratis dengan riwayat.",
+        "meta_keyword": "kalkulator asuransi perjalanan, penawaran asuransi trip, biaya perlindungan perjalanan, kalkulator premi asuransi, penawaran proteksi perjalanan, tarif asuransi trip, perbandingan asuransi perjalanan, kalkulator asuransi liburan, asuransi perjalanan internasional, asuransi medis perjalanan, asuransi pembatalan trip, estimator asuransi perjalanan, asuransi perjalanan murah, kalkulator biaya asuransi perjalanan, penawaran asuransi perjalanan online, penawaran asuransi perjalanan instant, premi asuransi perjalanan, kalkulator proteksi trip, kalkulator perlindungan perjalanan, asuransi proteksi liburan",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

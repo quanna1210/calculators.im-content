@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Calculadora de Seguro Viagem",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculadora Seguro Viagem - Cotação Grátis Rápida",
+        "meta_description": "Calculate custos de seguro viagem instantaneamente. Compare opções de cobertura, obtenha cotações personalizadas para qualquer destino. Grátis com histórico.",
+        "meta_keyword": "calculadora seguro viagem, cotação seguro trip, custo cobertura viagem, calculadora prêmio seguro, cotação proteção viagem, tarifas seguro trip, comparação seguro viagem, calculadora seguro férias, seguro viagem internacional, seguro médico viagem, seguro cancelamento trip, estimador seguro viagem, seguro viagem barato, calculadora custo seguro viagem, cotação seguro viagem online, cotação seguro viagem instantânea, prêmio seguro viagem, calculadora proteção trip, calculadora cobertura viagem, seguro proteção férias",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

@@ -1076,5 +1076,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Calcolatore Assicurazione Viaggio",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calcolatore Assicurazione Viaggio - Preventivo Gratis",
+        "meta_description": "Calcola i costi assicurazione viaggio istantaneamente. Confronta opzioni copertura, ottieni preventivi personalizzati per qualsiasi destinazione. Gratis.",
+        "meta_keyword": "calcolatore assicurazione viaggio, preventivo assicurazione trip, costo copertura viaggio, calcolatore premio assicurazione, preventivo protezione viaggio, tariffe assicurazione trip, confronto assicurazione viaggio, calcolatore assicurazione vacanza, assicurazione viaggio internazionale, assicurazione medica viaggio, assicurazione cancellazione trip, stimatore assicurazione viaggio, assicurazione viaggio economica, calcolatore costo assicurazione viaggio, preventivo assicurazione viaggio online, preventivo assicurazione viaggio istantaneo, premio assicurazione viaggio, calcolatore protezione trip, calcolatore copertura viaggio, assicurazione protezione vacanza",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

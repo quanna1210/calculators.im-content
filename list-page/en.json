@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Travel Insurance Calculator",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Travel Insurance Calculator - Get Instant Quotes Free",
+        "meta_description": "Calculate travel insurance costs instantly. Compare coverage options, get personalized quotes for any destination. Free tool with history tracking.",
+        "meta_keyword": "travel insurance calculator, trip insurance quote, travel coverage cost, insurance premium calculator, travel protection quote, trip insurance rates, travel insurance comparison, vacation insurance calculator, international travel insurance, travel medical insurance, trip cancellation insurance, travel insurance estimator, cheap travel insurance, travel insurance cost calculator, online travel insurance quote, instant travel insurance quote, travel insurance premium, trip protection calculator, travel coverage calculator, vacation protection insurance",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

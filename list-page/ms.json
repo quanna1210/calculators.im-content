@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Kalkulator Insurans Perjalanan",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Kalkulator Insurans Perjalanan - Sebut Harga Percuma",
+        "meta_description": "Kira kos insurans perjalanan dengan segera. Bandingkan pilihan perlindungan, dapatkan sebut harga peribadi untuk mana-mana destinasi. Percuma dengan rekod.",
+        "meta_keyword": "kalkulator insurans perjalanan, sebut harga insurans trip, kos perlindungan perjalanan, kalkulator premium insurans, sebut harga proteksi perjalanan, kadar insurans trip, perbandingan insurans perjalanan, kalkulator insurans percutian, insurans perjalanan antarabangsa, insurans perubatan perjalanan, insurans pembatalan trip, penganggar insurans perjalanan, insurans perjalanan murah, kalkulator kos insurans perjalanan, sebut harga insurans perjalanan dalam talian, sebut harga insurans perjalanan segera, premium insurans perjalanan, kalkulator proteksi trip, kalkulator perlindungan perjalanan, insurans proteksi percutian",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

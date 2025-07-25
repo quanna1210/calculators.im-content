@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Reisverzekering Calculator",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Reisverzekering Calculator - Gratis Offerte Snel",
+        "meta_description": "Bereken reisverzekeringkosten direct. Vergelijk dekkingsopties, krijg gepersonaliseerde offertes voor elke bestemming. Gratis met geschiedenis functie.",
+        "meta_keyword": "reisverzekering calculator, reisverzekering offerte, reisdekking kosten, verzekeringsremie calculator, reisbescherming offerte, reisverzekering tarieven, reisverzekering vergelijking, vakantieverzekering calculator, internationale reisverzekering, reisgeneeskundige verzekering, reisannuleringsverzekering, reisverzekering schatting, goedkope reisverzekering, reisverzekering kosten calculator, online reisverzekering offerte, directe reisverzekering offerte, reisverzekering premie, reisbescherming calculator, reisdekking calculator, vakantiebescherming verzekering",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

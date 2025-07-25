@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Seyahat Sigortası Hesaplayıcısı",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Seyahat Sigortası Hesaplayıcı - Ücretsiz Teklif",
+        "meta_description": "Seyahat sigortası maliyetlerini anında hesaplayın. Kapsam seçeneklerini karşılaştırın, herhangi bir hedef için kişiselleştirilmiş teklifler alın. Ücretsiz.",
+        "meta_keyword": "seyahat sigortası hesaplayıcısı, seyahat sigortası teklifi, seyahat kapsam maliyeti, sigorta primi hesaplayıcısı, seyahat koruma teklifi, seyahat sigortası oranları, seyahat sigortası karşılaştırması, tatil sigortası hesaplayıcısı, uluslararası seyahat sigortası, seyahat sağlık sigortası, seyahat iptali sigortası, seyahat sigortası tahminci, ucuz seyahat sigortası, seyahat sigortası maliyet hesaplayıcısı, online seyahat sigortası teklifi, anında seyahat sigortası teklifi, seyahat sigortası primi, seyahat koruma hesaplayıcısı, seyahat kapsam hesaplayıcısı, tatil koruma sigortası",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]

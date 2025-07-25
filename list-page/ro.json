@@ -1075,5 +1075,18 @@
         "status": "1",
         "is_show": "1",
         "orders": "10000"
+    },
+    {
+        "id": "85",
+        "thumb": "https://static.calculators.im/upload/thumb/travel-insurance-calculator.jpg",
+        "title": "Calculator Asigurare Călătorie",
+        "slug": "travel-insurance-calculator",
+        "parent_id": "81",
+        "meta_title": "Calculator Asigurare Călătorie - Ofertă Gratuită",
+        "meta_description": "Calculați costurile asigurării de călătorie instantaneu. Comparați opțiunile de acoperire, obțineți oferte personalizate pentru orice destinație. Gratuit.",
+        "meta_keyword": "calculator asigurare călătorie, ofertă asigurare trip, cost acoperire călătorie, calculator primă asigurare, ofertă protecție călătorie, tarife asigurare trip, comparație asigurare călătorie, calculator asigurare vacanță, asigurare călătorie internațională, asigurare medicală călătorie, asigurare anulare trip, estimator asigurare călătorie, asigurare călătorie ieftină, calculator cost asigurare călătorie, ofertă asigurare călătorie online, ofertă asigurare călătorie instantanee, primă asigurare călătorie, calculator protecție trip, calculator acoperire călătorie, asigurare protecție vacanță",
+        "status": "1",
+        "is_show": "1",
+        "orders": "10000"
     }
 ]
